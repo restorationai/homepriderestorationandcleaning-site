@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "Home Pride Restoration and Cleaning | Restoration Services in Saratoga Springs, UT"
-h1: "24/7 Restoration Services in Saratoga Springs"
-meta_description: "Home Pride Restoration and Cleaning provides 24/7 water, fire, mold, and storm damage restoration across Saratoga Springs and surrounding areas. Licensed, insured, IICRC-certified. Call (801) 995-2437."
-primary_keyword: "restoration services saratoga springs"
-secondary_keywords: ["restoration company near me", "24/7 damage restoration", "emergency restoration"]
+title: "Water Damage Restoration in Saratoga Springs, UT | Home Pride Restoration and Cleaning"
+h1: "24/7 Water Damage Restoration in Saratoga Springs, UT"
+meta_description: "Home Pride Restoration and Cleaning provides water damage restoration in Saratoga Springs, UT, answering 24/7. IICRC certified. Call (801) 995-2437 now."
+primary_keyword: "water damage restoration saratoga springs"
+secondary_keywords: ["best restoration company in saratoga springs", "restoration company saratoga springs", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "6beb081dd4147fc8"
