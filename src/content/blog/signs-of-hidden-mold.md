@@ -18,6 +18,7 @@ faq: [{"question": "Can I test for mold myself before calling a professional?", 
 published_at: "2026-06-15"
 services: ["mold-remediation"]
 rendered: true
+author: "Curt Eddy"
 ---
 Hidden mold doesn't announce itself. It grows behind drywall, under flooring, inside HVAC ducts, and inside wall cavities, often for weeks or months before you notice anything wrong. By the time a visible patch appears, the colony is usually far larger than what you can see. The seven signs below are the ones homeowners most commonly overlook, along with what each one actually means and what to do the moment you spot it.
 

@@ -17,6 +17,7 @@ faq: [{"question": "What kills mold permanently?", "answer": "No product kills m
 published_at: "2026-08-27"
 services: ["mold-remediation"]
 rendered: true
+author: "Curt Eddy"
 ---
 **TL;DR:** Nothing kills mold permanently unless you also eliminate the moisture source feeding it. For small, non-porous surfaces (under 10 square feet), detergent and water plus thorough drying can clear mold for good. Bleach looks like it works but does not penetrate porous materials like drywall or wood, so the mold comes back. For anything larger than a small bathroom tile patch, porous building materials, or suspected HVAC contamination, professional remediation is the right call.
 

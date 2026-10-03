@@ -17,6 +17,7 @@ faq: [{"question": "Does homeowners insurance cover the cost to fix a frozen pip
 published_at: "2026-07-06"
 services: ["frozen-pipe-restoration", "burst-pipe-repair", "water-damage-restoration"]
 rendered: true
+author: "Curt Eddy"
 ---
 **TL;DR:** Standard homeowners insurance typically covers the water damage caused by a frozen pipe that bursts, as long as you took reasonable steps to maintain heat in the home. The pipe repair itself is usually not covered, only the resulting damage. For Park City second homes and vacant ski properties, the rules are stricter: if your insurer can show the home was unheated and unoccupied, they can deny the claim entirely.
 

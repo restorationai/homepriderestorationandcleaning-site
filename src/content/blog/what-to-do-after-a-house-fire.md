@@ -17,6 +17,7 @@ faq: [{"question": "Is it safe to go back inside my house after a fire?", "answe
 published_at: "2026-07-23"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Curt Eddy"
 ---
 **TL;DR:** After a house fire, your first priority is getting everyone safely out and staying out until the fire marshal clears re-entry. Then call your insurance company, secure the property with emergency board-up, and contact an IICRC-certified fire restoration company to document the damage before anything is cleaned or moved. Do not re-enter, clean walls, or throw away damaged items until you've been cleared to do so.
 

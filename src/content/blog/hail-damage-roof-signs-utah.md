@@ -17,6 +17,7 @@ faq: [{"question": "How can I tell if my roof has hail damage?", "answer": "Look
 published_at: "2026-09-29"
 services: ["storm-damage-restoration", "roof-leak-repair"]
 rendered: true
+author: "Curt Eddy"
 ---
 **TL;DR:** Hail damage on a roof shows up as round, soft bruises on asphalt shingles, missing granules that expose the black asphalt mat, and cracked or dented flashing. Cosmetic granule loss alone usually doesn't leak, but any bruise that cracks through the mat, or hail paired with high wind that lifts shingle edges, can let water reach the decking within hours. If you see water stains on an interior ceiling after a hailstorm, treat it as an active leak and get the roof tarped and the moisture documented the same day.
 

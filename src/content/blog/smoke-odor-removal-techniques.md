@@ -18,6 +18,7 @@ faq: [{"question": "How long does professional smoke odor removal take?", "answe
 published_at: "2026-06-15"
 services: ["smoke-damage-restoration", "fire-damage-restoration"]
 rendered: true
+author: "Curt Eddy"
 ---
 Smoke odor doesn't just linger, it chemically bonds to surfaces. Professionals remove it by neutralizing those bonds at the molecular level using a combination of thermal fogging, hydroxyl or ozone generation, encapsulants, and HEPA filtration. DIY methods like candles, sprays, and vinegar wipes mask the smell temporarily but leave the underlying compounds intact. Within days or weeks, the odor comes back, sometimes stronger as temperatures rise and the materials off-gas again. If you're dealing with smoke smell after a fire or even a contained kitchen incident, here's exactly what the process looks like and why most home remedies fall short.
 

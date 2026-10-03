@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost per square foot 
 published_at: "2026-07-13"
 services: ["water-damage-restoration", "basement-flooding-cleanup"]
 rendered: true
+author: "Curt Eddy"
 ---
 **TL;DR:** Water damage restoration in Park City, UT costs between $1,800 and $12,000 for most residential jobs, with the average falling around $3,500–$5,500. Category 1 (clean water) jobs run lower; Category 3 (sewage or floodwater) jobs run significantly higher. The Wasatch Back's high-altitude climate, mountain home construction styles, and premium labor market push local prices above national averages. Acting within the first 24–48 hours is the single biggest factor in keeping costs down.
 

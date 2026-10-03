@@ -18,6 +18,7 @@ faq: [{"question": "Does homeowners insurance cover water damage from a leaking 
 published_at: "2026-06-15"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Curt Eddy"
 ---
 Homeowners insurance **usually covers water damage, but only for sudden, accidental events**. A pipe that bursts overnight while you're sleeping? Covered under most standard HO-3 policies. A slow drip behind the vanity that's been rotting the subfloor for two years? Almost certainly not. The difference between a paid claim and a denial often comes down to one word: *sudden*. Understanding where that line sits, before you file, can save you thousands of dollars and weeks of frustration.
 

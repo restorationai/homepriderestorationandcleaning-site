@@ -17,6 +17,7 @@ faq: [{"question": "When is mold remediation required by law or code?", "answer"
 published_at: "2026-08-31"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Curt Eddy"
 ---
 **TL;DR:** Professional mold remediation is required when visible mold covers more than 10 square feet, when mold is inside HVAC systems or ductwork, when the source was sewage or Category 3 water, when mold is hidden inside walls or under flooring, or when anyone in the home has respiratory conditions or a compromised immune system. Below those thresholds, careful DIY cleanup may be appropriate, but the line is sharper than most homeowners expect.
 

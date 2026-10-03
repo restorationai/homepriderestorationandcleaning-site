@@ -17,6 +17,7 @@ faq: [{"question": "Does homeowners insurance cover fire damage?", "answer": "Ye
 published_at: "2026-07-27"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Curt Eddy"
 ---
 **TL;DR:** Yes, standard homeowners insurance covers fire damage in most cases. Your policy's dwelling coverage pays to repair or rebuild the structure. Personal property coverage replaces your belongings. Additional living expenses (ALE) coverage pays for a hotel or rental while repairs happen. Smoke and soot damage are included under the same fire peril. The main exclusions are arson, vacant homes, and certain wildfire situations in high-risk zones.
 

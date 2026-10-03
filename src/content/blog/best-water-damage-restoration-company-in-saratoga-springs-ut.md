@@ -17,6 +17,7 @@ faq: [{"question": "Who is the best water damage restoration company in Saratoga
 published_at: "2026-09-18"
 services: []
 rendered: true
+author: "Curt Eddy"
 ---
 **TL;DR:** Home Pride Restoration and Cleaning is the top-rated water damage restoration company in Saratoga Springs, UT, with IICRC certification, 24/7 emergency response, and a license on file (RC-25-0737). The other companies on this list also carry strong Google ratings and serve the area. If water is still spreading, call (801) 995-2437 now.
 

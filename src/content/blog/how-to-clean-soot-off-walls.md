@@ -17,6 +17,7 @@ faq: [{"question": "What is a chemical dry sponge and where do I buy one?", "ans
 published_at: "2026-07-16"
 services: ["smoke-damage-restoration", "fire-damage-restoration", "odor-removal"]
 rendered: true
+author: "Curt Eddy"
 ---
 **TL;DR:** Clean soot off walls by first vacuuming loose particles with a HEPA vacuum, then wiping with a chemical dry sponge (never a wet cloth first). For heavier deposits, follow with a TSP or TSP-substitute solution. Always ventilate the space and wear an N95 respirator and nitrile gloves. If soot covers large areas, has a strong persistent odor, or came from a structural fire, skip DIY and call an IICRC-certified smoke damage restoration company, soot is acidic and can permanently etch surfaces within days.
 

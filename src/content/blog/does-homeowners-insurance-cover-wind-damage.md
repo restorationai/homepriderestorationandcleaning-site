@@ -17,6 +17,7 @@ faq: [{"question": "Does homeowners insurance cover wind damage to a roof?", "an
 published_at: "2026-09-24"
 services: ["storm-damage-restoration", "roof-leak-repair"]
 rendered: true
+author: "Curt Eddy"
 ---
 **TL;DR:** Yes, most standard homeowners insurance policies cover wind damage. That includes damage to your roof, siding, windows, and attached structures like garages. Fences are usually covered too, though at a lower limit. The key exceptions are cosmetic-only damage, pre-existing wear, and policies with separate wind or hail deductibles. Document everything before any repairs begin, and get a written scope from your restoration contractor before signing anything.
 

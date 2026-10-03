@@ -17,6 +17,7 @@ faq: [{"question": "How do you tell if wind damaged your roof?", "answer": "Look
 published_at: "2026-10-02"
 services: ["storm-damage-restoration", "roof-leak-repair"]
 rendered: true
+author: "Curt Eddy"
 ---
 **TL;DR:** Wind damage to a roof usually shows up as missing or lifted shingles, exposed nail heads, torn flashing, or a soft spot where water has started coming through decking. In the first 48 hours, photograph the damage from the ground, get a tarp on any exposed area before the next storm, and call your insurer and a restoration crew before you climb a ladder yourself. Most homeowners' policies cover sudden wind damage but exclude damage from gradual wear, so documentation matters as much as the repair.
 

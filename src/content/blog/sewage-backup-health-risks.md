@@ -18,6 +18,7 @@ faq: [{"question": "Is sewage backup covered by standard homeowner's insurance?"
 published_at: "2026-06-15"
 services: ["sewage-cleanup"]
 rendered: true
+author: "Curt Eddy"
 ---
 Sewage backup is one of the few home emergencies where the instinct to grab a mop and handle it yourself can genuinely make you sick. Raw sewage, whether it's backing up through a floor drain, a toilet, or a basement utility sink, contains Category 3 water, the most contaminated classification in the restoration industry. That means fecal bacteria, viruses, parasites, and chemical waste all mixed together. Before you pull on rubber gloves and start bailing, here's what you need to know about why this cleanup is different from every other mess in your house.
 

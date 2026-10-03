@@ -18,6 +18,7 @@ faq: [{"question": "Does filing a storm damage claim raise my homeowners insuran
 published_at: "2026-06-15"
 services: ["storm-damage-restoration"]
 rendered: true
+author: "Curt Eddy"
 ---
 Before you dial your insurance company after a storm, spend 30 minutes doing this first. Adjusters make decisions fast, sometimes on a single phone call, and the documentation you gather in the hours after the storm hits will directly affect how smoothly your claim moves and how much you recover. This checklist walks you through exactly what to capture, what to avoid, and what to hand off to a restoration contractor before you sign anything.
 

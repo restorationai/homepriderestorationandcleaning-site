@@ -18,6 +18,7 @@ faq: [{"question": "How long does it take for mold to grow after water damage?",
 published_at: "2026-06-15"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Curt Eddy"
 ---
 Stop the water first. If a pipe burst or an appliance failed, locate your main shutoff valve, in most Saratoga Springs homes it's in the utility room, crawl space, or near the water meter at the street, and turn it off completely. Then take a breath. The decisions you make in the next 24 hours will determine how much of your flooring, drywall, and personal property can be saved, and how much of your insurance claim holds up. Here's exactly what to do, in order.
 

@@ -18,6 +18,7 @@ faq: [{"question": "Can I stay in my home during water damage restoration?", "an
 published_at: "2026-06-15"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Curt Eddy"
 ---
 Most water damage restoration projects take **3 to 5 days** from the moment a crew arrives to the point where your home is dry and ready for any repairs. But that number hides a lot of variation. A bathroom supply line that soaked one room for an hour is a very different job than a slow slab leak that quietly fed mold behind your baseboards for three weeks. The actual timeline depends on how long the water sat, how many materials absorbed it, and how deep the moisture traveled, factors that a moisture meter and a thermal camera reveal in the first hour on-site, not by eyeballing the floor.
 

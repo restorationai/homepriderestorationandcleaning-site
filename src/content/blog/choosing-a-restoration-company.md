@@ -18,6 +18,7 @@ faq: [{"question": "Can I start cleaning up water damage myself before the resto
 published_at: "2026-06-15"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Curt Eddy"
 ---
 Choosing the wrong restoration company after a flood, fire, or mold discovery can cost you thousands more than the original damage, through shoddy drying that leaves moisture in walls, inflated insurance invoices, or contractors who disappear mid-project. The short answer: vet credentials before you're in crisis. Check for IICRC certification, verify they work directly with your insurance carrier, confirm they can be on-site within hours (not days), and get a written scope of work before anyone touches a thing. The sections below walk you through exactly how to do that, and what red flags to watch for.
 

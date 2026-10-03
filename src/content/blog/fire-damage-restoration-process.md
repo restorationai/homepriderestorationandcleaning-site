@@ -18,6 +18,7 @@ faq: [{"question": "How long does fire damage restoration typically take from st
 published_at: "2026-06-15"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Curt Eddy"
 ---
 Fire damage rarely stops when the flames go out. The smoke keeps moving, soot keeps settling, and acidic residues keep etching surfaces for hours, sometimes days, after the fire department leaves. Understanding the restoration process from start to finish helps you ask the right questions, set realistic expectations, and avoid costly mistakes during a genuinely chaotic time. Here is how professional fire damage restoration actually works, step by step.
 

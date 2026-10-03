@@ -17,6 +17,7 @@ faq: [{"question": "What is the average cost of fire damage restoration in Utah?
 published_at: "2026-07-20"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Curt Eddy"
 ---
 **TL;DR:** Fire damage restoration in Utah typically costs $3,000–$15,000 for smoke and soot cleanup on a single floor, and $20,000–$75,000 or more when structural repairs are involved. The biggest cost drivers are how many square feet burned, whether framing or drywall needs replacement, and how deeply smoke penetrated the HVAC system. Most standard homeowners policies cover fire damage in full, minus your deductible, but the scope of work your contractor documents is what determines your payout.
 

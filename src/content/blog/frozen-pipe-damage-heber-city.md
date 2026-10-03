@@ -17,6 +17,7 @@ faq: [{"question": "How do I know if a pipe is frozen but hasn't burst yet?", "a
 published_at: "2026-07-09"
 services: ["frozen-pipe-restoration", "burst-pipe-repair", "water-damage-restoration"]
 rendered: true
+author: "Curt Eddy"
 ---
 **TL;DR:** When a frozen pipe bursts in Heber City, shut off the main water supply immediately, document everything with photos before cleanup begins, and call a restoration crew within the first few hours. Repair costs typically run $150–$500 for the pipe itself, but water damage cleanup adds $1,500–$10,000+ depending on how long water ran and which rooms it reached. The faster you act, the lower that second number gets.
 

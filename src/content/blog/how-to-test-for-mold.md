@@ -18,6 +18,7 @@ faq: [{"question": "Can a DIY mold test kit tell me if the mold in my home is da
 published_at: "2026-06-26"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Curt Eddy"
 ---
 Testing for mold starts with knowing what you're actually looking for, and understanding that a positive result is only half the answer. If you've noticed a musty smell, seen discoloration on drywall, or had a slow leak that sat for more than 48 hours, there's a real chance mold has already colonized somewhere you can't see. DIY test kits can confirm that mold spores exist in your air or on a surface, but they can't tell you the species, the concentration, or, most importantly, where the source colony is hiding. A professional inspection does all three.
 

@@ -17,6 +17,7 @@ faq: [{"question": "How do I know if I have an ice dam versus a regular roof lea
 published_at: "2026-06-24"
 services: ["roof-leak-repair", "storm-damage-restoration", "water-damage-restoration"]
 rendered: true
+author: "Curt Eddy"
 ---
 **TL;DR:** Ice dams form when heat escaping through your roof melts snow, which refreezes at the cold eave and builds a wall of ice. That wall traps meltwater, which backs up under shingles and leaks into your home. At Park City's elevation, above 6,800 feet in many neighborhoods, heavy snowfall and rapid temperature swings make this one of the most common causes of interior water damage every winter. Safe removal means low-pressure steam or careful hand tools, not chipping or rock salt. If water has already entered the structure, drying must start within 24 to 48 hours to prevent mold.
 

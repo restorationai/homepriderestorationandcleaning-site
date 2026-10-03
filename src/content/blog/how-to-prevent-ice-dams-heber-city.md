@@ -17,6 +17,7 @@ faq: [{"question": "What is the most effective way to prevent ice dams?", "answe
 published_at: "2026-06-29"
 services: ["roof-leak-repair", "storm-damage-restoration"]
 rendered: true
+author: "Curt Eddy"
 ---
 **TL;DR:** Ice dams form when heat leaking from your attic melts snow on your roof, and that water refreezes at the cold eaves. The fix is keeping your roof surface uniformly cold: seal attic air leaks, add insulation to R-49 or better, and ensure soffit-to-ridge ventilation. Roof rakes and heat cables help in the short term, but attic work is the only lasting solution for homes in Heber Valley's cold, snowy winters.
 

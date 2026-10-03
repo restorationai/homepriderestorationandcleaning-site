@@ -17,6 +17,7 @@ faq: [{"question": "What is mold remediation?", "answer": "Mold remediation is t
 published_at: "2026-09-11"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Curt Eddy"
 ---
 **TL;DR:** Mold remediation is the professional process of safely containing, removing, and treating mold growth in a building so it cannot spread or return. A certified crew follows six steps: inspection, containment, HEPA air filtration, physical removal, drying, and restoration. The EPA recommends professional remediation for any mold patch larger than 10 square feet. Small patches may qualify for careful DIY cleanup; anything larger, or any growth involving HVAC systems, warrants a certified team.
 
