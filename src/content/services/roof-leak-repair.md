@@ -18,7 +18,7 @@ service_slug: "roof-leak-repair"
 service_display: "Roof Leak Cleanup and Repair"
 rendered: true
 ---
-A brown stain on the ceiling after last night's storm is easy to dismiss, paint over it, move on. But the water that made that stain didn't stop at the drywall. It traveled down rafters, pooled in insulation, and started a clock: within 24 to 48 hours, wet cellulose insulation and wood framing become a hospitable environment for mold. Roof leak cleanup isn't just about drying out what got wet, it's about tracing where the water actually went, which is rarely where the stain is.
+A brown [stain on the ceiling](/services/ceiling-water-damage-repair/) after last night's storm is easy to dismiss, paint over it, move on. But the water that made that stain didn't stop at the drywall. It traveled down rafters, pooled in insulation, and started a clock: within 24 to 48 hours, wet cellulose insulation and wood framing become a hospitable environment for [mold](/services/mold-remediation/). Roof leak cleanup isn't just about drying out what got wet, it's about tracing where the water actually went, which is rarely where the stain is.
 
 ## What roof leak cleanup and repair actually involves
 

@@ -55,7 +55,7 @@ A second common failure point is misidentifying the water category. A burst wash
 
 Saratoga Springs and the broader Utah County area see hard freezes from November through March, and the region's newer housing stock, much of it built with PEX supply lines routed through exterior walls or uninsulated garage spaces, is particularly vulnerable during rapid temperature drops. A night that hits single digits after a mild week is the most common trigger for burst pipe calls in this area.
 
-The freeze-thaw pattern here also means pipes sometimes crack without fully releasing until pressure is restored, meaning a homeowner turns the water back on after a cold snap and the break happens then, not during the freeze itself. If you had a frozen pipe that thawed without obvious incident, it's worth having the line inspected before assuming it's fine.
+The freeze-thaw pattern here also means pipes sometimes crack without fully releasing until pressure is restored, meaning a homeowner turns the water back on after a cold snap and the break happens then, not during the freeze itself. If you had a [frozen pipe](/services/frozen-pipe-restoration/) that thawed without obvious incident, it's worth having the line inspected before assuming it's fine.
 
 ## Service area
 
