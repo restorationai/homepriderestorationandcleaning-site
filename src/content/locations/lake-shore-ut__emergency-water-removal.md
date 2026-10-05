@@ -17,7 +17,7 @@ area_slug: "lake-shore-ut"
 service_slug: "emergency-water-removal"
 city: "Lake Shore"
 state: "UT"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Standing water in your Lake Shore home right now?** Call (801) 995-2437 for emergency water removal and cleanup. Lake Shore sits along the southeast edge of Utah Lake in a mostly rural stretch of Utah County, where properties tend to be spread out, water tables run high, and a burst supply line or sump failure can turn a crawlspace into a pond before anyone notices. If you're hearing water under the subfloor or watching it rise along a baseboard, don't wait on it.

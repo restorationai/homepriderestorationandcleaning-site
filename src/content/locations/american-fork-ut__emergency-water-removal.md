@@ -17,7 +17,7 @@ area_slug: "american-fork-ut"
 service_slug: "emergency-water-removal"
 city: "American Fork"
 state: "UT"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water damage emergency in American Fork?** Call now for emergency service rather than waiting to see if a wet spot dries on its own. Standing water from a burst pipe, washing machine supply line, or spring runoff backing up through a window well can soak into subfloor and drywall within hours, and American Fork's clay-heavy soil along the Wasatch Front means groundwater pressure after heavy snowmelt from American Fork Canyon often pushes moisture into basements long after the initial event has passed.

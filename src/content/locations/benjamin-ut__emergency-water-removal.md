@@ -17,7 +17,7 @@ area_slug: "benjamin-ut"
 service_slug: "emergency-water-removal"
 city: "Benjamin"
 state: "UT"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Standing water spreading across your Benjamin basement or outbuilding floor?** Call now for emergency water removal, before a burst pipe, washing machine supply line, or irrigation backup turns into warped subflooring and a mold problem. Benjamin sits in the Spanish Fork River bottomlands of Utah County, where a lot of homes are built on slab or shallow crawlspace foundations surrounded by irrigated farmland, which means water from a failed line or a surface flood doesn't always have anywhere obvious to drain. We pull it out fast, with equipment sized for both a flooded utility room and a soaked outbuilding or shop.

@@ -17,7 +17,7 @@ area_slug: "vineyard-ut"
 service_slug: "emergency-water-removal"
 city: "Vineyard"
 state: "UT"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water damage emergency in Vineyard?** Call now for emergency service at (801) 995-2437. Vineyard is one of the newest cities in Utah County, built largely atop the old Geneva Steel property along the shore of Utah Lake, and that combination of recent construction and lakeside ground conditions creates water problems that look different from what you'd find in an older Wasatch Front neighborhood. When a supply line fails behind a kitchen island or a sump pump can't keep up during spring runoff, the water has to come out fast, and it has to come out the right way for the materials involved.
