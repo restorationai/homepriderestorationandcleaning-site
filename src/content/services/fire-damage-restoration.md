@@ -27,7 +27,7 @@ Smoke doesn't stop moving when the fire does. Within hours of extinguishment, ac
 
 ## What fire damage restoration actually involves
 
-Fire cleanup is not a matter of wiping soot off surfaces and airing out a house. The work divides into three overlapping disciplines: structural assessment, smoke and soot remediation, and odor elimination, each requiring different chemistry, different equipment, and a different eye.
+Fire cleanup is not a matter of wiping soot off surfaces and airing out a house. The work divides into three overlapping disciplines: structural assessment, [smoke and soot remediation](/services/smoke-damage-restoration/), and [odor elimination](/services/odor-removal/), each requiring different chemistry, different equipment, and a different eye.
 
 **Structural fire damage** ranges from charred framing that needs replacement to heat-compromised materials that look intact but have lost structural integrity. Before any cleaning begins, the building has to be safe to work in, utilities confirmed off or isolated, load-bearing elements evaluated, and any collapse risk documented.
 
@@ -40,7 +40,7 @@ A full residential fire damage repair engagement typically runs 5–14 days for 
 ## Our process
 
 **1. Emergency stabilization and safety assessment**
-Before a single sponge touches a wall, the structure is evaluated for safety. We document pre-existing conditions, identify which materials are salvageable, and establish containment zones to prevent cross-contamination of unaffected areas. Board-up and tarping happen here if the structure is open to weather.
+Before a single sponge touches a wall, the structure is evaluated for safety. We document pre-existing conditions, identify which materials are salvageable, and establish containment zones to prevent cross-contamination of unaffected areas. [Board-up and tarping](/services/emergency-board-up-tarping/) happen here if the structure is open to weather.
 
 **2. Soot characterization**
 Not all soot is the same. We identify whether residues are dry/powdery (wood or paper combustion), wet/oily (synthetic materials), or protein-based (cooking fires), because each type requires a different cleaning agent and technique. Dry soot responds to dry chemical sponges and HEPA vacuuming before any wet cleaning; wet synthetic soot requires solvent-based degreasers. Using the wrong chemistry drives soot deeper into the substrate.

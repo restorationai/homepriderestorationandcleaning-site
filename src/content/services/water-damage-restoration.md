@@ -21,7 +21,7 @@ rendered: true
 <!-- emergency-open -->
 **Water damage emergency in Saratoga Springs? We answer 24/7.** Call now and our crew heads out to stop the water and start drying your property.
 
-A burst pipe behind your laundry room wall. A water heater that failed overnight. A slow roof leak that soaked your attic insulation for weeks before anyone noticed. Water damage rarely announces itself cleanly, it hides in wall cavities, wicks up baseboards, and saturates subfloor sheathing long before you see a stain on the ceiling. The clock starts the moment moisture contacts a building material, and mold can begin colonizing within 24 to 48 hours in Utah's dry-but-warm interior climate. Fast, thorough water removal and structural drying are the difference between a contained repair and a gut renovation.
+A [burst pipe](/services/burst-pipe-repair/) behind your laundry room wall. A water heater that failed overnight. A slow [roof leak](/services/roof-leak-repair/) that soaked your attic insulation for weeks before anyone noticed. Water damage rarely announces itself cleanly, it hides in wall cavities, wicks up baseboards, and saturates subfloor sheathing long before you see a stain on the ceiling. The clock starts the moment moisture contacts a building material, and [mold](/services/mold-remediation/) can begin colonizing within 24 to 48 hours in Utah's dry-but-warm interior climate. Fast, thorough water removal and structural drying are the difference between a contained repair and a gut renovation.
 
 ## What water damage restoration actually involves
 
