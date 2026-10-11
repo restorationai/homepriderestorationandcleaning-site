@@ -25,7 +25,7 @@ If you're standing in a home that smells like smoke right now, or you just got o
 
 ## What does homeowners insurance actually cover after a fire?
 
-A standard homeowners policy (HO-3) covers fire damage under three separate coverage buckets: dwelling (Coverage A), personal property (Coverage C), and additional living expenses (Coverage D). Most fires trigger all three. The [Insurance Information Institute](https://www.iii.org/article/what-covered-standard-homeowners-policy) confirms that fire is one of the named perils covered under virtually every standard homeowners policy sold in the U.S.
+A standard homeowners policy (HO-3) covers fire damage under three separate coverage buckets: dwelling (Coverage A), personal property (Coverage C), and additional living expenses (Coverage D). Most fires trigger all three. The [Insurance Information Institute](https://www.iii.org/article/what-is-covered-by-standard-homeowners-insurance) confirms that fire is one of the named perils covered under virtually every standard homeowners policy sold in the U.S.
 
 **Coverage A, Dwelling.** This pays to repair or rebuild the physical structure of your home: framing, drywall, flooring, roof, built-in appliances, electrical, plumbing. If a kitchen fire chars the cabinets and the smoke migrates through the HVAC into the living room ceiling, both the kitchen rebuild and the smoke-stained ceiling are dwelling claims. Coverage is typically at replacement cost value (RCV), meaning the insurer pays what it costs to rebuild today, not what the home was worth in 2015.
 

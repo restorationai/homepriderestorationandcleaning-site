@@ -63,7 +63,7 @@ Call a restoration or roofing crew to stop active water intrusion first, then ca
 
 If water is actively entering the attic or ceiling, that's an emergency regardless of the hour. Home Pride Restoration and Cleaning LLC has handled wind-damaged roofs across Saratoga Springs, Lehi, Eagle Mountain, and the rest of Utah County since 1997, and our crews are IICRC certified for the water mitigation work that often follows a torn roof, not just the tarp itself. Getting the right crew on the roof and the water out of the attic in the same visit keeps a wind event from turning into a mold problem two weeks later.
 
-The [IICRC](https://www.iicrc.org/page/IICRCS500) sets the industry standard for water mitigation response, and [Ready.gov](https://www.ready.gov/severe-weather) has useful guidance on preparing your property ahead of the next severe weather event, which is worth a look before the next wind season rolls through.
+The [IICRC](https://iicrc.org/s500/) sets the industry standard for water mitigation response, and [Ready.gov](https://www.ready.gov/severe-weather) has useful guidance on preparing your property ahead of the next severe weather event, which is worth a look before the next wind season rolls through.
 
 A torn roof after a windstorm feels urgent because it is. The good news is the sequence is simple: document, tarp, then claim. Get those three steps right in the first two days and the repair that follows tends to go smoothly, whether it's a patch of shingles or a full slope replacement.
 

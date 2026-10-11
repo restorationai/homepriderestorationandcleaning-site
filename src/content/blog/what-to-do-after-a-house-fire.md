@@ -34,7 +34,7 @@ Once you have clearance, watch for these hazards before stepping further inside:
 - **Smoke and soot toxicity**: Combustion residue contains carbon monoxide, hydrogen cyanide, and heavy metals depending on what burned. Wear an N95 respirator at minimum if you enter a smoke-damaged space.
 - **Gas leaks**: If you smell gas, leave immediately and call your utility company from outside.
 
-The [American Red Cross fire recovery guide](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire/recovering-from-a-fire.html) has a useful checklist for the first hours after a fire, including how to find emergency shelter and replacement documents.
+The [American Red Cross fire recovery guide](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire/home-fire-recovery.html) has a useful checklist for the first hours after a fire, including how to find emergency shelter and replacement documents.
 
 ## Who Should You Call First After a House Fire?
 

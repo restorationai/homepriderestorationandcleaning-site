@@ -82,7 +82,7 @@ Even rooms that weren't structurally damaged often need a full repaint after smo
 
 ## Does Homeowners Insurance Cover Fire Damage Restoration?
 
-Yes, fire is one of the most clearly covered perils in a standard homeowners policy. Unlike water damage, where coverage depends on the source, fire damage from an accidental or unintentional fire is covered under virtually every HO-3 policy. The [Insurance Information Institute](https://www.iii.org/article/what-covered-standard-homeowners-policy) confirms that fire and smoke damage are named perils under both dwelling (Coverage A) and personal property (Coverage C) sections.
+Yes, fire is one of the most clearly covered perils in a standard homeowners policy. Unlike water damage, where coverage depends on the source, fire damage from an accidental or unintentional fire is covered under virtually every HO-3 policy. The [Insurance Information Institute](https://www.iii.org/article/what-is-covered-by-standard-homeowners-insurance) confirms that fire and smoke damage are named perils under both dwelling (Coverage A) and personal property (Coverage C) sections.
 
 Here's what that means practically:
 

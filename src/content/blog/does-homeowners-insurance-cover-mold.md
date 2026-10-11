@@ -28,7 +28,7 @@ You noticed dark spots spreading across your bathroom ceiling or a musty smell c
 
 Most standard homeowners policies exclude mold as a named peril, meaning they won't pay for mold damage on its own. The critical exception is when mold is a direct result of a covered water event. If a pipe bursts suddenly and mold begins growing in the wet drywall before you can dry it out, your insurer may treat the mold remediation as part of the original water damage claim, subject to any mold sublimit in your policy.
 
-The [Insurance Information Institute](https://www.iii.org/article/what-covered-standard-homeowners-policy) describes mold coverage as one of the most policy-specific areas in residential insurance. What one carrier covers, another excludes entirely. That's why reading your declarations page and the exclusions section matters more here than with almost any other peril.
+The [Insurance Information Institute](https://www.iii.org/article/what-is-covered-by-standard-homeowners-insurance) describes mold coverage as one of the most policy-specific areas in residential insurance. What one carrier covers, another excludes entirely. That's why reading your declarations page and the exclusions section matters more here than with almost any other peril.
 
 The three most common outcomes when a homeowner files a mold claim:
 
