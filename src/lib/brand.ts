@@ -65,7 +65,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "36",
+  gbpReviewCount: "37",
   gbpReviews: [
     { author: "B", rating: 5, text: "He did an amazing job! My stairs were so bad and they looked brand new when he got done!", when: "August 2026" },
     { author: "Kristina", rating: 5, text: "Curt was soooo amazing! Fast and efficient! Very sweet and kind! Would use again if we weren’t moving out of state!!!!!", when: "August 2026" },
