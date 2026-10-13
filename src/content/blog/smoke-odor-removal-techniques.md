@@ -55,7 +55,7 @@ A certified smoke odor remediation technician doesn't just clean what's visible.
 
 8. **Post-treatment air quality verification**, Reputable companies test air quality after treatment to confirm particulate and VOC levels meet acceptable thresholds before clearing the space for occupancy.
 
-This is why professional [smoke damage restoration](/smoke-damage-restoration) takes hours to days, not 20 minutes.
+This is why professional [smoke damage restoration](/services/smoke-damage-restoration/) takes hours to days, not 20 minutes.
 
 ## Why DIY Methods Fail
 
@@ -84,7 +84,7 @@ Call a professional when:
 - Anyone in the home has respiratory sensitivities, asthma, or is immunocompromised.
 - You're filing an insurance claim. Documented professional remediation protects your claim and creates a paper trail.
 
-For anything beyond a minor kitchen incident, this connects directly to [fire damage restoration](/fire-damage-restoration), because smoke damage and fire damage are rarely separate problems.
+For anything beyond a minor kitchen incident, this connects directly to [fire damage restoration](/services/fire-damage-restoration/), because smoke damage and fire damage are rarely separate problems.
 
 ## The Longer Recovery: What to Expect After Treatment
 

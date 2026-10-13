@@ -77,7 +77,7 @@ Call a water damage and mold remediation professional if:
 
 A certified technician will use thermal imaging cameras and moisture meters to find water that's migrated beyond the obvious wet area, often into wall cavities, under hardwood, or into subfloor layers. That hidden moisture is exactly what becomes a mold problem three weeks later.
 
-Home Pride Restoration and Cleaning handles both [water damage restoration](/water-damage-restoration) and [mold remediation](/mold-remediation) for homes throughout Saratoga Springs and the surrounding Utah County communities. If you're not sure whether your situation warrants a call, you can reach the team at **(801) 995-2437**, they can walk you through what you're seeing and help you decide.
+Home Pride Restoration and Cleaning handles both [water damage restoration](/services/water-damage-restoration/) and [mold remediation](/services/mold-remediation/) for homes throughout Saratoga Springs and the surrounding Utah County communities. If you're not sure whether your situation warrants a call, you can reach the team at **(801) 995-2437**, they can walk you through what you're seeing and help you decide.
 
 ## What Happens If Mold Is Already Growing
 

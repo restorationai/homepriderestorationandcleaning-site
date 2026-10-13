@@ -71,7 +71,7 @@ Sometimes you hear water running but can't see where it's coming from. Here's ho
 
 - **Ceiling stain or bubbling paint:** The leak is above that spot, either a pipe in the floor above or a pipe running through the ceiling joist cavity. The stain may be several feet from the actual break because water travels along framing before it drops.
 - **Wet drywall at the base of a wall:** Look for a pipe chase, a vertical space where supply lines run between floors. Press the drywall gently; if it flexes or feels soft, moisture has been there long enough to compromise the board.
-- **Water pooling near an appliance:** Dishwashers, refrigerators with ice makers, and washing machines all have supply lines that can fail. If the burst is near one of these, the appliance line itself may be the culprit rather than a structural pipe, a scenario that falls under [appliance leak cleanup](/appliance-leak-cleanup) rather than a main plumbing failure, though the water damage response is the same.
+- **Water pooling near an appliance:** Dishwashers, refrigerators with ice makers, and washing machines all have supply lines that can fail. If the burst is near one of these, the appliance line itself may be the culprit rather than a structural pipe, a scenario that falls under [appliance leak cleanup](/services/appliance-leak-cleanup/) rather than a main plumbing failure, though the water damage response is the same.
 - **No visible water anywhere but your meter is spinning:** Shut off every fixture in the house and watch the meter dial for 10 minutes. If it moves, you have an active leak somewhere, possibly under the slab.
 
 ---
