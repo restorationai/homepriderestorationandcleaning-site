@@ -45,7 +45,7 @@ From there, the process follows the damage:
 
 **Debris removal and structural assessment.** Tree limbs, roofing material, and damaged siding are cleared and inventoried. A structural technician checks load-bearing elements, particularly in older wood-frame homes where a fallen tree can transfer stress in non-obvious ways.
 
-**Reconstruction.** Once the structure is dry and stable, our licensed reconstruction team, operating under Utah contractor license RC-25-0737, handles roofing, siding, windows, and interior finishes. One company, start to finish, means no handoff gaps.
+**Reconstruction.** Once the structure is dry and stable, our reconstruction team handles roofing, siding, windows, and interior finishes. One company, start to finish, means no handoff gaps.
 
 Our IICRC-certified technicians follow S500 and S520 standards throughout, which matters when your adjuster is reviewing the scope of work.
 

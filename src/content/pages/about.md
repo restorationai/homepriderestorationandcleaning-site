@@ -2,9 +2,9 @@
 archetype: "about"
 title: "About Home Pride Restoration and Cleaning | Saratoga Springs Restoration Company"
 h1: "About Home Pride Restoration and Cleaning"
-meta_description: "Home Pride Restoration and Cleaning has served Saratoga Springs since 1997. Meet our IICRC-certified restoration team. Licensed, insured, locally owned."
+meta_description: "Home Pride Restoration and Cleaning has served Saratoga Springs since 1997. Meet our IICRC-certified restoration team. Insured and locally owned."
 primary_keyword: "home pride restoration and cleaning saratoga springs"
-secondary_keywords: ["local restoration company", "iicrc certified restoration", "licensed restoration contractor"]
+secondary_keywords: ["local restoration company", "iicrc certified restoration", "saratoga springs restoration contractor"]
 search_intent: "navigational_trust"
 priority: 2.5
 plan_hash: "f53dbddbfc1930bd"
@@ -25,7 +25,7 @@ A large share of the work runs through insurance claims. That means documenting 
 
 The hours are irregular. The stakes are real. That's the texture of it.
 
-## Our certifications and licensure
+## Our certifications
 
 Home Pride Restoration and Cleaning holds IICRC certification, the Institute of Inspection, Cleaning and Restoration Certification, which is the industry's primary standard-setting body. IICRC training isn't a one-time credential; it reflects ongoing education in the science of drying, contamination categories, and proper remediation protocols. When a technician follows IICRC standards, it means the work is documented and defensible, important both for your home and for your insurance claim.
 
@@ -33,8 +33,6 @@ Our IICRC certifications in Water Damage Restoration are on file under these reg
 
 - Curt Eddy, IICRC Register #70228752
 - Kimberly Bowman, IICRC Register #70228751
-
-The company is licensed in Utah (License #RC-25-0737). Licensure means the state has verified that the business meets minimum requirements to operate as a contractor, a baseline that not every restoration company operating in the area can claim.
 
 ## Where we work
 

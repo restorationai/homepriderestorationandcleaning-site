@@ -46,7 +46,7 @@ For homes in Pleasant Grove's east bench neighborhoods, where roads can ice over
 
 ## Pleasant Grove Insurance Coordination
 
-Most sudden and accidental pipe bursts are covered under standard homeowners policies, but the documentation requirements vary by carrier. Utah Valley insurers commonly used by Pleasant Grove homeowners, including regional carriers and national brands writing policies in ZIP code 84062, typically require a written scope of loss, moisture logs, and a drying report before approving structural repairs. As an IICRC Certified firm licensed under #RC-25-0737, Home Pride produces the documentation those adjusters expect, which shortens the approval cycle and reduces the chance of a supplemental dispute later.
+Most sudden and accidental pipe bursts are covered under standard homeowners policies, but the documentation requirements vary by carrier. Utah Valley insurers commonly used by Pleasant Grove homeowners, including regional carriers and national brands writing policies in ZIP code 84062, typically require a written scope of loss, moisture logs, and a drying report before approving structural repairs. As an IICRC Certified firm, Home Pride produces the documentation those adjusters expect, which shortens the approval cycle and reduces the chance of a supplemental dispute later.
 
 If your home is part of a Pleasant Grove HOA, check your CC&Rs before any contractor opens walls, some associations require written approval or a specific licensed contractor list for work affecting shared or adjacent structures.
 

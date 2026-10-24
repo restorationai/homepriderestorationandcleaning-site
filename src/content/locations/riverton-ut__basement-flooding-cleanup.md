@@ -42,7 +42,7 @@ When you call (801) 995-2437, the first question we ask is whether the water sou
 
 **5. Antimicrobial treatment.** Mold can begin colonizing wet organic material in as little as 24–48 hours. We apply EPA-registered antimicrobial agents to framing and concrete surfaces as a precautionary measure before closing out the drying phase.
 
-All work is performed by IICRC Certified technicians under license #RC-25-0737.
+All work is performed by IICRC Certified technicians.
 
 ## Response Time to Riverton
 

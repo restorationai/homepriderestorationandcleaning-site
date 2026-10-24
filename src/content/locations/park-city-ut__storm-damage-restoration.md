@@ -43,7 +43,7 @@ Home Pride's headquarters is in Saratoga Springs, and our crews travel US-40 and
 
 ## Park City Insurance and HOA Coordination
 
-Summit County storm claims have some patterns worth knowing. Many Park City properties, particularly in resort-adjacent communities and Deer Valley, fall under HOA governance that dictates approved exterior materials, color palettes, and even the contractors permitted to work on common elements. We've navigated those approval processes before, and we'll pull the relevant HOA documentation early so material selections don't delay reconstruction. On the insurance side, storm damage claims in Utah typically require a licensed contractor's scope of loss to supplement the adjuster's estimate; our license (#RC-25-0737) satisfies that requirement, and we write detailed line-item scopes in the format carriers expect.
+Summit County storm claims have some patterns worth knowing. Many Park City properties, particularly in resort-adjacent communities and Deer Valley, fall under HOA governance that dictates approved exterior materials, color palettes, and even the contractors permitted to work on common elements. We've navigated those approval processes before, and we'll pull the relevant HOA documentation early so material selections don't delay reconstruction. On the insurance side, storm damage claims in Utah typically require a contractor's scope of loss to supplement the adjuster's estimate; we write detailed line-item scopes in the format carriers expect.
 
 ## Local Note
 

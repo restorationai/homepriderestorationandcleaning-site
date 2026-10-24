@@ -36,7 +36,7 @@ Our crews run out of Saratoga Springs and cover Utah County south through Spanis
 
 ## Equipment & Methods We Use for Upholstery
 
-We use truck-mounted and portable hot water extraction equipment depending on fabric type, along with low-moisture encapsulation methods for upholstery that can't tolerate heavy saturation, like some antique or delicate fabric pieces common in older Benjamin farmhouses. Leather cleaning uses a separate, pH-appropriate product line and a conditioning step that's especially relevant here, since Utah's dry air pulls moisture out of leather faster than more humid states, leaving it prone to cracking if conditioning is skipped. We're IICRC certified and licensed under #RC-25-0737, and we follow fabric manufacturer cleaning codes (W, S, WS, or X) before applying any solution.
+We use truck-mounted and portable hot water extraction equipment depending on fabric type, along with low-moisture encapsulation methods for upholstery that can't tolerate heavy saturation, like some antique or delicate fabric pieces common in older Benjamin farmhouses. Leather cleaning uses a separate, pH-appropriate product line and a conditioning step that's especially relevant here, since Utah's dry air pulls moisture out of leather faster than more humid states, leaving it prone to cracking if conditioning is skipped. We're IICRC certified, and we follow fabric manufacturer cleaning codes (W, S, WS, or X) before applying any solution.
 
 ## Local Note
 

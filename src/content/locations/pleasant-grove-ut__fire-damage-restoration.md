@@ -44,7 +44,7 @@ From there, the process moves through these concrete phases:
 - **Structural drying** to address water damage from firefighting efforts, a step that's easy to underestimate, since a single hose line can deposit hundreds of gallons into a structure.
 - **Reconstruction coordination**, from framing and insulation through drywall, paint, and finish work, so you're working with one company from emergency response through move-in.
 
-We are IICRC Certified and licensed in Utah (License #RC-25-0737), and we work directly with insurance carriers to document every phase.
+We are IICRC Certified, and we work directly with insurance carriers to document every phase.
 
 ## Response Time to Pleasant Grove from Our Saratoga Springs HQ
 

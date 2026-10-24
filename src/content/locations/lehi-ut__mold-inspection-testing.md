@@ -44,7 +44,7 @@ Home Pride Restoration and Cleaning is based in Saratoga Springs, roughly 10 to 
 
 Many Lehi HOA communities, particularly the master-planned developments near the Point of the Mountain, require documented inspection reports before approving remediation work on shared-wall units or common-area adjacent spaces. A written mold assessment with laboratory-backed air quality data satisfies that documentation requirement and gives the HOA board a clear record of scope.
 
-On the insurance side, a professional inspection report with quantified spore counts and identified moisture sources is often the difference between a claim being accepted and denied. We provide documentation formatted to meet adjuster requirements, and we're available to speak directly with your carrier if questions come up during the claims process. Home Pride has carried contractor licensing (RC-25-0737) and has worked with Utah County property owners since 1997, so we understand how local carriers and HOA management companies typically handle these requests.
+On the insurance side, a professional inspection report with quantified spore counts and identified moisture sources is often the difference between a claim being accepted and denied. We provide documentation formatted to meet adjuster requirements, and we're available to speak directly with your carrier if questions come up during the claims process. Home Pride has carried contractor licensing and has worked with Utah County property owners since 1997, so we understand how local carriers and HOA management companies typically handle these requests.
 
 ## Local Note: Lehi's Secondary Water and Crawlspace Risk
 

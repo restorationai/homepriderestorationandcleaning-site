@@ -38,7 +38,7 @@ When you call (801) 995-2437, the first priority is stopping the water. If you c
 4. **Sets drying equipment**, industrial dehumidifiers and air movers positioned to account for Park City's low ambient humidity, which actually accelerates structural drying when managed correctly.
 5. **Documents everything for your insurance claim**, including photo logs, moisture readings, and a scope of damage report your adjuster can use directly.
 
-Pipe repair or replacement is coordinated with a licensed plumber; we hold contractor license #RC-25-0737 and can manage the full scope or work alongside your preferred plumber depending on your situation.
+Pipe repair or replacement is coordinated with a licensed plumber; we can manage the full scope or work alongside your preferred plumber depending on your situation.
 
 ## Response Time to Park City
 

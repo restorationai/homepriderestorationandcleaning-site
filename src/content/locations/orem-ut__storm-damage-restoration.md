@@ -41,7 +41,7 @@ Every job starts with a documented scope, photos, moisture readings, and a writt
 
 **Debris and tree damage cleanup** runs parallel. A downed tree on a roof is both a water-intrusion problem and a structural load problem. We coordinate with licensed arborists for limb removal when needed, then assess the decking and framing beneath before any patching begins.
 
-**Reconstruction**, from shingle replacement to full interior finish work, is handled in-house under Utah contractor license #RC-25-0737, so homeowners don't have to manage a separate general contractor.
+**Reconstruction**, from shingle replacement to full interior finish work, is handled in-house, so homeowners don't have to manage a separate general contractor.
 
 ## Response Time to Orem from Saratoga Springs
 

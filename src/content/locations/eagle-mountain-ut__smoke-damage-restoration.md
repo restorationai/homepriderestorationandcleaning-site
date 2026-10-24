@@ -48,7 +48,7 @@ Our headquarters is in Saratoga Springs, roughly 10 to 15 minutes from most Eagl
 
 ## Eagle Mountain Insurance Coordination
 
-Smoke damage claims are among the most disputed in residential property insurance because adjusters frequently underestimate the scope of odor penetration and secondary surface damage. We provide detailed line-item documentation, surface pH readings, affected square footage, equipment logs, and photo evidence, formatted to work with the major carriers active in Utah County. We can communicate directly with your adjuster and supplement the claim if hidden damage is found during work. Homeowners in Eagle Mountain's HOA communities should also check whether their CC&Rs require written notification or a licensed contractor (License #RC-25-0737) before exterior work begins; we are familiar with this process and can help you navigate it.
+Smoke damage claims are among the most disputed in residential property insurance because adjusters frequently underestimate the scope of odor penetration and secondary surface damage. We provide detailed line-item documentation, surface pH readings, affected square footage, equipment logs, and photo evidence, formatted to work with the major carriers active in Utah County. We can communicate directly with your adjuster and supplement the claim if hidden damage is found during work. Homeowners in Eagle Mountain's HOA communities should also check whether their CC&Rs require written notification or a licensed contractor before exterior work begins; we are familiar with this process and can help you navigate it.
 
 ## Local Note
 

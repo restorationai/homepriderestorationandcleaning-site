@@ -34,7 +34,7 @@ Every job starts with a moisture mapping inspection before a single piece of dry
 
 Demolition is limited to what's actually contaminated. We remove and bag affected materials following EPA guidelines, then apply an EPA-registered antimicrobial to framing and concrete surfaces. Clearance air testing, conducted by an independent industrial hygienist, not by us, confirms spore counts are within normal outdoor background levels before we close walls. That independence matters: you get an unbiased result, not a contractor grading their own work.
 
-Home Pride Restoration and Cleaning has been IICRC Certified and operating since 1997, and our license (#RC-25-0737) covers the remediation and reconstruction work so you're not coordinating two separate contractors.
+Home Pride Restoration and Cleaning has been IICRC Certified and operating since 1997, and we handle the remediation and reconstruction work so you're not coordinating two separate contractors.
 
 ## Response Time to South Jordan
 

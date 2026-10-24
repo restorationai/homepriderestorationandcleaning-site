@@ -42,7 +42,7 @@ We run emergency response around the clock. Pipe bursts don't schedule themselve
 
 ## Eagle Mountain Insurance Coordination
 
-Most homeowners' policies in Utah County cover sudden and accidental water discharge, which is exactly what a burst pipe is, but the documentation requirements matter. We photograph and moisture-map the loss before any extraction begins, creating the paper trail your adjuster needs. We work directly with the major carriers that write policies in Eagle Mountain and can communicate scope of loss in the format adjusters expect, which typically shortens the back-and-forth on claim approval. License #RC-25-0737 is on file and we carry the insurance coverage your carrier will ask about.
+Most homeowners' policies in Utah County cover sudden and accidental water discharge, which is exactly what a burst pipe is, but the documentation requirements matter. We photograph and moisture-map the loss before any extraction begins, creating the paper trail your adjuster needs. We work directly with the major carriers that write policies in Eagle Mountain and can communicate scope of loss in the format adjusters expect, which typically shortens the back-and-forth on claim approval. We carry the insurance coverage your carrier will ask about.
 
 If you're in an HOA community, several of Eagle Mountain's newer phases have active HOAs, we can also provide written scope documentation if the association requires notification before structural drying begins.
 

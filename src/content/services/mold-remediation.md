@@ -46,7 +46,7 @@ The most common failure in mold abatement is skipping containment because the jo
 
 A second common mistake is treating the visible growth without confirming the moisture source is resolved. Insurance adjusters reviewing mold claims look specifically for documentation that the underlying cause was identified and corrected; a remediation invoice without a moisture source report raises flags and can complicate coverage.
 
-Finally, clearance testing is frequently skipped by contractors who want to close the job quickly. IICRC S520 standards, the industry benchmark for mold remediation, specify post-remediation verification as a required step, not optional. Without it, there is no objective confirmation the remediation was successful. Home Pride Restoration and Cleaning holds IICRC certification (license #RC-25-0737) and follows S520 protocols on every project.
+Finally, clearance testing is frequently skipped by contractors who want to close the job quickly. IICRC S520 standards, the industry benchmark for mold remediation, specify post-remediation verification as a required step, not optional. Without it, there is no objective confirmation the remediation was successful. Home Pride Restoration and Cleaning holds IICRC certification and follows S520 protocols on every project.
 
 ## Black mold removal in Saratoga Springs
 

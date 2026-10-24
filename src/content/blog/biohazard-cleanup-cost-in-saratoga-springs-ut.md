@@ -86,4 +86,4 @@ If you're facing a biohazard situation in Saratoga Springs or anywhere along the
 
 **About Home Pride Restoration and Cleaning**
 
-Home Pride Restoration and Cleaning is an IICRC Certified company (license RC-25-0737) that has served Saratoga Springs, UT and the surrounding Utah County area since 1997. Their crews handle biohazard cleanup, trauma scene cleanup, sewage cleanup, and odor removal, along with water, fire, and mold restoration services, and are available 24/7 for emergency calls.
+Home Pride Restoration and Cleaning is an IICRC Certified company that has served Saratoga Springs, UT and the surrounding Utah County area since 1997. Their crews handle biohazard cleanup, trauma scene cleanup, sewage cleanup, and odor removal, along with water, fire, and mold restoration services, and are available 24/7 for emergency calls.

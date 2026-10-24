@@ -36,7 +36,7 @@ Our crews run out of Saratoga Springs, a straight shot across the valley from Al
 
 ## Alpine Insurance & HOA Coordination
 
-Many Alpine properties fall under architectural control committees or private HOA covenants tied to the custom-build standards in the area, which can affect how exterior repairs, dumpster placement, or drying equipment staging get handled during a loss. We document everything with photos and moisture readings as we go so you have a clean paper trail for your carrier and, if needed, for an HOA review. Home Pride is IICRC Certified and licensed (RC-25-0737), and we're glad to work directly with your adjuster to keep the claim moving while the drying is underway.
+Many Alpine properties fall under architectural control committees or private HOA covenants tied to the custom-build standards in the area, which can affect how exterior repairs, dumpster placement, or drying equipment staging get handled during a loss. We document everything with photos and moisture readings as we go so you have a clean paper trail for your carrier and, if needed, for an HOA review. Home Pride is IICRC Certified, and we're glad to work directly with your adjuster to keep the claim moving while the drying is underway.
 
 ## Local note
 

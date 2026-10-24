@@ -45,7 +45,7 @@ The first hour on-site is documentation and containment. Technicians photograph 
 
 **Odor neutralization.** Thermal fogging and hydroxyl generation run simultaneously in most Lehi jobs. Smoke odor in a tight, energy-efficient home can take 48–72 hours of active treatment to reach acceptable levels.
 
-**Reconstruction.** As an IICRC Certified contractor licensed in Utah (#RC-25-0737), we carry the work through to finished surfaces, drywall, paint, cabinetry, flooring, so you're dealing with one company, one point of contact, and one insurance file.
+**Reconstruction.** As an IICRC Certified contractor, we carry the work through to finished surfaces, drywall, paint, cabinetry, flooring, so you're dealing with one company, one point of contact, and one insurance file.
 
 ## Response Time from Our Saratoga Springs Location
 

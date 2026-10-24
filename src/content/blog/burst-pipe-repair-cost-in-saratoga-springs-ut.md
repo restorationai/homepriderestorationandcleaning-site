@@ -77,7 +77,7 @@ If you're still in the first hour after discovery, [this burst pipe emergency ch
 
 ## Who Should You Call First When a Pipe Bursts in Saratoga Springs?
 
-Shut the water off first, then call a restoration company that handles both the water extraction and the insurance documentation, not just a plumber. Home Pride Restoration and Cleaning LLC is IICRC certified, licensed in Utah (RC-25-0737), and answers 24/7, which matters when a freeze hits overnight and you're trying to decide how bad it actually is.
+Shut the water off first, then call a restoration company that handles both the water extraction and the insurance documentation, not just a plumber. Home Pride Restoration and Cleaning LLC is IICRC certified, and answers 24/7, which matters when a freeze hits overnight and you're trying to decide how bad it actually is.
 
 A plumber alone can fix the pipe but typically won't run structural drying equipment or document moisture readings the way an adjuster expects. Getting both pieces coordinated from one call usually means fewer gaps in your claim and less chance of mold showing up in the wall cavity weeks later.
 
@@ -87,6 +87,6 @@ If you're facing a burst pipe right now, [request a water damage assessment](/se
 
 **About Home Pride Restoration and Cleaning**
 
-Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Saratoga Springs, UT since 1997, licensed under RC-25-0737 (verify at [secure.utah.gov](https://secure.utah.gov/llv/search/index.html)). The company holds a 5.0 Google rating across 36 reviews and handles water damage restoration, burst pipe and frozen pipe repair, mold remediation, and fire damage restoration across Saratoga Springs, Lehi, Eagle Mountain, and the surrounding Utah County area. This post was written with the Home Pride Restoration and Cleaning team.
+Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Saratoga Springs, UT since 1997. The company holds a 5.0 Google rating across 36 reviews and handles water damage restoration, burst pipe and frozen pipe repair, mold remediation, and fire damage restoration across Saratoga Springs, Lehi, Eagle Mountain, and the surrounding Utah County area. This post was written with the Home Pride Restoration and Cleaning team.
 
 **Need help now?** [Call Home Pride Restoration and Cleaning at (801) 995-2437](tel:+18019952437).

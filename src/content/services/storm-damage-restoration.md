@@ -39,7 +39,7 @@ Timeline varies with severity. Emergency stabilization, tarping a breached roof,
 
 3. **Water extraction and structural drying.** Any water that entered the structure gets extracted and then dried with calibrated equipment. Moisture readings are logged daily against drying targets so there's an objective record that framing, sheathing, and finish materials have returned to acceptable moisture content before any repairs begin. Rebuilding over wet framing is one of the most common and costly mistakes in storm repair.
 
-4. **Debris removal and structural repair.** Once the structure is dry and documented, debris is cleared, damaged framing is sistered or replaced, roofing and siding are repaired or replaced, and interior finishes are restored. Work is performed under Utah contractor license #RC-25-0737.
+4. **Debris removal and structural repair.** Once the structure is dry and documented, debris is cleared, damaged framing is sistered or replaced, roofing and siding are repaired or replaced, and interior finishes are restored. Work is performed.
 
 5. **Final inspection and documentation package.** A completed job includes a written damage and repair summary, moisture log records, and photo documentation, the package your insurance carrier needs to close the claim and that you keep as a record of the repairs made.
 

@@ -64,6 +64,6 @@ Utah's low ambient humidity is a genuine advantage during structural drying, des
 
 ## Service area
 
-Home Pride Restoration and Cleaning responds to sewage backup and septic overflow calls throughout Saratoga Springs, Eagle Mountain, Lehi, American Fork, Cedar Hills, and surrounding Utah County communities. IICRC Certified technicians, License #RC-25-0737.
+Home Pride Restoration and Cleaning responds to sewage backup and septic overflow calls throughout Saratoga Springs, Eagle Mountain, Lehi, American Fork, Cedar Hills, and surrounding Utah County communities. IICRC Certified technicians,
 
 If sewage has surfaced in your home or building, the clock is already running. Call (801) 995-2437 to get a technician on-site and stop the contamination from spreading further.

@@ -43,7 +43,7 @@ From there, the process moves in a deliberate sequence:
 - **Odor neutralization** using thermal fogging and hydroxyl generation, not masking agents, so the smell doesn't return when temperatures rise.
 - **Structural drying and rebuild coordination**, working with your insurance adjuster and, where applicable, Eagle Mountain City's building department for permit-required reconstruction.
 
-We're IICRC Certified and licensed in Utah (RC-25-0737), which matters when your insurance carrier asks for documentation.
+We're IICRC Certified, which matters when your insurance carrier asks for documentation.
 
 ## Response Time to Eagle Mountain
 

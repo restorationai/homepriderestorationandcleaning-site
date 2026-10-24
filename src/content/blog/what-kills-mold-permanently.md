@@ -100,4 +100,4 @@ Home Pride Restoration and Cleaning handles mold remediation and mold inspection
 
 **About Home Pride Restoration and Cleaning**
 
-Home Pride Restoration and Cleaning is an IICRC-certified company serving Saratoga Springs and the surrounding Utah County communities since 1997 (license RC-25-0737). Their crews handle mold remediation, mold inspection and testing, water damage restoration, fire and smoke damage restoration, crawl space encapsulation, and a full range of cleaning services including carpet, upholstery, tile and grout, and odor removal. Available around the clock at (801) 995-2437.
+Home Pride Restoration and Cleaning is an IICRC-certified company serving Saratoga Springs and the surrounding Utah County communities since 1997. Their crews handle mold remediation, mold inspection and testing, water damage restoration, fire and smoke damage restoration, crawl space encapsulation, and a full range of cleaning services including carpet, upholstery, tile and grout, and odor removal. Available around the clock at (801) 995-2437.

@@ -40,7 +40,7 @@ From there, the process moves in a deliberate sequence:
 - **Thermal fogging and ozone treatment**, calibrated to the square footage and construction type of the specific home, not a one-size setting.
 - **Surface cleaning and deodorization**, walls, ceilings, cabinetry, and contents using chemistry matched to the soot type (protein-based from kitchen fires behaves very differently than synthetic-material soot).
 - **HVAC duct cleaning and seal-off**, preventing re-contamination once the living spaces are clean.
-- **Reconstruction coordination**, from drywall and paint to cabinetry and flooring, managed in-house under license #RC-25-0737 so homeowners aren't juggling a separate contractor.
+- **Reconstruction coordination**, from drywall and paint to cabinetry and flooring, managed in-house so homeowners aren't juggling a separate contractor.
 
 ## Response Time to Herriman
 

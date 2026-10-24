@@ -40,7 +40,7 @@ Our process runs in five stages:
 4. **Truck-mounted hot-water extraction**, our truck-mount units run at consistent water temperature and pressure regardless of how far we are from the supply line, which matters in South Jordan's larger homes where hose runs can exceed 100 feet.
 5. **Speed-dry pass**, high-velocity air movers reduce dry time significantly, important in South Jordan's drier climate where rapid drying is achievable but low humidity can cause fiber distortion if airflow isn't managed.
 
-All technicians are IICRC Certified, and the company holds Utah contractor license #RC-25-0737.
+All technicians are IICRC Certified.
 
 ## Commercial Carpet Cleaning in South Jordan
 

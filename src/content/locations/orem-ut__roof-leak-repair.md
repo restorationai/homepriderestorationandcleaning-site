@@ -36,7 +36,7 @@ Once the source is controlled, the process moves through four defined stages:
 
 1. **Moisture mapping.** We use thermal imaging cameras and calibrated moisture meters to trace how far water has traveled from the entry point. A roof leak above a second-floor bedroom can migrate 15–20 feet horizontally before it shows up as a ceiling stain, so we map the full affected zone rather than just the visible damage.
 2. **Attic extraction and drying.** Wet insulation loses its R-value immediately and becomes a mold substrate within 24–48 hours. We remove saturated batts or blown-in material, document the scope for your insurance adjuster, and deploy commercial desiccant dehumidifiers and axial fans sized for attic airflow, not the residential units that take twice as long.
-3. **Structural assessment and repair.** Our IICRC-certified technicians assess decking, rafters, and any compromised ceiling assemblies. Repairs are performed under Utah contractor license #RC-25-0737, so there's no handoff gap between the cleanup crew and the repair crew.
+3. **Structural assessment and repair.** Our IICRC-certified technicians assess decking, rafters, and any compromised ceiling assemblies. Repairs are performed, so there's no handoff gap between the cleanup crew and the repair crew.
 4. **Final moisture verification.** Before we close any wall or ceiling cavity, we confirm readings are at or below the baseline for wood and drywall in Utah's climate zone. Documentation goes directly to your insurer.
 
 ## Navigating Insurance Claims for Roof Leaks in Orem

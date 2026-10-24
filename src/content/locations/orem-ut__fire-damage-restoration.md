@@ -41,7 +41,7 @@ Every job begins with a room-by-room scope assessment, not a walk-through estima
 
 **Odor elimination** follows structural cleaning. We use a combination of thermal fogging and hydroxyl generation rather than masking agents. Hydroxyl treatment is particularly effective in tightly built homes where ozone-based methods create ventilation challenges.
 
-**Structural drying and reconstruction coordination** closes the job. Home Pride Restoration and Cleaning holds a Utah contractor license (#RC-25-0737) and can carry the project from initial emergency response through finished reconstruction under a single point of contact, which matters when you're coordinating with an insurance adjuster and trying to get your family back into the house.
+**Structural drying and reconstruction coordination** closes the job. Home Pride Restoration and Cleaning can carry the project from initial emergency response through finished reconstruction under a single point of contact, which matters when you're coordinating with an insurance adjuster and trying to get your family back into the house.
 
 ## Response Time from Saratoga Springs to Orem
 

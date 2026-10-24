@@ -34,7 +34,7 @@ Every mold remediation job starts with a thorough inspection, moisture meters, t
 
 Once we've mapped the affected area, containment goes up: heavy-gauge poly barriers, negative air pressure using HEPA-filtered air scrubbers, and sealed HVAC registers to prevent cross-contamination to unaffected rooms. Affected materials, drywall, insulation, trim, are removed carefully and bagged for disposal per Utah Department of Environmental Quality guidelines. Structural surfaces are then treated and allowed to dry to verified moisture levels before any reconstruction begins.
 
-For black mold remediation specifically, we follow IICRC S520 protocols, which govern everything from personal protective equipment to post-remediation verification. We're IICRC Certified and licensed in Utah (RC-25-0737), and we can coordinate independent air clearance testing with a third-party industrial hygienist when a homeowner or lender requires documented proof of clearance, something that comes up more often than people expect during home sales in the area.
+For black mold remediation specifically, we follow IICRC S520 protocols, which govern everything from personal protective equipment to post-remediation verification. We're IICRC Certified, and we can coordinate independent air clearance testing with a third-party industrial hygienist when a homeowner or lender requires documented proof of clearance, something that comes up more often than people expect during home sales in the area.
 
 ## Response Time to Riverton
 

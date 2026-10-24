@@ -38,7 +38,7 @@ Once we understand the moisture boundary, the process moves in a specific sequen
 - **Attic water damage assessment.** Saturated insulation loses its R-value and becomes a mold substrate within two days. We remove and bag compromised insulation, document it for your insurance adjuster, and treat the sheathing beneath.
 - **Structural drying.** Commercial-grade desiccant dehumidifiers and axial air movers are positioned based on the moisture map, not guesswork. In Heber City's dry mountain air, ambient humidity is low, which actually accelerates drying, but only if equipment is sized correctly for the attic volume.
 - **Ceiling and wall restoration.** Once moisture readings confirm the assembly is dry, we repair or replace damaged drywall, texture to match, and prime before painting. We handle the full scope so you're not coordinating three separate contractors.
-- **Permanent roof repair.** As an IICRC Certified restoration contractor licensed in Utah (#RC-25-0737), we coordinate or perform the underlying roof repair, flashing replacement, shingle repair, or sealant work, so the fix addresses the cause, not just the consequence.
+- **Permanent roof repair.** As an IICRC Certified restoration contractor, we coordinate or perform the underlying roof repair, flashing replacement, shingle repair, or sealant work, so the fix addresses the cause, not just the consequence.
 
 ## Response Time from Saratoga Springs to Heber City
 

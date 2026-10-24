@@ -41,7 +41,7 @@ When you call, a technician is dispatched immediately, not a scheduler, not a ca
 
 **Content and material assessment** happens throughout. Drywall, insulation, and framing that have been wet for more than 24–48 hours often need to come out. We document everything with photos for your insurance file and flag materials that contain potential hazards, relevant in homes built before the mid-1970s where older insulation products were common.
 
-All work is performed by IICRC-certified technicians under license #RC-25-0737.
+All work is performed by IICRC-certified technicians.
 
 ## Response Time from Saratoga Springs to Provo
 

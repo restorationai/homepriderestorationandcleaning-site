@@ -97,4 +97,4 @@ For roof leak repair and interior water damage drying in the Park City area, Hom
 
 **About Home Pride Restoration and Cleaning**
 
-Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Park City, Saratoga Springs, and the broader Wasatch Front since 1997 (license RC-25-0737). Their crews handle water damage, roof leak response, storm damage, and mold remediation across Utah County and Summit County. Available 24/7 at (801) 995-2437.
+Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Park City, Saratoga Springs, and the broader Wasatch Front since 1997. Their crews handle water damage, roof leak response, storm damage, and mold remediation across Utah County and Summit County. Available 24/7 at (801) 995-2437.

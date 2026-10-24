@@ -53,7 +53,7 @@ The most common mistake is stopping at extraction. A wet-vac and a few fans feel
 
 A second failure point is misclassifying the water source. A floor drain backup during a heavy rain event is almost always Category 3, it carries whatever was in the municipal sewer line. Treating it as a clean water loss without containment and antimicrobial protocol puts your family at risk and creates liability exposure for the contractor.
 
-Insurance adjusters look for a moisture log with daily readings, photographic documentation of the waterline and affected materials before demolition, and a written scope that distinguishes extraction from drying from demo from antimicrobial. Carriers increasingly deny or reduce claims when that documentation doesn't exist. Our IICRC-certified technicians (license #RC-25-0737) produce that file as a standard part of every job.
+Insurance adjusters look for a moisture log with daily readings, photographic documentation of the waterline and affected materials before demolition, and a written scope that distinguishes extraction from drying from demo from antimicrobial. Carriers increasingly deny or reduce claims when that documentation doesn't exist. Our IICRC-certified technicians produce that file as a standard part of every job.
 
 ## Seasonal and regional considerations
 

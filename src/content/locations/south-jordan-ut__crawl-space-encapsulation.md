@@ -34,7 +34,7 @@ Every project starts with a moisture mapping inspection, we measure vapor emissi
 
 Once the crawl space is prepped and any remediation work is complete, we install a reinforced polyethylene vapor barrier, typically 20-mil, across the entire floor and up the foundation walls, sealed with two-sided tape and mechanical fasteners. We then assess whether a crawl space dehumidifier is warranted based on the readings we took at the start. In South Jordan's irrigation season (roughly April through October), a dehumidifier is almost always the right call. We close out every job with a post-installation humidity reading so you have a documented baseline.
 
-Because we're IICRC Certified and licensed in Utah (License #RC-25-0737), the documentation we provide is the same format that home inspectors and real estate agents expect to see if you're selling the property.
+Because we're IICRC Certified, the documentation we provide is the same format that home inspectors and real estate agents expect to see if you're selling the property.
 
 ## Response Time to South Jordan
 

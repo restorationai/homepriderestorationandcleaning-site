@@ -38,4 +38,4 @@ A fair amount of Vineyard's new construction sits inside HOA-governed developmen
 
 One thing that catches people off guard in Vineyard: because so many streets, including stretches near Geneva Road and the Vineyard Connector, are still active construction corridors, a unit that looked clean at final walkthrough can pick up a new layer of dust within days if neighboring lots are still being graded or framed. We tell property managers scheduling a final clean close to a tenant move-in date to build in a short buffer, or have us do a quick touch-up pass right before keys change hands, rather than relying on a clean done a week or two earlier.
 
-If you're closing out a build or getting a renovated space ready in Vineyard, call Home Pride Restoration and Cleaning at (801) 995-2437. We've worked from our Saratoga Springs base since 1997, our crews are IICRC certified, and we carry license #RC-25-0737 for this kind of work across Utah County.
+If you're closing out a build or getting a renovated space ready in Vineyard, call Home Pride Restoration and Cleaning at (801) 995-2437. We've worked from our Saratoga Springs base since 1997, and our crews are IICRC certified.

@@ -34,7 +34,7 @@ Every job begins with a thorough moisture mapping inspection, not just a visual 
 
 Once we've identified the affected zones, we establish negative-air containment using 6-mil poly barriers and HEPA-filtered negative air machines. This keeps spores from migrating to clean areas of the home during the removal process. Affected porous materials, drywall, insulation, OSB sheathing, are removed, bagged, and disposed of per Utah solid waste guidelines. Structural framing is HEPA-vacuumed, treated with an EPA-registered antimicrobial, and allowed to dry to verified moisture content before any reconstruction begins.
 
-Home Pride Restoration and Cleaning has been doing this work since 1997, and our crews are IICRC certified in applied microbial remediation. We also carry the contractor license (#RC-25-0737) required for structural work in Utah, which matters when remediation involves removing and replacing framing, subfloor, or sheathing.
+Home Pride Restoration and Cleaning has been doing this work since 1997, and our crews are IICRC certified in applied microbial remediation.
 
 ## Response Time to American Fork
 

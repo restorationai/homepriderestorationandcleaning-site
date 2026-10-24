@@ -56,4 +56,4 @@ If your basement is wet right now, the call matters more than the comparison sho
 
 **About Home Pride Restoration and Cleaning**
 
-Home Pride Restoration and Cleaning is an IICRC-certified company serving Saratoga Springs, Utah since 1997 (license RC-25-0737). The crew handles water damage restoration, basement flooding cleanup, burst pipe repair, sewage cleanup, and mold remediation across Saratoga Springs, Lehi, Eagle Mountain, and the surrounding Utah County area, and answers calls 24/7.
+Home Pride Restoration and Cleaning is an IICRC-certified company serving Saratoga Springs, Utah since 1997. The crew handles water damage restoration, basement flooding cleanup, burst pipe repair, sewage cleanup, and mold remediation across Saratoga Springs, Lehi, Eagle Mountain, and the surrounding Utah County area, and answers calls 24/7.

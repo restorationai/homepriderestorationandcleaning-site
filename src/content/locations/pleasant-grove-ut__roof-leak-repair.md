@@ -41,7 +41,7 @@ From there, the process moves through four stages:
 3. **Extraction and drying**, commercial desiccant dehumidifiers and air movers positioned to pull moisture out of structural cavities, not just surface materials.
 4. **Restoration**, replacing damaged drywall, insulation, and interior finishes, and documenting everything for your insurance claim.
 
-As an IICRC Certified firm licensed under RC-25-0737, every job follows the S500 and S520 standards for water damage and mold remediation, which matters when your adjuster reviews the scope of work.
+As an IICRC Certified firm, every job follows the S500 and S520 standards for water damage and mold remediation, which matters when your adjuster reviews the scope of work.
 
 ## Response Time to Pleasant Grove
 

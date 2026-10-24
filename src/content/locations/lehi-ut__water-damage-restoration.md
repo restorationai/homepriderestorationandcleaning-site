@@ -45,7 +45,7 @@ Home Pride Restoration and Cleaning is headquartered in Saratoga Springs, which 
 
 Most homeowners in Lehi carry standard HO-3 policies through carriers like State Farm, Farmers, or USAA, all of which cover sudden and accidental water discharge but exclude slow leaks and flood events. We document every loss with timestamped photos, moisture readings, and a written scope of work formatted for direct submission to your adjuster. For properties in HOA-governed communities near Traverse Mountain or Thanksgiving Point, we communicate with the association's property manager when common-area walls or shared utility chases are involved, which is more common than most homeowners realize in attached townhome configurations.
 
-If your carrier requires a preferred vendor, ask them to authorize Home Pride as an approved independent contractor, we hold an active Utah contractor license (#RC-25-0737) and carry full general liability and workers' compensation coverage, which most adjusters accept without issue.
+If your carrier requires a preferred vendor, ask them to authorize Home Pride as an approved independent contractor, we carry full general liability and workers' compensation coverage, which most adjusters accept without issue.
 
 ## Local Note
 

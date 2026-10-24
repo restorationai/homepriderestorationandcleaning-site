@@ -42,7 +42,7 @@ From there, the process moves through four concrete phases:
 3. **Antimicrobial treatment**, applied to any surface that held water longer than 24 hours, reducing the conditions that allow mold colonization.
 4. **Documentation and clearance**, final moisture readings are logged and provided to you and your insurer before equipment is removed.
 
-We are IICRC Certified and licensed in Utah (#RC-25-0737), so the process follows the S500 Standard for Water Damage Restoration, the benchmark most insurance carriers require.
+We are IICRC Certified, so the process follows the S500 Standard for Water Damage Restoration, the benchmark most insurance carriers require.
 
 ## Response Time to Orem
 

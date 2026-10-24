@@ -34,7 +34,7 @@ A mold assessment isn't a single swab and a report. The process starts with a th
 
 When the visual and moisture data suggest active or historical growth, we collect air samples and surface samples. Air samples are drawn through a calibrated pump into spore-trap cassettes, which are then analyzed by an accredited third-party laboratory. Surface samples, either tape lifts or swab cultures, identify the specific genus and species present. That distinction matters: not every mold is treated the same way, and knowing whether you're dealing with Cladosporium, Penicillium, or Stachybotrys affects both the remediation protocol and the urgency of the timeline.
 
-As an IICRC Certified firm operating under Utah contractor license RC-25-0737, we follow IICRC S520 standards throughout the assessment. Lab results typically return within 24 to 48 hours, and we walk you through the findings in plain language, not just a PDF with spore counts you'd need a mycologist to interpret.
+As an IICRC Certified firm, we follow IICRC S520 standards throughout the assessment. Lab results typically return within 24 to 48 hours, and we walk you through the findings in plain language, not just a PDF with spore counts you'd need a mycologist to interpret.
 
 ## Response Time from Saratoga Springs to Orem
 

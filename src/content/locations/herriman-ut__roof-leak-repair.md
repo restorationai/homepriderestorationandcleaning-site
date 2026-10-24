@@ -40,7 +40,7 @@ The process from there follows a logical sequence:
 2. **Material assessment**, saturated insulation, sheathing, and drywall are documented with photos and moisture readings for your insurance adjuster.
 3. **Controlled demolition**, only what's wet comes out. We don't tear out dry material to make the job look bigger.
 4. **Structural drying**, commercial-grade desiccant dehumidifiers and high-velocity air movers run until every cavity reads dry on the meter, not just on the surface.
-5. **Rebuild coordination**, once the structure is dry and inspected, our licensed reconstruction team handles sheathing, insulation, drywall, and roofing repairs under Utah contractor license #RC-25-0737.
+5. **Rebuild coordination**, once the structure is dry and inspected, our reconstruction team handles sheathing, insulation, drywall, and roofing repairs.
 
 As an IICRC Certified firm, our drying protocols follow the S500 and S520 standards, the same benchmarks your insurance carrier expects to see in the claim documentation.
 

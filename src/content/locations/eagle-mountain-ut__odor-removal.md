@@ -52,6 +52,6 @@ Home Pride's headquarters is in Saratoga Springs, roughly 10–15 minutes from m
 
 Something worth knowing if you live in Eagle Mountain's newer developments: homes built to Utah's post-2012 energy code are intentionally tight, which means when wildfire smoke or a neighbor's structure fire pushes a smoke event into your neighborhood, your HVAC's return air pulls that particulate inside faster than an older, leakier home would. The same tight envelope then traps it. Homeowners who run their air handler during a smoke event, thinking it will filter the air, often end up with smoke odor embedded in every room of the house, not just the rooms facing the event. If you've done this, the duct system is almost certainly part of the problem and needs to be addressed as part of any deodorization scope.
 
-Home Pride is IICRC Certified and licensed in Utah (License #RC-25-0737). Insurance documentation, including itemized scopes and photo evidence, is prepared in the format most Utah County carriers accept.
+Home Pride is IICRC Certified. Insurance documentation, including itemized scopes and photo evidence, is prepared in the format most Utah County carriers accept.
 
 If your Eagle Mountain home has a smell that's outlasted every cleaning attempt, call (801) 995-2437. A technician will assess the source, explain exactly which methods apply, and give you a straight answer on timeline and cost before any equipment comes off the truck.

@@ -38,7 +38,7 @@ Once the entry point is secured, the interior assessment begins:
 - **Attic extraction and drying**, saturated insulation is removed, bagged, and documented for your insurance claim. Industrial air movers and low-grain refrigerant dehumidifiers are positioned to dry the structural cavity, not just the surface.
 - **Ceiling and wall drying or controlled demolition**, we open only what needs to be opened. If drywall has absorbed water but hasn't lost structural integrity, we use injectidry panel systems to dry in place. If it's compromised, we remove the minimum necessary and document everything photographically.
 - **Antimicrobial treatment** on all affected wood framing before any reconstruction begins.
-- **Repair and rebuild**, as a licensed contractor (RC-25-0737), we handle the full scope: new sheathing, insulation reinstallation, drywall, texture, and paint. You don't coordinate a separate roofer and a separate drywall crew.
+- **Repair and rebuild**, we handle the full scope: new sheathing, insulation reinstallation, drywall, texture, and paint. You don't coordinate a separate roofer and a separate drywall crew.
 
 ## Response Time to South Jordan
 

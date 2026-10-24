@@ -47,7 +47,7 @@ From there, the process moves through four concrete phases:
 
 **4. HVAC and duct cleaning.** Because Lehi's newer construction relies heavily on forced-air systems, duct cleaning is rarely optional after a significant smoke event. Smoke residue left in ductwork will re-circulate every time the furnace or AC runs.
 
-All work is performed by IICRC Certified technicians under Utah contractor license #RC-25-0737.
+All work is performed by IICRC Certified technicians.
 
 ## Response Time to Lehi from Our Saratoga Springs HQ
 

@@ -39,7 +39,7 @@ The first thing our technicians do on arrival is locate and confirm the water ha
 
 **3. Structural drying.** Industrial low-grain refrigerant dehumidifiers and high-velocity air movers run continuously, typically for three to five days depending on material saturation. We monitor daily and adjust equipment placement as readings drop.
 
-**4. Pipe repair coordination.** Home Pride holds a Utah contractor license (#RC-25-0737), which allows us to coordinate or directly perform the pipe repair alongside the water damage mitigation, so you're not managing two separate contractors during an already stressful situation.
+**4. Pipe repair coordination.** Home Pride coordinates the pipe repair alongside the water damage mitigation, so you're not managing two separate contractors during an already stressful situation.
 
 ## Response Time to South Jordan
 

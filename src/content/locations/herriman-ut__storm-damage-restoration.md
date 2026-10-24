@@ -50,7 +50,7 @@ We carry emergency tarping materials, extraction equipment, and drying gear on e
 
 ## Herriman Insurance and HOA Coordination
 
-Most Herriman homeowners carry standard HO-3 policies that cover sudden and accidental storm damage, but the documentation requirements vary significantly between carriers. We work directly with adjusters from the major insurers active in the Salt Lake Valley, provide itemized scope-of-loss reports, and can meet the adjuster on-site to walk through damage together. License #RC-25-0737 is on file with the state of Utah, which some carriers require before authorizing repair work.
+Most Herriman homeowners carry standard HO-3 policies that cover sudden and accidental storm damage, but the documentation requirements vary significantly between carriers. We work directly with adjusters from the major insurers active in the Salt Lake Valley, provide itemized scope-of-loss reports, and can meet the adjuster on-site to walk through damage together.
 
 Many Herriman subdivisions also have active HOAs with exterior material and color restrictions. Before ordering replacement siding, roofing, or fencing materials, we verify the approved product list with the HOA to avoid a situation where completed repairs require a redo.
 
@@ -60,4 +60,4 @@ One thing that surprises homeowners in the newer developments built along Herrim
 
 If you're in Herriman and a storm has just passed, check your window wells before you check your roof.
 
-When severe weather hits and you're looking at a damaged roof, flooded basement, or a tree through your fence, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We're close, we're licensed, and we move fast, because in Herriman, the next storm cell is never far behind the first.
+When severe weather hits and you're looking at a damaged roof, flooded basement, or a tree through your fence, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We're close, and we move fast, because in Herriman, the next storm cell is never far behind the first.

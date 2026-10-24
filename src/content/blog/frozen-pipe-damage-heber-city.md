@@ -87,4 +87,4 @@ Home Pride Restoration and Cleaning responds 24/7 to frozen and burst pipe emerg
 
 **About Home Pride Restoration and Cleaning**
 
-Home Pride Restoration and Cleaning LLC is an IICRC-certified restoration company serving Heber City, Saratoga Springs, and communities across Utah County and the Wasatch Back since 1997 (license RC-25-0737). Their crews handle water damage, burst and frozen pipe restoration, mold remediation, fire and smoke damage, and full-service cleaning across the region. Available 24/7 for emergency response.
+Home Pride Restoration and Cleaning LLC is an IICRC-certified restoration company serving Heber City, Saratoga Springs, and communities across Utah County and the Wasatch Back since 1997. Their crews handle water damage, burst and frozen pipe restoration, mold remediation, fire and smoke damage, and full-service cleaning across the region. Available 24/7 for emergency response.

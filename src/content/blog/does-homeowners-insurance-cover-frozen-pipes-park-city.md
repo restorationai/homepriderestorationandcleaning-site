@@ -96,4 +96,4 @@ When a freeze does happen, the window for limiting damage is short. Home Pride R
 
 **About Home Pride Restoration and Cleaning**
 
-Home Pride Restoration and Cleaning LLC is an IICRC-certified restoration company serving Park City, Saratoga Springs, and communities throughout Utah County and Summit County since 1997 (license RC-25-0737). Their crews handle water damage, frozen and burst pipe restoration, mold remediation, and fire and smoke losses for residential and commercial properties. Available 24/7 for emergency response.
+Home Pride Restoration and Cleaning LLC is an IICRC-certified restoration company serving Park City, Saratoga Springs, and communities throughout Utah County and Summit County since 1997. Their crews handle water damage, frozen and burst pipe restoration, mold remediation, and fire and smoke losses for residential and commercial properties. Available 24/7 for emergency response.

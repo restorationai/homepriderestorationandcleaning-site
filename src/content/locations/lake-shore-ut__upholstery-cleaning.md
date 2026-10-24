@@ -32,7 +32,7 @@ We start with a fiber and dye test on every piece, since a mix of synthetic blen
 
 ## Response Time to Lake Shore
 
-Our crews run out of Saratoga Springs, a short drive down the west side of Utah Lake, so reaching Lake Shore addresses for scheduled upholstery jobs is straightforward without the traffic delays that slow down work closer to the freeway corridors. We book upholstery cleaning appointments the same or next day in most cases, and because we're IICRC certified and licensed (RC-25-0737), the same crew that handles a living room sectional can step into a larger water or fire job if one comes up on the same property.
+Our crews run out of Saratoga Springs, a short drive down the west side of Utah Lake, so reaching Lake Shore addresses for scheduled upholstery jobs is straightforward without the traffic delays that slow down work closer to the freeway corridors. We book upholstery cleaning appointments the same or next day in most cases, and because we're IICRC certified, the same crew that handles a living room sectional can step into a larger water or fire job if one comes up on the same property.
 
 ## Local Note
 

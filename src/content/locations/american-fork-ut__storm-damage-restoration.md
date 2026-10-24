@@ -45,7 +45,7 @@ From there the process moves in a deliberate sequence:
 - **Damage documentation** with photo and written scope, formatted for insurance submission.
 - **Reconstruction coordination**, framing, roofing, siding, and interior finishes handled under one project, so you are not managing three separate contractors.
 
-As an IICRC Certified firm licensed under RC-25-0737, we follow documented drying protocols that insurance adjusters recognize, which shortens the claim cycle.
+As an IICRC Certified firm, we follow documented drying protocols that insurance adjusters recognize, which shortens the claim cycle.
 
 ## Response Time from Saratoga Springs to American Fork
 

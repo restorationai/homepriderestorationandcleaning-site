@@ -33,7 +33,7 @@ When water is soaking into your subfloor, smoke smell is locked into every wall,
 
 Twenty-seven years in business means we've worked in virtually every housing type in the area, 1970s ranch homes in Lehi, newer construction in Eagle Mountain, commercial strip centers along Redwood Road. That experience shows up in the details: knowing which subfloor adhesives trap moisture, which HVAC configurations spread smoke odor fastest, and how to write a scope of work that an insurance adjuster will approve rather than dispute.
 
-Home Pride is IICRC Certified, which is the restoration industry's primary professional standard covering water, fire, and mold work. We're also a licensed contractor in Utah (RC-25-0737), fully insured, and experienced in billing directly with most major insurance carriers, so you're not writing checks and waiting for reimbursement while your home is torn apart.
+Home Pride is IICRC Certified, which is the restoration industry's primary professional standard covering water, fire, and mold work. We're also fully insured and experienced in billing directly with most major insurance carriers, so you're not writing checks and waiting for reimbursement while your home is torn apart.
 
 Our crew is available 24 hours a day, seven days a week. Emergencies don't schedule themselves around business hours, and neither do we. When you call (801) 995-2437, you reach a real person who can dispatch a technician, not a voicemail that gets returned the next morning.
 

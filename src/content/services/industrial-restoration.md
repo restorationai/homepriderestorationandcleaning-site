@@ -53,6 +53,6 @@ Utah's freeze-thaw winters put real stress on industrial roofing, dock doors, an
 
 ## Service area
 
-Home Pride Restoration and Cleaning handles industrial and warehouse restoration throughout Saratoga Springs and the surrounding Utah Valley communities, including Lehi, Eagle Mountain, American Fork, and Pleasant Grove. Our team is IICRC certified and licensed (RC-25-0737) to work on commercial and industrial properties across the region.
+Home Pride Restoration and Cleaning handles industrial and warehouse restoration throughout Saratoga Springs and the surrounding Utah Valley communities, including Lehi, Eagle Mountain, American Fork, and Pleasant Grove. Our team is IICRC certified and works on commercial and industrial properties across the region.
 
 If your facility has standing water, smoke damage, or a mold problem that's threatening to shut down a production line, get a written scope of work started now so repairs and insurance documentation move in parallel, not one after the other.

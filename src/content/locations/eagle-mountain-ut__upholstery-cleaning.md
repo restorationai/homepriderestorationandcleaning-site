@@ -36,7 +36,7 @@ For fabric upholstery, the sequence is pre-inspection, dry soil removal with a h
 
 Leather upholstery cleaning follows a different path: pH-balanced cleaner applied with a soft-bristle brush to lift embedded dust from the grain, followed by a conditioner that restores flexibility to leather that Eagle Mountain's dry air has begun to stiffen. Skipping the conditioning step in this climate is the single most common reason leather cracks within a year of cleaning.
 
-All work is performed by IICRC Certified technicians. License #RC-25-0737.
+All work is performed by IICRC Certified technicians.
 
 ## Response Time to Eagle Mountain
 

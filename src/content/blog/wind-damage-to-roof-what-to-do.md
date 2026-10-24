@@ -71,4 +71,4 @@ A torn roof after a windstorm feels urgent because it is. The good news is the s
 
 **About Home Pride Restoration and Cleaning**
 
-Home Pride Restoration and Cleaning is an IICRC-certified company (license RC-25-0737) serving Saratoga Springs, Utah and the surrounding Wasatch Front communities since 1997. Their crews handle storm damage restoration, emergency board-up and tarping, roof leak repair, and water damage mitigation across the region, available 24/7 for active water intrusion.
+Home Pride Restoration and Cleaning is an IICRC-certified company serving Saratoga Springs, Utah and the surrounding Wasatch Front communities since 1997. Their crews handle storm damage restoration, emergency board-up and tarping, roof leak repair, and water damage mitigation across the region, available 24/7 for active water intrusion.

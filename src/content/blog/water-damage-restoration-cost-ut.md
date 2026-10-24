@@ -111,7 +111,7 @@ For urgent situations, see [What To Do in the First 24 Hours After Water Damage]
 
 If you have active water damage, the most expensive mistake is waiting. Every hour of delay increases the drying time, the equipment cost, and the likelihood of mold growth. If the source of water is still running, shut it off at the main or the fixture shutoff before anything else.
 
-Then call a certified restoration company for a moisture assessment. In the Saratoga Springs area and across Utah County and Salt Lake County, Home Pride Restoration and Cleaning LLC is available 24/7 at **(801) 995-2437** and holds IICRC certification (license RC-25-0737). They handle water damage extraction, structural drying, sewage cleanup, and mold remediation, and they provide a written scope before work begins so you know exactly what the job covers.
+Then call a certified restoration company for a moisture assessment. In the Saratoga Springs area and across Utah County and Salt Lake County, Home Pride Restoration and Cleaning LLC is available 24/7 at **(801) 995-2437** and holds IICRC certification. They handle water damage extraction, structural drying, sewage cleanup, and mold remediation, and they provide a written scope before work begins so you know exactly what the job covers.
 
 If you're not sure whether your situation is covered, read your policy's water damage exclusions before you call your insurer. The restoration company can help document the loss in a way that supports your claim, but they cannot change what happened. The sooner you start the clock on proper drying, the better your outcome.
 
@@ -119,7 +119,7 @@ If you're not sure whether your situation is covered, read your policy's water d
 
 **About Home Pride Restoration and Cleaning**
 
-Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, American Fork, Orem, Provo, and surrounding Utah communities since 1997 (license RC-25-0737). Their crews handle water damage restoration, burst pipe repair, frozen pipe restoration, appliance leak cleanup, basement flooding cleanup, sewage cleanup, storm damage restoration, fire and smoke damage restoration, mold remediation, and mold inspection and testing, along with carpet cleaning, odor removal, and crawl space encapsulation. Available 24/7 at (801) 995-2437.
+Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, American Fork, Orem, Provo, and surrounding Utah communities since 1997. Their crews handle water damage restoration, burst pipe repair, frozen pipe restoration, appliance leak cleanup, basement flooding cleanup, sewage cleanup, storm damage restoration, fire and smoke damage restoration, mold remediation, and mold inspection and testing, along with carpet cleaning, odor removal, and crawl space encapsulation. Available 24/7 at (801) 995-2437.
 
 ## Video Transcript
 

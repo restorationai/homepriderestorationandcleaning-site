@@ -88,4 +88,4 @@ Home Pride Restoration and Cleaning serves Saratoga Springs, Lehi, Eagle Mountai
 
 **About Home Pride Restoration and Cleaning**
 
-Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Saratoga Springs, Utah and surrounding Utah County communities since 1997 (license RC-25-0737). Their crews handle fire and smoke damage, water damage, mold remediation, and odor removal across the region, available around the clock. Home Pride brings professional-grade equipment and restoration chemistry to jobs that go well beyond what household cleaning products can address.
+Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Saratoga Springs, Utah and surrounding Utah County communities since 1997. Their crews handle fire and smoke damage, water damage, mold remediation, and odor removal across the region, available around the clock. Home Pride brings professional-grade equipment and restoration chemistry to jobs that go well beyond what household cleaning products can address.

@@ -39,7 +39,7 @@ From there, the method depends on what we find:
 - **Ozone treatment** delivers the fastest molecular-level odor elimination for vacant properties, but the home must be fully vacated during treatment and properly ventilated afterward. We time ozone cycles carefully given South Jordan's inversion conditions, running exhaust fans during a heavy inversion day can work against clearance.
 - **Enzyme and encapsulant applications** address biological sources: pet urine that has wicked into concrete slab edges (common in South Jordan's slab-on-grade construction), subfloor contamination, and HVAC ductwork odor.
 
-All work is performed by IICRC Certified technicians under license #RC-25-0737.
+All work is performed by IICRC Certified technicians.
 
 ## Response Time to South Jordan from Our Saratoga Springs Base
 

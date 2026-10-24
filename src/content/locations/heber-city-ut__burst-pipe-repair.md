@@ -44,7 +44,7 @@ When you call us, the first thing we do is stop the bleeding, literally. If the 
 
 **5. Documentation.** Every moisture reading, photo, and equipment log gets compiled into a report formatted for insurance submission. We've worked with most major carriers on Heber City claims and know what adjusters need to see.
 
-As an IICRC Certified firm operating under Utah contractor license #RC-25-0737, our process follows S500 water damage restoration standards, the same framework your insurance carrier expects.
+As an IICRC Certified firm, our process follows S500 water damage restoration standards, the same framework your insurance carrier expects.
 
 ## Response Time to Heber City
 

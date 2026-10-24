@@ -35,7 +35,7 @@ Water heater closets are another common source. Many American Fork homes have ta
 
 When you call (801) 995-2437, the first thing we do is stop the water source if it hasn't been stopped already, we'll walk you through shutting the supply valve over the phone while the crew is en route. On arrival, we use thermal imaging cameras and calibrated moisture meters to map exactly how far water has traveled beneath flooring, behind cabinets, and into wall cavities. This matters in American Fork's newer construction because engineered hardwood and LVP flooring can look dry on the surface while the OSB subfloor underneath holds significant moisture.
 
-Extraction comes next, truck-mounted or portable units depending on access, followed by strategic placement of commercial desiccant dehumidifiers and axial air movers. We monitor drying daily with logged moisture readings so you have documentation for your insurance claim. IICRC-certified technicians handle every job, and we carry the licensing (#RC-25-0737) required to operate in Utah County.
+Extraction comes next, truck-mounted or portable units depending on access, followed by strategic placement of commercial desiccant dehumidifiers and axial air movers. We monitor drying daily with logged moisture readings so you have documentation for your insurance claim. IICRC-certified technicians handle every job, and we carry the licensing required to operate in Utah County.
 
 ## Response Time to American Fork
 

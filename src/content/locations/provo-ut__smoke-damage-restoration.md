@@ -48,7 +48,7 @@ Our headquarters in Saratoga Springs puts us roughly 20–25 minutes from most P
 
 ## Provo Insurance Coordination for Smoke Damage Claims
 
-Most homeowners' policies in Utah cover sudden and accidental smoke damage from a fire, and many also cover wildfire smoke infiltration if it caused documented property damage. We work directly with adjusters and provide the photo documentation, moisture and air quality readings, and itemized scope of work that Utah County claims typically require. License #RC-25-0737 is on file and available to your adjuster on request. One thing worth knowing: if your home is in a Provo HOA community, some associations require written notification before exterior restoration work begins, even for emergency services. We'll help you identify that requirement and handle the communication so it doesn't slow down your claim.
+Most homeowners' policies in Utah cover sudden and accidental smoke damage from a fire, and many also cover wildfire smoke infiltration if it caused documented property damage. We work directly with adjusters and provide the photo documentation, moisture and air quality readings, and itemized scope of work that Utah County claims typically require. One thing worth knowing: if your home is in a Provo HOA community, some associations require written notification before exterior restoration work begins, even for emergency services. We'll help you identify that requirement and handle the communication so it doesn't slow down your claim.
 
 ## Local Note
 

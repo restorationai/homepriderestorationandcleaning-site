@@ -39,7 +39,7 @@ Depending on what we find, we deploy one or more of the following methods:
 - **Ozone treatment**, high-concentration ozone for unoccupied spaces with severe smoke or biological odors. Requires full evacuation of people and pets, and we coordinate timing carefully.
 - **HEPA air scrubbing and duct cleaning**, essential in homes where forced-air systems have circulated contaminated air, which is common in Orem's newer open-plan construction.
 
-All work is performed by IICRC Certified technicians under license #RC-25-0737.
+All work is performed by IICRC Certified technicians.
 
 ## Response Time from Saratoga Springs to Orem
 

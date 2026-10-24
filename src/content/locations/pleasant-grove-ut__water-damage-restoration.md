@@ -48,7 +48,7 @@ Our headquarters is in Saratoga Springs, roughly 10 to 15 minutes from Pleasant 
 
 ## Pleasant Grove Insurance Coordination
 
-Most standard homeowners policies in Utah cover sudden and accidental water discharge, a burst pipe, an appliance failure, an overflowing fixture, but they draw a hard line at gradual leaks and ground seepage. We've worked with nearly every major carrier active in Utah County and we document jobs specifically to support the claim language adjusters need: scope of loss, moisture readings at intake, equipment logs, and daily progress photos. We submit directly to your carrier and can work with your adjuster on a supplement if hidden damage is discovered during drying. License #RC-25-0737.
+Most standard homeowners policies in Utah cover sudden and accidental water discharge, a burst pipe, an appliance failure, an overflowing fixture, but they draw a hard line at gradual leaks and ground seepage. We've worked with nearly every major carrier active in Utah County and we document jobs specifically to support the claim language adjusters need: scope of loss, moisture readings at intake, equipment logs, and daily progress photos. We submit directly to your carrier and can work with your adjuster on a supplement if hidden damage is discovered during drying.
 
 ## Local Note
 

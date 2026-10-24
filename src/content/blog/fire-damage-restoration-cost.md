@@ -116,4 +116,4 @@ If you're ready to get a written estimate for a fire loss in Utah County or the 
 
 **About Home Pride Restoration and Cleaning**
 
-Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, Provo, and the broader Utah County and Wasatch Front area since 1997 (license RC-25-0737). Their crews handle fire, smoke, water, and mold losses for residential and commercial property owners, and work directly with insurance adjusters to document scope and support claims. Available 24/7 at (801) 995-2437.
+Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, Provo, and the broader Utah County and Wasatch Front area since 1997. Their crews handle fire, smoke, water, and mold losses for residential and commercial property owners, and work directly with insurance adjusters to document scope and support claims. Available 24/7 at (801) 995-2437.

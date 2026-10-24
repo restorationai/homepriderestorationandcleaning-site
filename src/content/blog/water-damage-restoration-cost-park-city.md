@@ -114,4 +114,4 @@ Home Pride Restoration and Cleaning provides written scopes after every on-site 
 
 **About Home Pride Restoration and Cleaning**
 
-Home Pride Restoration and Cleaning LLC is an IICRC-certified restoration company serving Park City, Heber City, and communities across northern Utah since 1997 (license RC-25-0737). Their crews handle water damage mitigation, basement flooding cleanup, mold remediation, and full-scope restoration for residential and commercial properties throughout the Wasatch Back. Available 24/7 for emergency response.
+Home Pride Restoration and Cleaning LLC is an IICRC-certified restoration company serving Park City, Heber City, and communities across northern Utah since 1997. Their crews handle water damage mitigation, basement flooding cleanup, mold remediation, and full-scope restoration for residential and commercial properties throughout the Wasatch Back. Available 24/7 for emergency response.

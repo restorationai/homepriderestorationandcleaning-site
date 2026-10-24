@@ -40,7 +40,7 @@ Home Pride Restoration and Cleaning operates out of Saratoga Springs, which puts
 
 ## Provo Insurance Coordination
 
-Mold claims in Provo tend to hinge on whether the moisture source qualifies as a "sudden and accidental" event under your homeowner's policy, a burst pipe usually does, while long-term condensation from an unventilated crawl space often doesn't. We document the job from the first inspection forward: moisture readings, photo logs, scope of work, and material removal records. That documentation package is what adjusters need to process a claim efficiently, and we've worked with most major carriers active in Utah County. We hold contractor license #RC-25-0737 and carry full liability and workers' compensation insurance, which some carriers require before authorizing work to begin.
+Mold claims in Provo tend to hinge on whether the moisture source qualifies as a "sudden and accidental" event under your homeowner's policy, a burst pipe usually does, while long-term condensation from an unventilated crawl space often doesn't. We document the job from the first inspection forward: moisture readings, photo logs, scope of work, and material removal records. That documentation package is what adjusters need to process a claim efficiently, and we've worked with most major carriers active in Utah County. We carry full liability and workers' compensation insurance, which some carriers require before authorizing work to begin.
 
 ## Local Note
 

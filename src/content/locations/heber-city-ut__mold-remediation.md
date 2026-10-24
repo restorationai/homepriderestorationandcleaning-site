@@ -42,7 +42,7 @@ Home Pride's headquarters is in Saratoga Springs, and our standard drive to Hebe
 
 ## Heber City Insurance Coordination
 
-Mold claims in Utah vary significantly depending on the policy and the documented cause of loss. Mold that traces to a sudden, covered water event, a burst pipe, an appliance failure, is typically covered under standard homeowners policies. Mold from long-term seepage or deferred maintenance is frequently excluded. We document the moisture source, the affected area, and the remediation scope in a format that works with most major carriers, and we communicate directly with adjusters when that speeds the process. We're licensed in Utah (RC-25-0737) and carry the insurance documentation adjusters routinely request before authorizing work.
+Mold claims in Utah vary significantly depending on the policy and the documented cause of loss. Mold that traces to a sudden, covered water event, a burst pipe, an appliance failure, is typically covered under standard homeowners policies. Mold from long-term seepage or deferred maintenance is frequently excluded. We document the moisture source, the affected area, and the remediation scope in a format that works with most major carriers, and we communicate directly with adjusters when that speeds the process. We carry the insurance documentation adjusters routinely request before authorizing work.
 
 ## Local Note: Ice Damming and Attic Mold in Heber City
 

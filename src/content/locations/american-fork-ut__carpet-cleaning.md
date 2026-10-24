@@ -42,4 +42,4 @@ One thing that catches homeowners off guard in American Fork: the dry time math 
 
 If your home is in the 84003 area and you're scheduling a cleaning in late summer, let us know, we'll plan the job time and equipment load accordingly.
 
-For carpet cleaning in American Fork that accounts for the actual soil, water, and climate conditions here, not a one-size-fits-all truck pulling up and spraying the same formula it used in a Salt Lake suburb, call Home Pride Restoration and Cleaning at (801) 995-2437. IICRC certified, licensed (#RC-25-0737), and working in this valley since 1997.
+For carpet cleaning in American Fork that accounts for the actual soil, water, and climate conditions here, not a one-size-fits-all truck pulling up and spraying the same formula it used in a Salt Lake suburb, call Home Pride Restoration and Cleaning at (801) 995-2437. IICRC certified and working in this valley since 1997.

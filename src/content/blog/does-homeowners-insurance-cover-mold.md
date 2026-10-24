@@ -107,4 +107,4 @@ Home Pride Restoration and Cleaning handles both [mold inspection and testing](/
 
 **About Home Pride Restoration and Cleaning**
 
-Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, American Fork, Provo, and surrounding Utah communities since 1997 (license RC-25-0737). Their services include mold inspection and testing, mold remediation, water damage restoration, fire and smoke damage restoration, sewage cleanup, and a full range of cleaning services. They are available 24/7 for emergency response.
+Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, American Fork, Provo, and surrounding Utah communities since 1997. Their services include mold inspection and testing, mold remediation, water damage restoration, fire and smoke damage restoration, sewage cleanup, and a full range of cleaning services. They are available 24/7 for emergency response.

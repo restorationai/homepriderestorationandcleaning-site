@@ -66,4 +66,4 @@ If you're not sure whether what you're looking at is worth a claim, a roof and a
 
 **About Home Pride Restoration and Cleaning**
 
-Home Pride Restoration and Cleaning is an IICRC-certified restoration company (license RC-25-0737) that has served Saratoga Springs and the surrounding Wasatch Front and Wasatch Back, including Heber City and Park City, since 1997. Their crews handle storm damage restoration, roof leak repair, water damage restoration, and mold remediation, and the company operates 24/7 for emergency stabilization work.
+Home Pride Restoration and Cleaning is an IICRC-certified restoration company that has served Saratoga Springs and the surrounding Wasatch Front and Wasatch Back, including Heber City and Park City, since 1997. Their crews handle storm damage restoration, roof leak repair, water damage restoration, and mold remediation, and the company operates 24/7 for emergency stabilization work.

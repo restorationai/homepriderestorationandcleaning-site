@@ -34,7 +34,7 @@ Every job starts with a thorough inspection, moisture meters, thermal imaging, a
 
 Once the scope is confirmed, the affected area is isolated with negative-air containment barriers and HEPA-filtered air scrubbers running continuously. Contaminated porous materials, drywall, insulation, subfloor sections, are removed, bagged, and disposed of per Utah solid waste guidelines. Structural surfaces are treated with EPA-registered antimicrobial agents, and the area is dried to documented moisture levels before any reconstruction begins. In Lehi's newer construction, that drying phase often takes longer than homeowners expect because engineered lumber and OSB sheathing absorb and release moisture more slowly than dimensional lumber.
 
-Home Pride Restoration and Cleaning is IICRC Certified and licensed in Utah (RC-25-0737), which matters when your insurance adjuster asks for documentation of the remediation standard followed.
+Home Pride Restoration and Cleaning is IICRC Certified, which matters when your insurance adjuster asks for documentation of the remediation standard followed.
 
 ## Response Time to Lehi
 

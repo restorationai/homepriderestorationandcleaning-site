@@ -97,4 +97,4 @@ If you are at the point where you need a professional assessment, Home Pride Res
 
 **About Home Pride Restoration and Cleaning**
 
-Home Pride Restoration and Cleaning LLC is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, Provo, Orem, and surrounding Utah communities since 1997 (license RC-25-0737). Their crews handle mold remediation, mold inspection and testing, water damage restoration, fire and smoke damage restoration, sewage cleanup, and a full range of cleaning services including carpet cleaning, tile and grout cleaning, and crawl space encapsulation. Available 24/7 at (801) 995-2437.
+Home Pride Restoration and Cleaning LLC is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, Provo, Orem, and surrounding Utah communities since 1997. Their crews handle mold remediation, mold inspection and testing, water damage restoration, fire and smoke damage restoration, sewage cleanup, and a full range of cleaning services including carpet cleaning, tile and grout cleaning, and crawl space encapsulation. Available 24/7 at (801) 995-2437.

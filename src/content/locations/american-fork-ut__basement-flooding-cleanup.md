@@ -51,7 +51,7 @@ If you're in a neighborhood closer to the foothills, such as the areas east of 9
 
 Most standard homeowner policies in Utah cover sudden and accidental water damage, a burst pipe, an appliance failure, but exclude gradual seepage or groundwater intrusion unless you carry a separate flood rider. That distinction matters enormously in American Fork, where the cause of basement flooding is often ambiguous between a failed sump pump (typically covered) and hydrostatic pressure through a foundation crack (often excluded).
 
-As an IICRC Certified contractor licensed under RC-25-0737, we document moisture readings, water category, affected materials, and drying logs in a format that insurance adjusters recognize and accept. We work directly with most major carriers and can communicate findings to your adjuster so you're not translating technical data on your own during an already stressful situation.
+As an IICRC Certified contractor, we document moisture readings, water category, affected materials, and drying logs in a format that insurance adjusters recognize and accept. We work directly with most major carriers and can communicate findings to your adjuster so you're not translating technical data on your own during an already stressful situation.
 
 ## Local Note: Sump Pump Timing in American Fork
 

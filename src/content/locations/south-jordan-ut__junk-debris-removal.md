@@ -46,7 +46,7 @@ For whole-house cleanouts and large garage cleanout projects, we schedule a conf
 
 If your property falls under an HOA, we'll work within whatever staging and access rules apply. We've encountered everything from communities that require crews to use rear alley access only, to developments that prohibit non-resident commercial vehicles from parking on interior streets for more than 30 minutes. A quick call to your HOA management company before we arrive, something we can help you think through when you book, prevents the kind of mid-job complications that add time and frustration.
 
-We carry full liability insurance and are licensed in Utah (RC-25-0737), so if your HOA requires proof of insurance before allowing work on the property, we can provide a certificate of insurance before the crew shows up.
+We carry full liability insurance, so if your HOA requires proof of insurance before allowing work on the property, we can provide a certificate of insurance before the crew shows up.
 
 ## Local Note
 

@@ -56,6 +56,6 @@ Saratoga Springs sees cold winters with freeze-thaw cycles that can delay exteri
 
 ## Service area
 
-Home Pride Restoration and Cleaning provides reconstruction services to Saratoga Springs and the surrounding Utah County communities, including Lehi, Eagle Mountain, American Fork, and Pleasant Grove. Our team is IICRC certified and licensed (#RC-25-0737) to handle structural reconstruction from scope through final finish.
+Home Pride Restoration and Cleaning provides reconstruction services to Saratoga Springs and the surrounding Utah County communities, including Lehi, Eagle Mountain, American Fork, and Pleasant Grove. Our team is IICRC certified and handles structural reconstruction from scope through final finish.
 
 If mitigation is finished and your home needs to be rebuilt, get a reconstruction scope of work from our team so you know exactly what's being replaced, what it will cost, and how it ties back to your insurance claim. Call (801) 995-2437 to get started.

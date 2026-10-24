@@ -51,7 +51,7 @@ Sewage backups do not wait for business hours. We answer calls around the clock,
 
 Most homeowner policies in Utah cover sudden and accidental sewer backups, but coverage depends heavily on whether the homeowner added a sewer backup rider, a relatively inexpensive endorsement that many Eagle Mountain residents skip when setting up a new policy on a newly built home. We have worked with every major carrier active in Utah County and can document the loss with the photo evidence, moisture logs, and scope reports that adjusters require.
 
-If your policy does not include sewer backup coverage, we will walk through the out-of-pocket scope with you before any work begins. License #RC-25-0737 is on file with the Utah Division of Occupational and Professional Licensing, and we carry full liability and workers' compensation insurance, documentation your carrier may request.
+If your policy does not include sewer backup coverage, we will walk through the out-of-pocket scope with you before any work begins. We carry full liability and workers' compensation insurance, documentation your carrier may request.
 
 ## Local Note
 

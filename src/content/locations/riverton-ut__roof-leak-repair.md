@@ -44,7 +44,7 @@ For evening and weekend calls, which is when most homeowners first notice ceilin
 
 ## Insurance and Documentation in Riverton
 
-Most homeowner's policies in Utah cover sudden and accidental water intrusion from a roof failure, but the documentation requirements matter. Adjusters want moisture readings, photo logs, and a written scope before approving a claim, not just a contractor's verbal estimate. Every job includes a complete moisture mapping report, timestamped photos of all affected areas, and a line-item scope of work formatted to align with standard insurance claim documentation. Home Pride is IICRC Certified and licensed under Utah contractor license #RC-25-0737, which most carriers require before authorizing work.
+Most homeowner's policies in Utah cover sudden and accidental water intrusion from a roof failure, but the documentation requirements matter. Adjusters want moisture readings, photo logs, and a written scope before approving a claim, not just a contractor's verbal estimate. Every job includes a complete moisture mapping report, timestamped photos of all affected areas, and a line-item scope of work formatted to align with standard insurance claim documentation. Home Pride is IICRC Certified, which most carriers require before authorizing work.
 
 If there's an HOA involved, common in Riverton's planned communities, the team can communicate directly with the HOA's property management contact to clarify what exterior repair work requires board approval versus what falls under the homeowner's individual maintenance responsibility.
 

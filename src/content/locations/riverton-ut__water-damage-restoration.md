@@ -37,7 +37,7 @@ Every job starts with a moisture assessment before any equipment is staged. Our 
 
 Once we understand the full scope, water removal begins with truck-mounted extraction units capable of pulling hundreds of gallons from flooring and structural cavities. Standing water in a finished basement typically clears in under an hour; saturated subfloor assemblies take longer and require targeted extraction tools. After bulk water removal, we set industrial desiccant dehumidifiers and high-velocity air movers calibrated to the room's square footage and the materials involved. Structural drying in a typical Riverton home runs three to five days, with daily moisture readings to confirm progress and adjust equipment placement.
 
-We document every reading and every equipment log for your insurance carrier. Home Pride holds a Utah contractor's license (#RC-25-0737) and works directly with all major insurers, so the paperwork burden on your end stays manageable.
+We document every reading and every equipment log for your insurance carrier. Home Pride works directly with all major insurers, so the paperwork burden on your end stays manageable.
 
 ## Response Time to Riverton
 

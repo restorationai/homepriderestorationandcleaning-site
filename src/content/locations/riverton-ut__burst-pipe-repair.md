@@ -36,7 +36,7 @@ From there, the process moves in parallel:
 
 - **Moisture mapping**, thermal imaging cameras and calibrated moisture meters document the full spread of saturation behind walls, under flooring, and into subfloor assemblies. In Riverton's finished basements, water routinely travels 15 to 20 feet from the break point before it becomes visible.
 - **Structural drying**, commercial-grade desiccant dehumidifiers and high-velocity air movers are positioned according to a drying plan, not just placed at random. We monitor readings daily and adjust equipment placement as materials dry.
-- **Pipe repair coordination**, as an IICRC Certified restoration contractor licensed in Utah (#RC-25-0737), we coordinate directly with licensed plumbers for the actual line repair so you're not managing two separate contractors.
+- **Pipe repair coordination**, as an IICRC Certified restoration contractor, we coordinate directly with licensed plumbers for the actual line repair so you're not managing two separate contractors.
 - **Documentation for insurance**, every moisture reading, photo, and equipment log is formatted for your adjuster from day one.
 
 ## Response Time to Riverton

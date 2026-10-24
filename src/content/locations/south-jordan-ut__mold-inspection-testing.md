@@ -34,7 +34,7 @@ Every inspection starts with a visual walkthrough using moisture meters and ther
 
 Sampling typically includes air-quality cassette samples from interior living spaces compared against an outdoor baseline, plus surface swab or tape-lift samples from any suspect material. All samples are shipped to an accredited third-party laboratory, results generally return within 24 to 48 hours. The written report you receive identifies the specific mold genera present, spore concentrations relative to outdoor levels, and the likely moisture source driving growth. That report is formatted to satisfy insurance adjusters, HOA management companies, and real estate transaction requirements alike.
 
-Home Pride Restoration and Cleaning has been doing this work since 1997, and the team is IICRC certified. License #RC-25-0737 is on file with the state, and we carry the insurance documentation most South Jordan HOAs and lenders require before any assessment work begins.
+Home Pride Restoration and Cleaning has been doing this work since 1997, and the team is IICRC certified. We carry the insurance documentation most South Jordan HOAs and lenders require before any assessment work begins.
 
 ## Response Time to South Jordan
 

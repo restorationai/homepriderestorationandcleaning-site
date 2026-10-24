@@ -42,7 +42,7 @@ From there, the process moves through four concrete phases:
 3. **Structural drying**, Industrial desiccant dehumidifiers and high-velocity air movers run in a calculated pattern based on the room's square footage and the moisture readings from step one. We set and log target drywall and subfloor readings daily.
 4. **Documentation and clearance**, Every moisture reading, every equipment placement, and every daily check is logged. That documentation goes directly to your insurance adjuster if you're filing a claim.
 
-We're IICRC Certified and licensed in Utah (license #RC-25-0737), which matters when your adjuster asks for credentials before approving a scope of work.
+We're IICRC Certified, which matters when your adjuster asks for credentials before approving a scope of work.
 
 ## Response Time from Saratoga Springs to Lehi
 

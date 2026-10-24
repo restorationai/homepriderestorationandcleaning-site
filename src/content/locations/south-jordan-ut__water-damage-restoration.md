@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Water damage emergency in South Jordan? We answer 24/7.** Call now and our crew heads out to stop the water and start drying your property.
 
-South Jordan sits at roughly 4,400 feet elevation on the western bench of the Wasatch Front, where snowmelt from the Oquirrh Mountains pushes groundwater tables higher every spring and winter freeze-thaw cycles stress supply lines in ways that flat-valley cities rarely see. When a pipe lets go or a water heater fails in a home here, whether that's a newer build near Daybreak's community lakes or an older ranch-style off Redwood Road, standing water can reach the subfloor in under an hour. Home Pride Restoration and Cleaning has been responding to exactly these situations since 1997, and our team carries IICRC certification and a Utah contractor's license (#RC-25-0737) to every job.
+South Jordan sits at roughly 4,400 feet elevation on the western bench of the Wasatch Front, where snowmelt from the Oquirrh Mountains pushes groundwater tables higher every spring and winter freeze-thaw cycles stress supply lines in ways that flat-valley cities rarely see. When a pipe lets go or a water heater fails in a home here, whether that's a newer build near Daybreak's community lakes or an older ranch-style off Redwood Road, standing water can reach the subfloor in under an hour. Home Pride Restoration and Cleaning has been responding to exactly these situations since 1997, and our team carries IICRC certification to every job.
 
 ## Why South Jordan Properties See Water Damage Differently
 

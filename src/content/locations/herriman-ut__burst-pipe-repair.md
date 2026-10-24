@@ -37,7 +37,7 @@ When you call (801) 995-2437, the first thing we do is talk you through shutting
 
 On arrival, we assess the break point, document the damage for your insurance carrier, and begin extraction immediately. For burst pipes inside finished spaces, we use truck-mounted and portable extraction units to pull standing water from carpet, hardwood, and subfloor. We then deploy commercial-grade desiccant dehumidifiers and air movers calibrated to the square footage and construction type of your specific home. Moisture mapping with thermal imaging lets us find water that has migrated behind drywall or under flooring without tearing into surfaces unnecessarily.
 
-Repair coordination, whether that means a licensed plumber for the pipe itself or a general contractor for structural repairs, is something we help facilitate. We carry contractor license #RC-25-0737 and work regularly with local plumbing and reconstruction crews familiar with Herriman's permit requirements through Salt Lake County.
+Repair coordination, whether that means a licensed plumber for the pipe itself or a general contractor for structural repairs, is something we help facilitate. We work regularly with local plumbing and reconstruction crews familiar with Herriman's permit requirements through Salt Lake County.
 
 ## Herriman Insurance Coordination
 

@@ -50,7 +50,7 @@ export const brand = {
   ga4MeasurementId: "G-6X1L63FBE5",
   clarityProjectId: "xdojyl8enb",
   logoUrl: "/images/logo.png",
-  licenseNumbers: ["RC-25-0737"] as string[],
+  licenseNumbers: [] as string[],
   licenseAuthority: "",
   // State license-verification page — the footer links the license number here.
   licenseLookupUrl: "https://secure.utah.gov/llv/search/index.html",

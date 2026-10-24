@@ -41,7 +41,7 @@ When a technician arrives, the first priority is stopping any ongoing water sour
 4. **Antimicrobial treatment**, applied to any surface that was in contact with water for more than a few hours, particularly cabinet interiors and subfloor sheathing.
 5. **Final clearance readings**, equipment stays until materials return to acceptable moisture levels, typically three to five days depending on construction type.
 
-All work is performed by IICRC Certified technicians under contractor license #RC-25-0737.
+All work is performed by IICRC Certified technicians.
 
 ## Response Time from Saratoga Springs to Provo
 

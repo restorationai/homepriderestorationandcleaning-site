@@ -43,7 +43,7 @@ The job starts with a same-day assessment: structural safety, smoke migration ma
 
 **Structural drying and stabilization** follows any water damage left by suppression efforts. Fire hoses move a lot of water fast, and subfloor saturation is common even in rooms that didn't burn.
 
-**Reconstruction coordination** closes the loop. As an IICRC Certified firm licensed in Utah (#RC-25-0737) and in business since 1997, the team handles the handoff from mitigation to rebuild under one roof, which matters when you're trying to get a Riverton family back into their home before the next school year.
+**Reconstruction coordination** closes the loop. As an IICRC Certified firm and in business since 1997, the team handles the handoff from mitigation to rebuild under one roof, which matters when you're trying to get a Riverton family back into their home before the next school year.
 
 ## Response Time to Riverton from Our HQ
 

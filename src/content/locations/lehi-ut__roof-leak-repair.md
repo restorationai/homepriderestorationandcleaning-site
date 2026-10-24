@@ -37,7 +37,7 @@ Once the intrusion point is controlled, our IICRC-certified technicians move thr
 - **Moisture mapping**, thermal imaging and calibrated moisture meters across the attic floor, ceiling joists, and any wall cavities where water may have tracked. In Lehi's two-story homes, water from an upper-roof leak frequently travels along the top plate and appears in a first-floor wall, feet away from the actual entry point.
 - **Material evaluation**, saturated insulation (fiberglass batts lose R-value and harbor mold within 24–48 hours of saturation) is removed and bagged. Wet drywall that reads above 1% moisture content by weight is typically removed rather than dried in place, because paper facing is a primary mold food source.
 - **Structural drying**, commercial desiccant dehumidifiers and axial air movers are positioned to create a directed drying chamber in the affected attic or ceiling cavity. We monitor daily with calibrated equipment and document readings for your insurance file.
-- **Roof repair coordination**, we work alongside licensed roofing contractors to ensure the repair and the interior restoration are sequenced correctly. We hold a Utah contractor license (#RC-25-0737), which means we can handle the restoration scope under a single contract rather than leaving you to manage multiple vendors.
+- **Roof repair coordination**, we work alongside licensed roofing contractors to ensure the repair and the interior restoration are sequenced correctly. We can handle the restoration scope under a single contract rather than leaving you to manage multiple vendors.
 
 ## Response Time to Lehi
 

@@ -48,4 +48,4 @@ One thing we've learned working in Utah Valley for nearly three decades: Provo's
 
 If your carpet has been cleaned before and seemed to get dirty again unusually fast, residue resoiling is likely the reason.
 
-For carpet cleaning in Provo that actually holds up between visits, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We're IICRC Certified, licensed under RC-25-0737, and we've been maintaining Utah Valley floors long enough to know exactly what this valley puts them through.
+For carpet cleaning in Provo that actually holds up between visits, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We're IICRC Certified, and we've been maintaining Utah Valley floors long enough to know exactly what this valley puts them through.

@@ -22,7 +22,7 @@ author: "Curt Eddy"
 ---
 **TL;DR:** For a roof leak in Saratoga Springs, call a water damage restoration company first if water is actively coming through the ceiling or walls, since they can tarp the opening and start drying the interior the same visit. Call a roofer directly only if the roof itself is the sole problem and no water has reached the inside of the home yet. Home Pride Restoration and Cleaning LLC answers at (801) 995-2437 and can coordinate both the emergency tarp and the interior drying under one scope.
 
-If you just noticed a brown ring spreading across your ceiling drywall, or water dripping near a light fixture during a fall storm, you're in the window where the next hour matters more than the next day. For a roof leak in Saratoga Springs, call Home Pride Restoration and Cleaning at [(801) 995-2437](tel:+18019952437). The company is IICRC Certified, licensed in Utah (RC-25-0737), and answers 24/7, so a call placed at 2 a.m. during a windstorm gets the same response as one placed at noon.
+If you just noticed a brown ring spreading across your ceiling drywall, or water dripping near a light fixture during a fall storm, you're in the window where the next hour matters more than the next day. For a roof leak in Saratoga Springs, call Home Pride Restoration and Cleaning at [(801) 995-2437](tel:+18019952437). The company is IICRC Certified, and answers 24/7, so a call placed at 2 a.m. during a windstorm gets the same response as one placed at noon.
 
 ## Roofer or restoration company: who do you actually call first?
 
@@ -71,4 +71,4 @@ A roof leak that's caught early and dried correctly rarely turns into a bigger p
 
 **About Home Pride Restoration and Cleaning**
 
-Home Pride Restoration and Cleaning LLC has served Saratoga Springs and the surrounding Utah County area since 1997. The company is IICRC Certified and licensed under RC-25-0737, holds a 5.0 Google rating across 36 reviews, and answers calls 24/7. This post was written with the Home Pride Restoration and Cleaning team, who handle roof leak repair, emergency board-up and tarping, and water damage restoration across the Wasatch Front.
+Home Pride Restoration and Cleaning LLC has served Saratoga Springs and the surrounding Utah County area since 1997. The company is IICRC Certified, holds a 5.0 Google rating across 36 reviews, and answers calls 24/7. This post was written with the Home Pride Restoration and Cleaning team, who handle roof leak repair, emergency board-up and tarping, and water damage restoration across the Wasatch Front.

@@ -41,7 +41,7 @@ From there, the process moves in a defined sequence:
 - **Smoke and soot removal** using dry-chemical sponges on porous surfaces, alkaline cleaners on protein-based residues, and HEPA-filtered negative air machines to capture particulates without redistributing them.
 - **Odor neutralization** with thermal fogging and hydroxyl generation, methods that reach into wall cavities and subfloor spaces where smoke has migrated, not just the surfaces you can see.
 - **Structural drying and dehumidification** where firefighting water has been introduced. At Park City's elevation, evaporation rates behave differently than at lower altitudes, and we calibrate our drying equipment settings accordingly.
-- **Reconstruction coordination**, from framing and drywall to finish carpentry, handled under our general contractor license (#RC-25-0737) so you're dealing with one company through the entire process.
+- **Reconstruction coordination**, from framing and drywall to finish carpentry, handled by our team so you're dealing with one company through the entire process.
 
 Our IICRC-certified technicians follow S700 fire and smoke restoration standards on every job, which matters when your adjuster is reviewing the scope of work.
 

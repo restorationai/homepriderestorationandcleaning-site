@@ -60,7 +60,7 @@ The most common failure in fire damage repair is treating all soot the same. Cre
 
 Insurance adjusters look for a few specific things: a documented scope that distinguishes between salvageable and non-salvageable materials, photographic evidence of pre-cleaning conditions, a contents inventory with replacement values, and a clear line between cleaning costs and reconstruction costs. Adjusters are experienced at identifying scopes that lump everything together to obscure what was actually done. A detailed, itemized restoration report protects your claim.
 
-IICRC-certified technicians are trained in the S700 Standard for Professional Fire and Smoke Damage Restoration, the industry benchmark that defines proper soot characterization, cleaning sequences, and documentation requirements. Home Pride Restoration and Cleaning holds IICRC certification and operates under Utah contractor license #RC-25-0737.
+IICRC-certified technicians are trained in the S700 Standard for Professional Fire and Smoke Damage Restoration, the industry benchmark that defines proper soot characterization, cleaning sequences, and documentation requirements. Home Pride Restoration and Cleaning holds IICRC certification and operates.
 
 ## Seasonal and regional considerations
 

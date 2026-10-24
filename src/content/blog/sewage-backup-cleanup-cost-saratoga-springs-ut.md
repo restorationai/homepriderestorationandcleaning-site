@@ -87,6 +87,6 @@ A sewage backup in a finished basement is not a wait-and-see situation. The long
 
 **About Home Pride Restoration and Cleaning**
 
-Home Pride Restoration and Cleaning LLC is an IICRC-certified company serving Saratoga Springs, UT and the surrounding Utah County area since 1997 (license RC-25-0737). Their crews handle sewage cleanup, basement flooding, and water damage restoration across the region, available 24/7 for emergency assessments.
+Home Pride Restoration and Cleaning LLC is an IICRC-certified company serving Saratoga Springs, UT and the surrounding Utah County area since 1997. Their crews handle sewage cleanup, basement flooding, and water damage restoration across the region, available 24/7 for emergency assessments.
 
 **Need help now?** [Call Home Pride Restoration and Cleaning at (801) 995-2437](tel:+18019952437).

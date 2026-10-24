@@ -36,7 +36,7 @@ Our crews are based in Saratoga Springs, a short run down the Mountain View Corr
 
 ## Vineyard Insurance & HOA Coordination
 
-Because so much of Vineyard was developed as planned communities with shared townhome rows and condo buildings, HOA notification is often part of the process even when the damage is contained to one unit. We document moisture readings, photos, and equipment placement as we go, which gives you a clear record for your insurance carrier and anything your HOA board wants to see before common-area repairs are approved. Home Pride Restoration and Cleaning is IICRC certified and licensed (#RC-25-0737), and we structure our documentation to match what adjusters typically expect for a water loss claim.
+Because so much of Vineyard was developed as planned communities with shared townhome rows and condo buildings, HOA notification is often part of the process even when the damage is contained to one unit. We document moisture readings, photos, and equipment placement as we go, which gives you a clear record for your insurance carrier and anything your HOA board wants to see before common-area repairs are approved. Home Pride Restoration and Cleaning is IICRC certified, and we structure our documentation to match what adjusters typically expect for a water loss claim.
 
 ## Local Note
 

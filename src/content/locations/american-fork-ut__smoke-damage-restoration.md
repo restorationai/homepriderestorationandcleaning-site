@@ -43,7 +43,7 @@ From there, the process moves in a deliberate sequence:
 4. **HVAC cleaning**, Every register, return, and accessible duct run gets cleaned and treated. Skipping this step guarantees odor return within weeks.
 5. **Final clearance check**, Air quality readings confirm particulate levels are back within normal range before the job closes.
 
-All technicians on this work are IICRC Certified, and the company holds Utah contractor license #RC-25-0737.
+All technicians on this work are IICRC Certified.
 
 ## Response Time to American Fork
 

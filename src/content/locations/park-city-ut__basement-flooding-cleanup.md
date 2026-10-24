@@ -45,7 +45,7 @@ From there, the process moves through several concrete steps:
 - **Antimicrobial treatment**, Applied to all affected surfaces before any reconstruction begins.
 - **Final clearance readings**, We don't pack up equipment until moisture readings return to pre-loss baselines, documented in writing.
 
-All work is performed by IICRC Certified technicians under license #RC-25-0737.
+All work is performed by IICRC Certified technicians.
 
 ## Response Time from Saratoga Springs to Park City
 

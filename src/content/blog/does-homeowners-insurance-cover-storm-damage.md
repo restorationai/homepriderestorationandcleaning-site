@@ -112,7 +112,7 @@ Home Pride Restoration and Cleaning LLC serves homeowners across Utah County and
 
 **About Home Pride Restoration and Cleaning**
 
-Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, Provo, and surrounding Utah communities since 1997 (license RC-25-0737). Their crews handle storm damage restoration, roof leak repair, water damage restoration, fire and smoke damage, mold remediation, and a full range of cleaning services across the Wasatch Front and Utah Valley.
+Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, Provo, and surrounding Utah communities since 1997. Their crews handle storm damage restoration, roof leak repair, water damage restoration, fire and smoke damage, mold remediation, and a full range of cleaning services across the Wasatch Front and Utah Valley.
 
 ## Video Transcript
 

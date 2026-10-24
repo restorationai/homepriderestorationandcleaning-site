@@ -75,4 +75,4 @@ For Heber City homeowners who want a professional eye on the problem, a moisture
 
 **About Home Pride Restoration and Cleaning**
 
-Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Heber City, UT and surrounding communities including Park City, Saratoga Springs, and the broader Wasatch Front since 1997 (license RC-25-0737). Their crews handle water damage, storm damage, roof leak response, mold remediation, and structural drying across the region. Reach them at (801) 995-2437, available 24/7.
+Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Heber City, UT and surrounding communities including Park City, Saratoga Springs, and the broader Wasatch Front since 1997. Their crews handle water damage, storm damage, roof leak response, mold remediation, and structural drying across the region. Reach them at (801) 995-2437, available 24/7.
