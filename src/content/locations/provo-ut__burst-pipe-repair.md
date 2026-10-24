@@ -36,7 +36,7 @@ On arrival, our IICRC-certified technicians begin with a full moisture mapping o
 
 Extraction comes next: truck-mounted units remove standing water from hard surfaces and subfloor assemblies, followed by targeted drying with commercial-grade desiccant dehumidifiers and high-velocity air movers positioned to create a drying envelope around the affected structure. We monitor moisture readings daily and don't close a job until readings return to baseline for the surrounding materials, typically 3 to 5 days for a contained pipe break, longer if the water migrated into a crawl space or finished basement.
 
-Once the structure is dry, we coordinate or perform the plumbing repair itself, document everything for your insurance claim, and handle any drywall, insulation, or flooring that needs to be replaced. One call, one crew, start to finish.
+Once the structure is dry, we work alongside your licensed plumber on the pipe fix, document everything for your insurance claim, and handle any drywall, insulation, or flooring that needs to be replaced. One call, one crew, start to finish.
 
 ## Response Time to Provo from Our Saratoga Springs HQ
 

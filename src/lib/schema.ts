@@ -32,6 +32,33 @@ export type PageSchemaContext = {
 
 const safe = (v: unknown) => (v == null || v === "" ? undefined : v);
 
+// Technician IICRC registrations on file (Curt/Home Pride 2026-10-24: "our
+// certificate numbers ... need to be on our website when Google crawls").
+// Parsed from brand.certifications entries shaped
+// "IICRC <course>: <holder>, Register #<number>"; the footer prints them and
+// the business schema declares each holder with the credential.
+export const iicrcRegisters = (brand.certifications || [])
+  .map((c) => String(c).match(/^IICRC\s+(.+?):\s*(.+?),\s*Register\s*#(\d+)$/i))
+  .filter((m): m is RegExpMatchArray => !!m)
+  .map((m) => ({ course: m[1], holder: m[2], number: m[3] }));
+
+const credentialHolders = () =>
+  iicrcRegisters.length
+    ? {
+        employee: iicrcRegisters.map((c) => ({
+          "@type": "Person",
+          name: c.holder,
+          hasCredential: {
+            "@type": "EducationalOccupationalCredential",
+            credentialCategory: "certification",
+            name: `IICRC ${c.course}`,
+            identifier: c.number,
+            recognizedBy: { "@type": "Organization", name: "Institute of Inspection, Cleaning and Restoration Certification (IICRC)", url: "https://iicrc.org" },
+          },
+        })),
+      }
+    : {};
+
 // 24/7 gate — same brand.hours regex as the Header announcement bar. Only 24/7
 // restoration brands get the EmergencyService typing; scheduled-hours trades
 // (e.g. construction) stay plain LocalBusiness.
@@ -83,6 +110,7 @@ function localBusiness(ctx: PageSchemaContext) {
     },
     sameAs: brand.sameAsUrls,
     foundingDate: brand.foundedYear,
+    ...credentialHolders(),
     // AggregateRating — values come straight from the live Google Business Profile,
     // synced into brand.ts by scripts/sync_brand_reviews.py (never hand-edited; we
     // publish REAL ratings only). Emitted ONLY when both gbpRatingValue and
@@ -127,6 +155,7 @@ function organization() {
     email: brand.email,
     foundingDate: brand.foundedYear,
     sameAs: brand.sameAsUrls,
+    ...credentialHolders(),
   };
 }
 
