@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Heber City, UT | Home Pride Restoration and Cleaning"
+title: "Restoration Services in Heber City, UT | Home Pride Restoration"
 h1: "Restoration Services in Heber City"
 meta_description: "Serving Heber City, UT with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (801) 995-2437."
 primary_keyword: "restoration services heber city"
@@ -19,7 +19,7 @@ state: "UT"
 primary: false
 rendered: true
 ---
-When a pipe bursts at 2 a.m. in a Heber Valley cabin or smoke from a kitchen fire settles into the walls of a Midway-area home, Home Pride Restoration and Cleaning dispatches a trained crew, not an answering service. Since 1997, we've handled water damage, fire and smoke cleanup, mold remediation, and full reconstruction for homeowners and property managers throughout the Heber City area, coordinating directly with insurance carriers so you're not managing paperwork while your floors are still wet.
+When a pipe bursts at 2 a.m. in a Heber Valley cabin or smoke from a kitchen fire settles into the walls of a Midway-area home, Home Pride Restoration dispatches a trained crew, not an answering service. Since 1997, we've handled water damage, fire and smoke cleanup, mold remediation, and full reconstruction for homeowners and property managers throughout the Heber City area, coordinating directly with insurance carriers so you're not managing paperwork while your floors are still wet.
 
 ## Restoration emergencies common in Heber City
 
@@ -57,4 +57,4 @@ Heber City's housing splits roughly into two eras. The older blocks near the ori
 
 Footings in this valley go deep because frost does. Building permits inside city limits come from Heber City; properties on unincorporated valley land are permitted through Wasatch County. Structural repair and reconstruction generally require one.
 
-If you're dealing with water, fire, mold, or storm damage anywhere in the Heber City area, ZIP codes 84032 or 84028, or surrounding communities, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We'll tell you exactly what we're seeing, what it will take to fix it, and how your insurance claim fits into the process.
+If you're dealing with water, fire, mold, or storm damage anywhere in the Heber City area, ZIP codes 84032 or 84028, or surrounding communities, call Home Pride Restoration at **(801) 995-2437**. We'll tell you exactly what we're seeing, what it will take to fix it, and how your insurance claim fits into the process.

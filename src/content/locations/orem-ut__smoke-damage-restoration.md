@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Orem, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Smoke Damage Restoration in Orem, UT | Home Pride Restoration"
 h1: "24/7 Emergency Smoke Damage Restoration in Orem"
 meta_description: "24/7 emergency smoke damage restoration in Orem, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "smoke damage restoration orem"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Smoke damage emergency in Orem? We answer 24/7.** Call now and our crew heads out to stop smoke and soot damage from spreading.
 
-Smoke from a house fire doesn't stop when the flames do. In Orem, where dry Utah County air and low humidity can hover in the single digits during winter inversions, smoke residue dries and bonds to surfaces faster than in more humid climates, and once it sets into porous materials like drywall, insulation, or the brick facades common on older ranch-style homes near Center Street, the odor and staining become significantly harder to reverse. Home Pride Restoration and Cleaning has been responding to post-fire smoke cleanup calls across Utah County since 1997, and we know how differently smoke behaves in this high-desert environment.
+Smoke from a house fire doesn't stop when the flames do. In Orem, where dry Utah County air and low humidity can hover in the single digits during winter inversions, smoke residue dries and bonds to surfaces faster than in more humid climates, and once it sets into porous materials like drywall, insulation, or the brick facades common on older ranch-style homes near Center Street, the odor and staining become significantly harder to reverse. Home Pride Restoration has been responding to post-fire smoke cleanup calls across Utah County since 1997, and we know how differently smoke behaves in this high-desert environment.
 
 ## Why Orem Properties See Distinct Smoke Damage Patterns
 
@@ -52,4 +52,4 @@ Here's something that catches Orem homeowners off guard: during Utah County's in
 
 If your home in the 84097 or 84058 ZIP code has experienced a fire this season, don't run the heat before a technician has checked the system.
 
-Smoke damage compounds quickly in Orem's dry, sealed-up winter homes. Call Home Pride Restoration and Cleaning at (801) 995-2437 for same-day smoke damage restoration in Orem, the sooner residue is treated, the more of your home's surfaces, finishes, and contents can be saved.
+Smoke damage compounds quickly in Orem's dry, sealed-up winter homes. Call Home Pride Restoration at (801) 995-2437 for same-day smoke damage restoration in Orem, the sooner residue is treated, the more of your home's surfaces, finishes, and contents can be saved.

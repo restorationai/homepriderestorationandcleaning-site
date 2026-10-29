@@ -1,7 +1,7 @@
 ---
 hero: '/images/services/water-damage-restoration.webp'
 archetype: "service-landing"
-title: "24/7 Emergency Water Damage Restoration in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Damage Restoration in Saratoga Springs | Home Pride Restoration"
 h1: "24/7 Emergency Water Damage Restoration in Saratoga Springs"
 meta_description: "24/7 emergency water damage restoration in Saratoga Springs and surrounding areas. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "water damage restoration saratoga springs"
@@ -61,6 +61,6 @@ Summer monsoon moisture from July through September can also drive humidity into
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and provides water damage restoration throughout Utah County and the surrounding region, including Lehi, Eagle Mountain, American Fork, Pleasant Grove, Orem, Provo, and communities along the Wasatch Front. City-specific pages cover local considerations in more detail, this page covers the full scope of what water damage restoration involves regardless of location.
+Home Pride Restoration is based in Saratoga Springs and provides water damage restoration throughout Utah County and the surrounding region, including Lehi, Eagle Mountain, American Fork, Pleasant Grove, Orem, Provo, and communities along the Wasatch Front. City-specific pages cover local considerations in more detail, this page covers the full scope of what water damage restoration involves regardless of location.
 
 If you're seeing water, smelling must, or watching a stain spread across your ceiling right now, the window to limit damage is measured in hours. Call (801) 995-2437 to schedule your moisture assessment and get a technician moving toward your property.

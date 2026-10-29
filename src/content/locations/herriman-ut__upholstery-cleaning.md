@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Herriman, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in Herriman, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in Herriman"
 meta_description: "24/7 upholstery cleaning in Herriman, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning herriman"
@@ -40,7 +40,7 @@ Drying time in this area is one place where the high desert actually works in yo
 
 ## Response Time and Coverage in Herriman
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, which puts Herriman well within our primary service corridor. The drive from our HQ via Bangerter Highway and the Mountain View Corridor typically runs 15 to 25 minutes depending on traffic near the Herriman Towne Center area. For upholstery cleaning, which is a scheduled service rather than an emergency call, we offer morning and afternoon appointment windows with same-week availability in most cases.
+Home Pride Restoration operates out of Saratoga Springs, which puts Herriman well within our primary service corridor. The drive from our HQ via Bangerter Highway and the Mountain View Corridor typically runs 15 to 25 minutes depending on traffic near the Herriman Towne Center area. For upholstery cleaning, which is a scheduled service rather than an emergency call, we offer morning and afternoon appointment windows with same-week availability in most cases.
 
 If you're further south in Herriman near the Black Ridge or Anthem developments, add a few minutes to that estimate, but you're still well within the range where we can realistically arrive, work, and have your furniture drying before the afternoon school pickup.
 
@@ -48,4 +48,4 @@ If you're further south in Herriman near the Black Ridge or Anthem developments,
 
 Something we've noticed working in Herriman homes specifically: furniture placed near exterior doors that open onto decorative rock or decomposed-granite landscaping, extremely common in this part of the valley, accumulates a silica-heavy dust that feels almost invisible but shows up clearly under UV light. It's not a hygiene crisis, but it does mean upholstery in those positions needs cleaning more frequently than the general "every 12–18 months" guideline. If your entryway sofa or mudroom bench faces a door that opens to a gravel or DG yard, plan on cleaning it every 8 to 10 months instead. We'll note placement and fabric type in your service record so we can remind you when it's time.
 
-Ready to schedule? Call Home Pride Restoration and Cleaning at (801) 995-2437 and we'll find a time that works around your week. We've been doing this since 1997, and we know what Herriman's homes and furniture actually deal with, not just what the cleaning manual says.
+Ready to schedule? Call Home Pride Restoration at (801) 995-2437 and we'll find a time that works around your week. We've been doing this since 1997, and we know what Herriman's homes and furniture actually deal with, not just what the cleaning manual says.

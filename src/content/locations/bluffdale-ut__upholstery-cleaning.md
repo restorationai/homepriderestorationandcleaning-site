@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Bluffdale, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in Bluffdale, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in Bluffdale"
 meta_description: "24/7 upholstery cleaning in Bluffdale, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning bluffdale"
@@ -38,4 +38,4 @@ Our technicians use truck-mounted hot water extraction for deep fabric cleaning 
 
 A detail that trips up a lot of DIY cleaning attempts here: Bluffdale's water supply blends culinary and secondary sources that run harder than what you'd get in parts of Salt Lake City proper, so rental carpet cleaners and off-the-shelf upholstery shampoos frequently leave a faint white residue once the fabric dries. We run softened water through our extraction equipment specifically to avoid that, which is also why upholstery cleaned here tends to hold its cleaning longer than a quick rental-machine pass.
 
-If your sofa, sectional, or leather furniture in Bluffdale is holding onto dust, pet dander, or hard water spotting that a store-bought cleaner won't touch, Home Pride Restoration and Cleaning's IICRC-certified technicians can get it back to a clean, even finish. Call (801) 995-2437 to schedule upholstery cleaning and get a straightforward look at what your fabric or leather actually needs.
+If your sofa, sectional, or leather furniture in Bluffdale is holding onto dust, pet dander, or hard water spotting that a store-bought cleaner won't touch, Home Pride Restoration's IICRC-certified technicians can get it back to a clean, even finish. Call (801) 995-2437 to schedule upholstery cleaning and get a straightforward look at what your fabric or leather actually needs.

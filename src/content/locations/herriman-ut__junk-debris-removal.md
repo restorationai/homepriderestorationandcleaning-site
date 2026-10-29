@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Junk & Debris Removal in Herriman, UT | Home Pride Restoration and Cleaning"
+title: "Junk & Debris Removal in Herriman, UT | Home Pride Restoration"
 h1: "Junk & Debris Removal in Herriman"
 meta_description: "24/7 junk & debris removal in Herriman, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "junk & debris removal herriman"
@@ -48,4 +48,4 @@ Anyone who has driven Mountain View Corridor or Herriman Parkway on a weekday mo
 
 For jobs in established sections closer to Herriman's original town center, access is typically straightforward and we can usually have a crew on-site the same day for calls received before noon.
 
-If your property has been sitting through a transition, an estate, a rental turnover, or a remodel that stalled, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll give you a straight assessment of what the job involves and a same-day or next-day schedule for most locations in Herriman.
+If your property has been sitting through a transition, an estate, a rental turnover, or a remodel that stalled, call Home Pride Restoration at (801) 995-2437. We'll give you a straight assessment of what the job involves and a same-day or next-day schedule for most locations in Herriman.

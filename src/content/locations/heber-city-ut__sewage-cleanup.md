@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Heber City, UT | Home Pride Restoration and Cleaning"
+title: "Emergency Sewage Cleanup and Sanitization in Heber City, UT | Home Pride Restoration"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Heber City"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Heber City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "sewage cleanup and sanitization heber city"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Sewage Cleanup and Sanitization"
 rendered: true
 ---
-Sewage in your home smells like exactly what it is, raw waste, bacteria, and the kind of contamination that doesn't wait for business hours. In Heber City, where many properties rely on aging septic systems or connect to municipal lines that run beneath frost-heaved soil at 5,600 feet elevation, a sewer backup can go from a slow drain to a flooded basement in under an hour. Home Pride Restoration and Cleaning has handled these emergencies across Wasatch County since 1997, and we know the specific conditions that make sewage cleanup here different from a job in the valley.
+Sewage in your home smells like exactly what it is, raw waste, bacteria, and the kind of contamination that doesn't wait for business hours. In Heber City, where many properties rely on aging septic systems or connect to municipal lines that run beneath frost-heaved soil at 5,600 feet elevation, a sewer backup can go from a slow drain to a flooded basement in under an hour. Home Pride Restoration has handled these emergencies across Wasatch County since 1997, and we know the specific conditions that make sewage cleanup here different from a job in the valley.
 
 ## Why Heber City Properties See Sewage Backup Problems
 

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in South Jordan, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in South Jordan, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in South Jordan"
 meta_description: "24/7 upholstery cleaning in South Jordan, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning south jordan"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Upholstery Cleaning"
 rendered: true
 ---
-South Jordan's high desert climate does a number on upholstered furniture that most homeowners don't notice until a couch cushion starts looking chalky or a sectional smells faintly of dust no matter how often you vacuum. The combination of Utah Valley's alkaline soil, tracked in constantly across the tile entries and carpeted living rooms of the area's newer subdivisions, and the low-humidity winters that pull moisture out of fabric fibers creates a one-two punch that accelerates soiling and fiber stress faster than you'd see in a wetter climate. Home Pride Restoration and Cleaning has been handling upholstery cleaning in the Salt Lake Valley since 1997, and the conditions here require a calibrated approach that generic national franchises rarely bother with.
+South Jordan's high desert climate does a number on upholstered furniture that most homeowners don't notice until a couch cushion starts looking chalky or a sectional smells faintly of dust no matter how often you vacuum. The combination of Utah Valley's alkaline soil, tracked in constantly across the tile entries and carpeted living rooms of the area's newer subdivisions, and the low-humidity winters that pull moisture out of fabric fibers creates a one-two punch that accelerates soiling and fiber stress faster than you'd see in a wetter climate. Home Pride Restoration has been handling upholstery cleaning in the Salt Lake Valley since 1997, and the conditions here require a calibrated approach that generic national franchises rarely bother with.
 
 ## Why South Jordan Upholstery Takes a Specific Approach
 
@@ -44,4 +44,4 @@ Home Pride's headquarters sits in Saratoga Springs, roughly 15 to 20 minutes fro
 
 Something we've noticed consistently across South Jordan homes: furniture near humidifiers or adjacent to windows where condensation forms in winter often shows a faint white haze on darker fabrics. That's mineral deposit from the area's hard water, either from the humidifier output or from spills that dried without being fully blotted. Standard upholstery cleaning products don't break down calcium and magnesium carbonate deposits the way a targeted pre-treatment does. We carry a low-acid mineral deposit treatment specifically because this pattern shows up so frequently in Utah Valley homes. Mentioning it to your technician before the job starts ensures it gets addressed rather than just cleaned around.
 
-If your sofas, chairs, or sectionals are overdue for a professional clean, or if you've noticed that chalky residue, pet odor, or just a general dinginess that vacuuming doesn't fix, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll give you a straight assessment of what your furniture needs and a clear price before any work begins.
+If your sofas, chairs, or sectionals are overdue for a professional clean, or if you've noticed that chalky residue, pet odor, or just a general dinginess that vacuuming doesn't fix, call Home Pride Restoration at (801) 995-2437. We'll give you a straight assessment of what your furniture needs and a clear price before any work begins.

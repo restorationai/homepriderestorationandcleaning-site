@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Eagle Mountain, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Fire Damage Restoration in Eagle Mountain, UT | Home Pride Restoration"
 h1: "24/7 Emergency Fire Damage Restoration in Eagle Mountain"
 meta_description: "24/7 emergency fire damage restoration in Eagle Mountain, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fire damage restoration eagle mountain"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Fire damage emergency in Eagle Mountain? We answer 24/7.** Call now and our crew heads out to secure the property and start the recovery.
 
-Eagle Mountain sits at roughly 4,900 feet on the west bench of Utah Lake Valley, where dry canyon winds funnel down from the Traverse Mountains and can push a structure fire through a home faster than almost anywhere else along the Wasatch Front. When smoke has already soaked into your drywall and the acrid smell is still hanging in every room, the clock matters, soot becomes chemically bonded to surfaces within 72 hours, and secondary damage from firefighting water can rival the fire itself. Home Pride Restoration and Cleaning has handled post-fire work across the valley since 1997, and our crews understand what that high-desert air does to a fire scene.
+Eagle Mountain sits at roughly 4,900 feet on the west bench of Utah Lake Valley, where dry canyon winds funnel down from the Traverse Mountains and can push a structure fire through a home faster than almost anywhere else along the Wasatch Front. When smoke has already soaked into your drywall and the acrid smell is still hanging in every room, the clock matters, soot becomes chemically bonded to surfaces within 72 hours, and secondary damage from firefighting water can rival the fire itself. Home Pride Restoration has handled post-fire work across the valley since 1997, and our crews understand what that high-desert air does to a fire scene.
 
 ## Why Eagle Mountain Homes Face Particular Fire Risks
 

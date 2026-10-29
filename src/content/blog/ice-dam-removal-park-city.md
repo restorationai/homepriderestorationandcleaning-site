@@ -91,10 +91,10 @@ If water is actively entering your home through the ceiling or walls, take these
 
 If the ceiling is bulging or sagging with trapped water, carefully puncture it at the lowest point with a screwdriver to let the water drain in a controlled stream rather than a sudden collapse. This is counterintuitive but prevents a ceiling section from failing all at once.
 
-For roof leak repair and interior water damage drying in the Park City area, Home Pride Restoration and Cleaning responds 24/7. Their IICRC-certified crews carry moisture meters, thermal imaging cameras, and commercial drying equipment to assess the full extent of water infiltration, not just what's visible at the ceiling surface.
+For roof leak repair and interior water damage drying in the Park City area, Home Pride Restoration responds 24/7. Their IICRC-certified crews carry moisture meters, thermal imaging cameras, and commercial drying equipment to assess the full extent of water infiltration, not just what's visible at the ceiling surface.
 
 ---
 
-**About Home Pride Restoration and Cleaning**
+**About Home Pride Restoration**
 
-Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Park City, Saratoga Springs, and the broader Wasatch Front since 1997. Their crews handle water damage, roof leak response, storm damage, and mold remediation across Utah County and Summit County. Available 24/7 at (801) 995-2437.
+Home Pride Restoration is an IICRC-certified restoration company serving Park City, Saratoga Springs, and the broader Wasatch Front since 1997. Their crews handle water damage, roof leak response, storm damage, and mold remediation across Utah County and Summit County. Available 24/7 at (801) 995-2437.

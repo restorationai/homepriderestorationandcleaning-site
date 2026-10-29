@@ -1,7 +1,7 @@
 ---
 hero: '/images/services/burst-pipe-repair.webp'
 archetype: "service-landing"
-title: "Emergency Burst Pipe Cleanup and Repair in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "Emergency Burst Pipe Cleanup and Repair in Saratoga Springs | Home Pride Restoration"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Saratoga Springs"
 meta_description: "24/7 emergency burst pipe cleanup and repair in Saratoga Springs and surrounding areas. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "burst pipe cleanup and repair saratoga springs"
@@ -59,6 +59,6 @@ The freeze-thaw pattern here also means pipes sometimes crack without fully rele
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and responds to burst pipe emergencies throughout Utah County and the surrounding region, including Eagle Mountain, Lehi, American Fork, Cedar Hills, Pleasant Grove, and Orem. City-specific pages for each area link back here for the full service details.
+Home Pride Restoration is based in Saratoga Springs and responds to burst pipe emergencies throughout Utah County and the surrounding region, including Eagle Mountain, Lehi, American Fork, Cedar Hills, Pleasant Grove, and Orem. City-specific pages for each area link back here for the full service details.
 
 If you're standing in a wet room right now, call (801) 995-2437 to get a technician moving toward your address, then turn off the water if you haven't already and move electronics and valuables out of the affected area while you wait.

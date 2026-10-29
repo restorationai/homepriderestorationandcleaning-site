@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Draper, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in Draper, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in Draper"
 meta_description: "24/7 upholstery cleaning in Draper, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning draper"

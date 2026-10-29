@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Highland, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Fire Damage Restoration in Highland, UT | Home Pride Restoration"
 h1: "24/7 Emergency Fire Damage Restoration in Highland"
 meta_description: "24/7 emergency fire damage restoration in Highland, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fire damage restoration highland"
@@ -38,4 +38,4 @@ Many Highland subdivisions carry HOA architectural guidelines that govern exteri
 
 On Highland's larger lots, especially the horse properties and acreage parcels set back from the main roads, our trucks sometimes need a longer hose lay or a secondary staging point to reach the structure, which is different from the tight suburban driveways you'd deal with closer to American Fork or Lehi. We plan for that extra distance on the initial call so equipment setup doesn't cost extra time once we're on site.
 
-Fire damage doesn't wait for a convenient moment, and neither should the cleanup. Home Pride Restoration and Cleaning has been doing this work since 1997, and our IICRC certified team understands what Highland's hillside lots, custom finishes, and HOA rules mean for a proper fire and smoke restoration. Call (801) 995-2437 to get a crew moving toward your Highland address.
+Fire damage doesn't wait for a convenient moment, and neither should the cleanup. Home Pride Restoration has been doing this work since 1997, and our IICRC certified team understands what Highland's hillside lots, custom finishes, and HOA rules mean for a proper fire and smoke restoration. Call (801) 995-2437 to get a crew moving toward your Highland address.

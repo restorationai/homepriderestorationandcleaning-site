@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Tile & Grout Cleaning in American Fork, UT | Home Pride Restoration and Cleaning"
+title: "Tile & Grout Cleaning in American Fork, UT | Home Pride Restoration"
 h1: "Tile & Grout Cleaning in American Fork"
 meta_description: "24/7 tile & grout cleaning in American Fork, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "tile & grout cleaning american fork"
@@ -42,10 +42,10 @@ For grout that has deteriorated past the point of cleaning, cracked, crumbling, 
 
 ## Response Time from Our Saratoga Springs Location
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, which puts American Fork roughly 10 to 15 minutes away under normal traffic conditions via Redwood Road or Pioneer Crossing. For scheduled tile and grout cleaning appointments, we typically offer same-week availability. For situations where grout failure has led to water intrusion, a cracked shower pan, for example, we treat those as urgent and can generally have a technician on-site the same day.
+Home Pride Restoration operates out of Saratoga Springs, which puts American Fork roughly 10 to 15 minutes away under normal traffic conditions via Redwood Road or Pioneer Crossing. For scheduled tile and grout cleaning appointments, we typically offer same-week availability. For situations where grout failure has led to water intrusion, a cracked shower pan, for example, we treat those as urgent and can generally have a technician on-site the same day.
 
 ## Local Note: Hard Water Scale and Shower Tile in American Fork
 
 One thing that comes up repeatedly on jobs in American Fork is homeowners who've tried commercial hard water removers on their shower tile and ended up with a hazy, etched surface on the tile face itself. Some of those products contain hydrofluoric acid compounds that are effective on mineral scale but will permanently dull polished porcelain or natural stone if left on too long or used at full concentration. If you've noticed a cloudy film on your tile that doesn't respond to any cleaner, that's likely acid etching rather than scale, and it requires a different approach (polishing compounds, not more acid) to address. It's a common mistake in this area precisely because the hard water scale is so stubborn that people reach for stronger chemistry than the tile can handle.
 
-Call Home Pride Restoration and Cleaning at (801) 995-2437 to schedule a tile and grout cleaning assessment for your American Fork home. Whether it's a kitchen floor that's been absorbing grease and hard water for years or a master bath shower that's overdue for a deep clean and reseal, we'll give you an honest picture of what's needed and what it will cost before any work begins.
+Call Home Pride Restoration at (801) 995-2437 to schedule a tile and grout cleaning assessment for your American Fork home. Whether it's a kitchen floor that's been absorbing grease and hard water for years or a master bath shower that's overdue for a deep clean and reseal, we'll give you an honest picture of what's needed and what it will cost before any work begins.

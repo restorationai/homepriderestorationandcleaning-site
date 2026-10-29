@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Burst Pipe Cleanup and Repair in Park City, UT | Home Pride Restoration and Cleaning"
+title: "Emergency Burst Pipe Cleanup and Repair in Park City, UT | Home Pride Restoration"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Park City"
 meta_description: "24/7 emergency burst pipe cleanup and repair in Park City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "burst pipe cleanup and repair park city"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Burst Pipe Cleanup and Repair"
 rendered: true
 ---
-Park City's elevation sits above 6,900 feet, and when overnight temperatures drop to single digits in January, which they do regularly along the Wasatch Back, water inside supply lines can freeze and rupture before a homeowner smells trouble. A burst pipe in a ski-season rental on Lowell Avenue or a full-time residence near the base of Old Town can dump hundreds of gallons into finished floors and insulated wall cavities within the hour. Home Pride Restoration and Cleaning has handled exactly this kind of emergency since 1997, and our IICRC-certified technicians understand what Park City's climate and housing stock demand from a cleanup crew.
+Park City's elevation sits above 6,900 feet, and when overnight temperatures drop to single digits in January, which they do regularly along the Wasatch Back, water inside supply lines can freeze and rupture before a homeowner smells trouble. A burst pipe in a ski-season rental on Lowell Avenue or a full-time residence near the base of Old Town can dump hundreds of gallons into finished floors and insulated wall cavities within the hour. Home Pride Restoration has handled exactly this kind of emergency since 1997, and our IICRC-certified technicians understand what Park City's climate and housing stock demand from a cleanup crew.
 
 ## Why Park City Properties See Burst Pipe Issues
 

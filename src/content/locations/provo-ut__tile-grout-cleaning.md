@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Tile & Grout Cleaning in Provo, UT | Home Pride Restoration and Cleaning"
+title: "Tile & Grout Cleaning in Provo, UT | Home Pride Restoration"
 h1: "Tile & Grout Cleaning in Provo"
 meta_description: "24/7 tile & grout cleaning in Provo, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "tile & grout cleaning provo"
@@ -38,10 +38,10 @@ The core cleaning step uses truck-mounted hot-water extraction equipment with a 
 
 ## Response Time and Coverage Across Provo
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, roughly 20 miles northwest of central Provo via US-89 South. Under normal traffic conditions, a technician can reach most Provo addresses, including neighborhoods near the Provo City Center Temple or the streets around Brigham Young University, in 30 to 45 minutes. Areas in south Provo closer to the Springville border typically add 10 minutes. Scheduling is available six days a week, and most residential tile cleaning jobs in the Provo area are completed in a single visit of two to five hours depending on square footage.
+Home Pride Restoration operates out of Saratoga Springs, roughly 20 miles northwest of central Provo via US-89 South. Under normal traffic conditions, a technician can reach most Provo addresses, including neighborhoods near the Provo City Center Temple or the streets around Brigham Young University, in 30 to 45 minutes. Areas in south Provo closer to the Springville border typically add 10 minutes. Scheduling is available six days a week, and most residential tile cleaning jobs in the Provo area are completed in a single visit of two to five hours depending on square footage.
 
 ## Local Note: What Provo's Water Does to "Clean" Grout
 
 Here is something that surprises a lot of Provo homeowners: grout that was professionally cleaned two or three years ago can look nearly as bad as grout that has never been cleaned, if it wasn't sealed afterward. Without a penetrating sealer, Provo's hard water redeposits minerals into the freshly opened grout pores almost immediately. A cleaning without sealing in this market is essentially a temporary fix. Homes in the Joaquin neighborhood and other older Provo areas with unsealed original grout often need a light acid pre-treatment just to remove the mineral crust before the actual cleaning chemistry can reach the organic staining underneath. That two-step approach takes more time and product, but skipping it means the grout looks clean for about six weeks and then reverts. Knowing that pattern, and adjusting the process accordingly, is the difference between a job that lasts and one that doesn't.
 
-If your tile floors have been looking dingy despite regular mopping, or if grout lines have gone from gray to near-black, the problem almost certainly isn't your cleaning habits, it's Provo's water chemistry working against you. Call Home Pride Restoration and Cleaning at (801) 995-2437 to schedule a Provo tile and grout cleaning appointment, and ask about sealing options that will keep those results looking sharp for two to three years instead of two to three months.
+If your tile floors have been looking dingy despite regular mopping, or if grout lines have gone from gray to near-black, the problem almost certainly isn't your cleaning habits, it's Provo's water chemistry working against you. Call Home Pride Restoration at (801) 995-2437 to schedule a Provo tile and grout cleaning appointment, and ask about sealing options that will keep those results looking sharp for two to three years instead of two to three months.

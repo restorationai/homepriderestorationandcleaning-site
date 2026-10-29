@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Storm Damage Restoration in Pleasant Grove, UT | Home Pride Restoration and Cleaning"
+title: "Emergency Storm Damage Restoration in Pleasant Grove, UT | Home Pride Restoration"
 h1: "24/7 Emergency Storm Damage Restoration in Pleasant Grove"
 meta_description: "24/7 emergency storm damage restoration in Pleasant Grove, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "storm damage restoration pleasant grove"

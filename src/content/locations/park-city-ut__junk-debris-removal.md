@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Junk & Debris Removal in Park City, UT | Home Pride Restoration and Cleaning"
+title: "Junk & Debris Removal in Park City, UT | Home Pride Restoration"
 h1: "Junk & Debris Removal in Park City"
 meta_description: "24/7 junk & debris removal in Park City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "junk & debris removal park city"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Junk & Debris Removal"
 rendered: true
 ---
-Park City's short summer selling season and the annual exodus of ski-season renters create a predictable crunch: properties get cleared out fast, and what's left behind, broken furniture, old ski equipment, leftover construction materials from a basement remodel, boxes of forgotten gear, piles up faster than a single homeowner can manage. Whether you're turning over a vacation rental on Marsac Avenue before the next booking window or clearing out a garage that's accumulated a decade of mountain-town living, Home Pride Restoration and Cleaning has been hauling, sorting, and disposing of residential and commercial loads since 1997.
+Park City's short summer selling season and the annual exodus of ski-season renters create a predictable crunch: properties get cleared out fast, and what's left behind, broken furniture, old ski equipment, leftover construction materials from a basement remodel, boxes of forgotten gear, piles up faster than a single homeowner can manage. Whether you're turning over a vacation rental on Marsac Avenue before the next booking window or clearing out a garage that's accumulated a decade of mountain-town living, Home Pride Restoration has been hauling, sorting, and disposing of residential and commercial loads since 1997.
 
 ## Why Park City Properties Generate More Debris Than You'd Expect
 
@@ -46,4 +46,4 @@ Short-term rental operators on tight turnaround schedules appreciate that we can
 
 One thing that surprises people new to managing Park City properties: the combination of high altitude UV exposure and hard winters means that items stored in uninsulated garages or sheds degrade faster than they would at lower elevations. Rubber seals crack, plastics become brittle, and wood furniture can warp significantly in a single off-season. We see this constantly in cleanouts near the 84060 ZIP code, what looked like usable furniture when it was stored in October is genuinely unsalvageable by April. It's worth doing a walkthrough before assuming stored items have resale or donation value; it saves time during the actual removal and helps set realistic expectations about what's recoverable.
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs and runs crews into the Park City area regularly. For a straightforward garage cleanout or a full property clearance ahead of a sale or rental turnover, call (801) 995-2437 to schedule a same-day or next-day assessment. We'll tell you exactly what the job involves before a single item moves.
+Home Pride Restoration operates out of Saratoga Springs and runs crews into the Park City area regularly. For a straightforward garage cleanout or a full property clearance ahead of a sale or rental turnover, call (801) 995-2437 to schedule a same-day or next-day assessment. We'll tell you exactly what the job involves before a single item moves.

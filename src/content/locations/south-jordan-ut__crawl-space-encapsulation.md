@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in South Jordan, UT | Home Pride Restoration and Cleaning"
+title: "Crawl Space Encapsulation in South Jordan, UT | Home Pride Restoration"
 h1: "Crawl Space Encapsulation in South Jordan"
 meta_description: "24/7 crawl space encapsulation in South Jordan, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "crawl space encapsulation south jordan"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Crawl Space Encapsulation"
 rendered: true
 ---
-South Jordan sits on the western bench of the Salt Lake Valley, where the water table runs surprisingly shallow in many subdivisions and the clay-heavy soils that dominate the 84095 ZIP code expand and contract with every freeze-thaw cycle. That soil movement, combined with the irrigation-heavy summers that keep South Jordan's lawns green, creates exactly the kind of persistent ground moisture that turns an unencapsulated crawl space into a breeding ground for mold, wood rot, and pest intrusion. Home Pride Restoration and Cleaning has been sealing crawl spaces across the valley since 1997, and the conditions here are specific enough to warrant a different approach than you'd take in a drier basin community.
+South Jordan sits on the western bench of the Salt Lake Valley, where the water table runs surprisingly shallow in many subdivisions and the clay-heavy soils that dominate the 84095 ZIP code expand and contract with every freeze-thaw cycle. That soil movement, combined with the irrigation-heavy summers that keep South Jordan's lawns green, creates exactly the kind of persistent ground moisture that turns an unencapsulated crawl space into a breeding ground for mold, wood rot, and pest intrusion. Home Pride Restoration has been sealing crawl spaces across the valley since 1997, and the conditions here are specific enough to warrant a different approach than you'd take in a drier basin community.
 
 ## Why South Jordan Crawl Spaces Are Especially Vulnerable
 

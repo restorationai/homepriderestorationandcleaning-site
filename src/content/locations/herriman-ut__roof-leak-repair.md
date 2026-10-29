@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Roof Leak Cleanup and Repair in Herriman, UT | Home Pride Restoration and Cleaning"
+title: "Roof Leak Cleanup and Repair in Herriman, UT | Home Pride Restoration"
 h1: "Roof Leak Cleanup and Repair in Herriman"
 meta_description: "24/7 roof leak cleanup and repair in Herriman, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "roof leak cleanup and repair herriman"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Vineyard, UT | Home Pride Restoration and Cleaning"
+title: "Restoration Services in Vineyard, UT | Home Pride Restoration"
 h1: "Restoration Services in Vineyard"
 meta_description: "Serving Vineyard, UT with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (801) 995-2437."
 primary_keyword: "restoration services vineyard"
@@ -19,7 +19,7 @@ state: "UT"
 primary: false
 rendered: true
 ---
-Home Pride Restoration and Cleaning handles water damage, fire and smoke damage, mold remediation, storm damage, and biohazard cleanup for homeowners and property managers throughout Vineyard, Utah. Our crews are IICRC-trained and work directly with most major insurance carriers, documenting the loss and the drying or repair process so homeowners are not left guessing about coverage. Because Vineyard is one of the newest and fastest-growing cities in Utah County, we see a specific mix of new-construction issues alongside the storm and water problems common to the whole Utah Valley.
+Home Pride Restoration handles water damage, fire and smoke damage, mold remediation, storm damage, and biohazard cleanup for homeowners and property managers throughout Vineyard, Utah. Our crews are IICRC-trained and work directly with most major insurance carriers, documenting the loss and the drying or repair process so homeowners are not left guessing about coverage. Because Vineyard is one of the newest and fastest-growing cities in Utah County, we see a specific mix of new-construction issues alongside the storm and water problems common to the whole Utah Valley.
 
 ## Restoration emergencies common in Vineyard
 
@@ -45,4 +45,4 @@ Most of Vineyard has been built since the 2010s on the redeveloped site of the f
 
 The city's low elevation along Utah Lake means some lots sit closer to the water table than homeowners expect, particularly after a wet winter or heavy spring runoff, and crawlspace moisture is worth checking after any prolonged rain. Building permits for repair or reconstruction work are issued through the City of Vineyard, and projects involving structural repair, electrical, or plumbing typically require a permit regardless of the home's age.
 
-If water is spreading across your floor, smoke has settled into your walls, or you're not sure whether that crawlspace smell is something to worry about, call Home Pride Restoration and Cleaning at (801) 995-2437. We answer 24/7 and can walk you through what to do before a crew arrives.
+If water is spreading across your floor, smoke has settled into your walls, or you're not sure whether that crawlspace smell is something to worry about, call Home Pride Restoration at (801) 995-2437. We answer 24/7 and can walk you through what to do before a crew arrives.

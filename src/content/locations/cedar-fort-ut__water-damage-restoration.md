@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Cedar Fort, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Damage Restoration in Cedar Fort, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Damage Restoration in Cedar Fort"
 meta_description: "24/7 emergency water damage restoration in Cedar Fort, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "water damage restoration cedar fort"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Water Damage Restoration"
 rendered: true
 ---
-**Water damage emergency in Cedar Fort?** Call now for emergency service. Home Pride Restoration and Cleaning has been drying out Utah County properties since 1997, and Cedar Fort's mix of private wells, septic systems, and older rural construction means water losses here behave differently than they do in a dense subdivision twenty minutes east.
+**Water damage emergency in Cedar Fort?** Call now for emergency service. Home Pride Restoration has been drying out Utah County properties since 1997, and Cedar Fort's mix of private wells, septic systems, and older rural construction means water losses here behave differently than they do in a dense subdivision twenty minutes east.
 
 ## Why Cedar Fort Properties See Water Damage
 
@@ -42,4 +42,4 @@ One thing we watch for specifically in Cedar Fort: well pump houses and pressure
 
 Most Cedar Fort properties are on larger lots without an HOA, which simplifies things on the access and approval side compared to a planned subdivision. We document the source, the affected materials, and moisture readings throughout the job and work directly with most major carriers so you're not stuck fronting repair costs while a claim is reviewed. Private well and septic damage sometimes falls under different policy language than standard plumbing failures, so we flag that distinction early and make sure it's noted correctly in the claim paperwork.
 
-If you're standing in a wet crawlspace or watching water spread across a basement floor in Cedar Fort right now, don't wait on it. Call Home Pride Restoration and Cleaning at (801) 995-2437 and we'll walk you through what to shut off and what to expect before the crew arrives.
+If you're standing in a wet crawlspace or watching water spread across a basement floor in Cedar Fort right now, don't wait on it. Call Home Pride Restoration at (801) 995-2437 and we'll walk you through what to shut off and what to expect before the crew arrives.

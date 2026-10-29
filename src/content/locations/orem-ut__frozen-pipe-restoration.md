@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Frozen Pipe Restoration in Orem, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Frozen Pipe Restoration in Orem, UT | Home Pride Restoration"
 h1: "24/7 Emergency Frozen Pipe Restoration in Orem"
 meta_description: "24/7 emergency frozen pipe restoration in Orem, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "frozen pipe restoration orem"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Burst pipe or leak in Orem? We answer 24/7.** Call now and our crew heads out to stop the water and start the cleanup.
 
-When overnight temperatures in Orem drop into the single digits, which happens more often than newcomers expect, given the city sits at roughly 4,700 feet elevation along the Wasatch Front, the pipes in uninsulated crawl spaces and exterior walls don't stand much of a chance. A freeze that starts at 2 a.m. can become a burst by 6 a.m., and by the time you're standing in a soaked living room, the clock on mold colonization has already started. Home Pride Restoration and Cleaning has been responding to exactly this scenario across Utah County since 1997.
+When overnight temperatures in Orem drop into the single digits, which happens more often than newcomers expect, given the city sits at roughly 4,700 feet elevation along the Wasatch Front, the pipes in uninsulated crawl spaces and exterior walls don't stand much of a chance. A freeze that starts at 2 a.m. can become a burst by 6 a.m., and by the time you're standing in a soaked living room, the clock on mold colonization has already started. Home Pride Restoration has been responding to exactly this scenario across Utah County since 1997.
 
 ## Why Orem Properties Are Especially Vulnerable to Frozen Pipe Damage
 

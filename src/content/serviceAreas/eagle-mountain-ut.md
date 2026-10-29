@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Eagle Mountain, UT | Home Pride Restoration and Cleaning"
+title: "Restoration Services in Eagle Mountain, UT | Home Pride Restoration"
 h1: "Restoration Services in Eagle Mountain"
 meta_description: "Serving Eagle Mountain, UT with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (801) 995-2437."
 primary_keyword: "restoration services eagle mountain"
@@ -19,7 +19,7 @@ state: "UT"
 primary: false
 rendered: true
 ---
-When a pipe bursts at 2 a.m. or smoke from a kitchen fire settles into every corner of your home, you need someone who knows Eagle Mountain, not just a dispatcher reading from a map. Home Pride Restoration and Cleaning has been responding to water, fire, mold, and biohazard emergencies across Utah County since 1997, and our Saratoga Springs headquarters puts us minutes from Eagle Mountain's fastest-growing neighborhoods. We handle the extraction, the drying, the rebuild, and the insurance paperwork so you can focus on getting your family back to normal.
+When a pipe bursts at 2 a.m. or smoke from a kitchen fire settles into every corner of your home, you need someone who knows Eagle Mountain, not just a dispatcher reading from a map. Home Pride Restoration has been responding to water, fire, mold, and biohazard emergencies across Utah County since 1997, and our Saratoga Springs headquarters puts us minutes from Eagle Mountain's fastest-growing neighborhoods. We handle the extraction, the drying, the rebuild, and the insurance paperwork so you can focus on getting your family back to normal.
 
 ## Restoration emergencies common in Eagle Mountain
 
@@ -57,4 +57,4 @@ Roofs are typically asphalt shingle over OSB on engineered trusses, with blown-i
 
 Utah enforces a statewide building code, and Eagle Mountain's own building division issues permits. Structural framing, wall relocation, and electrical or mechanical changes trigger one; like-for-like drywall and flooring usually does not.
 
-If something has gone wrong in your Eagle Mountain home or property, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We'll tell you exactly what we're seeing, what needs to happen, and how long it will take, before any work begins.
+If something has gone wrong in your Eagle Mountain home or property, call Home Pride Restoration at **(801) 995-2437**. We'll tell you exactly what we're seeing, what needs to happen, and how long it will take, before any work begins.

@@ -94,10 +94,10 @@ Professional remediation follows the IICRC S520 Standard for Professional Mold R
 
 If you have already tried cleaning and the mold came back, or if you are seeing growth in multiple areas, that pattern usually means there is a moisture problem the surface cleaning never addressed. A professional assessment can find the source and give you a written scope of what remediation actually involves before any work begins.
 
-Home Pride Restoration and Cleaning handles mold remediation and mold inspection and testing across the Saratoga Springs area and throughout Utah County. If you are seeing growth that keeps returning or want to know what is behind a water-stained wall, request a [mold inspection](/services/mold-inspection-testing/) to get a clear picture before committing to a scope of work.
+Home Pride Restoration handles mold remediation and mold inspection and testing across the Saratoga Springs area and throughout Utah County. If you are seeing growth that keeps returning or want to know what is behind a water-stained wall, request a [mold inspection](/services/mold-inspection-testing/) to get a clear picture before committing to a scope of work.
 
 ---
 
-**About Home Pride Restoration and Cleaning**
+**About Home Pride Restoration**
 
-Home Pride Restoration and Cleaning is an IICRC-certified company serving Saratoga Springs and the surrounding Utah County communities since 1997. Their crews handle mold remediation, mold inspection and testing, water damage restoration, fire and smoke damage restoration, crawl space encapsulation, and a full range of cleaning services including carpet, upholstery, tile and grout, and odor removal. Available around the clock at (801) 995-2437.
+Home Pride Restoration is an IICRC-certified company serving Saratoga Springs and the surrounding Utah County communities since 1997. Their crews handle mold remediation, mold inspection and testing, water damage restoration, fire and smoke damage restoration, crawl space encapsulation, and a full range of cleaning services including carpet, upholstery, tile and grout, and odor removal. Available around the clock at (801) 995-2437.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Eagle Mountain, UT | Home Pride Restoration and Cleaning"
+title: "Carpet Cleaning in Eagle Mountain, UT | Home Pride Restoration"
 h1: "Carpet Cleaning in Eagle Mountain"
 meta_description: "24/7 carpet cleaning in Eagle Mountain, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "carpet cleaning eagle mountain"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Eagle Mountain's rapid growth has brought thousands of new homes to the Ranches and Eaglewood communities, and with that growth comes a carpet problem that's easy to overlook until it's ground in deep. The high desert plateau sits at roughly 4,900 feet, and the fine alkaline dust that blows off the undeveloped benches west of town works its way into carpet fibers differently than the heavier soils you'd find in the Salt Lake Valley. Add a household full of kids tracking in red Utah clay from the trail systems near Eagle Mountain City Park, and standard vacuuming barely scratches the surface. Home Pride Restoration and Cleaning has been cleaning carpets across Utah County since 1997, and we've calibrated our process specifically for what this city's homes actually deal with.
+Eagle Mountain's rapid growth has brought thousands of new homes to the Ranches and Eaglewood communities, and with that growth comes a carpet problem that's easy to overlook until it's ground in deep. The high desert plateau sits at roughly 4,900 feet, and the fine alkaline dust that blows off the undeveloped benches west of town works its way into carpet fibers differently than the heavier soils you'd find in the Salt Lake Valley. Add a household full of kids tracking in red Utah clay from the trail systems near Eagle Mountain City Park, and standard vacuuming barely scratches the surface. Home Pride Restoration has been cleaning carpets across Utah County since 1997, and we've calibrated our process specifically for what this city's homes actually deal with.
 
 ## Why Eagle Mountain Carpets Take a Harder Hit
 
@@ -49,4 +49,4 @@ One thing that surprises homeowners who've had carpet cleaned in lower-elevation
 
 ## Scheduling Carpet Cleaning in Eagle Mountain
 
-Whether you're in the Eaglewood area prepping a home for sale, managing a rental property in the Ranches, or simply overdue for a deep clean after a Utah winter, the process starts with one call. Home Pride Restoration and Cleaning is IICRC Certified and carries full liability coverage. We work directly with homeowners, property managers, and HOA-referred vendors, no job requires a minimum square footage to schedule. Call (801) 995-2437 or request an appointment online, and we'll confirm a time that works around your Eagle Mountain schedule.
+Whether you're in the Eaglewood area prepping a home for sale, managing a rental property in the Ranches, or simply overdue for a deep clean after a Utah winter, the process starts with one call. Home Pride Restoration is IICRC Certified and carries full liability coverage. We work directly with homeowners, property managers, and HOA-referred vendors, no job requires a minimum square footage to schedule. Call (801) 995-2437 or request an appointment online, and we'll confirm a time that works around your Eagle Mountain schedule.

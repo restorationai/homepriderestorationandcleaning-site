@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Pleasant Grove, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Fire Damage Restoration in Pleasant Grove, UT | Home Pride Restoration"
 h1: "24/7 Emergency Fire Damage Restoration in Pleasant Grove"
 meta_description: "24/7 emergency fire damage restoration in Pleasant Grove, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fire damage restoration pleasant grove"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Fire damage emergency in Pleasant Grove? We answer 24/7.** Call now and our crew heads out to secure the property and start the recovery.
 
-A house fire in Pleasant Grove hits differently than in most Utah County cities. The combination of older ranch-style homes built during the post-war growth along State Street, the area's dry Wasatch Front winters that pull moisture out of fire-damaged materials fast, and the tight residential blocks near Grove Creek Drive means smoke and soot penetrate deeper and spread faster than homeowners expect. Home Pride Restoration and Cleaning has been responding to structural fire damage across Utah County since 1997, and we know what fire cleanup looks like in this specific community.
+A house fire in Pleasant Grove hits differently than in most Utah County cities. The combination of older ranch-style homes built during the post-war growth along State Street, the area's dry Wasatch Front winters that pull moisture out of fire-damaged materials fast, and the tight residential blocks near Grove Creek Drive means smoke and soot penetrate deeper and spread faster than homeowners expect. Home Pride Restoration has been responding to structural fire damage across Utah County since 1997, and we know what fire cleanup looks like in this specific community.
 
 ## Why Pleasant Grove Homes Face Particular Fire Damage Challenges
 
@@ -60,4 +60,4 @@ On the insurance side, Utah County adjusters handling fire claims typically want
 
 One thing we've learned working in Pleasant Grove specifically: homes in the older blocks near the downtown grid often have original cast-iron or galvanized supply lines. When firefighters flood a structure, those aging pipes sometimes fail under the pressure surge, adding a plumbing emergency on top of the fire damage. We check water supply lines during our initial walkthrough on any pre-1980 Pleasant Grove home, so a secondary leak doesn't quietly saturate the subfloor while we're focused on smoke remediation above it.
 
-Fire damage doesn't wait, and neither should you. If your home or property in Pleasant Grove has been through a fire, whether it's a kitchen fire that got into the walls or a structural fire that compromised multiple rooms, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll be on-site fast, we'll work with your insurance carrier, and we'll restore your home to the way it was before the smoke settled.
+Fire damage doesn't wait, and neither should you. If your home or property in Pleasant Grove has been through a fire, whether it's a kitchen fire that got into the walls or a structural fire that compromised multiple rooms, call Home Pride Restoration at (801) 995-2437. We'll be on-site fast, we'll work with your insurance carrier, and we'll restore your home to the way it was before the smoke settled.

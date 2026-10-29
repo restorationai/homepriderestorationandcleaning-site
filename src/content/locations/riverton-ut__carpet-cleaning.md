@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Riverton, UT | Home Pride Restoration and Cleaning"
+title: "Carpet Cleaning in Riverton, UT | Home Pride Restoration"
 h1: "Carpet Cleaning in Riverton"
 meta_description: "24/7 carpet cleaning in Riverton, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "carpet cleaning riverton"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Riverton sits at roughly 4,400 feet elevation in the southwestern Salt Lake Valley, where the combination of high-desert UV, alkaline soil tracked in from the Jordan River Parkway trails, and cold winters that keep windows shut for months at a time creates carpet conditions you simply don't see in lower, wetter climates. Fine silica-heavy dust settles deep into fiber loops, UV oxidizes dye bonds faster than homeowners expect, and the dry indoor air during heating season bonds oily residues to pile in ways that routine vacuuming can't reverse. Home Pride Restoration and Cleaning has been working in communities like this since 1997, and our IICRC-certified technicians calibrate every job to what Riverton's environment actually does to carpet, not a generic checklist written for somewhere else.
+Riverton sits at roughly 4,400 feet elevation in the southwestern Salt Lake Valley, where the combination of high-desert UV, alkaline soil tracked in from the Jordan River Parkway trails, and cold winters that keep windows shut for months at a time creates carpet conditions you simply don't see in lower, wetter climates. Fine silica-heavy dust settles deep into fiber loops, UV oxidizes dye bonds faster than homeowners expect, and the dry indoor air during heating season bonds oily residues to pile in ways that routine vacuuming can't reverse. Home Pride Restoration has been working in communities like this since 1997, and our IICRC-certified technicians calibrate every job to what Riverton's environment actually does to carpet, not a generic checklist written for somewhere else.
 
 ## Why Riverton Carpets Wear Differently Than You'd Expect
 
@@ -52,4 +52,4 @@ One thing that surprises Riverton homeowners who've had carpet cleaned before: r
 
 If you're in Riverton and the carpet that was cleaned six months ago already looks dull again, that's almost certainly the hard-water resoiling pattern, not a cleaning failure.
 
-Call Home Pride Restoration and Cleaning at (801) 995-2437 to schedule carpet cleaning in Riverton. We'll give you an honest assessment of your carpet's condition, a straight quote, and a cleaning that accounts for what Riverton's climate and water actually do to fiber, not a one-size-fits-all approach.
+Call Home Pride Restoration at (801) 995-2437 to schedule carpet cleaning in Riverton. We'll give you an honest assessment of your carpet's condition, a straight quote, and a cleaning that accounts for what Riverton's climate and water actually do to fiber, not a one-size-fits-all approach.

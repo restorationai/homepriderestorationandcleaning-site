@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Highland, UT | Home Pride Restoration and Cleaning"
+title: "Restoration Services in Highland, UT | Home Pride Restoration"
 h1: "Restoration Services in Highland"
 meta_description: "Serving Highland, UT with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (801) 995-2437."
 primary_keyword: "restoration services highland"
@@ -19,7 +19,7 @@ state: "UT"
 primary: false
 rendered: true
 ---
-Home Pride Restoration and Cleaning handles water, fire, and mold damage for homeowners and property managers across Highland, from the horse-property lots along the benches to the newer subdivisions filling in toward the Alpine and American Fork borders. We document the loss for insurance, stabilize the structure, and manage the drying, cleaning, or rebuild from start to finish so you are not coordinating three different contractors during the worst week of the year.
+Home Pride Restoration handles water, fire, and mold damage for homeowners and property managers across Highland, from the horse-property lots along the benches to the newer subdivisions filling in toward the Alpine and American Fork borders. We document the loss for insurance, stabilize the structure, and manage the drying, cleaning, or rebuild from start to finish so you are not coordinating three different contractors during the worst week of the year.
 
 ## Restoration emergencies common in Highland
 

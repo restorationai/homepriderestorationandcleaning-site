@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Frozen Pipe Restoration in Herriman, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Frozen Pipe Restoration in Herriman, UT | Home Pride Restoration"
 h1: "24/7 Emergency Frozen Pipe Restoration in Herriman"
 meta_description: "24/7 emergency frozen pipe restoration in Herriman, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "frozen pipe restoration herriman"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Frozen Pipe Restoration"
 rendered: true
 ---
-Herriman sits at roughly 5,000 feet elevation along the Wasatch Front, and when a January cold snap pushes overnight lows into the single digits, the pipes in homes built on the city's newer subdivisions, many with long exterior wall runs and garage-adjacent supply lines, can freeze solid within hours. When that ice thaws, the resulting burst can dump hundreds of gallons into finished basements, crawl spaces, and drywall cavities before a homeowner even realizes something is wrong. Home Pride Restoration and Cleaning has been responding to exactly this kind of emergency since 1997, and our crews know what Herriman's winters actually do to a home.
+Herriman sits at roughly 5,000 feet elevation along the Wasatch Front, and when a January cold snap pushes overnight lows into the single digits, the pipes in homes built on the city's newer subdivisions, many with long exterior wall runs and garage-adjacent supply lines, can freeze solid within hours. When that ice thaws, the resulting burst can dump hundreds of gallons into finished basements, crawl spaces, and drywall cavities before a homeowner even realizes something is wrong. Home Pride Restoration has been responding to exactly this kind of emergency since 1997, and our crews know what Herriman's winters actually do to a home.
 
 ## Why Herriman Properties Are Especially Vulnerable to Frozen Pipe Damage
 
@@ -48,4 +48,4 @@ One thing that surprises homeowners in Herriman's master-planned communities is 
 
 If you've had a pipe freeze and thaw, even if you don't see obvious water, call before you assume everything dried on its own. Hidden moisture in engineered lumber can support mold colonization in as little as 48 to 72 hours under the right conditions.
 
-Frozen pipe damage in Herriman moves fast, and so does the secondary damage that follows. Call Home Pride Restoration and Cleaning at (801) 995-2437 the moment you suspect a pipe has let go, the sooner we're on-site, the smaller the footprint of the repair.
+Frozen pipe damage in Herriman moves fast, and so does the secondary damage that follows. Call Home Pride Restoration at (801) 995-2437 the moment you suspect a pipe has let go, the sooner we're on-site, the smaller the footprint of the repair.

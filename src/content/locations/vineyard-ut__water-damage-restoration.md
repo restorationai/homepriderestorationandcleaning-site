@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Vineyard, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Damage Restoration in Vineyard, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Damage Restoration in Vineyard"
 meta_description: "24/7 emergency water damage restoration in Vineyard, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "water damage restoration vineyard"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Water Damage Restoration"
 rendered: true
 ---
-**Water damage emergency in Vineyard?** Call now for emergency service, Home Pride Restoration and Cleaning answers the phone and gets a crew moving toward your property. Vineyard's newest subdivisions sit on reclaimed land along Utah Lake, and that proximity to the water table means a failed supply line or sump pump doesn't just wet a floor, it can push moisture into crawlspaces and slab seams faster than homeowners expect. Fast extraction matters here as much as anywhere in Utah County.
+**Water damage emergency in Vineyard?** Call now for emergency service, Home Pride Restoration answers the phone and gets a crew moving toward your property. Vineyard's newest subdivisions sit on reclaimed land along Utah Lake, and that proximity to the water table means a failed supply line or sump pump doesn't just wet a floor, it can push moisture into crawlspaces and slab seams faster than homeowners expect. Fast extraction matters here as much as anywhere in Utah County.
 
 ## Why Vineyard Properties See Water Damage Issues
 
@@ -38,4 +38,4 @@ We're based out of Saratoga Springs, a short drive from Vineyard along Pioneer C
 
 Because so much of Vineyard was developed on former industrial land, several streets sit on fill soil with inconsistent drainage, and we've found that crawlspace moisture readings in these homes can stay elevated even after visible water is gone. We always check crawlspace humidity separately from the main living space rather than assuming one reading tells the whole story, especially in homes built within the last decade where vapor barriers vary in quality from builder to builder.
 
-If water is spreading through your Vineyard home or rental property right now, don't wait on it to dry on its own. Home Pride Restoration and Cleaning is IICRC certified, and we document everything from moisture readings to drying logs so your insurance claim moves as smoothly as the cleanup itself. Call (801) 995-2437 and let's get water extraction started before it turns into a bigger repair.
+If water is spreading through your Vineyard home or rental property right now, don't wait on it to dry on its own. Home Pride Restoration is IICRC certified, and we document everything from moisture readings to drying logs so your insurance claim moves as smoothly as the cleanup itself. Call (801) 995-2437 and let's get water extraction started before it turns into a bigger repair.

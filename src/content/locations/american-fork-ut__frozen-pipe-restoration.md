@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Frozen Pipe Restoration in American Fork, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Frozen Pipe Restoration in American Fork, UT | Home Pride Restoration"
 h1: "24/7 Emergency Frozen Pipe Restoration in American Fork"
 meta_description: "24/7 emergency frozen pipe restoration in American Fork, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "frozen pipe restoration american fork"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Frozen Pipe Restoration"
 rendered: true
 ---
-When temperatures in Utah County drop hard overnight, and in American Fork, sitting at roughly 4,600 feet elevation against the Wasatch Front, that can mean single digits by January, water inside supply lines doesn't always make it to morning intact. The freeze-thaw cycle here is particularly punishing: a pipe that survives a cold snap can split the moment warm air hits it, releasing hundreds of gallons before anyone notices the pressure drop. Home Pride Restoration and Cleaning has been responding to exactly this kind of emergency since 1997, and our crews know what a burst pipe in an American Fork home looks like from the first call to the final dry-out.
+When temperatures in Utah County drop hard overnight, and in American Fork, sitting at roughly 4,600 feet elevation against the Wasatch Front, that can mean single digits by January, water inside supply lines doesn't always make it to morning intact. The freeze-thaw cycle here is particularly punishing: a pipe that survives a cold snap can split the moment warm air hits it, releasing hundreds of gallons before anyone notices the pressure drop. Home Pride Restoration has been responding to exactly this kind of emergency since 1997, and our crews know what a burst pipe in an American Fork home looks like from the first call to the final dry-out.
 
 ## Why American Fork Properties Are Especially Vulnerable to Frozen Pipe Damage
 
@@ -56,4 +56,4 @@ Most homeowner policies in Utah County cover sudden and accidental discharge fro
 
 One thing we've learned working in American Fork specifically: homes near the older sections of the city that were built on slab foundations, more common here than in some neighboring cities, tend to have supply lines that run through the slab itself or along the exterior stem wall. When those freeze, the damage often doesn't show up as a visible leak right away; instead, water wicks up through the slab and appears as efflorescence or soft flooring days later. If you've had a hard freeze and your floors feel soft or you're seeing white mineral deposits near baseboards, don't wait for a visible puddle to call.
 
-If a pipe has burst in your American Fork home, or you suspect one thawed and failed overnight, call Home Pride Restoration and Cleaning now at (801) 995-2437. The sooner drying equipment is running, the smaller the repair bill.
+If a pipe has burst in your American Fork home, or you suspect one thawed and failed overnight, call Home Pride Restoration now at (801) 995-2437. The sooner drying equipment is running, the smaller the repair bill.

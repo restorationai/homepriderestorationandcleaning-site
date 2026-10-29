@@ -79,7 +79,7 @@ Documentation is the single biggest factor in whether a mold claim gets paid. Ad
 
 **Step 2: Report promptly.** File the claim as soon as you discover the damage. Late reporting gives adjusters grounds to argue you failed to mitigate.
 
-**Step 3: Get a professional mold inspection.** A certified mold inspection with air sampling and surface swab results gives you an independent, documented baseline. It also establishes the extent of contamination before remediation begins, critical if the insurer disputes scope later. Home Pride Restoration and Cleaning offers [mold inspection and testing](/services/mold-inspection-testing/) as a standalone service; the written report becomes part of your claim file.
+**Step 3: Get a professional mold inspection.** A certified mold inspection with air sampling and surface swab results gives you an independent, documented baseline. It also establishes the extent of contamination before remediation begins, critical if the insurer disputes scope later. Home Pride Restoration offers [mold inspection and testing](/services/mold-inspection-testing/) as a standalone service; the written report becomes part of your claim file.
 
 **Step 4: Get a written remediation scope before work starts.** Your insurer will want an itemized scope of work. A reputable remediation contractor provides this in writing before touching anything. Never let a contractor start work without a documented scope, it protects both your claim and your ability to dispute underpayment.
 
@@ -101,10 +101,10 @@ If you've found mold and believe it resulted from a covered water event, act in 
 
 If the water source is still flowing or you have standing water, that's a water damage emergency first. Address the source, extract the water, and begin drying, then layer in the mold assessment. Waiting on mold remediation while water is still present only makes the contamination worse.
 
-Home Pride Restoration and Cleaning handles both [mold inspection and testing](/services/mold-inspection-testing/) and [mold remediation](/services/mold-remediation/) for Utah homeowners. If you're working through a claim and need a written scope for your adjuster, call (801) 995-2437 to schedule an assessment.
+Home Pride Restoration handles both [mold inspection and testing](/services/mold-inspection-testing/) and [mold remediation](/services/mold-remediation/) for Utah homeowners. If you're working through a claim and need a written scope for your adjuster, call (801) 995-2437 to schedule an assessment.
 
 ---
 
-**About Home Pride Restoration and Cleaning**
+**About Home Pride Restoration**
 
-Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, American Fork, Provo, and surrounding Utah communities since 1997. Their services include mold inspection and testing, mold remediation, water damage restoration, fire and smoke damage restoration, sewage cleanup, and a full range of cleaning services. They are available 24/7 for emergency response.
+Home Pride Restoration is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, American Fork, Provo, and surrounding Utah communities since 1997. Their services include mold inspection and testing, mold remediation, water damage restoration, fire and smoke damage restoration, sewage cleanup, and a full range of cleaning services. They are available 24/7 for emergency response.

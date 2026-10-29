@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Junk & Debris Removal in Lehi, UT | Home Pride Restoration and Cleaning"
+title: "Junk & Debris Removal in Lehi, UT | Home Pride Restoration"
 h1: "Junk & Debris Removal in Lehi"
 meta_description: "24/7 junk & debris removal in Lehi, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "junk & debris removal lehi"
@@ -32,7 +32,7 @@ Lehi's active HOA landscape, particularly in master-planned communities, also me
 
 ## Our Junk & Debris Removal Process in Lehi
 
-When you call Home Pride Restoration and Cleaning at (801) 995-2437, the process is straightforward and built around your schedule, not ours.
+When you call Home Pride Restoration at (801) 995-2437, the process is straightforward and built around your schedule, not ours.
 
 **Assessment and sorting on arrival.** Our crew walks the property with you first. We identify what can be donated, what needs to go to a recycling facility, and what is headed to the landfill. Lehi Transfer Station on 500 West handles a portion of standard residential waste, but certain materials, old electronics, paint cans, treated lumber, require separate routing, and we handle that separation so you don't have to.
 

@@ -79,14 +79,14 @@ If you want more detail on why this isn't a DIY weekend project, [the health ris
 
 Shut off the water source if it's safe to do so, keep people and pets away from the affected area, and avoid walking contaminated water through the rest of the house. Don't run a shop vac rated for wet/dry use on raw sewage; it's not built for the contamination level and can cross-contaminate other areas.
 
-Take photos of the damage and the source before anything is moved or cleaned, since this documentation matters for any insurance claim. If the backup reached a finished space with carpet or drywall, call Home Pride Restoration and Cleaning at (801) 995-2437 for a same-day assessment and a written scope before deciding what's salvageable versus what needs to come out.
+Take photos of the damage and the source before anything is moved or cleaned, since this documentation matters for any insurance claim. If the backup reached a finished space with carpet or drywall, call Home Pride Restoration at (801) 995-2437 for a same-day assessment and a written scope before deciding what's salvageable versus what needs to come out.
 
 A sewage backup in a finished basement is not a wait-and-see situation. The longer Category 3 water sits against drywall and carpet, the more material has to be removed, which is the single fastest way a cleanup bill grows.
 
 ---
 
-**About Home Pride Restoration and Cleaning**
+**About Home Pride Restoration**
 
-Home Pride Restoration and Cleaning LLC is an IICRC-certified company serving Saratoga Springs, UT and the surrounding Utah County area since 1997. Their crews handle sewage cleanup, basement flooding, and water damage restoration across the region, available 24/7 for emergency assessments.
+Home Pride Restoration LLC is an IICRC-certified company serving Saratoga Springs, UT and the surrounding Utah County area since 1997. Their crews handle sewage cleanup, basement flooding, and water damage restoration across the region, available 24/7 for emergency assessments.
 
-**Need help now?** [Call Home Pride Restoration and Cleaning at (801) 995-2437](tel:+18019952437).
+**Need help now?** [Call Home Pride Restoration at (801) 995-2437](tel:+18019952437).

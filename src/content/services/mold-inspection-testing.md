@@ -1,7 +1,7 @@
 ---
 hero: '/images/services/mold-inspection-testing.webp'
 archetype: "service-landing"
-title: "Mold Inspection and Testing in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "Mold Inspection and Testing in Saratoga Springs | Home Pride Restoration"
 h1: "Mold Inspection and Testing in Saratoga Springs"
 meta_description: "24/7 mold inspection and testing in Saratoga Springs and surrounding areas. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold inspection and testing saratoga springs"
@@ -54,6 +54,6 @@ Utah's high-desert climate creates a specific mold window that surprises many ho
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and provides mold inspection and testing throughout Utah County and the surrounding region, including Eagle Mountain, Lehi, American Fork, Pleasant Grove, Orem, Provo, and Herriman. City-specific service pages are linked from the main navigation for each area we serve.
+Home Pride Restoration is based in Saratoga Springs and provides mold inspection and testing throughout Utah County and the surrounding region, including Eagle Mountain, Lehi, American Fork, Pleasant Grove, Orem, Provo, and Herriman. City-specific service pages are linked from the main navigation for each area we serve.
 
 If you're smelling something you can't find, seeing growth you can't explain, or dealing with a moisture event that happened weeks ago and was never properly dried, call (801) 995-2437 to schedule an indoor air quality test. You'll have lab-backed answers, a written report, and a clear picture of what needs to happen next.

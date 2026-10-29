@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Tile & Grout Cleaning in Eagle Mountain, UT | Home Pride Restoration and Cleaning"
+title: "Tile & Grout Cleaning in Eagle Mountain, UT | Home Pride Restoration"
 h1: "Tile & Grout Cleaning in Eagle Mountain"
 meta_description: "24/7 tile & grout cleaning in Eagle Mountain, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "tile & grout cleaning eagle mountain"
@@ -46,4 +46,4 @@ Tile and grout cleaning is a scheduled service rather than an emergency, so we w
 
 Here's something worth knowing if your home was built between 2004 and 2012, which covers a large share of the occupied homes in Eagle Mountain's earlier phases: many builders in that era used unsanded grout in joints wider than 1/8 inch, which is the wrong product for those gaps. Over time, unsanded grout in a wider joint develops fine cracks that trap dirt and moisture in a way that even professional cleaning can't fully reverse. When we see that pattern, we flag it before we clean so you're not surprised if certain lines look slightly uneven after the job, and we can discuss grout restoration or regrouting as a next step. Knowing the construction era of your home helps us set honest expectations before we start.
 
-Call Home Pride Restoration and Cleaning at (801) 995-2437 to schedule tile and grout cleaning for your Eagle Mountain home. We've been doing this work since 1997, and we're IICRC Certified, so you're not handing your floors over to a pressure-washer-and-a-van operation.
+Call Home Pride Restoration at (801) 995-2437 to schedule tile and grout cleaning for your Eagle Mountain home. We've been doing this work since 1997, and we're IICRC Certified, so you're not handing your floors over to a pressure-washer-and-a-van operation.

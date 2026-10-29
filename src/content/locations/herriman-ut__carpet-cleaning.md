@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Herriman, UT | Home Pride Restoration and Cleaning"
+title: "Carpet Cleaning in Herriman, UT | Home Pride Restoration"
 h1: "Carpet Cleaning in Herriman"
 meta_description: "24/7 carpet cleaning in Herriman, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "carpet cleaning herriman"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Herriman sits at roughly 5,000 feet elevation on the western bench of the Wasatch Front, where high-desert dust, red-clay soil from the Oquirrh Mountain foothills, and a climate that swings between dry summer heat and heavy winter inversion events create a particular kind of carpet punishment. That fine particulate, the reddish sediment that coats vehicles parked near undeveloped lots along Herriman Parkway, works its way deep into carpet fibers, bonding with the alkaline mineral content in local tap water and turning routine soil into something that resists ordinary vacuuming entirely. Home Pride Restoration and Cleaning has been handling exactly this kind of deep-seated contamination since 1997, and the approach here is calibrated to what Herriman's environment actually does to carpet.
+Herriman sits at roughly 5,000 feet elevation on the western bench of the Wasatch Front, where high-desert dust, red-clay soil from the Oquirrh Mountain foothills, and a climate that swings between dry summer heat and heavy winter inversion events create a particular kind of carpet punishment. That fine particulate, the reddish sediment that coats vehicles parked near undeveloped lots along Herriman Parkway, works its way deep into carpet fibers, bonding with the alkaline mineral content in local tap water and turning routine soil into something that resists ordinary vacuuming entirely. Home Pride Restoration has been handling exactly this kind of deep-seated contamination since 1997, and the approach here is calibrated to what Herriman's environment actually does to carpet.
 
 ## Why Herriman Carpets Get Dirty Faster Than You'd Expect
 

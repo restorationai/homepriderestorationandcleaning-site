@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Frozen Pipe Restoration in Provo, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Frozen Pipe Restoration in Provo, UT | Home Pride Restoration"
 h1: "24/7 Emergency Frozen Pipe Restoration in Provo"
 meta_description: "24/7 emergency frozen pipe restoration in Provo, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "frozen pipe restoration provo"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Burst pipe or leak in Provo? We answer 24/7.** Call now and our crew heads out to stop the water and start the cleanup.
 
-Provo winters are deceptively cold. The valley sits at roughly 4,500 feet, and when an Arctic inversion settles over Utah County and overnight lows drop into the single digits, the pipes inside uninsulated exterior walls, common in the older brick bungalows near the BYU campus and in the tightly packed neighborhoods east of University Avenue, can freeze solid in a matter of hours. When those pipes thaw, the water doesn't politely announce itself. It soaks into subfloor sheathing, wicks up drywall, and starts the clock on secondary damage before most homeowners realize anything is wrong. Home Pride Restoration and Cleaning has been responding to exactly this scenario since 1997, and our IICRC-certified crews know what Provo's climate does to residential plumbing.
+Provo winters are deceptively cold. The valley sits at roughly 4,500 feet, and when an Arctic inversion settles over Utah County and overnight lows drop into the single digits, the pipes inside uninsulated exterior walls, common in the older brick bungalows near the BYU campus and in the tightly packed neighborhoods east of University Avenue, can freeze solid in a matter of hours. When those pipes thaw, the water doesn't politely announce itself. It soaks into subfloor sheathing, wicks up drywall, and starts the clock on secondary damage before most homeowners realize anything is wrong. Home Pride Restoration has been responding to exactly this scenario since 1997, and our IICRC-certified crews know what Provo's climate does to residential plumbing.
 
 ## Why Provo Properties Are Especially Vulnerable to Frozen Pipe Damage
 
@@ -53,4 +53,4 @@ Our headquarters is in Saratoga Springs, roughly 18 miles northwest of central P
 
 Here's something that only comes up when you've worked Utah County winters for a while: during a persistent temperature inversion, outdoor air in the valley can actually be more humid than normal winter air because cold air traps moisture near the ground. If you open windows trying to air out a water-damaged room during an inversion event, you may be pulling in 60–70% relative humidity air rather than the dry 20–30% RH you'd expect in a Utah winter. We've seen homeowners inadvertently slow their own drying by ventilating at the wrong time. Our crews check current valley conditions before deciding whether to use fresh-air ventilation or run the structure as a closed drying system, a call that can shave a full day off your drying timeline.
 
-If you're dealing with a burst or thawed pipe right now, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We're, IICRC certified, and we've been responding to Provo's winter pipe emergencies long enough to know exactly what this valley's climate throws at a house. The sooner the drying equipment is running, the less of your home ends up in a dumpster.
+If you're dealing with a burst or thawed pipe right now, call Home Pride Restoration at **(801) 995-2437**. We're, IICRC certified, and we've been responding to Provo's winter pipe emergencies long enough to know exactly what this valley's climate throws at a house. The sooner the drying equipment is running, the less of your home ends up in a dumpster.

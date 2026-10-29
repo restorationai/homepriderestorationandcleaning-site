@@ -108,10 +108,10 @@ A legitimate assessment includes:
 
 Be cautious of any contractor who skips the moisture mapping step or quotes a flat rate before seeing the property. Underbidding the scope and then adding change orders mid-job is a common pattern in disaster restoration, one our post on [choosing a restoration company](/blog/choosing-a-restoration-company/) covers in detail.
 
-Home Pride Restoration and Cleaning provides written scopes after every on-site assessment. If you're dealing with water damage in Park City or anywhere on the Wasatch Back, call (801) 995-2437 to schedule an assessment, available 24/7.
+Home Pride Restoration provides written scopes after every on-site assessment. If you're dealing with water damage in Park City or anywhere on the Wasatch Back, call (801) 995-2437 to schedule an assessment, available 24/7.
 
 ---
 
-**About Home Pride Restoration and Cleaning**
+**About Home Pride Restoration**
 
-Home Pride Restoration and Cleaning LLC is an IICRC-certified restoration company serving Park City, Heber City, and communities across northern Utah since 1997. Their crews handle water damage mitigation, basement flooding cleanup, mold remediation, and full-scope restoration for residential and commercial properties throughout the Wasatch Back. Available 24/7 for emergency response.
+Home Pride Restoration LLC is an IICRC-certified restoration company serving Park City, Heber City, and communities across northern Utah since 1997. Their crews handle water damage mitigation, basement flooding cleanup, mold remediation, and full-scope restoration for residential and commercial properties throughout the Wasatch Back. Available 24/7 for emergency response.

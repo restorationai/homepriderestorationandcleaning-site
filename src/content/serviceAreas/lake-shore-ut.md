@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Lake Shore, UT | Home Pride Restoration and Cleaning"
+title: "Restoration Services in Lake Shore, UT | Home Pride Restoration"
 h1: "Restoration Services in Lake Shore"
 meta_description: "Serving Lake Shore, UT with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (801) 995-2437."
 primary_keyword: "restoration services lake shore"
@@ -19,7 +19,7 @@ state: "UT"
 primary: false
 rendered: true
 ---
-Home Pride Restoration and Cleaning handles water damage, fire and smoke recovery, mold remediation, and biohazard cleanup for homes and small properties in Lake Shore, a small Utah County town set along the southeast shore of Utah Lake. Property owners here deal with a mix of older rural homes, newer infill construction, agricultural outbuildings, and properties sitting close to the lake's edge, each with its own exposure to moisture and storm risk. We answer 24/7 and dispatch a crew that documents the loss, stabilizes the structure, and works directly with your insurance carrier so the paperwork doesn't become a second job on top of the damage itself.
+Home Pride Restoration handles water damage, fire and smoke recovery, mold remediation, and biohazard cleanup for homes and small properties in Lake Shore, a small Utah County town set along the southeast shore of Utah Lake. Property owners here deal with a mix of older rural homes, newer infill construction, agricultural outbuildings, and properties sitting close to the lake's edge, each with its own exposure to moisture and storm risk. We answer 24/7 and dispatch a crew that documents the loss, stabilizes the structure, and works directly with your insurance carrier so the paperwork doesn't become a second job on top of the damage itself.
 
 ## Restoration emergencies common in Lake Shore
 
@@ -37,4 +37,4 @@ We run crews out of our Saratoga Springs headquarters down to Lake Shore along t
 
 Much of Lake Shore's housing is rural residential construction, a mix of older single-story homes on crawlspaces and newer builds on slab or basement foundations, often paired with detached garages, barns, or agricultural outbuildings. Older plumbing in this part of Utah County tends toward galvanized supply lines and cast iron drains, both of which corrode and fail with age, while newer construction uses copper or PEX. Soils near the lakeshore run wetter and finer-grained than the benches further east, and that higher water table is the main reason crawlspace moisture and foundation seepage show up repeatedly in this area. Permits for structural repair or rebuild work in Lake Shore typically route through the town office or Utah County's building division depending on the scope of work, so we flag early in the job whether your repair will need a permit pulled before reconstruction starts.
 
-If water, fire, smoke, or mold has hit a Lake Shore property, don't wait for it to get worse overnight. Call Home Pride Restoration and Cleaning at (801) 995-2437, we're available 24/7 and we'll walk you through what happens next before a crew ever reaches your door.
+If water, fire, smoke, or mold has hit a Lake Shore property, don't wait for it to get worse overnight. Call Home Pride Restoration at (801) 995-2437, we're available 24/7 and we'll walk you through what happens next before a crew ever reaches your door.

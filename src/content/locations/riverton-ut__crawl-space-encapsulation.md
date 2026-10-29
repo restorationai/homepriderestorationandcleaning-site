@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Riverton, UT | Home Pride Restoration and Cleaning"
+title: "Crawl Space Encapsulation in Riverton, UT | Home Pride Restoration"
 h1: "Crawl Space Encapsulation in Riverton"
 meta_description: "24/7 crawl space encapsulation in Riverton, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "crawl space encapsulation riverton"
@@ -43,10 +43,10 @@ From there, the process typically follows this sequence:
 
 ## Response Time from Saratoga Springs to Riverton
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, which puts Riverton roughly 15–20 minutes away via Redwood Road or Bangerter Highway depending on traffic. For urgent situations, an active water intrusion into a crawl space after a pipe failure or a heavy storm, that proximity matters. Most Riverton calls see a technician on-site within 60–90 minutes of the initial call. Homes in the southern Riverton zip codes near 12600 South can sometimes be reached faster via Mountain View Corridor.
+Home Pride Restoration operates out of Saratoga Springs, which puts Riverton roughly 15–20 minutes away via Redwood Road or Bangerter Highway depending on traffic. For urgent situations, an active water intrusion into a crawl space after a pipe failure or a heavy storm, that proximity matters. Most Riverton calls see a technician on-site within 60–90 minutes of the initial call. Homes in the southern Riverton zip codes near 12600 South can sometimes be reached faster via Mountain View Corridor.
 
 ## Local Note: Irrigation Season Changes the Timeline
 
 One thing that catches Riverton homeowners off guard: scheduling encapsulation during peak irrigation season (roughly May through September) can affect the baseline moisture readings we take before installation. The ground under crawl spaces in neighborhoods near the Jordan River corridor often reads 10–15% wetter during active irrigation months than it does in late fall or early spring. That's not a reason to delay, moisture problems don't wait, but it does mean we sometimes recommend a second humidity reading 30 days post-installation to confirm the dehumidifier is sized correctly for year-round conditions, not just the wettest part of the season. We factor that into our post-job follow-up at no additional charge.
 
-If your home is showing signs of musty odors in the first floor, buckled hardwood floors, or visible efflorescence on the foundation walls, the crawl space is the first place to look. Call Home Pride Restoration and Cleaning at **(801) 995-2437** to schedule an inspection, we'll give you a straight assessment of what's happening under your home and what it will take to fix it for good.
+If your home is showing signs of musty odors in the first floor, buckled hardwood floors, or visible efflorescence on the foundation walls, the crawl space is the first place to look. Call Home Pride Restoration at **(801) 995-2437** to schedule an inspection, we'll give you a straight assessment of what's happening under your home and what it will take to fix it for good.

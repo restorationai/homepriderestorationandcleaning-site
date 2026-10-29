@@ -1,8 +1,8 @@
 ---
 archetype: "home"
-title: "Water Damage Restoration in Saratoga Springs, UT | Home Pride Restoration and Cleaning"
+title: "Water Damage Restoration in Saratoga Springs, UT | Home Pride Restoration"
 h1: "24/7 Water Damage Restoration in Saratoga Springs, UT"
-meta_description: "Home Pride Restoration and Cleaning provides water damage restoration in Saratoga Springs, UT, answering 24/7. IICRC certified. Call (801) 995-2437 now."
+meta_description: "Home Pride Restoration provides water damage restoration in Saratoga Springs, UT, answering 24/7. IICRC certified. Call (801) 995-2437 now."
 primary_keyword: "water damage restoration saratoga springs"
 secondary_keywords: ["best restoration company in saratoga springs", "restoration company saratoga springs", "water damage restoration near me"]
 search_intent: "local_commercial"
@@ -15,7 +15,7 @@ breadcrumb: [{"name": "Home", "url": "/"}]
 faq: [{"question": "How quickly can you get someone to my home?", "answer": "For emergency calls in Saratoga Springs and nearby cities like Lehi and Eagle Mountain, we typically have a technician on-site within 60 to 90 minutes. Response time can vary slightly based on location and crew availability, but we prioritize active water intrusion and fire losses because every hour matters for limiting damage."}, {"question": "Do you bill my insurance company directly?", "answer": "Yes. We work with most major homeowners insurance carriers and can communicate directly with your adjuster, submit documentation, and handle the billing process on your behalf. You'll still need to file the initial claim with your insurer, but we can walk you through that call if you haven't done it yet."}, {"question": "What should I do while I wait for your crew to arrive?", "answer": "For water damage, shut off the source if you can safely reach the main valve, and move electronics and valuables off wet floors. For fire or smoke damage, avoid disturbing soot \u2014 wiping it spreads the residue and makes odor removal harder. Don't run HVAC systems after a fire, as ductwork will circulate smoke particles through the entire house. We'll give you specific guidance when you call."}, {"question": "What does IICRC Certified mean, and why does it matter?", "answer": "The IICRC (Institute of Inspection, Cleaning and Restoration Certification) sets the technical standards for water damage drying, mold remediation, and fire and smoke restoration. Technicians must pass coursework and hands-on testing to earn certification. It matters practically because insurance companies recognize IICRC standards in claims, and it means the drying targets and remediation protocols we follow are based on established science rather than guesswork."}, {"question": "Do you offer free estimates?", "answer": "We provide no-cost assessments for restoration work. For active emergencies, the assessment happens as part of the response \u2014 we're not going to charge you to show up and evaluate a flooded basement. For non-emergency situations like suspected mold or pre-sale inspections, call (801) 995-2437 and we'll schedule a time to take a look."}, {"question": "Are you available nights, weekends, and holidays?", "answer": "Yes \u2014 24 hours a day, 365 days a year. Pipes burst on Christmas morning, storms don't wait for Monday, and a sewage backup at 11 p.m. is just as urgent as one at noon. When you call our number after hours, you reach someone who can dispatch a crew, not an answering service that takes a message."}]
 rendered: true
 ---
-When water is soaking into your subfloor, smoke smell is locked into every wall, or mold is spreading behind drywall you can't see, you need someone who shows up fast and knows exactly what to do. Home Pride Restoration and Cleaning handles water damage, fire and smoke damage, mold remediation, storm damage, biohazard cleanup, and full reconstruction, and has been doing it in Saratoga Springs and across Utah County since 1997.
+When water is soaking into your subfloor, smoke smell is locked into every wall, or mold is spreading behind drywall you can't see, you need someone who shows up fast and knows exactly what to do. Home Pride Restoration handles water damage, fire and smoke damage, mold remediation, storm damage, biohazard cleanup, and full reconstruction, and has been doing it in Saratoga Springs and across Utah County since 1997.
 
 ## Services we handle
 
@@ -39,7 +39,7 @@ Our crew is available 24 hours a day, seven days a week. Emergencies don't sched
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and serves communities throughout Utah County and the surrounding region. We regularly respond to calls in **Lehi**, **Eagle Mountain**, **American Fork**, **Orem**, **Provo**, and **Herriman**, and we cover a broader radius for larger commercial losses. If you're unsure whether we reach your address, call us, we'll tell you straight.
+Home Pride Restoration is based in Saratoga Springs and serves communities throughout Utah County and the surrounding region. We regularly respond to calls in **Lehi**, **Eagle Mountain**, **American Fork**, **Orem**, **Provo**, and **Herriman**, and we cover a broader radius for larger commercial losses. If you're unsure whether we reach your address, call us, we'll tell you straight.
 
 The Wasatch Front's climate creates specific restoration challenges worth knowing: cold winters mean frozen pipes are a near-annual event in unheated crawl spaces and garages, summer monsoon moisture can push into basements that were dry all spring, and the region's hard water accelerates corrosion in supply lines and water heater connections. We've seen all of it, repeatedly, which means we're not guessing at the source of your problem.
 

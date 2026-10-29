@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Fabric Protection in American Fork, UT | Home Pride Restoration and Cleaning"
+title: "Fabric Protection in American Fork, UT | Home Pride Restoration"
 h1: "Fabric Protection in American Fork"
 meta_description: "24/7 fabric protection in American Fork, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fabric protection american fork"
@@ -42,10 +42,10 @@ Something worth knowing if you live near the mouth of American Fork Canyon: the 
 
 ## Scheduling and Response for American Fork
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, roughly 10–12 minutes from most American Fork addresses via UT-73 east to US-89 north. For fabric protection appointments, which are scheduled rather than emergency calls, we offer morning and afternoon windows Monday through Saturday. Most residential jobs covering a living room, one or two bedrooms, and a sectional are completed in two to three hours. We confirm the appointment window the day before and send a technician arrival notification so you're not waiting around.
+Home Pride Restoration operates out of Saratoga Springs, roughly 10–12 minutes from most American Fork addresses via UT-73 east to US-89 north. For fabric protection appointments, which are scheduled rather than emergency calls, we offer morning and afternoon windows Monday through Saturday. Most residential jobs covering a living room, one or two bedrooms, and a sectional are completed in two to three hours. We confirm the appointment window the day before and send a technician arrival notification so you're not waiting around.
 
 For homeowners in the 84003 ZIP code who are also scheduling a carpet cleaning in the same visit, combining services saves a mobilization trip and ensures the protection is applied immediately after extraction while fibers are still in optimal condition for bonding.
 
 If your furniture or carpet is still under manufacturer warranty, ask us about documentation, some warranties require proof of professional protective treatment to remain valid, and we provide a written service record that satisfies most manufacturer requirements.
 
-Ready to protect your home's textiles before the next round of canyon dust or a summer full of family traffic? Call Home Pride Restoration and Cleaning at (801) 995-2437 to schedule fabric protection service in American Fork.
+Ready to protect your home's textiles before the next round of canyon dust or a summer full of family traffic? Call Home Pride Restoration at (801) 995-2437 to schedule fabric protection service in American Fork.

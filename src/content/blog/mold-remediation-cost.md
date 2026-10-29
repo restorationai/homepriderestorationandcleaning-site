@@ -103,10 +103,10 @@ The risk of DIY on larger jobs isn't just incomplete removal, it's cross-contami
 
 If you're not sure what you're dealing with, a professional [mold inspection](/services/mold-inspection-testing/) before committing to remediation is money well spent. You'll know the scope, the species, and the right approach before anyone starts swinging a hammer.
 
-Home Pride Restoration and Cleaning provides written scopes before any work begins. Call (801) 995-2437 to schedule a mold assessment.
+Home Pride Restoration provides written scopes before any work begins. Call (801) 995-2437 to schedule a mold assessment.
 
 ---
 
-**About Home Pride Restoration and Cleaning**
+**About Home Pride Restoration**
 
-Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Utah County and the Wasatch Front since 1997. Their crews handle mold remediation, mold inspection and testing, water damage restoration, fire and smoke damage restoration, and a full range of cleaning and property services across Saratoga Springs, Lehi, Eagle Mountain, Provo, Orem, and surrounding communities. Available 24/7 at (801) 995-2437.
+Home Pride Restoration is an IICRC-certified restoration company serving Utah County and the Wasatch Front since 1997. Their crews handle mold remediation, mold inspection and testing, water damage restoration, fire and smoke damage restoration, and a full range of cleaning and property services across Saratoga Springs, Lehi, Eagle Mountain, Provo, Orem, and surrounding communities. Available 24/7 at (801) 995-2437.

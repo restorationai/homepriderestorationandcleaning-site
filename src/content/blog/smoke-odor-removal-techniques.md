@@ -100,4 +100,4 @@ Document everything with photos before, during, and after. If you're working wit
 
 ---
 
-If you're in the Saratoga Springs area and the smell isn't going away on its own, Home Pride Restoration and Cleaning can assess the extent of the contamination and walk you through what remediation would actually involve, no pressure, just a clear picture of what you're dealing with. Reach us at **(801) 995-2437**.
+If you're in the Saratoga Springs area and the smell isn't going away on its own, Home Pride Restoration can assess the extent of the contamination and walk you through what remediation would actually involve, no pressure, just a clear picture of what you're dealing with. Reach us at **(801) 995-2437**.

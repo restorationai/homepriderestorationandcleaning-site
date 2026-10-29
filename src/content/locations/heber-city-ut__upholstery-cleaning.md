@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Heber City, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in Heber City, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in Heber City"
 meta_description: "24/7 upholstery cleaning in Heber City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning heber city"
@@ -34,7 +34,7 @@ Every job starts with a fiber identification check, wool, cotton, microfiber, le
 
 For delicate pieces, antique wool upholstery, silk accent chairs, or heirloom pieces, we use a low-moisture encapsulation method that protects the fiber structure while still lifting the fine particulate soil that's endemic to the valley. Drying time in Heber City's dry air is actually faster than along the Front Range, typically two to four hours for most fabric sofas when conditions are right, though we always confirm airflow before leaving the home.
 
-Home Pride Restoration and Cleaning has been doing this work since 1997 and carries IICRC certification, the industry's recognized standard for textile and upholstery cleaning, which means our technicians are trained on fiber chemistry, not just equipment operation.
+Home Pride Restoration has been doing this work since 1997 and carries IICRC certification, the industry's recognized standard for textile and upholstery cleaning, which means our technicians are trained on fiber chemistry, not just equipment operation.
 
 ## Getting to Heber City from Our Saratoga Springs Base
 
@@ -44,4 +44,4 @@ From our Saratoga Springs headquarters, the most direct route to Heber City runs
 
 Technicians who've worked in the Soldier Hollow and Midway corridor long enough start to recognize a specific soiling pattern: fine volcanic-origin soil mixed with livestock dust from nearby ranches creates a combination that behaves differently than urban or suburban dirt. It embeds at a shallower depth than clay-heavy soils but bonds strongly to synthetic fibers through static. The fix isn't more heat or more chemical, it's a longer pre-spray dwell time and a slower extraction pass. We adjusted our standard Heber Valley protocol after noticing that jobs in this area were coming back for re-cleaning at higher rates than comparable work elsewhere. That kind of local pattern recognition is something you only develop by actually working in a place, not just driving through it.
 
-If your furniture has been through a Heber City winter, wood stove smoke, tracked-in snow melt, and months of dry indoor air, or a summer of trail dust and outdoor entertaining, it's worth a professional clean before the next season sets in. Call Home Pride Restoration and Cleaning at (801) 995-2437 to schedule upholstery cleaning in Heber City and the surrounding Heber Valley.
+If your furniture has been through a Heber City winter, wood stove smoke, tracked-in snow melt, and months of dry indoor air, or a summer of trail dust and outdoor entertaining, it's worth a professional clean before the next season sets in. Call Home Pride Restoration at (801) 995-2437 to schedule upholstery cleaning in Heber City and the surrounding Heber Valley.

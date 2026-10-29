@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Storm Damage Restoration in Eagle Mountain, UT | Home Pride Restoration and Cleaning"
+title: "Emergency Storm Damage Restoration in Eagle Mountain, UT | Home Pride Restoration"
 h1: "24/7 Emergency Storm Damage Restoration in Eagle Mountain"
 meta_description: "24/7 emergency storm damage restoration in Eagle Mountain, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "storm damage restoration eagle mountain"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Storm damage emergency in Eagle Mountain? We answer 24/7.** Call now and our crew heads out to secure the property and stop further damage.
 
-Eagle Mountain sits at roughly 4,900 feet on the western bench of Utah County, where fast-moving storm cells rolling off the Oquirrh Mountains can drop golf ball–sized hail, snap mature trees, and leave standing water in finished basements within the same hour. When that happens, the clock starts immediately, wet insulation begins to compress and lose R-value within hours, and saturated OSB sheathing in the newer construction that dominates Eagle Mountain's subdivisions can begin to delaminate before the rain even stops. Home Pride Restoration and Cleaning has been responding to those calls since 1997, and our Saratoga Springs headquarters puts us minutes from the communities most likely to take a hit.
+Eagle Mountain sits at roughly 4,900 feet on the western bench of Utah County, where fast-moving storm cells rolling off the Oquirrh Mountains can drop golf ball–sized hail, snap mature trees, and leave standing water in finished basements within the same hour. When that happens, the clock starts immediately, wet insulation begins to compress and lose R-value within hours, and saturated OSB sheathing in the newer construction that dominates Eagle Mountain's subdivisions can begin to delaminate before the rain even stops. Home Pride Restoration has been responding to those calls since 1997, and our Saratoga Springs headquarters puts us minutes from the communities most likely to take a hit.
 
 ## Why Eagle Mountain Properties Are Especially Vulnerable to Storm Damage
 
@@ -53,4 +53,4 @@ Most storm damage claims in Eagle Mountain run through standard homeowner's poli
 
 One pattern we've seen repeatedly in Eagle Mountain's Pony Express and Ranches subdivisions: the large three-car garages common in these floor plans often have a subtle negative slope toward the interior that wasn't an issue when the home was new but becomes a significant water intrusion point after years of minor settling. During a heavy storm, water sheets off the driveway and under the garage door seal before the drain can handle the volume. If your garage shares a wall with finished living space, that water has a direct path to drywall and flooring. It's worth checking that threshold seal annually, and if you've had a storm event, it's worth having us check behind that shared wall even if the garage floor looks dry.
 
-If a storm has already hit your home, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll be on-site fast, document everything your insurance company needs, and get Eagle Mountain's newest and most established neighborhoods dried out and back to normal.
+If a storm has already hit your home, call Home Pride Restoration at (801) 995-2437. We'll be on-site fast, document everything your insurance company needs, and get Eagle Mountain's newest and most established neighborhoods dried out and back to normal.

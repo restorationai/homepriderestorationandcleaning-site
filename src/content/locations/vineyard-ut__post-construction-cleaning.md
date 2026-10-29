@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Vineyard, UT | Home Pride Restoration and Cleaning"
+title: "Post-Construction and Specialty Cleaning in Vineyard, UT | Home Pride Restoration"
 h1: "Post-Construction and Specialty Cleaning in Vineyard"
 meta_description: "24/7 post-construction and specialty cleaning in Vineyard, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "post-construction and specialty cleaning vineyard"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Post-Construction and Specialty Cleaning"
 rendered: true
 ---
-Vineyard is still mostly a construction zone wearing a city's clothes: new townhome rows, apartment buildings, and single-family subdivisions going up on what used to be the Geneva Steel site along Utah Lake. That pace creates a specific cleaning problem builders and property managers run into constantly, fine drywall dust and paint overspray settling into brand-new finishes faster than crews can keep up with it. Home Pride Restoration and Cleaning handles the final clean and post-construction detail work that gets a unit ready for its certificate of occupancy or its first walk-through.
+Vineyard is still mostly a construction zone wearing a city's clothes: new townhome rows, apartment buildings, and single-family subdivisions going up on what used to be the Geneva Steel site along Utah Lake. That pace creates a specific cleaning problem builders and property managers run into constantly, fine drywall dust and paint overspray settling into brand-new finishes faster than crews can keep up with it. Home Pride Restoration handles the final clean and post-construction detail work that gets a unit ready for its certificate of occupancy or its first walk-through.
 
 ## Why Vineyard Properties See Post-Construction Cleaning Issues
 
@@ -38,4 +38,4 @@ A fair amount of Vineyard's new construction sits inside HOA-governed developmen
 
 One thing that catches people off guard in Vineyard: because so many streets, including stretches near Geneva Road and the Vineyard Connector, are still active construction corridors, a unit that looked clean at final walkthrough can pick up a new layer of dust within days if neighboring lots are still being graded or framed. We tell property managers scheduling a final clean close to a tenant move-in date to build in a short buffer, or have us do a quick touch-up pass right before keys change hands, rather than relying on a clean done a week or two earlier.
 
-If you're closing out a build or getting a renovated space ready in Vineyard, call Home Pride Restoration and Cleaning at (801) 995-2437. We've worked from our Saratoga Springs base since 1997, and our crews are IICRC certified.
+If you're closing out a build or getting a renovated space ready in Vineyard, call Home Pride Restoration at (801) 995-2437. We've worked from our Saratoga Springs base since 1997, and our crews are IICRC certified.

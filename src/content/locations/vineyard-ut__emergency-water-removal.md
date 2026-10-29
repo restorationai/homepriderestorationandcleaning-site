@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Vineyard, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Removal & Cleanup in Vineyard, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Removal & Cleanup in Vineyard"
 meta_description: "24/7 emergency water removal & cleanup in Vineyard, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "emergency water removal & cleanup vineyard"
@@ -36,10 +36,10 @@ Our crews are based in Saratoga Springs, a short run down the Mountain View Corr
 
 ## Vineyard Insurance & HOA Coordination
 
-Because so much of Vineyard was developed as planned communities with shared townhome rows and condo buildings, HOA notification is often part of the process even when the damage is contained to one unit. We document moisture readings, photos, and equipment placement as we go, which gives you a clear record for your insurance carrier and anything your HOA board wants to see before common-area repairs are approved. Home Pride Restoration and Cleaning is IICRC certified, and we structure our documentation to match what adjusters typically expect for a water loss claim.
+Because so much of Vineyard was developed as planned communities with shared townhome rows and condo buildings, HOA notification is often part of the process even when the damage is contained to one unit. We document moisture readings, photos, and equipment placement as we go, which gives you a clear record for your insurance carrier and anything your HOA board wants to see before common-area repairs are approved. Home Pride Restoration is IICRC certified, and we structure our documentation to match what adjusters typically expect for a water loss claim.
 
 ## Local Note
 
 Because Vineyard's housing stock is so new, a lot of homeowners assume a water intrusion will dry out fast on its own since there's no old plaster or lath to worry about. In practice, the opposite can be true: tightly sealed, newer-built homes with foam insulation and vapor barriers trap humidity inside wall and floor assemblies instead of letting it breathe out, so we often run drying equipment longer in a five-year-old Vineyard home than you'd expect for a house that age, simply because the building envelope doesn't let moisture escape on its own.
 
-If you're standing over wet flooring in Vineyard right now, the time between the leak and the extraction matters more than almost anything else in how the repair turns out. Call Home Pride Restoration and Cleaning at (801) 995-2437 and we'll get a crew moving toward your address.
+If you're standing over wet flooring in Vineyard right now, the time between the leak and the extraction matters more than almost anything else in how the repair turns out. Call Home Pride Restoration at (801) 995-2437 and we'll get a crew moving toward your address.

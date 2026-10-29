@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Roof Leak Cleanup and Repair in Riverton, UT | Home Pride Restoration and Cleaning"
+title: "Roof Leak Cleanup and Repair in Riverton, UT | Home Pride Restoration"
 h1: "Roof Leak Cleanup and Repair in Riverton"
 meta_description: "24/7 roof leak cleanup and repair in Riverton, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "roof leak cleanup and repair riverton"
@@ -38,7 +38,7 @@ After the structure reaches target moisture levels, verified with a final moistu
 
 ## Response Time from Saratoga Springs to Riverton
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, which puts Riverton roughly 10 to 15 minutes away via Redwood Road or Bangerter Highway depending on time of day. For addresses in the northern parts of Riverton near the 11800 South corridor, response is typically faster, technicians can be on-site within 30 to 45 minutes of a call. Homes further south toward the Mountain View Corridor area may add a few minutes, but the company targets a 60-minute arrival window for active leak emergencies throughout the 84065 ZIP code.
+Home Pride Restoration operates out of Saratoga Springs, which puts Riverton roughly 10 to 15 minutes away via Redwood Road or Bangerter Highway depending on time of day. For addresses in the northern parts of Riverton near the 11800 South corridor, response is typically faster, technicians can be on-site within 30 to 45 minutes of a call. Homes further south toward the Mountain View Corridor area may add a few minutes, but the company targets a 60-minute arrival window for active leak emergencies throughout the 84065 ZIP code.
 
 For evening and weekend calls, which is when most homeowners first notice ceiling stains turning into active drips, the same response commitment applies. Roof leaks don't wait for business hours, and the damage curve steepens sharply after the first few hours of unaddressed saturation.
 
@@ -52,4 +52,4 @@ If there's an HOA involved, common in Riverton's planned communities, the team c
 
 One pattern that comes up repeatedly in Riverton homes built between 1995 and 2005: the original builders often installed roof vents and attic ventilation that was code-compliant at the time but undersized by today's standards. Poor attic ventilation means heat and moisture build up under the roof deck year-round, accelerating shingle degradation from the inside out. By the time a leak appears, the sheathing directly under the vent areas is often already showing early delamination. When scoping a repair in these homes, it's worth having the ventilation ratio evaluated at the same time, a properly vented attic can add years to a new shingle installation.
 
-If you're dealing with water coming through the ceiling right now, call Home Pride Restoration and Cleaning at (801) 995-2437. The team covers all of Riverton and can have equipment on the ground before the damage has time to reach your walls.
+If you're dealing with water coming through the ceiling right now, call Home Pride Restoration at (801) 995-2437. The team covers all of Riverton and can have equipment on the ground before the damage has time to reach your walls.

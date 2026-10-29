@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Cedar Fort, UT | Home Pride Restoration and Cleaning"
+title: "Carpet Cleaning in Cedar Fort, UT | Home Pride Restoration"
 h1: "Carpet Cleaning in Cedar Fort"
 meta_description: "24/7 carpet cleaning in Cedar Fort, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "carpet cleaning cedar fort"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Carpet in Cedar Fort homes works harder than carpet almost anywhere else in Utah County. Between well water mineral deposits, gravel-road dust drifting in from unpaved stretches, and the dry high-desert air that pulls moisture out of fibers unevenly, carpet here shows wear and staining patterns that don't match what you'd see in a denser suburb. Home Pride Restoration and Cleaning has been working Utah County homes since 1997, and our approach to Cedar Fort carpet starts with understanding what's actually in the fibers before we ever run an extraction wand.
+Carpet in Cedar Fort homes works harder than carpet almost anywhere else in Utah County. Between well water mineral deposits, gravel-road dust drifting in from unpaved stretches, and the dry high-desert air that pulls moisture out of fibers unevenly, carpet here shows wear and staining patterns that don't match what you'd see in a denser suburb. Home Pride Restoration has been working Utah County homes since 1997, and our approach to Cedar Fort carpet starts with understanding what's actually in the fibers before we ever run an extraction wand.
 
 ## Why Cedar Fort Homes See Different Carpet Issues
 

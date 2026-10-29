@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Herriman, UT | Home Pride Restoration and Cleaning"
+title: "Post-Construction and Specialty Cleaning in Herriman, UT | Home Pride Restoration"
 h1: "Post-Construction and Specialty Cleaning in Herriman"
 meta_description: "24/7 post-construction and specialty cleaning in Herriman, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "post-construction and specialty cleaning herriman"
@@ -38,4 +38,4 @@ Most post-construction cleaning in Herriman is paid directly by the builder, gen
 
 One thing crews notice working Herriman job sites regularly: homes built on the benches toward the Rocky Mountain foothills tend to collect more windblown dust during the drywall and paint phase than homes lower in the valley, simply because of exposure to wind coming off the mountainside. On those builds, we often add an extra HEPA pass on window tracks and exterior-facing sills, since standard wipe-downs leave a fine grit that shows up under afternoon light.
 
-If you're closing out a renovation, finishing a basement, or handing over a new build anywhere in Herriman, a thorough final clean is what turns a construction site back into a livable home. Call Home Pride Restoration and Cleaning at (801) 995-2437 to schedule post-construction and specialty cleaning before your next walkthrough or move-in date.
+If you're closing out a renovation, finishing a basement, or handing over a new build anywhere in Herriman, a thorough final clean is what turns a construction site back into a livable home. Call Home Pride Restoration at (801) 995-2437 to schedule post-construction and specialty cleaning before your next walkthrough or move-in date.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Eagle Mountain, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in Eagle Mountain, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in Eagle Mountain"
 meta_description: "24/7 upholstery cleaning in Eagle Mountain, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning eagle mountain"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Upholstery Cleaning"
 rendered: true
 ---
-Eagle Mountain's high-desert elevation and the fine alkaline dust that blows off the west-facing benches above Ranches Parkway work their way into upholstered furniture faster than most homeowners expect. That gritty particulate settles deep into fabric weaves and leather grain, acting like sandpaper every time someone sits down. Add the region's low relative humidity, which causes natural fibers to dry-crack and synthetic blends to hold static, and sofas, sectionals, and accent chairs in Eagle Mountain homes age noticeably faster than comparable furniture in wetter Utah climates. Home Pride Restoration and Cleaning has been reversing that damage since 1997.
+Eagle Mountain's high-desert elevation and the fine alkaline dust that blows off the west-facing benches above Ranches Parkway work their way into upholstered furniture faster than most homeowners expect. That gritty particulate settles deep into fabric weaves and leather grain, acting like sandpaper every time someone sits down. Add the region's low relative humidity, which causes natural fibers to dry-crack and synthetic blends to hold static, and sofas, sectionals, and accent chairs in Eagle Mountain homes age noticeably faster than comparable furniture in wetter Utah climates. Home Pride Restoration has been reversing that damage since 1997.
 
 ## Why Eagle Mountain Upholstery Takes a Beating
 
@@ -52,4 +52,4 @@ If you have a piece with a manufacturer's warranty still active, we can document
 
 ---
 
-If your furniture is carrying a season's worth of Eagle Mountain dust, sun fade, pet dander, or everyday family wear, a professional cleaning is the most cost-effective way to extend its life before replacement becomes the only option. Call Home Pride Restoration and Cleaning at **(801) 995-2437** to schedule upholstery cleaning anywhere in Eagle Mountain, we'll give you an honest assessment of what's achievable before any work begins.
+If your furniture is carrying a season's worth of Eagle Mountain dust, sun fade, pet dander, or everyday family wear, a professional cleaning is the most cost-effective way to extend its life before replacement becomes the only option. Call Home Pride Restoration at **(801) 995-2437** to schedule upholstery cleaning anywhere in Eagle Mountain, we'll give you an honest assessment of what's achievable before any work begins.

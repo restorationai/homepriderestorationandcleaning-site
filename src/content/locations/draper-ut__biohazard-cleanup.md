@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Biohazard Cleanup in Draper, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Biohazard Cleanup in Draper, UT | Home Pride Restoration"
 h1: "24/7 Emergency Biohazard Cleanup in Draper"
 meta_description: "24/7 emergency biohazard cleanup in Draper, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "biohazard cleanup draper"
@@ -21,7 +21,7 @@ service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
 rendered: true
 ---
-**Biohazard cleanup emergency in Draper?** Call now for emergency service and discreet, professional response. Draper's mix of established single-family streets and newer HOA-governed communities along the Salt Lake and Utah county line means a biohazard incident rarely stays private for long, neighbors notice vehicles, property managers get calls, and families are left trying to figure out who to trust with something this personal. Home Pride Restoration and Cleaning handles blood, bodily fluid, and infectious material cleanup with the same IICRC-trained approach we've used since 1997, without turning a hard day into a spectacle.
+**Biohazard cleanup emergency in Draper?** Call now for emergency service and discreet, professional response. Draper's mix of established single-family streets and newer HOA-governed communities along the Salt Lake and Utah county line means a biohazard incident rarely stays private for long, neighbors notice vehicles, property managers get calls, and families are left trying to figure out who to trust with something this personal. Home Pride Restoration handles blood, bodily fluid, and infectious material cleanup with the same IICRC-trained approach we've used since 1997, without turning a hard day into a spectacle.
 
 ## Why Draper Sees These Calls
 
@@ -39,4 +39,4 @@ Most homeowner's policies cover biohazard remediation under property damage or l
 
 One detail that surprises a lot of Draper homeowners: because so much of the city sits on slab foundations poured during the building boom, fluids from a biohazard incident can wick sideways under baseboards farther than they would in a home with a traditional basement and joisted subfloor. We've learned to check adjoining rooms and closets even when the visible incident looks contained to one area, because slab construction doesn't give fluids anywhere to go but outward.
 
-If you're dealing with a biohazard situation in Draper right now, you don't need to manage it alone or try to clean it yourself. Home Pride Restoration and Cleaning is IICRC certified, and we handle the logistics, the documentation, and the disinfection so you can focus on your family or your tenants. Call (801) 995-2437 for biohazard cleanup in Draper.
+If you're dealing with a biohazard situation in Draper right now, you don't need to manage it alone or try to clean it yourself. Home Pride Restoration is IICRC certified, and we handle the logistics, the documentation, and the disinfection so you can focus on your family or your tenants. Call (801) 995-2437 for biohazard cleanup in Draper.

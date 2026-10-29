@@ -81,10 +81,10 @@ The most effective prevention steps for Heber City homes address the specific vu
 
 If you want a professional eye on your home's pipe vulnerability before winter, a moisture assessment can identify high-risk runs and crawl space conditions that aren't obvious from inside the living space.
 
-Home Pride Restoration and Cleaning responds 24/7 to frozen and burst pipe emergencies throughout Heber City and the surrounding Heber Valley. If you're dealing with active water damage, call **(801) 995-2437** to reach the team directly. For planned assessments or non-emergency questions, visit the [Heber City service area page](/service-areas/heber-city-ut/) or the [frozen pipe restoration service page](/services/frozen-pipe-restoration/).
+Home Pride Restoration responds 24/7 to frozen and burst pipe emergencies throughout Heber City and the surrounding Heber Valley. If you're dealing with active water damage, call **(801) 995-2437** to reach the team directly. For planned assessments or non-emergency questions, visit the [Heber City service area page](/service-areas/heber-city-ut/) or the [frozen pipe restoration service page](/services/frozen-pipe-restoration/).
 
 ---
 
-**About Home Pride Restoration and Cleaning**
+**About Home Pride Restoration**
 
-Home Pride Restoration and Cleaning LLC is an IICRC-certified restoration company serving Heber City, Saratoga Springs, and communities across Utah County and the Wasatch Back since 1997. Their crews handle water damage, burst and frozen pipe restoration, mold remediation, fire and smoke damage, and full-service cleaning across the region. Available 24/7 for emergency response.
+Home Pride Restoration LLC is an IICRC-certified restoration company serving Heber City, Saratoga Springs, and communities across Utah County and the Wasatch Back since 1997. Their crews handle water damage, burst and frozen pipe restoration, mold remediation, fire and smoke damage, and full-service cleaning across the region. Available 24/7 for emergency response.

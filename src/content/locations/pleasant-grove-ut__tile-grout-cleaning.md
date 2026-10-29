@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Tile & Grout Cleaning in Pleasant Grove, UT | Home Pride Restoration and Cleaning"
+title: "Tile & Grout Cleaning in Pleasant Grove, UT | Home Pride Restoration"
 h1: "Tile & Grout Cleaning in Pleasant Grove"
 meta_description: "24/7 tile & grout cleaning in Pleasant Grove, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "tile & grout cleaning pleasant grove"
@@ -38,7 +38,7 @@ After cleaning, grout lines are inspected for voids or cracks. Any grout that's 
 
 ## Getting to Pleasant Grove from Our Saratoga Springs Location
 
-Home Pride Restoration and Cleaning has operated out of Saratoga Springs since 1997, which puts Pleasant Grove roughly 15 to 20 minutes away via Redwood Road north to State Street, a straightforward run under normal Utah County traffic. For most scheduled appointments, a technician can be on-site the same day the call comes in. The drive is short enough that we're not adding a travel surcharge that some Salt Lake-based companies tack on for Utah County jobs.
+Home Pride Restoration has operated out of Saratoga Springs since 1997, which puts Pleasant Grove roughly 15 to 20 minutes away via Redwood Road north to State Street, a straightforward run under normal Utah County traffic. For most scheduled appointments, a technician can be on-site the same day the call comes in. The drive is short enough that we're not adding a travel surcharge that some Salt Lake-based companies tack on for Utah County jobs.
 
 ## Equipment and Methods We Use for Tile and Grout
 

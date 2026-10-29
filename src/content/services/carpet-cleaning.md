@@ -1,7 +1,7 @@
 ---
 hero: '/images/services/carpet-cleaning.webp'
 archetype: "service-landing"
-title: "Carpet Cleaning in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "Carpet Cleaning in Saratoga Springs | Home Pride Restoration"
 h1: "Carpet Cleaning in Saratoga Springs"
 meta_description: "24/7 carpet cleaning in Saratoga Springs and surrounding areas. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "carpet cleaning saratoga springs"
@@ -59,6 +59,6 @@ Winter cleaning is entirely practical, homes are heated and carpets dry normally
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and serves the surrounding Utah County and Salt Lake County communities, including Eagle Mountain, Lehi, American Fork, Highland, Cedar Hills, and Herriman. The city-specific pages for each area link back here for the full service description.
+Home Pride Restoration is based in Saratoga Springs and serves the surrounding Utah County and Salt Lake County communities, including Eagle Mountain, Lehi, American Fork, Highland, Cedar Hills, and Herriman. The city-specific pages for each area link back here for the full service description.
 
 If you're looking at your carpet and already know it needs more than a vacuum, call **(801) 995-2437** to schedule a professional carpet cleaning, we'll tell you exactly what's realistic before we start.

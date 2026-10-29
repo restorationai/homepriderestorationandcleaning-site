@@ -1,7 +1,7 @@
 ---
 hero: '/images/services/tile-grout-cleaning.webp'
 archetype: "service-landing"
-title: "Tile & Grout Cleaning in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "Tile & Grout Cleaning in Saratoga Springs | Home Pride Restoration"
 h1: "Tile & Grout Cleaning in Saratoga Springs"
 meta_description: "24/7 tile & grout cleaning in Saratoga Springs and surrounding areas. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "tile & grout cleaning saratoga springs"
@@ -54,6 +54,6 @@ Saratoga Springs and the broader Utah Valley sit in a semi-arid climate, but int
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and provides tile & grout cleaning throughout Utah County and the surrounding Wasatch Front, including Eagle Mountain, Lehi, American Fork, Pleasant Grove, Orem, and Provo. Dedicated service-area pages for each city link back here for the full technical detail on what the work actually involves.
+Home Pride Restoration is based in Saratoga Springs and provides tile & grout cleaning throughout Utah County and the surrounding Wasatch Front, including Eagle Mountain, Lehi, American Fork, Pleasant Grove, Orem, and Provo. Dedicated service-area pages for each city link back here for the full technical detail on what the work actually involves.
 
 If your tile floor looks like no amount of mopping is making a difference, that's not a cleaning frequency problem, it's a grout porosity problem. Call (801) 995-2437 to schedule your tile and grout restoration, and we'll tell you within the first few minutes of the inspection whether sealing alone will do the job or whether the grout needs a full deep extraction first.

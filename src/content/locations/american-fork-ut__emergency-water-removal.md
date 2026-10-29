@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in American Fork, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Removal & Cleanup in American Fork, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Removal & Cleanup in American Fork"
 meta_description: "24/7 emergency water removal & cleanup in American Fork, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "emergency water removal & cleanup american fork"
@@ -42,4 +42,4 @@ Most water losses in American Fork homes get filed as sudden-and-accidental clai
 
 A detail that catches a lot of American Fork homeowners off guard: pressurized irrigation lines feeding lawns on the upper benches run on a separate schedule from culinary water, and a cracked fitting on that system can flood a crawlspace for days before anyone notices, since the water pressure only cycles on at scheduled watering times rather than running constantly. When we're called out to a crawlspace or basement loss in that part of town, checking the irrigation line pressure schedule is one of the first things we rule in or out, because it changes how we explain the source of loss to an insurance adjuster.
 
-If water is actively spreading through your American Fork home right now, every half hour you wait changes what can be saved. Home Pride Restoration and Cleaning has been doing this work since 1997 and holds IICRC certification and Utah contractor Call (801) 995-2437 and we'll walk you through what to shut off and protect while we get on the road.
+If water is actively spreading through your American Fork home right now, every half hour you wait changes what can be saved. Home Pride Restoration has been doing this work since 1997 and holds IICRC certification and Utah contractor Call (801) 995-2437 and we'll walk you through what to shut off and protect while we get on the road.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Tile & Grout Cleaning in Riverton, UT | Home Pride Restoration and Cleaning"
+title: "Tile & Grout Cleaning in Riverton, UT | Home Pride Restoration"
 h1: "Tile & Grout Cleaning in Riverton"
 meta_description: "24/7 tile & grout cleaning in Riverton, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "tile & grout cleaning riverton"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Tile & Grout Cleaning"
 rendered: true
 ---
-Riverton's hard water is no secret to anyone who has watched a white crust creep across a shower floor or noticed the grout lines in a kitchen backsplash turn from bright white to a stubborn gray-brown. The mineral-heavy water that flows through much of Salt Lake County leaves calcium and magnesium deposits that bond to porous grout almost immediately after installation, and standard mopping doesn't touch them. Home Pride Restoration and Cleaning has been working in homes across the Wasatch Front since 1997, and the tile and grout we see in Riverton tells a consistent story: hard-water scale layered over years of tracked-in red clay soil, sealed in by well-meaning but mismatched consumer sealers.
+Riverton's hard water is no secret to anyone who has watched a white crust creep across a shower floor or noticed the grout lines in a kitchen backsplash turn from bright white to a stubborn gray-brown. The mineral-heavy water that flows through much of Salt Lake County leaves calcium and magnesium deposits that bond to porous grout almost immediately after installation, and standard mopping doesn't touch them. Home Pride Restoration has been working in homes across the Wasatch Front since 1997, and the tile and grout we see in Riverton tells a consistent story: hard-water scale layered over years of tracked-in red clay soil, sealed in by well-meaning but mismatched consumer sealers.
 
 ## Why Riverton Tile and Grout Wears the Way It Does
 
@@ -46,4 +46,4 @@ We're IICRC Certified, and we carry the documentation your HOA or property manag
 
 Here's something we see repeatedly in Riverton subdivisions built after 2005: tile installers used sanded grout in joints narrower than one-eighth of an inch. Sanded grout in tight joints doesn't compact properly, which leaves micro-voids that collect soil and moisture faster than correctly specified unsanded grout would. By the time a homeowner calls us, those joints look almost black while the surrounding tile looks fine. The cleaning process is the same, but we always flag the issue and recommend a color-matched epoxy grout repair on the worst sections before sealing, otherwise the sealer is just locking in a compromised surface. If you're in one of the Riverton neighborhoods developed during that building boom along the 118th South corridor, it's worth having us take a look before assuming the grout is simply dirty.
 
-Ready to see what your floors actually look like under years of hard-water scale and clay soil? Call Home Pride Restoration and Cleaning at (801) 995-2437 to schedule a tile and grout cleaning in Riverton, we'll give you an honest assessment before we run a single machine.
+Ready to see what your floors actually look like under years of hard-water scale and clay soil? Call Home Pride Restoration at (801) 995-2437 to schedule a tile and grout cleaning in Riverton, we'll give you an honest assessment before we run a single machine.

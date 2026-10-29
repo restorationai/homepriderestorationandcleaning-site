@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Orem, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Fire Damage Restoration in Orem, UT | Home Pride Restoration"
 h1: "24/7 Emergency Fire Damage Restoration in Orem"
 meta_description: "24/7 emergency fire damage restoration in Orem, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fire damage restoration orem"
@@ -41,11 +41,11 @@ Every job begins with a room-by-room scope assessment, not a walk-through estima
 
 **Odor elimination** follows structural cleaning. We use a combination of thermal fogging and hydroxyl generation rather than masking agents. Hydroxyl treatment is particularly effective in tightly built homes where ozone-based methods create ventilation challenges.
 
-**Structural drying and reconstruction coordination** closes the job. Home Pride Restoration and Cleaning can carry the project from initial emergency response through finished reconstruction under a single point of contact, which matters when you're coordinating with an insurance adjuster and trying to get your family back into the house.
+**Structural drying and reconstruction coordination** closes the job. Home Pride Restoration can carry the project from initial emergency response through finished reconstruction under a single point of contact, which matters when you're coordinating with an insurance adjuster and trying to get your family back into the house.
 
 ## Response Time from Saratoga Springs to Orem
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, roughly 15 miles southwest of central Orem via UT-73 and I-15. Under normal traffic conditions, that translates to a 20–30 minute drive to most Orem addresses. The east Orem neighborhoods, those climbing toward the Wasatch foothills above 800 East, add a few minutes, but are still well within a 45-minute on-site window for most calls. We've been doing this since 1997, and our crews know Utah County roads in the middle of the night as well as they know them at noon.
+Home Pride Restoration operates out of Saratoga Springs, roughly 15 miles southwest of central Orem via UT-73 and I-15. Under normal traffic conditions, that translates to a 20–30 minute drive to most Orem addresses. The east Orem neighborhoods, those climbing toward the Wasatch foothills above 800 East, add a few minutes, but are still well within a 45-minute on-site window for most calls. We've been doing this since 1997, and our crews know Utah County roads in the middle of the night as well as they know them at noon.
 
 For calls in the 84097 ZIP code covering northeast Orem, the I-15 corridor typically stays clear enough that response times hold even during peak hours.
 
@@ -57,4 +57,4 @@ Most homeowner policies in Utah County cover fire and smoke damage, but the docu
 
 One pattern that shows up repeatedly in Orem fire jobs, especially in the neighborhoods between Geneva Road and the foothills, is smoke infiltration behind stucco exteriors. Stucco is a dominant finish in Utah County's post-war and 1980s-era construction, and it looks intact after a fire even when smoke has worked through weep screeds and into the wall cavity behind it. Crews unfamiliar with this construction type will clean the interior and miss the odor source entirely. We probe and test exterior walls as part of the standard scope on any stucco home, because leaving contaminated cavity insulation in place guarantees a callback in six months when the smell returns with summer heat.
 
-If your home has been affected by fire or smoke damage in Orem, call Home Pride Restoration and Cleaning at (801) 995-2437. The sooner we can assess the structure, the more of it we can save.
+If your home has been affected by fire or smoke damage in Orem, call Home Pride Restoration at (801) 995-2437. The sooner we can assess the structure, the more of it we can save.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Appliance Leak Cleanup in Eagle Mountain, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Appliance Leak Cleanup in Eagle Mountain, UT | Home Pride Restoration"
 h1: "24/7 Emergency Appliance Leak Cleanup in Eagle Mountain"
 meta_description: "24/7 emergency appliance leak cleanup in Eagle Mountain, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "appliance leak cleanup eagle mountain"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Burst pipe or leak in Eagle Mountain? We answer 24/7.** Call now and our crew heads out to stop the water and start the cleanup.
 
-Eagle Mountain has grown faster than almost any city in Utah County over the past decade, and that rapid build-out means thousands of homes in developments like Ranches and Pony Express are now hitting the age where appliances start to fail. A dishwasher supply line that weeps overnight, a washing machine hose that blows on laundry day, a refrigerator ice maker connection that drips behind the fridge for weeks, in Eagle Mountain's tightly built subdivisions, that water doesn't stay put. It travels under luxury vinyl plank, soaks into OSB subfloor, and wicks into adjacent walls before most homeowners realize anything is wrong. Call Home Pride Restoration and Cleaning at (801) 995-2437 the moment you find standing water, the first 24 hours determine whether this is a one-day dry-out or a multi-week rebuild.
+Eagle Mountain has grown faster than almost any city in Utah County over the past decade, and that rapid build-out means thousands of homes in developments like Ranches and Pony Express are now hitting the age where appliances start to fail. A dishwasher supply line that weeps overnight, a washing machine hose that blows on laundry day, a refrigerator ice maker connection that drips behind the fridge for weeks, in Eagle Mountain's tightly built subdivisions, that water doesn't stay put. It travels under luxury vinyl plank, soaks into OSB subfloor, and wicks into adjacent walls before most homeowners realize anything is wrong. Call Home Pride Restoration at (801) 995-2437 the moment you find standing water, the first 24 hours determine whether this is a one-day dry-out or a multi-week rebuild.
 
 ## Why Eagle Mountain Homes See More Appliance Leak Damage Than You'd Expect
 
@@ -59,4 +59,4 @@ Many Eagle Mountain subdivisions are governed by HOAs with exterior and common-a
 
 Something worth knowing if you're in one of Eagle Mountain's newer subdivisions built after 2018: many of these homes use a whole-house manifold plumbing system with PEX supply lines, and the ice maker or dishwasher branch lines are sometimes run with a smaller-diameter PEX-A that's routed through interior walls rather than under the slab. When those connections fail, water can travel inside the wall cavity for a surprisingly long distance before it becomes visible, sometimes appearing as a wet spot on a wall two rooms away from the actual appliance. If you're seeing unexplained moisture and can't find an obvious source near the appliance, that's worth mentioning when you call so the technician brings the right diagnostic equipment from the start.
 
-If you're dealing with an appliance leak anywhere in Eagle Mountain, ZIP code 84005, the Ranches, Pony Express, or any of the newer subdivisions going up along the city's eastern edge, call Home Pride Restoration and Cleaning at (801) 995-2437. The sooner extraction starts, the more of your subfloor, cabinetry, and flooring stays out of a dumpster.
+If you're dealing with an appliance leak anywhere in Eagle Mountain, ZIP code 84005, the Ranches, Pony Express, or any of the newer subdivisions going up along the city's eastern edge, call Home Pride Restoration at (801) 995-2437. The sooner extraction starts, the more of your subfloor, cabinetry, and flooring stays out of a dumpster.

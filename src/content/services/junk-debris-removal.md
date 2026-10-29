@@ -1,7 +1,7 @@
 ---
 hero: '/images/services/junk-debris-removal.webp'
 archetype: "service-landing"
-title: "Junk & Debris Removal in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "Junk & Debris Removal in Saratoga Springs | Home Pride Restoration"
 h1: "Junk & Debris Removal in Saratoga Springs"
 meta_description: "24/7 junk & debris removal in Saratoga Springs and surrounding areas. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "junk & debris removal saratoga springs"
@@ -54,7 +54,7 @@ Utah County's rapid growth also means a steady stream of post-construction debri
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and regularly handles junk and debris removal in Eagle Mountain, Lehi, American Fork, Cedar Hills, Highland, and surrounding Utah County communities. City-specific pages for each of those areas link back here with local scheduling details.
+Home Pride Restoration is based in Saratoga Springs and regularly handles junk and debris removal in Eagle Mountain, Lehi, American Fork, Cedar Hills, Highland, and surrounding Utah County communities. City-specific pages for each of those areas link back here with local scheduling details.
 
 ---
 

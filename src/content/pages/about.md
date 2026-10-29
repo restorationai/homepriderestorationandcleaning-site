@@ -1,8 +1,8 @@
 ---
 archetype: "about"
-title: "About Home Pride Restoration and Cleaning | Saratoga Springs Restoration Company"
-h1: "About Home Pride Restoration and Cleaning"
-meta_description: "Home Pride Restoration and Cleaning has served Saratoga Springs since 1997. Meet our IICRC-certified restoration team. Insured and locally owned."
+title: "About Home Pride Restoration | Saratoga Springs Restoration Company"
+h1: "About Home Pride Restoration"
+meta_description: "Home Pride Restoration has served Saratoga Springs since 1997. Meet our IICRC-certified restoration team. Insured and locally owned."
 primary_keyword: "home pride restoration and cleaning saratoga springs"
 secondary_keywords: ["local restoration company", "iicrc certified restoration", "saratoga springs restoration contractor"]
 search_intent: "navigational_trust"
@@ -12,10 +12,10 @@ generated_at: "2026-06-15T19:06:26.317349+00:00"
 manual_override: false
 internal_links: ["/", "/services/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "About"}]
-faq: [{"question": "How long has Home Pride Restoration and Cleaning been in business?", "answer": "The company was founded in 1997, giving it more than 25 years of restoration and cleaning experience in Utah. That span covers a wide range of damage types, insurance carriers, and building conditions across the region."}, {"question": "What areas does Home Pride Restoration and Cleaning serve?", "answer": "The primary service area is Saratoga Springs and the surrounding communities in northern Utah County and southern Salt Lake County \u2014 including Eagle Mountain, Lehi, American Fork, Cedar Hills, and Highland. If you're unsure whether your address falls within the service area, call (801) 995-2437 and someone can confirm quickly."}, {"question": "What does IICRC certification mean in practice?", "answer": "The IICRC (Institute of Inspection, Cleaning and Restoration Certification) sets the technical standards that govern how water damage, fire damage, and mold remediation work is supposed to be performed. Certified technicians are trained on moisture measurement, contamination classification, and documentation practices \u2014 the same standards insurance adjusters expect to see when reviewing a claim."}]
+faq: [{"question": "How long has Home Pride Restoration been in business?", "answer": "The company was founded in 1997, giving it more than 25 years of restoration and cleaning experience in Utah. That span covers a wide range of damage types, insurance carriers, and building conditions across the region."}, {"question": "What areas does Home Pride Restoration serve?", "answer": "The primary service area is Saratoga Springs and the surrounding communities in northern Utah County and southern Salt Lake County \u2014 including Eagle Mountain, Lehi, American Fork, Cedar Hills, and Highland. If you're unsure whether your address falls within the service area, call (801) 995-2437 and someone can confirm quickly."}, {"question": "What does IICRC certification mean in practice?", "answer": "The IICRC (Institute of Inspection, Cleaning and Restoration Certification) sets the technical standards that govern how water damage, fire damage, and mold remediation work is supposed to be performed. Certified technicians are trained on moisture measurement, contamination classification, and documentation practices \u2014 the same standards insurance adjusters expect to see when reviewing a claim."}]
 rendered: true
 ---
-Home Pride Restoration and Cleaning has been doing this work since 1997, long enough to have dried out basements, cleared smoke damage, and remediated mold in homes that didn't exist yet when the company opened. Based in Saratoga Springs, Utah, the company grew out of a straightforward observation: when water comes through a ceiling at 2 a.m. or a kitchen fire leaves everything coated in soot, most homeowners have no idea what to do next, and the people who show up first set the tone for everything that follows.
+Home Pride Restoration has been doing this work since 1997, long enough to have dried out basements, cleared smoke damage, and remediated mold in homes that didn't exist yet when the company opened. Based in Saratoga Springs, Utah, the company grew out of a straightforward observation: when water comes through a ceiling at 2 a.m. or a kitchen fire leaves everything coated in soot, most homeowners have no idea what to do next, and the people who show up first set the tone for everything that follows.
 
 ## What we do
 
@@ -27,7 +27,7 @@ The hours are irregular. The stakes are real. That's the texture of it.
 
 ## Our certifications
 
-Home Pride Restoration and Cleaning holds IICRC certification, the Institute of Inspection, Cleaning and Restoration Certification, which is the industry's primary standard-setting body. IICRC training isn't a one-time credential; it reflects ongoing education in the science of drying, contamination categories, and proper remediation protocols. When a technician follows IICRC standards, it means the work is documented and defensible, important both for your home and for your insurance claim.
+Home Pride Restoration holds IICRC certification, the Institute of Inspection, Cleaning and Restoration Certification, which is the industry's primary standard-setting body. IICRC training isn't a one-time credential; it reflects ongoing education in the science of drying, contamination categories, and proper remediation protocols. When a technician follows IICRC standards, it means the work is documented and defensible, important both for your home and for your insurance claim.
 
 Our IICRC certifications in Water Damage Restoration are on file under these register numbers:
 

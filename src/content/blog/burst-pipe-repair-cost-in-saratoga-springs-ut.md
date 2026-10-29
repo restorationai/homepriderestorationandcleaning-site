@@ -36,9 +36,9 @@ The total bill depends on two separate jobs: fixing the pipe and drying/repairin
 
 These are typical ranges, not a quote. Every loss is different, and a written scope based on actual moisture readings is the only way to know your real number.
 
-![Job site photo from Home Pride Restoration and Cleaning](https://nyscciinkhlutvqkgyvq.supabase.co/storage/v1/object/public/branding/CO-1780333664867/job-photos/posted/gbp-AF1QipMyCmi-9Iisc7nzBHJCKcGxVWttwX6g_Oq4pgn5.jpg)
+![Job site photo from Home Pride Restoration](https://nyscciinkhlutvqkgyvq.supabase.co/storage/v1/object/public/branding/CO-1780333664867/job-photos/posted/gbp-AF1QipMyCmi-9Iisc7nzBHJCKcGxVWttwX6g_Oq4pgn5.jpg)
 
-*Recent job photo from Home Pride Restoration and Cleaning.*
+*Recent job photo from Home Pride Restoration.*
 
 ## What Drives the Price of Burst Pipe Cleanup?
 
@@ -77,7 +77,7 @@ If you're still in the first hour after discovery, [this burst pipe emergency ch
 
 ## Who Should You Call First When a Pipe Bursts in Saratoga Springs?
 
-Shut the water off first, then call a restoration company that handles both the water extraction and the insurance documentation, not just a plumber. Home Pride Restoration and Cleaning LLC is IICRC certified, and answers 24/7, which matters when a freeze hits overnight and you're trying to decide how bad it actually is.
+Shut the water off first, then call a restoration company that handles both the water extraction and the insurance documentation, not just a plumber. Home Pride Restoration LLC is IICRC certified, and answers 24/7, which matters when a freeze hits overnight and you're trying to decide how bad it actually is.
 
 A plumber alone can fix the pipe but typically won't run structural drying equipment or document moisture readings the way an adjuster expects. Getting both pieces coordinated from one call usually means fewer gaps in your claim and less chance of mold showing up in the wall cavity weeks later.
 
@@ -85,8 +85,8 @@ If you're facing a burst pipe right now, [request a water damage assessment](/se
 
 ---
 
-**About Home Pride Restoration and Cleaning**
+**About Home Pride Restoration**
 
-Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Saratoga Springs, UT since 1997. The company holds a 5.0 Google rating across 36 reviews and handles water damage restoration, burst pipe and frozen pipe repair, mold remediation, and fire damage restoration across Saratoga Springs, Lehi, Eagle Mountain, and the surrounding Utah County area. This post was written with the Home Pride Restoration and Cleaning team.
+Home Pride Restoration is an IICRC-certified restoration company serving Saratoga Springs, UT since 1997. The company holds a 5.0 Google rating across 36 reviews and handles water damage restoration, burst pipe and frozen pipe repair, mold remediation, and fire damage restoration across Saratoga Springs, Lehi, Eagle Mountain, and the surrounding Utah County area. This post was written with the Home Pride Restoration team.
 
-**Need help now?** [Call Home Pride Restoration and Cleaning at (801) 995-2437](tel:+18019952437).
+**Need help now?** [Call Home Pride Restoration at (801) 995-2437](tel:+18019952437).

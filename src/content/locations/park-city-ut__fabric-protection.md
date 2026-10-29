@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Fabric Protection in Park City, UT | Home Pride Restoration and Cleaning"
+title: "Fabric Protection in Park City, UT | Home Pride Restoration"
 h1: "Fabric Protection in Park City"
 meta_description: "24/7 fabric protection in Park City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fabric protection park city"
@@ -48,4 +48,4 @@ Here's something that comes up repeatedly when we work in Park City vacation pro
 
 If you're managing a property near the ski resort base areas or in the Old Town corridor, this entry-zone strategy is especially worth discussing when we're on-site.
 
-Ready to protect your Park City home or rental property before the next season hits? Call Home Pride Restoration and Cleaning at (801) 995-2437, we've been protecting Utah homes since 1997, and we understand what this specific mountain environment asks of your fabrics.
+Ready to protect your Park City home or rental property before the next season hits? Call Home Pride Restoration at (801) 995-2437, we've been protecting Utah homes since 1997, and we understand what this specific mountain environment asks of your fabrics.

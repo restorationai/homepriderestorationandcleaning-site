@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Benjamin, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Damage Restoration in Benjamin, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Damage Restoration in Benjamin"
 meta_description: "24/7 emergency water damage restoration in Benjamin, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "water damage restoration benjamin"
@@ -42,4 +42,4 @@ Most Benjamin properties fall outside any HOA structure, which actually simplifi
 
 A detail that catches a lot of homeowners off guard: irrigation water used for Benjamin's agricultural lots runs on a schedule tied to local water-share rights, not just rainfall, so a saturated yard or a wet crawlspace in the middle of a dry July is often irrigation runoff rather than a plumbing failure. When we're called out to a loss here, checking the irrigation schedule is one of the first questions we ask, because it changes whether we're chasing a leak inside the house or managing groundwater intrusion from outside it.
 
-If water is spreading under your floors or pooling in a crawlspace right now, don't wait for it to dry on its own, because it usually doesn't. Home Pride Restoration and Cleaning has been handling water damage restoration across Utah County since 1997, and we know what a Benjamin property's soil, wells, and crawlspaces do with standing water. Call (801) 995-2437 to get a crew moving toward your address.
+If water is spreading under your floors or pooling in a crawlspace right now, don't wait for it to dry on its own, because it usually doesn't. Home Pride Restoration has been handling water damage restoration across Utah County since 1997, and we know what a Benjamin property's soil, wells, and crawlspaces do with standing water. Call (801) 995-2437 to get a crew moving toward your address.

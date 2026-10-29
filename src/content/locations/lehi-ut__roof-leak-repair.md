@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Roof Leak Cleanup and Repair in Lehi, UT | Home Pride Restoration and Cleaning"
+title: "Roof Leak Cleanup and Repair in Lehi, UT | Home Pride Restoration"
 h1: "Roof Leak Cleanup and Repair in Lehi"
 meta_description: "24/7 roof leak cleanup and repair in Lehi, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "roof leak cleanup and repair lehi"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Roof Leak Cleanup and Repair"
 rendered: true
 ---
-Lehi's rapid growth along the Silicon Slopes corridor has brought thousands of new roofs online in the past decade, but it's also left older neighborhoods dealing with aging shingles, improperly flashed valleys, and attic assemblies that weren't designed for Utah County's freeze-thaw cycles. When a roof leak opens up during a late-spring snowmelt or a summer monsoon surge, water doesn't politely stop at the ceiling drywall. It follows framing, insulation batts, and electrical chases down into living spaces before most homeowners notice the first brown ring forming overhead. Home Pride Restoration and Cleaning has handled interior roof leak damage across Lehi since the late 1990s, and the pattern here is consistent: the longer water sits in an attic or ceiling cavity, the more expensive the recovery.
+Lehi's rapid growth along the Silicon Slopes corridor has brought thousands of new roofs online in the past decade, but it's also left older neighborhoods dealing with aging shingles, improperly flashed valleys, and attic assemblies that weren't designed for Utah County's freeze-thaw cycles. When a roof leak opens up during a late-spring snowmelt or a summer monsoon surge, water doesn't politely stop at the ceiling drywall. It follows framing, insulation batts, and electrical chases down into living spaces before most homeowners notice the first brown ring forming overhead. Home Pride Restoration has handled interior roof leak damage across Lehi since the late 1990s, and the pattern here is consistent: the longer water sits in an attic or ceiling cavity, the more expensive the recovery.
 
 ## Why Lehi Properties See Roof Leak Damage Differently
 

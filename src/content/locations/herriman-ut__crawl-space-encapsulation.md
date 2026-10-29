@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Herriman, UT | Home Pride Restoration and Cleaning"
+title: "Crawl Space Encapsulation in Herriman, UT | Home Pride Restoration"
 h1: "Crawl Space Encapsulation in Herriman"
 meta_description: "24/7 crawl space encapsulation in Herriman, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "crawl space encapsulation herriman"
@@ -44,10 +44,10 @@ Encapsulation in this climate isn't just rolling out a sheet of plastic and call
 
 ## Response Time to Herriman from Our Saratoga Springs Location
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, roughly 10 to 15 minutes from most Herriman addresses via Bangerter Highway or the Mountain View Corridor. For urgent calls, active water intrusion, a collapsed vapor barrier after a pipe break, we can typically have a crew on-site within 45 to 60 minutes. Scheduled encapsulation projects are booked within the week in most cases, though spring and early summer fill faster as homeowners discover moisture issues after snowmelt.
+Home Pride Restoration operates out of Saratoga Springs, roughly 10 to 15 minutes from most Herriman addresses via Bangerter Highway or the Mountain View Corridor. For urgent calls, active water intrusion, a collapsed vapor barrier after a pipe break, we can typically have a crew on-site within 45 to 60 minutes. Scheduled encapsulation projects are booked within the week in most cases, though spring and early summer fill faster as homeowners discover moisture issues after snowmelt.
 
 ## Local Note: What Herriman's HOA Landscape Means for Encapsulation Work
 
 Here's something that catches homeowners off guard: a significant portion of Herriman's subdivisions are governed by HOAs that require exterior work permits or pre-approval for any modification to the home's foundation envelope, even work that's entirely below grade and invisible from the street. We've seen projects delayed two to three weeks because a homeowner didn't realize their crawl space access hatch, which opens to the exterior, technically triggers an HOA review. Before we schedule work on any property in a managed Herriman community, we ask about HOA rules upfront so there are no surprises on project day. If you're not sure whether your neighborhood requires it, we can help you check.
 
-Home Pride Restoration and Cleaning has been doing this work since 1997, holds IICRC certification, and is. If your Herriman home is showing the signs, musty odors, uneven floors, high energy bills in winter, call (801) 995-2437 and we'll schedule a crawl space assessment before the next moisture season gets ahead of you.
+Home Pride Restoration has been doing this work since 1997, holds IICRC certification, and is. If your Herriman home is showing the signs, musty odors, uneven floors, high energy bills in winter, call (801) 995-2437 and we'll schedule a crawl space assessment before the next moisture season gets ahead of you.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Basement Flooding Cleanup in Orem, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Basement Flooding Cleanup in Orem, UT | Home Pride Restoration"
 h1: "24/7 Emergency Basement Flooding Cleanup in Orem"
 meta_description: "24/7 emergency basement flooding cleanup in Orem, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "basement flooding cleanup orem"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Flooded basement in Orem? We answer 24/7.** Call now and our crew heads out to pump out the water and start drying.
 
-Orem sits in a bowl. The Wasatch Front rises sharply to the east, and when spring snowmelt accelerates faster than the clay-heavy soils along the bench can absorb it, that water finds the path of least resistance, straight down foundation walls and into finished basements. If you're standing in an inch of water right now, or you just discovered soaked carpet and a smell you can't place, call Home Pride Restoration and Cleaning at (801) 995-2437. Crews dispatch from Saratoga Springs and can typically be on-site in Orem within 60–90 minutes.
+Orem sits in a bowl. The Wasatch Front rises sharply to the east, and when spring snowmelt accelerates faster than the clay-heavy soils along the bench can absorb it, that water finds the path of least resistance, straight down foundation walls and into finished basements. If you're standing in an inch of water right now, or you just discovered soaked carpet and a smell you can't place, call Home Pride Restoration at (801) 995-2437. Crews dispatch from Saratoga Springs and can typically be on-site in Orem within 60–90 minutes.
 
 ## Why Orem Basements Flood the Way They Do
 
@@ -53,4 +53,4 @@ Home Pride works directly with insurance adjusters and provides the moisture rea
 
 Orem homes built in the subdivisions east of Geneva Road in the 1970s frequently have vermiculite or fiberglass batt insulation packed directly against the basement walls, a common practice at the time. When those walls take on water, that insulation acts like a sponge, holding moisture against the framing for weeks after the visible water is gone. Standard drying timelines don't apply. We probe those wall cavities before setting equipment so we're not pulling a job too early and leaving conditions that invite mold growth behind the drywall.
 
-If your basement has flooded and you're not sure what's behind those walls, that's exactly the kind of detail that changes the plan. Home Pride Restoration and Cleaning has been doing this work since 1997, holds IICRC certification. Call (801) 995-2437, a real person answers, day or night, and a crew can be moving toward Orem before you hang up.
+If your basement has flooded and you're not sure what's behind those walls, that's exactly the kind of detail that changes the plan. Home Pride Restoration has been doing this work since 1997, holds IICRC certification. Call (801) 995-2437, a real person answers, day or night, and a crew can be moving toward Orem before you hang up.

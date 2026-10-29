@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Benjamin, UT | Home Pride Restoration and Cleaning"
+title: "Carpet Cleaning in Benjamin, UT | Home Pride Restoration"
 h1: "Carpet Cleaning in Benjamin"
 meta_description: "24/7 carpet cleaning in Benjamin, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "carpet cleaning benjamin"
@@ -42,4 +42,4 @@ One thing we watch for specifically in Benjamin that doesn't come up as often in
 
 A handful of Benjamin properties run small farm-adjacent businesses, equipment storage, or home-based operations out of converted spaces, and those carpets see heavier soil loads than a typical living room. For commercial carpet cleaning in these spaces, we scale up extraction passes and use a higher-agitation approach on entry zones, then finish with a sanitization step on areas exposed to more foot traffic or equipment runoff. If you're coordinating cleaning around an insurance claim tied to water intrusion or a prior loss, we document pre- and post-cleaning conditions so the paperwork lines up with what the carpet actually needed.
 
-If your carpet in Benjamin is holding onto mineral staining, irrigation-season mud, or just years of normal wear, call Home Pride Restoration and Cleaning at (801) 995-2437 to get a cleaning scheduled that's matched to what your water and soil conditions actually require, not a one-size-fits-all pass with a rental machine.
+If your carpet in Benjamin is holding onto mineral staining, irrigation-season mud, or just years of normal wear, call Home Pride Restoration at (801) 995-2437 to get a cleaning scheduled that's matched to what your water and soil conditions actually require, not a one-size-fits-all pass with a rental machine.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Fabric Protection in Orem, UT | Home Pride Restoration and Cleaning"
+title: "Fabric Protection in Orem, UT | Home Pride Restoration"
 h1: "Fabric Protection in Orem"
 meta_description: "24/7 fabric protection in Orem, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fabric protection orem"
@@ -44,4 +44,4 @@ HOA communities in newer developments along the south end of the city sometimes 
 
 Homes built in the 1960s and 1970s in the neighborhoods east of State Street, many of them original owner-builder construction, frequently have wall-to-wall carpet installed over concrete slab rather than wood subfloor. Slab-on-grade floors in Utah Valley stay cooler and hold more residual moisture than most homeowners realize, especially in spring when snowmelt raises the water table. That moisture migrates upward through the slab and can interfere with how a protectant cures from the backing side. When we work in those older east-Orem homes, we take a quick moisture reading at the slab before application and adjust dwell time accordingly, a step that takes five minutes but prevents a re-treatment call two months later.
 
-When you're ready to stop re-cleaning the same spill for the third time and actually protect what you've invested in, call Home Pride Restoration and Cleaning at (801) 995-2437. We've been working in Utah Valley homes since 1997, so whether you're in a newer townhome near the Scera Park area or a mid-century ranch in east Orem, we'll treat your fabrics with a process built for this specific climate, not a generic one-size-fits-all approach.
+When you're ready to stop re-cleaning the same spill for the third time and actually protect what you've invested in, call Home Pride Restoration at (801) 995-2437. We've been working in Utah Valley homes since 1997, so whether you're in a newer townhome near the Scera Park area or a mid-century ranch in east Orem, we'll treat your fabrics with a process built for this specific climate, not a generic one-size-fits-all approach.

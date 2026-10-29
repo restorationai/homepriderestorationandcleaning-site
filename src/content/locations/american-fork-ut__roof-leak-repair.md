@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Roof Leak Cleanup and Repair in American Fork, UT | Home Pride Restoration and Cleaning"
+title: "Roof Leak Cleanup and Repair in American Fork, UT | Home Pride Restoration"
 h1: "Roof Leak Cleanup and Repair in American Fork"
 meta_description: "24/7 roof leak cleanup and repair in American Fork, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "roof leak cleanup and repair american fork"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Roof Leak Cleanup and Repair"
 rendered: true
 ---
-American Fork sits at roughly 4,900 feet elevation along the Wasatch Front, where late-spring snowmelt and summer monsoon cells can drop two inches of rain in under an hour, and when that water finds a gap in your roofing, it moves fast. By the time you notice a brown ring spreading across your ceiling or feel soft drywall near a skylight, water has likely already soaked through the sheathing, pooled in the attic insulation, and begun wicking down interior wall cavities. Home Pride Restoration and Cleaning has handled roof leak cleanup and repair in American Fork since the late 1990s, and we know exactly how quickly a manageable drip turns into a structural problem in this climate.
+American Fork sits at roughly 4,900 feet elevation along the Wasatch Front, where late-spring snowmelt and summer monsoon cells can drop two inches of rain in under an hour, and when that water finds a gap in your roofing, it moves fast. By the time you notice a brown ring spreading across your ceiling or feel soft drywall near a skylight, water has likely already soaked through the sheathing, pooled in the attic insulation, and begun wicking down interior wall cavities. Home Pride Restoration has handled roof leak cleanup and repair in American Fork since the late 1990s, and we know exactly how quickly a manageable drip turns into a structural problem in this climate.
 
 ## Why American Fork Properties Are Vulnerable to Roof Leak Damage
 
@@ -42,4 +42,4 @@ Most homeowner policies in Utah County cover sudden and accidental water intrusi
 
 Something we've noticed specifically in American Fork's newer subdivisions built along the east benches: many of these homes have vaulted great-room ceilings with recessed can lights positioned directly below the roof deck. When a leak develops above one of those cans, water follows the electrical conduit downward before it ever shows on the ceiling surface, homeowners sometimes see a wet spot near an outlet on a lower floor and assume a plumbing leak, when the actual entry point is 15 feet above and 8 feet over. If you're chasing a mystery water stain and the path doesn't make sense, that's exactly the kind of diagnostic problem our thermal imaging is built to solve.
 
-If you're dealing with water coming through your roof right now, or you've found damage after a storm and aren't sure how far it's spread, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll get to your American Fork home quickly, stop the damage from growing, and walk you through every step of cleanup and repair from tarping to final inspection.
+If you're dealing with water coming through your roof right now, or you've found damage after a storm and aren't sure how far it's spread, call Home Pride Restoration at (801) 995-2437. We'll get to your American Fork home quickly, stop the damage from growing, and walk you through every step of cleanup and repair from tarping to final inspection.

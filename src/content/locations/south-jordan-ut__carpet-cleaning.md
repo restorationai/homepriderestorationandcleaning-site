@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in South Jordan, UT | Home Pride Restoration and Cleaning"
+title: "Carpet Cleaning in South Jordan, UT | Home Pride Restoration"
 h1: "Carpet Cleaning in South Jordan"
 meta_description: "24/7 carpet cleaning in South Jordan, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "carpet cleaning south jordan"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-South Jordan sits at roughly 4,400 feet elevation on the western bench of the Wasatch Front, where high-desert dust, clay-heavy soils from the old Lake Bonneville lakebed, and a dry climate that swings hard between summer heat and winter inversions create a carpet-soiling pattern unlike anywhere else in the Salt Lake Valley. That fine alkaline dust works deep into carpet fiber before it's even visible, and once it bonds with the occasional tracked-in red clay from the Jordan River Parkway trail system, standard vacuuming barely touches it. Home Pride Restoration and Cleaning has been doing deep carpet cleaning in South Jordan since the late 1990s, and the difference between a surface clean and a genuine extraction clean here is something you can see, and breathe.
+South Jordan sits at roughly 4,400 feet elevation on the western bench of the Wasatch Front, where high-desert dust, clay-heavy soils from the old Lake Bonneville lakebed, and a dry climate that swings hard between summer heat and winter inversions create a carpet-soiling pattern unlike anywhere else in the Salt Lake Valley. That fine alkaline dust works deep into carpet fiber before it's even visible, and once it bonds with the occasional tracked-in red clay from the Jordan River Parkway trail system, standard vacuuming barely touches it. Home Pride Restoration has been doing deep carpet cleaning in South Jordan since the late 1990s, and the difference between a surface clean and a genuine extraction clean here is something you can see, and breathe.
 
 ## Why South Jordan Carpets Get Dirty Faster Than You'd Expect
 
@@ -52,7 +52,7 @@ For commercial accounts in the 84095 ZIP code, we schedule after-hours or weeken
 
 Daybreak, South Jordan's large master-planned community, has a higher-than-average concentration of homes with light-colored or patterned Berber carpet installed by the original builders, a style choice that looks sharp but shows soiling and staining more readily than cut-pile carpet. What most Daybreak homeowners don't realize is that Berber loops require lower water pressure during extraction than standard cut-pile; too much pressure can stretch or fray the loops permanently. We adjust our extraction settings specifically for Berber on every job in that community, and we flag it during the pre-inspection walk-through so there are no surprises. If you're in Daybreak and a previous cleaner left your carpet looking worse than before, that's often the reason.
 
-For questions or to schedule, call Home Pride Restoration and Cleaning at **(801) 995-2437**.
+For questions or to schedule, call Home Pride Restoration at **(801) 995-2437**.
 
 ---
 

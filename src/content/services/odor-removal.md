@@ -1,7 +1,7 @@
 ---
 hero: '/images/services/odor-removal.webp'
 archetype: "service-landing"
-title: "Odor Removal and Deodorization in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "Odor Removal and Deodorization in Saratoga Springs | Home Pride Restoration"
 h1: "Odor Removal and Deodorization in Saratoga Springs"
 meta_description: "24/7 odor removal and deodorization in Saratoga Springs and surrounding areas. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "odor removal and deodorization saratoga springs"
@@ -58,6 +58,6 @@ Wildfire smoke events in late summer and early fall regularly push fine particul
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and provides odor removal and deodorization services throughout Utah County and the surrounding region, including Lehi, Eagle Mountain, American Fork, Pleasant Grove, Orem, Provo, and Draper. Dedicated service-area pages cover each city with local detail.
+Home Pride Restoration is based in Saratoga Springs and provides odor removal and deodorization services throughout Utah County and the surrounding region, including Lehi, Eagle Mountain, American Fork, Pleasant Grove, Orem, Provo, and Draper. Dedicated service-area pages cover each city with local detail.
 
 If you're dealing with a persistent odor that hasn't responded to cleaning, smoke, pet urine, mold, or anything else, call (801) 995-2437 to schedule an odor assessment. A technician will identify the source, explain which treatment approach fits your situation, and give you a clear picture of what the process looks like before any work begins.

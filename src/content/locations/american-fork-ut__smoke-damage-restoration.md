@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in American Fork, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Smoke Damage Restoration in American Fork, UT | Home Pride Restoration"
 h1: "24/7 Emergency Smoke Damage Restoration in American Fork"
 meta_description: "24/7 emergency smoke damage restoration in American Fork, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "smoke damage restoration american fork"
@@ -47,7 +47,7 @@ All technicians on this work are IICRC Certified.
 
 ## Response Time to American Fork
 
-Home Pride Restoration and Cleaning is headquartered in Saratoga Springs, roughly 10 to 15 minutes from American Fork via US-89 North. In most cases, a crew can be on-site within 60 to 90 minutes of your call to (801) 995-2437, often faster during off-peak hours. American Fork's grid layout makes navigation straightforward from the west side of the valley, and we're familiar with the residential streets north of State Street as well as the newer developments near the east bench.
+Home Pride Restoration is headquartered in Saratoga Springs, roughly 10 to 15 minutes from American Fork via US-89 North. In most cases, a crew can be on-site within 60 to 90 minutes of your call to (801) 995-2437, often faster during off-peak hours. American Fork's grid layout makes navigation straightforward from the west side of the valley, and we're familiar with the residential streets north of State Street as well as the newer developments near the east bench.
 
 ## Insurance Coordination for American Fork Claims
 

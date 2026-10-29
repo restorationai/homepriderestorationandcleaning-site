@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Park City, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in Park City, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in Park City"
 meta_description: "24/7 upholstery cleaning in Park City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning park city"
@@ -38,7 +38,7 @@ Fabric pieces go through hot-water extraction calibrated to the fiber type, foll
 
 ## Getting to Park City from Our Saratoga Springs Location
 
-Home Pride Restoration and Cleaning has been operating out of Saratoga Springs since 1997, which puts us roughly 45–55 minutes from most Park City addresses under normal conditions via I-80 East. During ski season, when Parley's Canyon can slow to a crawl on weekend mornings, we route through US-40 when conditions favor it, or we schedule Park City jobs to avoid the worst of the resort traffic window. For urgent situations, a pet accident that soaked through to the cushion foam, or a wine spill on a vacation rental turnover day, call us at (801) 995-2437 and we'll give you an honest ETA based on real-time conditions rather than a flat promise we can't keep.
+Home Pride Restoration has been operating out of Saratoga Springs since 1997, which puts us roughly 45–55 minutes from most Park City addresses under normal conditions via I-80 East. During ski season, when Parley's Canyon can slow to a crawl on weekend mornings, we route through US-40 when conditions favor it, or we schedule Park City jobs to avoid the worst of the resort traffic window. For urgent situations, a pet accident that soaked through to the cushion foam, or a wine spill on a vacation rental turnover day, call us at (801) 995-2437 and we'll give you an honest ETA based on real-time conditions rather than a flat promise we can't keep.
 
 ## Local Note: Vacation Rental Turnover Timing
 
@@ -46,4 +46,4 @@ One thing that comes up constantly with Park City upholstery work is the Saturda
 
 If you're managing a vacation property near Old Town or anywhere in the Canyons Village corridor and you want a reliable cleaning partner who understands that timeline pressure, keep our number saved. A clean, well-maintained sofa is one of the details guests photograph and mention in reviews, it's worth protecting.
 
-Ready to schedule? Call Home Pride Restoration and Cleaning at **(801) 995-2437**, we'll assess your upholstery, give you a straight answer on what the fabric needs, and get your Park City furniture back to the condition it deserves.
+Ready to schedule? Call Home Pride Restoration at **(801) 995-2437**, we'll assess your upholstery, give you a straight answer on what the fabric needs, and get your Park City furniture back to the condition it deserves.

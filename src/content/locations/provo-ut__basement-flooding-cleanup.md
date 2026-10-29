@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Basement Flooding Cleanup in Provo, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Basement Flooding Cleanup in Provo, UT | Home Pride Restoration"
 h1: "24/7 Emergency Basement Flooding Cleanup in Provo"
 meta_description: "24/7 emergency basement flooding cleanup in Provo, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "basement flooding cleanup provo"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Flooded basement in Provo? We answer 24/7.** Call now and our crew heads out to pump out the water and start drying.
 
-Provo sits in a valley where the Wasatch Front snowpack melts fast and the water table along the bench and lower neighborhoods can rise quickly in late winter and early spring, and when that moisture finds a crack in a foundation wall or an overwhelmed window well, a basement can go from dry to ankle-deep in hours. Whether the source is a ruptured supply line, a sump pump that gave out overnight, or groundwater pushing through a block foundation, the clock starts the moment water touches your floor. Home Pride Restoration and Cleaning has been responding to flooded basements across Utah County since 1997, and we know how Provo's specific geography and housing stock shape every job.
+Provo sits in a valley where the Wasatch Front snowpack melts fast and the water table along the bench and lower neighborhoods can rise quickly in late winter and early spring, and when that moisture finds a crack in a foundation wall or an overwhelmed window well, a basement can go from dry to ankle-deep in hours. Whether the source is a ruptured supply line, a sump pump that gave out overnight, or groundwater pushing through a block foundation, the clock starts the moment water touches your floor. Home Pride Restoration has been responding to flooded basements across Utah County since 1997, and we know how Provo's specific geography and housing stock shape every job.
 
 ## Why Provo Basements Flood, and Why It Matters for Cleanup
 
@@ -59,4 +59,4 @@ We document the source and timeline of every job from the moment we arrive, whic
 
 One thing we've learned from years of working Provo basements: homes in the older blocks near Center Street and 100 South often have a finished basement that was added or updated in the 1980s, and those remodels frequently used paper-faced drywall installed directly against the concrete block wall with no air gap. When that assembly gets wet, the paper facing becomes a mold substrate within 48–72 hours, and the moisture trapped between the drywall and the block can read much lower on a surface meter than what's actually present. We probe those walls rather than relying on surface readings alone, a small difference in technique that prevents callbacks weeks later when mold shows up behind a wall that looked dry on paper.
 
-If your Provo basement is wet right now, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We'll tell you exactly what we're seeing, what needs to happen, and what it means for your home, no pressure, no vague estimates, just a clear path from flooded to dry.
+If your Provo basement is wet right now, call Home Pride Restoration at **(801) 995-2437**. We'll tell you exactly what we're seeing, what needs to happen, and what it means for your home, no pressure, no vague estimates, just a clear path from flooded to dry.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Orem, UT | Home Pride Restoration and Cleaning"
+title: "Mold Remediation in Orem, UT | Home Pride Restoration"
 h1: "Mold Remediation in Orem"
 meta_description: "24/7 mold remediation in Orem, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold remediation orem"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Mold Remediation"
 rendered: true
 ---
-Utah Lake's proximity keeps Orem's humidity higher than most Wasatch Front cities expect, and when that moisture finds its way into a crawl space, a basement utility room, or behind the tile in an older ranch-style home, mold can establish visible colonies in as little as 48 to 72 hours. Home Pride Restoration and Cleaning has been responding to exactly that kind of situation since 1997, and our IICRC-certified technicians understand how Orem's specific climate and housing patterns change what remediation actually requires.
+Utah Lake's proximity keeps Orem's humidity higher than most Wasatch Front cities expect, and when that moisture finds its way into a crawl space, a basement utility room, or behind the tile in an older ranch-style home, mold can establish visible colonies in as little as 48 to 72 hours. Home Pride Restoration has been responding to exactly that kind of situation since 1997, and our IICRC-certified technicians understand how Orem's specific climate and housing patterns change what remediation actually requires.
 
 ## Why Orem Properties See More Mold Than Homeowners Expect
 
@@ -46,4 +46,4 @@ Homes built in Orem during the late 1960s and 1970s, a common vintage in neighbo
 
 If your home was built before 1980, it's also worth knowing that some original textured ceiling materials and older floor adhesives in Utah County homes have tested positive for asbestos. We flag this during inspection and can coordinate appropriate testing before any demolition proceeds.
 
-If you're dealing with a musty smell, visible discoloration, or a recent water event in your Orem home, don't wait to see if it resolves on its own, it won't. Reach out to Home Pride Restoration and Cleaning at (801) 995-2437 for an honest assessment and a clear remediation plan.
+If you're dealing with a musty smell, visible discoloration, or a recent water event in your Orem home, don't wait to see if it resolves on its own, it won't. Reach out to Home Pride Restoration at (801) 995-2437 for an honest assessment and a clear remediation plan.

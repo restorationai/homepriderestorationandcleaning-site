@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Burst Pipe Cleanup and Repair in Orem, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Burst Pipe Cleanup and Repair in Orem, UT | Home Pride Restoration"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Orem"
 meta_description: "24/7 emergency burst pipe cleanup and repair in Orem, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "burst pipe cleanup and repair orem"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Burst Pipe Cleanup and Repair"
 rendered: true
 ---
-Orem's high-desert winters hit hard and fast, a single night below 10°F can freeze supply lines in uninsulated crawl spaces, and when those pipes finally let go, water moves through a home in minutes. Whether a line burst behind the drywall in a newer subdivision near the UVU campus or a galvanized supply pipe gave out in an older ranch home off State Street, the damage clock starts the moment pressure drops. Home Pride Restoration and Cleaning has been handling exactly these emergencies since 1997, and our IICRC-certified crews are equipped to stop the bleeding, extract the water, and get your home dry.
+Orem's high-desert winters hit hard and fast, a single night below 10°F can freeze supply lines in uninsulated crawl spaces, and when those pipes finally let go, water moves through a home in minutes. Whether a line burst behind the drywall in a newer subdivision near the UVU campus or a galvanized supply pipe gave out in an older ranch home off State Street, the damage clock starts the moment pressure drops. Home Pride Restoration has been handling exactly these emergencies since 1997, and our IICRC-certified crews are equipped to stop the bleeding, extract the water, and get your home dry.
 
 ## Why Orem Properties Are Vulnerable to Burst Pipes
 

@@ -66,7 +66,7 @@ If the backup involved more than a small, contained overflow, say, a toilet that
 
 Professional sewage cleanup involves extraction with truck-mounted or commercial-grade equipment, controlled demolition of contaminated materials, EPA-registered antimicrobial treatment, and moisture mapping with thermal imaging cameras to find water that migrated behind walls or under flooring. The process typically takes one to three days for the remediation phase, followed by structural drying before any reconstruction begins.
 
-Home Pride Restoration and Cleaning handles sewage cleanup in Saratoga Springs and throughout Utah County, including the documentation and direct billing coordination that makes the insurance process less painful when you're already dealing with a stressful situation. If you're not sure whether your situation crosses the line into professional territory, a call to (801) 995-2437 costs nothing and can help you make that judgment with more information.
+Home Pride Restoration handles sewage cleanup in Saratoga Springs and throughout Utah County, including the documentation and direct billing coordination that makes the insurance process less painful when you're already dealing with a stressful situation. If you're not sure whether your situation crosses the line into professional territory, a call to (801) 995-2437 costs nothing and can help you make that judgment with more information.
 
 ## The Recovery Timeline: What Comes After Cleanup
 

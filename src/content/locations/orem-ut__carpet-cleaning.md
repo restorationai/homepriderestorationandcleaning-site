@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Orem, UT | Home Pride Restoration and Cleaning"
+title: "Carpet Cleaning in Orem, UT | Home Pride Restoration"
 h1: "Carpet Cleaning in Orem"
 meta_description: "24/7 carpet cleaning in Orem, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "carpet cleaning orem"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Orem's high desert elevation, sitting at roughly 4,500 feet along the Wasatch Front, means carpets take a beating that most Utah Valley homeowners don't fully anticipate. The combination of fine red-clay soil tracked in from the foothills, UV-intensified sunlight bleaching fibers near south-facing windows, and the region's notoriously low humidity (which causes carpet backing to dry-crack if cleaned improperly) creates a set of conditions that generic steam-and-go services aren't built for. Home Pride Restoration and Cleaning has been working in this specific environment since 1997, and the difference shows in how we approach every job.
+Orem's high desert elevation, sitting at roughly 4,500 feet along the Wasatch Front, means carpets take a beating that most Utah Valley homeowners don't fully anticipate. The combination of fine red-clay soil tracked in from the foothills, UV-intensified sunlight bleaching fibers near south-facing windows, and the region's notoriously low humidity (which causes carpet backing to dry-crack if cleaned improperly) creates a set of conditions that generic steam-and-go services aren't built for. Home Pride Restoration has been working in this specific environment since 1997, and the difference shows in how we approach every job.
 
 ## Why Orem Carpets Wear Differently
 
@@ -52,4 +52,4 @@ For property managers overseeing multi-unit residential buildings, particularly 
 
 Here's something that comes from years of working specifically in Utah Valley: the best time to schedule a deep carpet cleaning in Orem is late September through early November, or late February through April. During July and August, afternoon temperatures push indoor AC systems to run almost continuously, which creates cold-floor conditions that slow dry times significantly, moisture lingers at the carpet-pad interface even when the surface feels dry. During those shoulder seasons, the combination of moderate temps and low humidity means carpets dry faster and more evenly, reducing any risk of mildew at the backing layer. If you're scheduling for summer, we recommend morning appointments and running ceiling fans throughout the day.
 
-Call Home Pride Restoration and Cleaning at (801) 995-2437 to schedule professional carpet cleaning at your Orem home or commercial property. We're based in Saratoga Springs and can typically reach most of Orem within 45 minutes, same-day appointments are available for most of the week.
+Call Home Pride Restoration at (801) 995-2437 to schedule professional carpet cleaning at your Orem home or commercial property. We're based in Saratoga Springs and can typically reach most of Orem within 45 minutes, same-day appointments are available for most of the week.

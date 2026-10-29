@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Heber City, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Fire Damage Restoration in Heber City, UT | Home Pride Restoration"
 h1: "24/7 Emergency Fire Damage Restoration in Heber City"
 meta_description: "24/7 emergency fire damage restoration in Heber City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fire damage restoration heber city"
@@ -48,7 +48,7 @@ IICRC-certified technicians handle each phase, and the job isn't closed until po
 
 ## Response Time from Saratoga Springs to Heber City
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, roughly 45 miles from Heber City via US-189 through Provo Canyon. Under normal canyon conditions, that's approximately 55–65 minutes to most Heber City addresses. During winter months, Provo Canyon can slow significantly due to snow and ice on the canyon road, in those conditions, dispatch will give you an honest updated ETA rather than a number that doesn't hold.
+Home Pride Restoration operates out of Saratoga Springs, roughly 45 miles from Heber City via US-189 through Provo Canyon. Under normal canyon conditions, that's approximately 55–65 minutes to most Heber City addresses. During winter months, Provo Canyon can slow significantly due to snow and ice on the canyon road, in those conditions, dispatch will give you an honest updated ETA rather than a number that doesn't hold.
 
 For properties in the 84032 ZIP code area, including homes closer to the Heber Valley State Airport corridor or along the Highway 40 frontage, crews stage equipment in the trailer before leaving so no time is lost on arrival. The goal is stabilization within the first two hours, that's when the difference between a salvageable hardwood floor and a full replacement is often decided.
 
@@ -60,4 +60,4 @@ If your home in the 84032 area has a wood stove or a masonry fireplace, mention 
 
 ---
 
-Fire damage in Heber City moves fast, and the high-altitude dry air doesn't slow it down. Call Home Pride Restoration and Cleaning at (801) 995-2437 any time, day or night, and a technician will be in contact within minutes to begin coordinating your response.
+Fire damage in Heber City moves fast, and the high-altitude dry air doesn't slow it down. Call Home Pride Restoration at (801) 995-2437 any time, day or night, and a technician will be in contact within minutes to begin coordinating your response.

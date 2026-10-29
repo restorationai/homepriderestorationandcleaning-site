@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Riverton, UT | Home Pride Restoration and Cleaning"
+title: "Odor Removal and Deodorization in Riverton, UT | Home Pride Restoration"
 h1: "Odor Removal and Deodorization in Riverton"
 meta_description: "24/7 odor removal and deodorization in Riverton, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "odor removal and deodorization riverton"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-Riverton sits at roughly 4,500 feet elevation in the Salt Lake Valley, and that altitude matters more than most homeowners realize when an odor problem sets in. The dry, high-desert air here can desiccate smoke particles and pet dander into fine dust that settles deep into porous surfaces, drywall, subflooring, HVAC ductwork, where surface sprays never reach. When a smell lingers days after you've cleaned everything visible, it's usually because the source has migrated somewhere you can't see. Home Pride Restoration and Cleaning has been resolving exactly that kind of problem since 1997, and our IICRC-certified technicians know how Riverton's specific building patterns and climate affect the way odors behave.
+Riverton sits at roughly 4,500 feet elevation in the Salt Lake Valley, and that altitude matters more than most homeowners realize when an odor problem sets in. The dry, high-desert air here can desiccate smoke particles and pet dander into fine dust that settles deep into porous surfaces, drywall, subflooring, HVAC ductwork, where surface sprays never reach. When a smell lingers days after you've cleaned everything visible, it's usually because the source has migrated somewhere you can't see. Home Pride Restoration has been resolving exactly that kind of problem since 1997, and our IICRC-certified technicians know how Riverton's specific building patterns and climate affect the way odors behave.
 
 ## Why Riverton Properties Hold Odors Longer Than You'd Expect
 
@@ -46,4 +46,4 @@ Our headquarters in Saratoga Springs puts us roughly 10–15 minutes from most R
 
 A detail that surprises many Riverton homeowners: the large-format engineered hardwood and luxury vinyl plank flooring installed in homes built between 2005 and 2018, common throughout Riverton's newer subdivisions near the South Mountain Golf Course area, has a foam underlayment layer that acts like a sponge for liquid-based odors. Pet urine, sewage backup, or flood water that reaches that underlayment is completely invisible from the surface but continues off-gassing for months. We've pulled up flooring in homes where the surface looked and smelled clean, only to find the underlayment saturated with odor-producing bacteria. If your smell keeps returning after surface cleaning, that underlayment is the first place we check.
 
-If a persistent smell is making your home uncomfortable, whether it's smoke, pets, mold, or something that happened before you moved in, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We'll identify the source, apply the right professional odor elimination method for your specific Riverton home, and verify the results before we leave.
+If a persistent smell is making your home uncomfortable, whether it's smoke, pets, mold, or something that happened before you moved in, call Home Pride Restoration at **(801) 995-2437**. We'll identify the source, apply the right professional odor elimination method for your specific Riverton home, and verify the results before we leave.

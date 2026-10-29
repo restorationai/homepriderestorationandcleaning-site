@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Burst Pipe Cleanup and Repair in Eagle Mountain | Home Pride Restoration and Cleaning"
+title: "Emergency Burst Pipe Cleanup and Repair in Eagle Mountain | Home Pride Restoration"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Eagle Mountain"
 meta_description: "24/7 emergency burst pipe cleanup and repair in Eagle Mountain, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "burst pipe cleanup and repair eagle mountain"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Burst Pipe Cleanup and Repair"
 rendered: true
 ---
-Eagle Mountain's high desert elevation and sharp Utah County winters create a freeze-thaw cycle that puts unusual stress on supply lines, especially in the newer subdivisions where homes were built fast during the city's rapid growth and where PEX or CPVC runs through uninsulated garage walls or exterior-facing cabinet bays. When a pipe lets go at 2 a.m. in January, water can travel under LVP flooring, saturate OSB subfloor, and reach interior wall cavities before most families wake up. Home Pride Restoration and Cleaning has handled pipe-burst emergencies across Eagle Mountain since the city was still mostly open fields, and we know exactly what these homes do, and don't, hide.
+Eagle Mountain's high desert elevation and sharp Utah County winters create a freeze-thaw cycle that puts unusual stress on supply lines, especially in the newer subdivisions where homes were built fast during the city's rapid growth and where PEX or CPVC runs through uninsulated garage walls or exterior-facing cabinet bays. When a pipe lets go at 2 a.m. in January, water can travel under LVP flooring, saturate OSB subfloor, and reach interior wall cavities before most families wake up. Home Pride Restoration has handled pipe-burst emergencies across Eagle Mountain since the city was still mostly open fields, and we know exactly what these homes do, and don't, hide.
 
 ## Why Eagle Mountain Homes See Burst Pipe Damage More Than You'd Expect
 

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Herriman, UT | Home Pride Restoration and Cleaning"
+title: "Mold Inspection and Testing in Herriman, UT | Home Pride Restoration"
 h1: "Mold Inspection and Testing in Herriman"
 meta_description: "24/7 mold inspection and testing in Herriman, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold inspection and testing herriman"
@@ -42,7 +42,7 @@ A thorough mold assessment here isn't the same as one in an older, single-story 
 
 ## Response Time and Coverage Across Herriman
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, which puts us roughly 10–15 minutes from most of Herriman via Bangerter Highway or the Mountain View Corridor. For mold inspection appointments, which are scheduled rather than emergency dispatches, we typically offer next-day availability for Herriman addresses in the 84096 ZIP code. When a mold concern is tied to an active water loss that needs same-day attention, our response window to Herriman is generally under an hour from the time you call.
+Home Pride Restoration operates out of Saratoga Springs, which puts us roughly 10–15 minutes from most of Herriman via Bangerter Highway or the Mountain View Corridor. For mold inspection appointments, which are scheduled rather than emergency dispatches, we typically offer next-day availability for Herriman addresses in the 84096 ZIP code. When a mold concern is tied to an active water loss that needs same-day attention, our response window to Herriman is generally under an hour from the time you call.
 
 We've worked in subdivisions throughout the area, from the newer developments near Herriman's commercial corridor along 13400 South to the hillside communities closer to the Oquirrh foothills. Knowing the street layouts and typical home configurations in this part of the valley means we're not orienting ourselves on arrival, we're working.
 

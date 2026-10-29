@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Junk & Debris Removal in Eagle Mountain, UT | Home Pride Restoration and Cleaning"
+title: "Junk & Debris Removal in Eagle Mountain, UT | Home Pride Restoration"
 h1: "Junk & Debris Removal in Eagle Mountain"
 meta_description: "24/7 junk & debris removal in Eagle Mountain, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "junk & debris removal eagle mountain"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Junk & Debris Removal"
 rendered: true
 ---
-Eagle Mountain has grown faster than almost any city in Utah County over the past decade, and that growth leaves a trail: half-finished landscaping projects, garage overflows from back-to-back moves, construction scraps from additions and ADU builds, and the kind of accumulated clutter that piles up when a household is still figuring out where everything goes. If you're sitting in 84005 with a garage you can't park in or a yard that looks like a staging area, Home Pride Restoration and Cleaning has been clearing exactly this kind of load since 1997, and we're less than 15 minutes out of Saratoga Springs.
+Eagle Mountain has grown faster than almost any city in Utah County over the past decade, and that growth leaves a trail: half-finished landscaping projects, garage overflows from back-to-back moves, construction scraps from additions and ADU builds, and the kind of accumulated clutter that piles up when a household is still figuring out where everything goes. If you're sitting in 84005 with a garage you can't park in or a yard that looks like a staging area, Home Pride Restoration has been clearing exactly this kind of load since 1997, and we're less than 15 minutes out of Saratoga Springs.
 
 ## Why Eagle Mountain Properties Accumulate Debris Faster Than You'd Expect
 
@@ -50,4 +50,4 @@ One thing that catches Eagle Mountain homeowners off guard: the city's newer sub
 
 If your property is in the 84005 ZIP code and you've done any recent yard work, it's worth a quick look around the perimeter before we arrive, you may find more to haul than you initially thought, and we'd rather quote it accurately on the first visit.
 
-Call Home Pride Restoration and Cleaning at (801) 995-2437 to schedule your Eagle Mountain junk and debris removal. Whether it's a single-room cleanout or a full property haul, we'll give you a straight estimate and get it done without the runaround.
+Call Home Pride Restoration at (801) 995-2437 to schedule your Eagle Mountain junk and debris removal. Whether it's a single-room cleanout or a full property haul, we'll give you a straight estimate and get it done without the runaround.

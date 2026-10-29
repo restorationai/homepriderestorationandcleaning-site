@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Frozen Pipe Restoration in Heber City, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Frozen Pipe Restoration in Heber City, UT | Home Pride Restoration"
 h1: "24/7 Emergency Frozen Pipe Restoration in Heber City"
 meta_description: "24/7 emergency frozen pipe restoration in Heber City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "frozen pipe restoration heber city"
@@ -41,7 +41,7 @@ At altitude, evaporation rates behave differently than at sea level. Drying time
 
 ## Response Time to Heber City
 
-Home Pride Restoration and Cleaning is headquartered in Saratoga Springs, and reaching Heber City means routing through Provo Canyon on US-189. Under normal winter conditions, that drive runs approximately 45 to 55 minutes. During a heavy snow event on the canyon road, we account for up to 75 minutes and communicate that window honestly when you call, (801) 995-2437, so you know exactly when to expect boots on the ground.
+Home Pride Restoration is headquartered in Saratoga Springs, and reaching Heber City means routing through Provo Canyon on US-189. Under normal winter conditions, that drive runs approximately 45 to 55 minutes. During a heavy snow event on the canyon road, we account for up to 75 minutes and communicate that window honestly when you call, (801) 995-2437, so you know exactly when to expect boots on the ground.
 
 For homes near the Heber Valley Historic Railroad depot or along the older residential blocks closer to Main Street, access is generally straightforward. We stage equipment directly from the truck and don't need extended setup time once we arrive. If your property has a shared driveway or a narrow access lane, common on some of the acreage parcels east of town, let the dispatcher know when you call so we can confirm the right vehicle configuration.
 

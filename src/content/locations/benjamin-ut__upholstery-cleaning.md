@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Benjamin, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in Benjamin, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in Benjamin"
 meta_description: "24/7 upholstery cleaning in Benjamin, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning benjamin"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Upholstery Cleaning"
 rendered: true
 ---
-**Couch losing its color, or that farmhouse sofa collecting a film no vacuum touches?** Benjamin's mix of working farms, hard well water, and wide-open dust means upholstery in this part of Utah County takes on grime differently than furniture in a subdivision closer to Provo or Spanya Fork. Home Pride Restoration and Cleaning has been cleaning fabric and leather upholstery for Utah County households since 1997, and we calibrate our approach to what actually lands on your cushions out here: field dust, hard-water mineral spotting, and pet or livestock hair worked deep into the weave.
+**Couch losing its color, or that farmhouse sofa collecting a film no vacuum touches?** Benjamin's mix of working farms, hard well water, and wide-open dust means upholstery in this part of Utah County takes on grime differently than furniture in a subdivision closer to Provo or Spanya Fork. Home Pride Restoration has been cleaning fabric and leather upholstery for Utah County households since 1997, and we calibrate our approach to what actually lands on your cushions out here: field dust, hard-water mineral spotting, and pet or livestock hair worked deep into the weave.
 
 ## Why Benjamin Homes See Upholstery Wear and Buildup
 
@@ -42,4 +42,4 @@ We use truck-mounted and portable hot water extraction equipment depending on fa
 
 One thing we watch for specifically in Benjamin: homeowners on private wells often don't realize their water hardness is contributing to a sofa's dullness until we test it on-site. If a fabric sofa in this area looks gray or chalky despite regular vacuuming, mineral deposits from well water used in prior spot-cleaning attempts are usually the cause, and it takes a proper extraction cycle with treated solution to actually lift them out rather than just redistribute them.
 
-Whether it's a fabric sectional that's absorbed a season of field dust or a leather chair that needs conditioning before it cracks, Home Pride Restoration and Cleaning schedules upholstery cleaning throughout Benjamin and the surrounding Utah County farmland. Call (801) 995-2437 to set up a visit that accounts for your home's water source, fabric type, and how the furniture actually gets used.
+Whether it's a fabric sectional that's absorbed a season of field dust or a leather chair that needs conditioning before it cracks, Home Pride Restoration schedules upholstery cleaning throughout Benjamin and the surrounding Utah County farmland. Call (801) 995-2437 to set up a visit that accounts for your home's water source, fabric type, and how the furniture actually gets used.

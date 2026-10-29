@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Appliance Leak Cleanup in American Fork, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Appliance Leak Cleanup in American Fork, UT | Home Pride Restoration"
 h1: "24/7 Emergency Appliance Leak Cleanup in American Fork"
 meta_description: "24/7 emergency appliance leak cleanup in American Fork, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "appliance leak cleanup american fork"
@@ -39,7 +39,7 @@ Extraction comes next, truck-mounted or portable units depending on access, foll
 
 ## Response Time to American Fork
 
-Home Pride Restoration and Cleaning is headquartered in Saratoga Springs, which puts American Fork roughly 10–15 minutes away under normal traffic conditions via US-89 or Pioneer Crossing. For addresses in the northeast part of the city near the American Fork Canyon mouth, add a few minutes depending on time of day. Our goal is a technician on your doorstep within 60 minutes of your call, often faster for addresses closer to the 84003 ZIP code boundary with Saratoga Springs. We run emergency response around the clock, including weekends and holidays, because appliance leaks don't wait for business hours.
+Home Pride Restoration is headquartered in Saratoga Springs, which puts American Fork roughly 10–15 minutes away under normal traffic conditions via US-89 or Pioneer Crossing. For addresses in the northeast part of the city near the American Fork Canyon mouth, add a few minutes depending on time of day. Our goal is a technician on your doorstep within 60 minutes of your call, often faster for addresses closer to the 84003 ZIP code boundary with Saratoga Springs. We run emergency response around the clock, including weekends and holidays, because appliance leaks don't wait for business hours.
 
 ## American Fork Insurance Coordination
 
@@ -49,4 +49,4 @@ Most standard homeowner policies cover sudden and accidental appliance leaks, a 
 
 One pattern we see repeatedly in American Fork's mid-2000s subdivisions: builders often ran washing machine drain lines through interior walls shared with finished basement ceilings. When a washing machine overflows or a supply hose fails, water follows that drain chase straight down into the basement ceiling cavity, and homeowners don't see it until the drywall tape starts bubbling days later. If your laundry room is on the main floor above a finished basement, we always inspect that ceiling cavity with a moisture meter before we close out a job, even when the basement looks completely dry from below.
 
-If an appliance leak has left standing water, warped flooring, or a damp smell anywhere in your American Fork home, call Home Pride Restoration and Cleaning at (801) 995-2437. The faster drying starts, the less subfloor and cabinetry ends up in a dumpster, and the smaller your out-of-pocket exposure tends to be.
+If an appliance leak has left standing water, warped flooring, or a damp smell anywhere in your American Fork home, call Home Pride Restoration at (801) 995-2437. The faster drying starts, the less subfloor and cabinetry ends up in a dumpster, and the smaller your out-of-pocket exposure tends to be.

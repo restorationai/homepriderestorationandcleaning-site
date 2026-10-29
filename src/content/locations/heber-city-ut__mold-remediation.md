@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Heber City, UT | Home Pride Restoration and Cleaning"
+title: "Mold Remediation in Heber City, UT | Home Pride Restoration"
 h1: "Mold Remediation in Heber City"
 meta_description: "24/7 mold remediation in Heber City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold remediation heber city"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Mold Remediation"
 rendered: true
 ---
-Heber City sits in a high-elevation valley at roughly 5,600 feet, where cold winters, heavy snowpack on the Wasatch Back, and rapid spring snowmelt push moisture into foundations and crawl spaces faster than most Utah communities see. When that moisture finds a dark corner, behind a basement wall, under a bathroom subfloor, inside an attic cavity, mold can establish visible colonies within 48 to 72 hours. Home Pride Restoration and Cleaning has been handling mold remediation across the Wasatch Front and Back since 1997, and the conditions in Heber City demand a calibrated approach that flat-valley jobs simply don't require.
+Heber City sits in a high-elevation valley at roughly 5,600 feet, where cold winters, heavy snowpack on the Wasatch Back, and rapid spring snowmelt push moisture into foundations and crawl spaces faster than most Utah communities see. When that moisture finds a dark corner, behind a basement wall, under a bathroom subfloor, inside an attic cavity, mold can establish visible colonies within 48 to 72 hours. Home Pride Restoration has been handling mold remediation across the Wasatch Front and Back since 1997, and the conditions in Heber City demand a calibrated approach that flat-valley jobs simply don't require.
 
 ## Why Heber City Properties Face Elevated Mold Risk
 

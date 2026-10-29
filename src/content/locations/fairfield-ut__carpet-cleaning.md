@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Fairfield, UT | Home Pride Restoration and Cleaning"
+title: "Carpet Cleaning in Fairfield, UT | Home Pride Restoration"
 h1: "Carpet Cleaning in Fairfield"
 meta_description: "24/7 carpet cleaning in Fairfield, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "carpet cleaning fairfield"
@@ -42,4 +42,4 @@ Fairfield doesn't have the commercial density of nearby cities, but the business
 
 One thing that catches homeowners off guard in Fairfield: because so much of the area sits on well water, carpet that looks clean right after a cleaning can develop a faint yellowish tint along high-traffic paths a few days later as mineral content in the water oxidizes on the fiber. It's not a sign the cleaning failed, it's a water chemistry issue, and it's why we run a dedicated rinse pass on well-water properties instead of treating every home in the area the same way we'd treat a home on a municipal line.
 
-If your carpet in Fairfield is showing dust buildup that vacuuming alone can't touch, mineral staining from well water, or just needs a deep clean before a change of season, Home Pride Restoration and Cleaning has been doing this work since 1997 and holds IICRC certification for the technicians who show up at your door. Call (801) 995-2437 to get a cleaning scheduled.
+If your carpet in Fairfield is showing dust buildup that vacuuming alone can't touch, mineral staining from well water, or just needs a deep clean before a change of season, Home Pride Restoration has been doing this work since 1997 and holds IICRC certification for the technicians who show up at your door. Call (801) 995-2437 to get a cleaning scheduled.

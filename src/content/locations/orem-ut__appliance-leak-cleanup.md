@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Appliance Leak Cleanup in Orem, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Appliance Leak Cleanup in Orem, UT | Home Pride Restoration"
 h1: "24/7 Emergency Appliance Leak Cleanup in Orem"
 meta_description: "24/7 emergency appliance leak cleanup in Orem, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "appliance leak cleanup orem"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Burst pipe or leak in Orem? We answer 24/7.** Call now and our crew heads out to stop the water and start the cleanup.
 
-Orem sits in a high-desert valley where the air is dry enough that a slow appliance leak can go unnoticed for weeks, no musty smell, no visible condensation on walls, until the subfloor buckles or drywall crumbles at the baseboard. Whether it's a dishwasher supply line weeping behind a cabinet, a washing machine that overflowed into the laundry room, or a refrigerator ice maker line that quietly soaked the kitchen floor overnight, the damage compounds fast. Home Pride Restoration and Cleaning has been responding to these calls across Utah County since 1997, and appliance leaks in Orem have their own particular patterns worth knowing.
+Orem sits in a high-desert valley where the air is dry enough that a slow appliance leak can go unnoticed for weeks, no musty smell, no visible condensation on walls, until the subfloor buckles or drywall crumbles at the baseboard. Whether it's a dishwasher supply line weeping behind a cabinet, a washing machine that overflowed into the laundry room, or a refrigerator ice maker line that quietly soaked the kitchen floor overnight, the damage compounds fast. Home Pride Restoration has been responding to these calls across Utah County since 1997, and appliance leaks in Orem have their own particular patterns worth knowing.
 
 ## Why Orem Homes See More Appliance Leak Damage Than You'd Expect
 
@@ -39,10 +39,10 @@ For washing machine floods that have reached a basement or crawl space, we set u
 
 ## Response Time from Our HQ to Orem
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs, which puts us roughly 15 to 20 minutes from most Orem addresses under normal traffic conditions via I-15 or the Redwood Road corridor. Calls that come in during peak commute hours on University Parkway can add a few minutes, but our target is to have a technician on-site within 60 minutes of your call. Water heater leak cleanup and washing machine floods are time-sensitive, every hour of contact time between water and wood framing or drywall increases the likelihood of secondary mold growth, which IICRC standards peg at 24 to 48 hours in the right conditions.
+Home Pride Restoration is based in Saratoga Springs, which puts us roughly 15 to 20 minutes from most Orem addresses under normal traffic conditions via I-15 or the Redwood Road corridor. Calls that come in during peak commute hours on University Parkway can add a few minutes, but our target is to have a technician on-site within 60 minutes of your call. Water heater leak cleanup and washing machine floods are time-sensitive, every hour of contact time between water and wood framing or drywall increases the likelihood of secondary mold growth, which IICRC standards peg at 24 to 48 hours in the right conditions.
 
 ## Local Note: What Orem's Climate Does to Drying Timelines
 
 One thing that surprises homeowners here: Orem's low relative humidity is an asset during drying, but it can mask how far moisture has actually traveled. When outdoor air is 15–20% relative humidity, common during Utah's dry winters, surface materials dry quickly, and a floor can feel dry to the touch while the subfloor beneath still reads 25% moisture content on a pin meter. We've seen this pattern repeatedly in homes near the east bench neighborhoods where finished basements are the norm. Skipping the instrument verification and calling a job dry based on feel is how mold problems develop two months later. Every job we close includes documented final moisture readings at or below manufacturer-specified levels for the affected materials.
 
-If you're dealing with an appliance leak anywhere in Orem, from a dishwasher supply line failure to a water heater that let go overnight, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We carry IICRC certification, we bill insurance directly, and we can typically have equipment running in your home the same day you call.
+If you're dealing with an appliance leak anywhere in Orem, from a dishwasher supply line failure to a water heater that let go overnight, call Home Pride Restoration at **(801) 995-2437**. We carry IICRC certification, we bill insurance directly, and we can typically have equipment running in your home the same day you call.

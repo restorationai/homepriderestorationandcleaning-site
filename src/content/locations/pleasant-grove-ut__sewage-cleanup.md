@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Pleasant Grove | Home Pride Restoration and Cleaning"
+title: "Emergency Sewage Cleanup and Sanitization in Pleasant Grove | Home Pride Restoration"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Pleasant Grove"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Pleasant Grove, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "sewage cleanup and sanitization pleasant grove"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Sewage backup in Pleasant Grove? We answer 24/7.** Call now and our crew heads out to contain the contamination and start the cleanup.
 
-Pleasant Grove sits at the base of the Wasatch Front where the soil transitions from the sandy alluvial fans near the foothills to the heavier clay-dense ground closer to Utah Lake, and that soil profile matters when a sewer line backs up. Clay soils hold moisture and shift seasonally, which accelerates root intrusion into aging lateral lines. When a sewage backup floods a basement or crawlspace in Pleasant Grove, the contamination clock starts immediately: Category 3 black water carries bacteria, viruses, and pathogens that begin colonizing porous materials within hours. Home Pride Restoration and Cleaning has been responding to these emergencies since 1997, and we know the difference between a fast cleanup and a thorough one.
+Pleasant Grove sits at the base of the Wasatch Front where the soil transitions from the sandy alluvial fans near the foothills to the heavier clay-dense ground closer to Utah Lake, and that soil profile matters when a sewer line backs up. Clay soils hold moisture and shift seasonally, which accelerates root intrusion into aging lateral lines. When a sewage backup floods a basement or crawlspace in Pleasant Grove, the contamination clock starts immediately: Category 3 black water carries bacteria, viruses, and pathogens that begin colonizing porous materials within hours. Home Pride Restoration has been responding to these emergencies since 1997, and we know the difference between a fast cleanup and a thorough one.
 
 ## Why Pleasant Grove Properties See Sewage Backup Issues
 
@@ -49,4 +49,4 @@ One pattern we see repeatedly in Pleasant Grove's established neighborhoods near
 
 Sewage backup coverage is a rider on most homeowner policies, not part of the base policy, and many Pleasant Grove homeowners don't know they have it until they file a claim. We work directly with adjusters from the major carriers active in Utah County, document the loss with photos, moisture logs, and itemized scopes, and can submit directly to your insurer. If your policy doesn't include sewage backup coverage, we'll give you a straightforward estimate and explain what the work actually requires so you're not paying for unnecessary line items.
 
-If you're dealing with sewage in your home right now, don't wait to see if it dries on its own, it won't, and the contamination spreads. Call Home Pride Restoration and Cleaning at (801) 995-2437 for immediate sewage cleanup and sanitization in Pleasant Grove.
+If you're dealing with sewage in your home right now, don't wait to see if it dries on its own, it won't, and the contamination spreads. Call Home Pride Restoration at (801) 995-2437 for immediate sewage cleanup and sanitization in Pleasant Grove.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Lake Shore, UT | Home Pride Restoration and Cleaning"
+title: "Mold Inspection and Testing in Lake Shore, UT | Home Pride Restoration"
 h1: "Mold Inspection and Testing in Lake Shore"
 meta_description: "24/7 mold inspection and testing in Lake Shore, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold inspection and testing lake shore"
@@ -38,4 +38,4 @@ Beyond the air pump and sample cassettes, we use a moisture meter to flag framin
 
 One thing we watch for specifically in Lake Shore: homes closer to the lakeshore road often have sump pumps installed in the crawlspace or basement that were added after construction rather than designed in from the start. When those pumps fail or get undersized for a wet spring, the crawlspace can hold standing moisture for weeks before anyone notices a smell upstairs, which is exactly the lag time mold needs to establish a colony on untreated framing.
 
-If you're buying or selling a home in Lake Shore, dealing with a musty smell you can't trace, or just want a baseline air quality reading before closing up the house for winter, a proper inspection answers the question before you spend money on remediation you may not need. Home Pride Restoration and Cleaning has worked across Utah County since 1997, and we bring that same lab-backed, IICRC-trained process to every mold inspection and testing call in Lake Shore. Call (801) 995-2437 to schedule a visit.
+If you're buying or selling a home in Lake Shore, dealing with a musty smell you can't trace, or just want a baseline air quality reading before closing up the house for winter, a proper inspection answers the question before you spend money on remediation you may not need. Home Pride Restoration has worked across Utah County since 1997, and we bring that same lab-backed, IICRC-trained process to every mold inspection and testing call in Lake Shore. Call (801) 995-2437 to schedule a visit.

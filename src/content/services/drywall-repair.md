@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Drywall Repair in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "Drywall Repair in Saratoga Springs | Home Pride Restoration"
 h1: "Drywall Repair in Saratoga Springs"
 meta_description: "Drywall repair in Saratoga Springs, from water-damaged drywall replacement to patching and texture matching. Insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "drywall repair saratoga springs"
@@ -48,7 +48,7 @@ The third is texture and paint that do not match. A flawless flat patch under a 
 
 ## What does drywall repair cost?
 
-Drywall cost depends on the size of the damage, whether it is a simple patch or a full replacement, how much texture matching is involved, and whether cavity drying is required first. The figures below are typical market ranges; these are typical market figures, not Home Pride Restoration and Cleaning quotes.
+Drywall cost depends on the size of the damage, whether it is a simple patch or a full replacement, how much texture matching is involved, and whether cavity drying is required first. The figures below are typical market ranges; these are typical market figures, not Home Pride Restoration quotes.
 
 | Scenario | Typical range |
 |---|---|
@@ -59,7 +59,7 @@ Drywall cost depends on the size of the damage, whether it is a simple patch or 
 | Ceiling repair with texture match | $400 - $1,200 |
 | Stain-blocking primer and repaint of affected wall | $200 - $600 |
 
-Cavity drying, if the wall behind the drywall is wet, is scoped separately as part of the water damage work. Home Pride Restoration and Cleaning provides a written scope before work begins, and when the drywall repair is part of a covered water, fire, or storm loss, we document the affected area for the insurance scope.
+Cavity drying, if the wall behind the drywall is wet, is scoped separately as part of the water damage work. Home Pride Restoration provides a written scope before work begins, and when the drywall repair is part of a covered water, fire, or storm loss, we document the affected area for the insurance scope.
 
 ## Seasonal and regional considerations
 
@@ -67,6 +67,6 @@ Utah Valley's dry air actually helps drywall work: joint compound and texture cu
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and handles drywall repair throughout Saratoga Springs and the surrounding Utah Valley, including Lehi, American Fork, Eagle Mountain, Orem, Provo, and Pleasant Grove. We repair drywall both as a standalone fix and as the reconstruction step after water, fire, and storm damage.
+Home Pride Restoration is based in Saratoga Springs and handles drywall repair throughout Saratoga Springs and the surrounding Utah Valley, including Lehi, American Fork, Eagle Mountain, Orem, Provo, and Pleasant Grove. We repair drywall both as a standalone fix and as the reconstruction step after water, fire, and storm damage.
 
 If you have a hole to patch, a ceiling stain that keeps coming back, or a wall that needs rebuilding after a leak, call (801) 995-2437 to schedule an assessment and receive a written scope before any work begins.

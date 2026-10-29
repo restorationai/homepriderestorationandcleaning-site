@@ -1,7 +1,7 @@
 ---
 hero: '/images/services/crawl-space-encapsulation.webp'
 archetype: "service-landing"
-title: "Crawl Space Encapsulation in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "Crawl Space Encapsulation in Saratoga Springs | Home Pride Restoration"
 h1: "Crawl Space Encapsulation in Saratoga Springs"
 meta_description: "24/7 crawl space encapsulation in Saratoga Springs and surrounding areas. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "crawl space encapsulation saratoga springs"
@@ -69,6 +69,6 @@ The best window to schedule encapsulation is late summer through early fall, aft
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and serves crawl space encapsulation projects throughout Utah County and the surrounding region, including Eagle Mountain, Lehi, American Fork, Cedar Hills, Highland, and Lindon. City-specific pages for each community link back here for the full technical detail on how the work is done.
+Home Pride Restoration is based in Saratoga Springs and serves crawl space encapsulation projects throughout Utah County and the surrounding region, including Eagle Mountain, Lehi, American Fork, Cedar Hills, Highland, and Lindon. City-specific pages for each community link back here for the full technical detail on how the work is done.
 
 If you've noticed musty air, cupping floors, or elevated humidity readings in your home, call (801) 995-2437 to schedule a crawl space moisture assessment, we'll measure what's actually happening before recommending any scope of work.

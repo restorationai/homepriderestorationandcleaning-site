@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Eagle Mountain | Home Pride Restoration and Cleaning"
+title: "Emergency Sewage Cleanup and Sanitization in Eagle Mountain | Home Pride Restoration"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Eagle Mountain"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Eagle Mountain, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "sewage cleanup and sanitization eagle mountain"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Sewage backup in Eagle Mountain? We answer 24/7.** Call now and our crew heads out to contain the contamination and start the cleanup.
 
-Eagle Mountain's rapid growth has pushed new subdivisions onto the west side of Utah Lake's valley floor faster than some municipal sewer infrastructure can keep pace. When a sewer line backs up into a home in one of the city's newer developments, or when an aging septic system overflows on a larger lot near the Ranches area, raw sewage can spread across finished flooring, soak into wall cavities, and reach HVAC returns within hours. Home Pride Restoration and Cleaning has handled sewage cleanup and sanitization across Utah County since 1997, and we know what a backup in Eagle Mountain looks like from the first call to the final clearance test.
+Eagle Mountain's rapid growth has pushed new subdivisions onto the west side of Utah Lake's valley floor faster than some municipal sewer infrastructure can keep pace. When a sewer line backs up into a home in one of the city's newer developments, or when an aging septic system overflows on a larger lot near the Ranches area, raw sewage can spread across finished flooring, soak into wall cavities, and reach HVAC returns within hours. Home Pride Restoration has handled sewage cleanup and sanitization across Utah County since 1997, and we know what a backup in Eagle Mountain looks like from the first call to the final clearance test.
 
 ## Why Eagle Mountain Properties See Sewage Backup Issues
 
@@ -57,4 +57,4 @@ If your policy does not include sewer backup coverage, we will walk through the 
 
 One pattern we see repeatedly in Eagle Mountain's Ranches-area homes built between 2002 and 2008: the builder-grade wax ring seals on ground-floor toilets were installed on thick subfloor stacks that have since settled slightly with the clay soil movement. The toilet rocks almost imperceptibly, but that micro-movement breaks the wax seal over years, allowing sewage to seep slowly into the subfloor rather than backing up dramatically into the bowl. Homeowners often notice a faint odor for months before discovering that the OSB subfloor beneath the toilet flange is fully saturated and beginning to delaminate. If your Eagle Mountain home has a persistent bathroom odor that cleaning does not resolve, it is worth having a technician pull the toilet and check the flange before a minor seal failure becomes a major remediation project.
 
-If you are dealing with a sewage backup or overflow anywhere in Eagle Mountain, whether it is a sewer line backup in a finished basement, a septic overflow on a larger lot, or a slow leak that has finally made itself known, call Home Pride Restoration and Cleaning at (801) 995-2437. We will have a crew to your door fast, and we will handle everything from extraction through sanitization so your home is safe to occupy again.
+If you are dealing with a sewage backup or overflow anywhere in Eagle Mountain, whether it is a sewer line backup in a finished basement, a septic overflow on a larger lot, or a slow leak that has finally made itself known, call Home Pride Restoration at (801) 995-2437. We will have a crew to your door fast, and we will handle everything from extraction through sanitization so your home is safe to occupy again.

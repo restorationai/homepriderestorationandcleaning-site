@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Fabric Protection in Heber City, UT | Home Pride Restoration and Cleaning"
+title: "Fabric Protection in Heber City, UT | Home Pride Restoration"
 h1: "Fabric Protection in Heber City"
 meta_description: "24/7 fabric protection in Heber City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fabric protection heber city"
@@ -36,7 +36,7 @@ After fiber identification, we pre-clean the surface, fabric protection bonds po
 
 ## Response Time and Coverage in Heber City
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, and Heber City is approximately 45–55 minutes from our HQ via US-189 through Provo Canyon, a scenic drive that becomes a genuine logistics consideration in winter when canyon conditions slow traffic. For fabric protection appointments, which are scheduled (not emergency) visits, we build that drive time into our arrival windows and confirm the day before. Clients in the areas surrounding Midway Road and the Daniels Road corridor can expect us to arrive within the confirmed window; we don't give four-hour ranges for a service that requires your home to be accessible and your furniture in place.
+Home Pride Restoration operates out of Saratoga Springs, and Heber City is approximately 45–55 minutes from our HQ via US-189 through Provo Canyon, a scenic drive that becomes a genuine logistics consideration in winter when canyon conditions slow traffic. For fabric protection appointments, which are scheduled (not emergency) visits, we build that drive time into our arrival windows and confirm the day before. Clients in the areas surrounding Midway Road and the Daniels Road corridor can expect us to arrive within the confirmed window; we don't give four-hour ranges for a service that requires your home to be accessible and your furniture in place.
 
 For clients who combine fabric protection with a post-flood or post-smoke cleaning service, which is common after Heber City's spring runoff season pushes moisture into lower-level living spaces, we can sequence the protection treatment on the same visit as the final cleaning step, saving a second trip over the canyon.
 
@@ -44,4 +44,4 @@ For clients who combine fabric protection with a post-flood or post-smoke cleani
 
 One pattern we've noticed working in the Heber Valley: homes built in the 1970s and 1980s along the older residential streets near downtown often have original wool-blend carpet in bedrooms and lower-traffic hallways, installed when wool was still cost-competitive with early synthetics. That carpet is often in surprisingly good structural condition because wool is naturally resilient, but it's also never been treated with a modern protectant. Wool accepts fluoropolymer stain guard well, but only at reduced concentration and with a longer dry time than synthetic carpet requires. Applying a standard scotchgard application formula designed for nylon at full strength on wool can cause temporary fiber stiffening. We adjust formulation on-site after a quick fiber burn test, a 30-second step that prevents a costly mistake on carpet that may be irreplaceable.
 
-If you're in the Heber City area, ZIP code 84032, and want to protect carpets, area rugs, or upholstery before the next ski season tracks in its worst, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll assess your specific fiber types, explain exactly what the treatment will and won't do, and leave your textiles genuinely more resistant to the conditions the Heber Valley throws at them.
+If you're in the Heber City area, ZIP code 84032, and want to protect carpets, area rugs, or upholstery before the next ski season tracks in its worst, call Home Pride Restoration at (801) 995-2437. We'll assess your specific fiber types, explain exactly what the treatment will and won't do, and leave your textiles genuinely more resistant to the conditions the Heber Valley throws at them.

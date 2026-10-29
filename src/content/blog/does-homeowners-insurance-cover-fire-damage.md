@@ -84,10 +84,10 @@ If the home is uninhabitable, activate your ALE coverage that same day. Call you
 
 For a full step-by-step guide to the days and weeks after a fire, see [what to do after a house fire](/blog/what-to-do-after-a-house-fire/).
 
-Home Pride Restoration and Cleaning is available around the clock for fire and smoke damage assessments. If you need a written scope for your adjuster or want a crew on-site to begin stabilization, call [(801) 995-2437](tel:8019952437).
+Home Pride Restoration is available around the clock for fire and smoke damage assessments. If you need a written scope for your adjuster or want a crew on-site to begin stabilization, call [(801) 995-2437](tel:8019952437).
 
 ---
 
-**About Home Pride Restoration and Cleaning**
+**About Home Pride Restoration**
 
-Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, Provo, and surrounding Utah communities since 1997. Their crews handle fire and smoke damage restoration, water damage, mold remediation, and full-service cleaning across residential and commercial properties. They work directly with insurance adjusters and provide written scopes before any work begins.
+Home Pride Restoration is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, Provo, and surrounding Utah communities since 1997. Their crews handle fire and smoke damage restoration, water damage, mold remediation, and full-service cleaning across residential and commercial properties. They work directly with insurance adjusters and provide written scopes before any work begins.

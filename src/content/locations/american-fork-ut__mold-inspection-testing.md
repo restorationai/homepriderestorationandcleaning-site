@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in American Fork, UT | Home Pride Restoration and Cleaning"
+title: "Mold Inspection and Testing in American Fork, UT | Home Pride Restoration"
 h1: "Mold Inspection and Testing in American Fork"
 meta_description: "24/7 mold inspection and testing in American Fork, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold inspection and testing american fork"
@@ -38,7 +38,7 @@ The written assessment you receive includes moisture source identification, a sp
 
 ## Response Time from Saratoga Springs to American Fork
 
-Home Pride Restoration and Cleaning is headquartered in Saratoga Springs, roughly 10–12 miles from American Fork via UT-73 and I-15. Under normal traffic conditions, a technician can be on-site in American Fork within 45–60 minutes of your call. The stretch of I-15 between Lehi and American Fork can slow during morning and evening commute windows, but for most inspection appointments, which are typically scheduled rather than emergency-dispatch, same-day availability is the norm.
+Home Pride Restoration is headquartered in Saratoga Springs, roughly 10–12 miles from American Fork via UT-73 and I-15. Under normal traffic conditions, a technician can be on-site in American Fork within 45–60 minutes of your call. The stretch of I-15 between Lehi and American Fork can slow during morning and evening commute windows, but for most inspection appointments, which are typically scheduled rather than emergency-dispatch, same-day availability is the norm.
 
 For properties near the north end of American Fork closer to Highland, the drive along Timpanogos Highway is often faster than the freeway during peak hours, and our team knows the route.
 
@@ -46,4 +46,4 @@ For properties near the north end of American Fork closer to Highland, the drive
 
 Here's something specific to working in American Fork: the canyon wind pattern matters. On still summer evenings, cool air drains down American Fork Canyon and settles into the valley floor. Homes on the lower bench, particularly those with older single-pane windows or gaps around basement egress windows, pull that cooler, moisture-laden air inside overnight. Over a season, that nightly air exchange raises indoor relative humidity enough to sustain mold growth even in homes with no plumbing history. When we collect outdoor baseline air samples for comparison, we account for the time of day and wind direction, because a sample taken at 2 p.m. on a dry afternoon will read very differently from conditions at 7 a.m. after a canyon drainage event. That calibration is part of what makes the testing data actionable rather than just a number on a page.
 
-If you're in American Fork and something in your home doesn't smell right, or if you're buying or selling a property and want independent documentation of air quality, call Home Pride Restoration and Cleaning at (801) 995-2437. We've been doing this work since 1997, we're IICRC Certified, and we'll give you a straight answer about what the data shows.
+If you're in American Fork and something in your home doesn't smell right, or if you're buying or selling a property and want independent documentation of air quality, call Home Pride Restoration at (801) 995-2437. We've been doing this work since 1997, we're IICRC Certified, and we'll give you a straight answer about what the data shows.

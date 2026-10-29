@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Junk & Debris Removal in Provo, UT | Home Pride Restoration and Cleaning"
+title: "Junk & Debris Removal in Provo, UT | Home Pride Restoration"
 h1: "Junk & Debris Removal in Provo"
 meta_description: "24/7 junk & debris removal in Provo, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "junk & debris removal provo"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Junk & Debris Removal"
 rendered: true
 ---
-Provo's rapid growth along the Wasatch Front has a side effect most residents don't talk about: the accumulation of stuff. Between the University Avenue corridor's constant tenant turnover near BYU, the older ranch-style homes being cleared for estate sales in established neighborhoods, and the surge of garage-to-ADU conversions happening across the city's 84601 and 84604 ZIP codes, property owners are sitting on more unwanted furniture, construction debris, and years of collected clutter than ever before. Home Pride Restoration and Cleaning has been hauling it away since 1997.
+Provo's rapid growth along the Wasatch Front has a side effect most residents don't talk about: the accumulation of stuff. Between the University Avenue corridor's constant tenant turnover near BYU, the older ranch-style homes being cleared for estate sales in established neighborhoods, and the surge of garage-to-ADU conversions happening across the city's 84601 and 84604 ZIP codes, property owners are sitting on more unwanted furniture, construction debris, and years of collected clutter than ever before. Home Pride Restoration has been hauling it away since 1997.
 
 ## Why Provo Properties Accumulate More Than You'd Expect
 

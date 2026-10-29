@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Draper, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Damage Restoration in Draper, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Damage Restoration in Draper"
 meta_description: "24/7 emergency water damage restoration in Draper, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "water damage restoration draper"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Water Damage Restoration"
 rendered: true
 ---
-**Water damage emergency in Draper?** Call now for prompt service. Home Pride Restoration and Cleaning has worked on homes and commercial buildings across the Salt Lake Valley since 1997, and Draper's mix of decades-old foothill properties and fast-growing newer subdivisions each bring their own water damage patterns. Whether it's a slab leak under a newer build near the Point of the Mountain or a failed supply line in an older rambler closer to the valley floor, the clock matters as much as the cause.
+**Water damage emergency in Draper?** Call now for prompt service. Home Pride Restoration has worked on homes and commercial buildings across the Salt Lake Valley since 1997, and Draper's mix of decades-old foothill properties and fast-growing newer subdivisions each bring their own water damage patterns. Whether it's a slab leak under a newer build near the Point of the Mountain or a failed supply line in an older rambler closer to the valley floor, the clock matters as much as the cause.
 
 ## Why Draper Properties See Water Damage Issues
 
@@ -38,4 +38,4 @@ Draper is split between Salt Lake County and Utah County, which occasionally mat
 
 One thing that catches a lot of Draper homeowners off guard: properties on the upper benches near the foothills often have their main water shutoff in a basement utility closet or an exterior valve box buried under landscaping rock rather than near the street, which can cost precious minutes during an active leak. If you don't already know where yours is, finding it now, before an emergency, can meaningfully cut down on the standing water we find when we arrive.
 
-Water that's been sitting under flooring or behind a baseboard for even a day starts creating conditions mold can use, so the sooner we get equipment running, the less demolition you're likely to need. If you're dealing with a leak, a burst pipe, or a flooded basement anywhere in Draper, call Home Pride Restoration and Cleaning now and we'll get a plan moving the same day.
+Water that's been sitting under flooring or behind a baseboard for even a day starts creating conditions mold can use, so the sooner we get equipment running, the less demolition you're likely to need. If you're dealing with a leak, a burst pipe, or a flooded basement anywhere in Draper, call Home Pride Restoration now and we'll get a plan moving the same day.

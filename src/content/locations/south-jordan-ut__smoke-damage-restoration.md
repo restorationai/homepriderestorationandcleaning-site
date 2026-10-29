@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in South Jordan, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Smoke Damage Restoration in South Jordan, UT | Home Pride Restoration"
 h1: "24/7 Emergency Smoke Damage Restoration in South Jordan"
 meta_description: "24/7 emergency smoke damage restoration in South Jordan, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "smoke damage restoration south jordan"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Smoke damage emergency in South Jordan? We answer 24/7.** Call now and our crew heads out to stop smoke and soot damage from spreading.
 
-South Jordan's rapid residential expansion along the Bangerter Highway corridor has produced thousands of newer homes with open floor plans and high-efficiency HVAC systems, and those same systems are remarkably efficient at distributing smoke particles through every room within minutes of a fire. Whether the source is a kitchen fire in a Daybreak townhome, a garage blaze in the South Jordan Parkway neighborhoods, or wildfire smoke infiltrating through fresh-air intakes during a bad inversion season, the residue left behind is chemically active, corrosive, and won't wait for a convenient appointment. Home Pride Restoration and Cleaning has been responding to smoke damage calls across the Salt Lake Valley since 1997, and our IICRC-certified technicians understand what South Jordan's specific housing stock demands.
+South Jordan's rapid residential expansion along the Bangerter Highway corridor has produced thousands of newer homes with open floor plans and high-efficiency HVAC systems, and those same systems are remarkably efficient at distributing smoke particles through every room within minutes of a fire. Whether the source is a kitchen fire in a Daybreak townhome, a garage blaze in the South Jordan Parkway neighborhoods, or wildfire smoke infiltrating through fresh-air intakes during a bad inversion season, the residue left behind is chemically active, corrosive, and won't wait for a convenient appointment. Home Pride Restoration has been responding to smoke damage calls across the Salt Lake Valley since 1997, and our IICRC-certified technicians understand what South Jordan's specific housing stock demands.
 
 ## Why South Jordan Homes Are Particularly Vulnerable to Smoke Damage
 
@@ -59,4 +59,4 @@ Most homeowner policies in Utah cover sudden and accidental fire and smoke damag
 
 South Jordan's newer homes frequently use recirculating range hoods rather than externally vented hoods, a common builder choice in tightly sealed energy-efficient construction. In a kitchen fire, this means smoke that would have been partially exhausted outside in an older home instead cycles back through the hood's charcoal filter and into the living space. We check range hood type and filter condition on every kitchen fire call because it changes both the contamination map and the scope of duct cleaning required. It's a detail that matters in this zip code more than almost anywhere else in the valley.
 
-If your South Jordan home or rental property has smoke damage from any source, kitchen fire, garage fire, or wildfire smoke infiltration, call Home Pride Restoration and Cleaning at (801) 995-2437. The longer smoke residue sits in porous materials, the deeper it bonds, and the more expensive full restoration becomes. We're close, and we know what South Jordan's homes actually look like on the inside.
+If your South Jordan home or rental property has smoke damage from any source, kitchen fire, garage fire, or wildfire smoke infiltration, call Home Pride Restoration at (801) 995-2437. The longer smoke residue sits in porous materials, the deeper it bonds, and the more expensive full restoration becomes. We're close, and we know what South Jordan's homes actually look like on the inside.

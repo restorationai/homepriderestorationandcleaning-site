@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in South Jordan, UT | Home Pride Restoration and Cleaning"
+title: "Mold Remediation in South Jordan, UT | Home Pride Restoration"
 h1: "Mold Remediation in South Jordan"
 meta_description: "24/7 mold remediation in South Jordan, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold remediation south jordan"
@@ -34,7 +34,7 @@ Every job starts with a moisture mapping inspection before a single piece of dry
 
 Demolition is limited to what's actually contaminated. We remove and bag affected materials following EPA guidelines, then apply an EPA-registered antimicrobial to framing and concrete surfaces. Clearance air testing, conducted by an independent industrial hygienist, not by us, confirms spore counts are within normal outdoor background levels before we close walls. That independence matters: you get an unbiased result, not a contractor grading their own work.
 
-Home Pride Restoration and Cleaning has been IICRC Certified and operating since 1997, and we handle the remediation and reconstruction work so you're not coordinating two separate contractors.
+Home Pride Restoration has been IICRC Certified and operating since 1997, and we handle the remediation and reconstruction work so you're not coordinating two separate contractors.
 
 ## Response Time to South Jordan
 

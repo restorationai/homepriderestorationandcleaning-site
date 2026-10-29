@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Lindon, UT | Home Pride Restoration and Cleaning"
+title: "Restoration Services in Lindon, UT | Home Pride Restoration"
 h1: "Restoration Services in Lindon"
 meta_description: "Serving Lindon, UT with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (801) 995-2437."
 primary_keyword: "restoration services lindon"
@@ -19,7 +19,7 @@ state: "UT"
 primary: false
 rendered: true
 ---
-Home Pride Restoration and Cleaning handles water damage, fire and smoke damage, mold remediation, biohazard cleanup, storm damage, and the reconstruction that follows for homeowners and property managers throughout Lindon, Utah. We work directly with insurance carriers to document the loss and get repairs moving, and our crews are IICRC-trained on the drying, cleaning, and rebuild standards that govern this kind of work.
+Home Pride Restoration handles water damage, fire and smoke damage, mold remediation, biohazard cleanup, storm damage, and the reconstruction that follows for homeowners and property managers throughout Lindon, Utah. We work directly with insurance carriers to document the loss and get repairs moving, and our crews are IICRC-trained on the drying, cleaning, and rebuild standards that govern this kind of work.
 
 ## Restoration emergencies common in Lindon
 
@@ -45,4 +45,4 @@ Much of Lindon's housing dates from the suburban growth that followed its earlie
 
 Soils vary across the city from rockier bench ground near the foothills to finer, moisture-retentive soil closer to the valley floor, which affects how quickly water drains away from a foundation after a leak or heavy runoff. Utah has adopted statewide building codes with local amendments, and structural repair or rebuild work in Lindon goes through the city's building department for permitting, with seismic detailing a standard consideration given the valley's position along the Wasatch Fault.
 
-If water, fire, smoke, or storm damage has hit your Lindon property, call Home Pride Restoration and Cleaning at (801) 995-2437. We're available 24/7 to start the assessment, get drying equipment or board-up in place, and begin the insurance paperwork so repairs can move forward without delay.
+If water, fire, smoke, or storm damage has hit your Lindon property, call Home Pride Restoration at (801) 995-2437. We're available 24/7 to start the assessment, get drying equipment or board-up in place, and begin the insurance paperwork so repairs can move forward without delay.

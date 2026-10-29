@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Park City, UT | Home Pride Restoration and Cleaning"
+title: "Mold Remediation in Park City, UT | Home Pride Restoration"
 h1: "Mold Remediation in Park City"
 meta_description: "24/7 mold remediation in Park City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold remediation park city"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Mold Remediation"
 rendered: true
 ---
-Park City's mountain climate creates a mold problem that most Utah homeowners don't see coming: heavy snowpack melts slowly into foundation walls and crawl spaces, and the town's dramatic freeze-thaw cycles force moisture into places it has no business being. When that moisture lingers inside a ski chalet in Deer Valley or a century-old Victorian near Old Town, mold colonies can establish themselves in as little as 48 to 72 hours, often behind walls that look perfectly dry from the outside. Home Pride Restoration and Cleaning has been handling mold remediation across the Wasatch Back since 1997, and we know how differently this mountain environment behaves compared to the valley floor.
+Park City's mountain climate creates a mold problem that most Utah homeowners don't see coming: heavy snowpack melts slowly into foundation walls and crawl spaces, and the town's dramatic freeze-thaw cycles force moisture into places it has no business being. When that moisture lingers inside a ski chalet in Deer Valley or a century-old Victorian near Old Town, mold colonies can establish themselves in as little as 48 to 72 hours, often behind walls that look perfectly dry from the outside. Home Pride Restoration has been handling mold remediation across the Wasatch Back since 1997, and we know how differently this mountain environment behaves compared to the valley floor.
 
 ## Why Park City Properties See Elevated Mold Risk
 
@@ -46,4 +46,4 @@ Mold claims in Park City frequently involve multiple parties: a homeowner's poli
 
 One pattern we've seen repeatedly in Old Town and the streets just off Park Avenue: homes built before 1920 often have original horsehair-plaster walls over wood lath, and that plaster absorbs and holds moisture very differently from modern drywall. It dries significantly more slowly, sometimes taking two to three times as long as standard 5/8-inch gypsum board, and it can test as "dry" on a surface pin meter while still harboring elevated moisture content deeper in the substrate. We use both pin and pinless meters in combination on older Park City homes to avoid declaring a structure dry before it actually is. Rushing that step is how mold comes back six months later.
 
-If you're seeing discoloration on walls or ceilings, smelling something musty in a basement or crawl space, or dealing with the aftermath of a burst pipe after a hard freeze, don't wait to see if it dries on its own. Mold in a Park City home moves fast when the conditions are right, and the window to stop it before it spreads into structural framing is short. Call Home Pride Restoration and Cleaning at (801) 995-2437, we'll assess the situation honestly and tell you exactly what needs to happen next.
+If you're seeing discoloration on walls or ceilings, smelling something musty in a basement or crawl space, or dealing with the aftermath of a burst pipe after a hard freeze, don't wait to see if it dries on its own. Mold in a Park City home moves fast when the conditions are right, and the window to stop it before it spreads into structural framing is short. Call Home Pride Restoration at (801) 995-2437, we'll assess the situation honestly and tell you exactly what needs to happen next.

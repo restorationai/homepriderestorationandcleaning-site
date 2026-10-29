@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Fabric Protection in Lehi, UT | Home Pride Restoration and Cleaning"
+title: "Fabric Protection in Lehi, UT | Home Pride Restoration"
 h1: "Fabric Protection in Lehi"
 meta_description: "24/7 fabric protection in Lehi, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fabric protection lehi"
@@ -38,7 +38,7 @@ After drying, we do a water-bead test on treated sections so you can see the pro
 
 ## Response Time and Coverage in Lehi
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, which puts our team roughly 10–15 minutes from most Lehi addresses via Redwood Road or Triumph Boulevard depending on traffic. The Traverse Mountain area at the top of the bench adds another 5–8 minutes during peak commute hours on Traverse Ridge Road, but we schedule fabric protection appointments, unlike emergency water or fire calls, so we confirm a window that works around your household routine.
+Home Pride Restoration operates out of Saratoga Springs, which puts our team roughly 10–15 minutes from most Lehi addresses via Redwood Road or Triumph Boulevard depending on traffic. The Traverse Mountain area at the top of the bench adds another 5–8 minutes during peak commute hours on Traverse Ridge Road, but we schedule fabric protection appointments, unlike emergency water or fire calls, so we confirm a window that works around your household routine.
 
 For homeowners in the newer developments near the Thanksgiving Point corridor, we can often combine a fabric protection appointment with other cleaning services on the same visit, reducing the number of service days you need to coordinate.
 

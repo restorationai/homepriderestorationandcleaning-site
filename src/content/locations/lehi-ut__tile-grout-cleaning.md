@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Tile & Grout Cleaning in Lehi, UT | Home Pride Restoration and Cleaning"
+title: "Tile & Grout Cleaning in Lehi, UT | Home Pride Restoration"
 h1: "Tile & Grout Cleaning in Lehi"
 meta_description: "24/7 tile & grout cleaning in Lehi, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "tile & grout cleaning lehi"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Tile & Grout Cleaning"
 rendered: true
 ---
-Lehi's rapid growth has brought tens of thousands of square feet of new tile into homes across the city, but that same construction boom means many floors were grouted quickly, with minimal sealing, and are now absorbing the fine red-orange dust that blows in off the west-side desert flats every spring and fall. Once that particulate works into porous grout, standard mopping pushes it deeper rather than lifting it out. Home Pride Restoration and Cleaning has been doing this work since 1997, and we've learned that Lehi tile needs a different approach than what works in older, more settled communities.
+Lehi's rapid growth has brought tens of thousands of square feet of new tile into homes across the city, but that same construction boom means many floors were grouted quickly, with minimal sealing, and are now absorbing the fine red-orange dust that blows in off the west-side desert flats every spring and fall. Once that particulate works into porous grout, standard mopping pushes it deeper rather than lifting it out. Home Pride Restoration has been doing this work since 1997, and we've learned that Lehi tile needs a different approach than what works in older, more settled communities.
 
 ## Why Lehi Properties See Tile & Grout Problems
 

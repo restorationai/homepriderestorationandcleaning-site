@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Heber City, UT | Home Pride Restoration and Cleaning"
+title: "Carpet Cleaning in Heber City, UT | Home Pride Restoration"
 h1: "Carpet Cleaning in Heber City"
 meta_description: "24/7 carpet cleaning in Heber City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "carpet cleaning heber city"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Heber City sits at roughly 5,600 feet in a high-desert valley where the Provo River corridor funnels cold air down from the Uinta foothills every winter, and that elevation-driven climate does a number on carpets. The freeze-thaw cycle kicks fine red-clay soil and road grit off boots and paws and deep into carpet fibers before you've had a chance to wipe your feet. By the time spring arrives, that embedded grit has been grinding away at fiber roots for months. Home Pride Restoration and Cleaning has been handling exactly this kind of high-altitude, high-traffic soil load since 1997, and our IICRC-certified technicians know what it takes to pull that compacted debris out without damaging the pile.
+Heber City sits at roughly 5,600 feet in a high-desert valley where the Provo River corridor funnels cold air down from the Uinta foothills every winter, and that elevation-driven climate does a number on carpets. The freeze-thaw cycle kicks fine red-clay soil and road grit off boots and paws and deep into carpet fibers before you've had a chance to wipe your feet. By the time spring arrives, that embedded grit has been grinding away at fiber roots for months. Home Pride Restoration has been handling exactly this kind of high-altitude, high-traffic soil load since 1997, and our IICRC-certified technicians know what it takes to pull that compacted debris out without damaging the pile.
 
 ## Why Heber City Carpets Take a Harder Hit Than Most
 
@@ -47,4 +47,4 @@ Heber City's commercial corridor along Main Street and the growing lodging and e
 
 Something worth knowing if you own a home near the Provo River corridor or in the older neighborhoods closer to downtown Heber City: many of these homes were built with slab-on-grade foundations or minimal crawl space clearance, which means subfloor ventilation is limited. After any carpet cleaning that involves significant moisture, or after a slow leak that's soaked the pad, drying times in those lower-level rooms can run 30–40% longer than you'd expect compared to a home with a full basement and active HVAC. We factor that into our drying plan and won't pack up equipment prematurely just to move on to the next job.
 
-When you're ready to get Heber City's high-altitude grit, seasonal stains, and recreational residue out of your carpet for good, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We'll give you a straight answer on what the job involves and an honest timeline, no upselling, no surprises.
+When you're ready to get Heber City's high-altitude grit, seasonal stains, and recreational residue out of your carpet for good, call Home Pride Restoration at **(801) 995-2437**. We'll give you a straight answer on what the job involves and an honest timeline, no upselling, no surprises.

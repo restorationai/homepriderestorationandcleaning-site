@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Cedar Hills, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Damage Restoration in Cedar Hills, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Damage Restoration in Cedar Hills"
 meta_description: "24/7 emergency water damage restoration in Cedar Hills, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "water damage restoration cedar hills"
@@ -42,4 +42,4 @@ A number of Cedar Hills neighborhoods fall under homeowners associations or plan
 
 Because so much of Cedar Hills sits on sloped, benched lots, walkout basements are the norm rather than the exception. That changes where we start moisture mapping: water entering at grade on the uphill side of a home often travels downhill through the foundation and shows up behind finished walls on the lowest level first, even when the actual leak is upstairs. We check the downhill foundation wall early in every Cedar Hills inspection, not just the room where water was first spotted, because that's usually where the damage is worse than it looks.
 
-If water is moving through your Cedar Hills home right now, every hour counts more than the last. Call Home Pride Restoration and Cleaning at (801) 995-2437 for water removal, extraction, and structural drying handled by a crew that knows how this terrain and this housing stock behave.
+If water is moving through your Cedar Hills home right now, every hour counts more than the last. Call Home Pride Restoration at (801) 995-2437 for water removal, extraction, and structural drying handled by a crew that knows how this terrain and this housing stock behave.

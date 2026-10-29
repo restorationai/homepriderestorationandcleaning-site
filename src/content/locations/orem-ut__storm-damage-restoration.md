@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Orem, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Storm Damage Restoration in Orem, UT | Home Pride Restoration"
 h1: "24/7 Emergency Storm Damage Restoration in Orem"
 meta_description: "24/7 emergency storm damage restoration in Orem, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "storm damage restoration orem"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Storm damage emergency in Orem? We answer 24/7.** Call now and our crew heads out to secure the property and stop further damage.
 
-Utah Lake's weather patterns don't read the same forecast twice. Orem sits at the foot of the Wasatch Range where cold canyon air funnels down from Provo Canyon and collides with warm valley thermals, producing the kind of fast-moving microbursts and hail events that can strip shingles, drop mature cottonwoods, and push water under doors before a homeowner has time to move furniture. When that happens, Home Pride Restoration and Cleaning, IICRC Certified and operating since 1997, can have a crew on your property from our Saratoga Springs headquarters in roughly 45 to 60 minutes via I-15 North to University Parkway.
+Utah Lake's weather patterns don't read the same forecast twice. Orem sits at the foot of the Wasatch Range where cold canyon air funnels down from Provo Canyon and collides with warm valley thermals, producing the kind of fast-moving microbursts and hail events that can strip shingles, drop mature cottonwoods, and push water under doors before a homeowner has time to move furniture. When that happens, Home Pride Restoration, IICRC Certified and operating since 1997, can have a crew on your property from our Saratoga Springs headquarters in roughly 45 to 60 minutes via I-15 North to University Parkway.
 
 ## Why Orem Properties See Distinctive Storm Damage Patterns
 
@@ -55,4 +55,4 @@ Most homeowner policies in Utah cover sudden and accidental storm damage, but th
 
 Orem's older neighborhoods near Center Street have a concentration of homes built with original clay-tile roofing, a material that handles UV and dry heat well but becomes brittle under freeze-thaw cycling and shatters under hail impact rather than bending like asphalt shingles. When a tile roof takes a hit, the breakage pattern is less obvious from the ground than missing asphalt tabs, which means homeowners sometimes don't know they have an entry point until water shows up on the ceiling two or three storms later. If your home has clay or concrete tile and it's taken any hail in the last season, a post-storm inspection is worth scheduling even if you don't see visible damage from the yard.
 
-If a storm has hit your Orem property, whether it's a tree through the roof, hail damage across the back half of the house, or water in the basement from a drainage backup, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll give you a straight assessment, start stabilizing the property the same day, and handle the insurance paperwork so you're not doing that part alone.
+If a storm has hit your Orem property, whether it's a tree through the roof, hail damage across the back half of the house, or water in the basement from a drainage backup, call Home Pride Restoration at (801) 995-2437. We'll give you a straight assessment, start stabilizing the property the same day, and handle the insurance paperwork so you're not doing that part alone.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Riverton, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Smoke Damage Restoration in Riverton, UT | Home Pride Restoration"
 h1: "24/7 Emergency Smoke Damage Restoration in Riverton"
 meta_description: "24/7 emergency smoke damage restoration in Riverton, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "smoke damage restoration riverton"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Smoke Damage Restoration"
 rendered: true
 ---
-Riverton sits at the foot of the Wasatch Front where dry canyon winds funnel down from the mountains and the valley's low humidity means smoke particles don't just drift, they penetrate. After a house fire here, soot embeds into drywall, insulation, and HVAC ductwork faster than in more humid climates, and the acrid smell of char can linger for months if the cleanup isn't handled correctly from the first hour. Home Pride Restoration and Cleaning has been responding to fire and smoke emergencies across the Salt Lake Valley since 1997, and our IICRC-certified technicians understand exactly what Riverton homes hold onto after a fire.
+Riverton sits at the foot of the Wasatch Front where dry canyon winds funnel down from the mountains and the valley's low humidity means smoke particles don't just drift, they penetrate. After a house fire here, soot embeds into drywall, insulation, and HVAC ductwork faster than in more humid climates, and the acrid smell of char can linger for months if the cleanup isn't handled correctly from the first hour. Home Pride Restoration has been responding to fire and smoke emergencies across the Salt Lake Valley since 1997, and our IICRC-certified technicians understand exactly what Riverton homes hold onto after a fire.
 
 ## Why Riverton Homes Are Particularly Vulnerable to Smoke Damage
 
@@ -53,4 +53,4 @@ Most standard homeowner's policies in Utah cover smoke and fire damage restorati
 
 One pattern our crews have noticed repeatedly in Riverton's newer subdivisions, particularly in homes built between 2000 and 2012 with synthetic stucco (EIFS) exteriors, is that smoke from garage fires migrates into wall cavities through unsealed penetrations around electrical conduit and plumbing chases. The stucco face looks undamaged, but the cavity behind it can hold odor-causing residue for years. If your fire started in or near the garage, we specifically probe those wall assemblies rather than assuming the exterior is a barrier. It's a detail that gets missed on quick walkthroughs and one that explains why some Riverton homeowners still smell smoke six months after a "completed" restoration.
 
-If smoke has moved through your home, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We'll walk you through what we're seeing in real time, give you an honest scope of what needs to happen, and get your Riverton home back to livable, without the smell, the residue, or the worry that something was left behind.
+If smoke has moved through your home, call Home Pride Restoration at **(801) 995-2437**. We'll walk you through what we're seeing in real time, give you an honest scope of what needs to happen, and get your Riverton home back to livable, without the smell, the residue, or the worry that something was left behind.

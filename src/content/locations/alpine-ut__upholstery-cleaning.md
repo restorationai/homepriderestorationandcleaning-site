@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Alpine, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in Alpine, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in Alpine"
 meta_description: "24/7 upholstery cleaning in Alpine, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning alpine"
@@ -38,4 +38,4 @@ One advantage of Alpine's dry air: cleaned upholstery dries faster here than it 
 
 A detail that catches a lot of Alpine homeowners off guard: fine granite and mountain dust from wind off the foothills settles into upholstery fibers in a way that regular vacuuming doesn't fully lift, especially on textured or chenille fabrics. We've found that a pre-clean dry extraction pass, before any water or steam touches the fabric, pulls out significantly more of that embedded grit than going straight to wet cleaning. Skipping that step on heavily textured fabric can mean the dust just gets pushed deeper instead of removed.
 
-Home Pride Restoration and Cleaning has been cleaning Utah County homes since 1997, and we bring the same equipment and IICRC-trained crews to Alpine that we use on water and fire restoration jobs, just calibrated for fabric and leather instead of flooring and drywall. If your sofa, sectional, or leather furniture needs a real deep clean rather than a surface once-over, call (801) 995-2437 to schedule a visit in Alpine.
+Home Pride Restoration has been cleaning Utah County homes since 1997, and we bring the same equipment and IICRC-trained crews to Alpine that we use on water and fire restoration jobs, just calibrated for fabric and leather instead of flooring and drywall. If your sofa, sectional, or leather furniture needs a real deep clean rather than a surface once-over, call (801) 995-2437 to schedule a visit in Alpine.

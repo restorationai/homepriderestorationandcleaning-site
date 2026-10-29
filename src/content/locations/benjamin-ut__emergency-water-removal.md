@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Benjamin, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Removal & Cleanup in Benjamin, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Removal & Cleanup in Benjamin"
 meta_description: "24/7 emergency water removal & cleanup in Benjamin, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "emergency water removal & cleanup benjamin"
@@ -42,4 +42,4 @@ Most homeowners insurance covers sudden water damage like a burst pipe or applia
 
 A lot of Benjamin properties still rely on agricultural-grade sump pumps installed decades ago for seasonal irrigation overflow, not for emergency structural water removal, so when a pipe bursts inside the house those pumps often can't keep up with the volume or get tripped by debris in the line. We check the existing pump setup on every call before assuming it's doing its job.
 
-If water is spreading across your floor right now, don't wait on it to recede on its own. Home Pride Restoration and Cleaning handles emergency water removal and cleanup throughout Benjamin, from finished basements to outbuildings on larger rural lots, with IICRC-trained technicians and equipment built for both. Call (801) 995-2437 and we'll get the extraction process started.
+If water is spreading across your floor right now, don't wait on it to recede on its own. Home Pride Restoration handles emergency water removal and cleanup throughout Benjamin, from finished basements to outbuildings on larger rural lots, with IICRC-trained technicians and equipment built for both. Call (801) 995-2437 and we'll get the extraction process started.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Fabric Protection in Provo, UT | Home Pride Restoration and Cleaning"
+title: "Fabric Protection in Provo, UT | Home Pride Restoration"
 h1: "Fabric Protection in Provo"
 meta_description: "24/7 fabric protection in Provo, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fabric protection provo"
@@ -38,7 +38,7 @@ For upholstered pieces, sofas, sectionals, dining chairs, ottomans, the process 
 
 ## Response Time and Service Area Around Provo
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, roughly 20 miles northwest of Provo via US-89 south through American Fork and Orem. Under normal traffic conditions, a technician can reach most Provo addresses in 30 to 45 minutes. The stretch of I-15 through Orem can slow in afternoon commute windows, so for same-day appointments in the southern end of the city we typically route through University Parkway or Center Street depending on time of day.
+Home Pride Restoration operates out of Saratoga Springs, roughly 20 miles northwest of Provo via US-89 south through American Fork and Orem. Under normal traffic conditions, a technician can reach most Provo addresses in 30 to 45 minutes. The stretch of I-15 through Orem can slow in afternoon commute windows, so for same-day appointments in the southern end of the city we typically route through University Parkway or Center Street depending on time of day.
 
 For scheduling purposes, we serve all of Provo's residential and commercial addresses, including properties near the BYU campus, the neighborhoods along North University Avenue, and homes in the foothills east of the city.
 
@@ -46,4 +46,4 @@ For scheduling purposes, we serve all of Provo's residential and commercial addr
 
 Property managers and landlords in Provo's dense rental corridors, particularly in the blocks surrounding BYU in the 84604 ZIP code, have found that scheduling fabric protection reapplication at tenant turnover, rather than waiting for visible soiling, dramatically reduces carpet replacement frequency. The combination of high occupancy turnover, students cooking and hosting in carpeted living rooms, and Provo's dust-heavy air means that a carpet treated at move-in and again at the 18-month mark can realistically last through two or three additional tenancy cycles before requiring replacement. For a landlord managing multiple units, that math adds up quickly. We work with several property management companies in the area and can schedule multi-unit treatment days to minimize downtime between tenancies.
 
-If you're a Provo homeowner or property manager looking to extend the life of your carpets, rugs, and upholstered furniture before the next season of high-UV summers and dusty fall winds, call Home Pride Restoration and Cleaning at (801) 995-2437. We've been doing this work since 1997, we're IICRC Certified, and we'll give you a straight answer about what your surfaces need, and what they don't.
+If you're a Provo homeowner or property manager looking to extend the life of your carpets, rugs, and upholstered furniture before the next season of high-UV summers and dusty fall winds, call Home Pride Restoration at (801) 995-2437. We've been doing this work since 1997, we're IICRC Certified, and we'll give you a straight answer about what your surfaces need, and what they don't.

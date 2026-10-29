@@ -90,10 +90,10 @@ The best time to protect your Park City property is before the temperatures drop
 
 If you want to go deeper on ice-related damage specific to the Park City area, our post on [ice dam removal in Park City](/blog/ice-dam-removal-park-city/) covers the roof-leak side of the same problem.
 
-When a freeze does happen, the window for limiting damage is short. Home Pride Restoration and Cleaning responds 24/7 to frozen and burst pipe losses across the Park City area. Request a water damage assessment at (801) 995-2437.
+When a freeze does happen, the window for limiting damage is short. Home Pride Restoration responds 24/7 to frozen and burst pipe losses across the Park City area. Request a water damage assessment at (801) 995-2437.
 
 ---
 
-**About Home Pride Restoration and Cleaning**
+**About Home Pride Restoration**
 
-Home Pride Restoration and Cleaning LLC is an IICRC-certified restoration company serving Park City, Saratoga Springs, and communities throughout Utah County and Summit County since 1997. Their crews handle water damage, frozen and burst pipe restoration, mold remediation, and fire and smoke losses for residential and commercial properties. Available 24/7 for emergency response.
+Home Pride Restoration LLC is an IICRC-certified restoration company serving Park City, Saratoga Springs, and communities throughout Utah County and Summit County since 1997. Their crews handle water damage, frozen and burst pipe restoration, mold remediation, and fire and smoke losses for residential and commercial properties. Available 24/7 for emergency response.

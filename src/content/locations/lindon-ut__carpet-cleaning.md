@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Lindon, UT | Home Pride Restoration and Cleaning"
+title: "Carpet Cleaning in Lindon, UT | Home Pride Restoration"
 h1: "Carpet Cleaning in Lindon"
 meta_description: "24/7 carpet cleaning in Lindon, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "carpet cleaning lindon"
@@ -42,4 +42,4 @@ Offices, gyms, and retail spaces along Lindon's commercial corridors deal with a
 
 One thing that catches new homeowners off guard: carpet in west-facing rooms of Lindon homes, the ones that get strong afternoon sun off the Wasatch foothills, tends to show mineral and soil staining faster because UV exposure breaks down the fiber's soil-resistant coating ahead of schedule. If you've got a sunroom or west-facing living room with carpet that looks worse than the rest of the house despite similar traffic, that's usually why, and it's worth flagging to us so we can treat that room with a protective fiber finish during the cleaning instead of just running the standard pass.
 
-If your carpet in Lindon is holding onto hard-water film, winter salt residue, or just years of foot traffic, a thorough hot water extraction can reset it without replacing it. Home Pride Restoration and Cleaning has been doing this work since 1997, we're IICRC certified, and we'll walk the space with you before we start so you know exactly what's getting treated and why. Call (801) 995-2437 to get a cleaning scheduled.
+If your carpet in Lindon is holding onto hard-water film, winter salt residue, or just years of foot traffic, a thorough hot water extraction can reset it without replacing it. Home Pride Restoration has been doing this work since 1997, we're IICRC certified, and we'll walk the space with you before we start so you know exactly what's getting treated and why. Call (801) 995-2437 to get a cleaning scheduled.

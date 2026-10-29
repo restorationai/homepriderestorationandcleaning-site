@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Tile & Grout Cleaning in Herriman, UT | Home Pride Restoration and Cleaning"
+title: "Tile & Grout Cleaning in Herriman, UT | Home Pride Restoration"
 h1: "Tile & Grout Cleaning in Herriman"
 meta_description: "24/7 tile & grout cleaning in Herriman, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "tile & grout cleaning herriman"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Tile & Grout Cleaning"
 rendered: true
 ---
-Herriman's rapid growth over the past decade has filled the 84096 ZIP code with thousands of new homes, and nearly all of them have tile. Porcelain entryways, large-format bathroom floors, kitchen backsplashes stretching to the ceiling: it's the standard finish package in this part of Salt Lake County. What the builders don't advertise is how quickly Utah's hard, mineral-rich water turns that bright grout gray, or how the fine red-clay dust that blows in off the Oquirrh Mountain foothills works its way into grout lines and bonds there like mortar. Home Pride Restoration and Cleaning has been cleaning and restoring tile in this region since 1997, and the combination of alkaline tap water and windborne desert sediment is something we deal with on virtually every Herriman job.
+Herriman's rapid growth over the past decade has filled the 84096 ZIP code with thousands of new homes, and nearly all of them have tile. Porcelain entryways, large-format bathroom floors, kitchen backsplashes stretching to the ceiling: it's the standard finish package in this part of Salt Lake County. What the builders don't advertise is how quickly Utah's hard, mineral-rich water turns that bright grout gray, or how the fine red-clay dust that blows in off the Oquirrh Mountain foothills works its way into grout lines and bonds there like mortar. Home Pride Restoration has been cleaning and restoring tile in this region since 1997, and the combination of alkaline tap water and windborne desert sediment is something we deal with on virtually every Herriman job.
 
 ## Why Herriman Tile and Grout Deteriorates Faster Than You'd Expect
 
@@ -44,4 +44,4 @@ Our headquarters sits in Saratoga Springs, roughly 15 to 20 minutes from most He
 
 If you've lived in Herriman for more than one summer, you know the reddish-tan film that settles on everything after a wind event. That material is a fine silica and iron-oxide sediment eroded from the Oquirrh range to the west. It's abrasive at the microscopic level, and when it's tracked indoors and ground into unglazed or lightly glazed tile, it acts like fine sandpaper over time. We see this most often on covered-porch tile, mudroom floors, and any entryway facing west. When we encounter it, we adjust our pre-scrub protocol to include a dry microfiber pass before any wet chemistry, applying liquid to that silica layer without removing it first just pushes the abrasive particles across the tile face. It's a small step that prevents surface scratching, and it's something we learned doing jobs in this specific corridor of the valley.
 
-If your tile floors or shower walls have lost the clean, bright look they had when your home was new, the fix is usually a single professional cleaning and seal appointment, not a remodel. Call Home Pride Restoration and Cleaning at (801) 995-2437 to schedule a free assessment for your Herriman home. We'll tell you honestly what the grout can recover to, and what to expect after we're done.
+If your tile floors or shower walls have lost the clean, bright look they had when your home was new, the fix is usually a single professional cleaning and seal appointment, not a remodel. Call Home Pride Restoration at (801) 995-2437 to schedule a free assessment for your Herriman home. We'll tell you honestly what the grout can recover to, and what to expect after we're done.

@@ -94,4 +94,4 @@ A certified water damage technician will use moisture meters and thermal imaging
 
 ---
 
-If you're in the Saratoga Springs area and the situation is beyond what you can manage on your own, Home Pride Restoration and Cleaning can have a technician on-site quickly to assess the damage, document it for your insurance claim, and start the drying process before the 24-hour mold window closes. Call **(801) 995-2437** any time, water damage doesn't keep business hours.
+If you're in the Saratoga Springs area and the situation is beyond what you can manage on your own, Home Pride Restoration can have a technician on-site quickly to assess the damage, document it for your insurance claim, and start the drying process before the 24-hour mold window closes. Call **(801) 995-2437** any time, water damage doesn't keep business hours.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Park City, UT | Home Pride Restoration and Cleaning"
+title: "Carpet Cleaning in Park City, UT | Home Pride Restoration"
 h1: "Carpet Cleaning in Park City"
 meta_description: "24/7 carpet cleaning in Park City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "carpet cleaning park city"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-At 7,000 feet, Park City's air is famously dry, but that doesn't mean your carpets are. Between ski season mud tracked in from the slopes, the fine red-clay dust that blows through Summit County during shoulder seasons, and the humidity swings that come with rapid elevation changes, carpets in Park City homes and lodges take a beating that flatland cleaning schedules simply don't account for. Home Pride Restoration and Cleaning has been handling exactly this kind of wear since 1997, and we've learned that carpet care here requires a different calibration than anywhere else in Utah.
+At 7,000 feet, Park City's air is famously dry, but that doesn't mean your carpets are. Between ski season mud tracked in from the slopes, the fine red-clay dust that blows through Summit County during shoulder seasons, and the humidity swings that come with rapid elevation changes, carpets in Park City homes and lodges take a beating that flatland cleaning schedules simply don't account for. Home Pride Restoration has been handling exactly this kind of wear since 1997, and we've learned that carpet care here requires a different calibration than anywhere else in Utah.
 
 ## Why Park City Carpets Accumulate Damage Faster
 

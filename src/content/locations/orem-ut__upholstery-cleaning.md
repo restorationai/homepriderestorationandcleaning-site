@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Orem, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in Orem, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in Orem"
 meta_description: "24/7 upholstery cleaning in Orem, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning orem"
@@ -38,7 +38,7 @@ Leather upholstery cleaning follows a separate protocol: pH-balanced leather cle
 
 ## Getting to Orem from Saratoga Springs
 
-Home Pride Restoration and Cleaning has operated out of Saratoga Springs since 1997, which puts us roughly 15–20 minutes from most Orem addresses under normal traffic conditions via I-15 or SR-68. For neighborhoods on Orem's east side, closer to the mouth of Provo Canyon, the run up University Parkway typically adds only a few minutes. We schedule upholstery cleaning appointments rather than treating it as an emergency dispatch, so we'll confirm a two-hour arrival window when you book. Same-day appointments are often available on weekdays.
+Home Pride Restoration has operated out of Saratoga Springs since 1997, which puts us roughly 15–20 minutes from most Orem addresses under normal traffic conditions via I-15 or SR-68. For neighborhoods on Orem's east side, closer to the mouth of Provo Canyon, the run up University Parkway typically adds only a few minutes. We schedule upholstery cleaning appointments rather than treating it as an emergency dispatch, so we'll confirm a two-hour arrival window when you book. Same-day appointments are often available on weekdays.
 
 ## Equipment and Methods We Use
 

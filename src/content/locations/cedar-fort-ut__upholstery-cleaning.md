@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Cedar Fort, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in Cedar Fort, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in Cedar Fort"
 meta_description: "24/7 upholstery cleaning in Cedar Fort, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning cedar fort"
@@ -38,4 +38,4 @@ We're based in Saratoga Springs, and Cedar Fort properties are part of our regul
 
 One thing that catches new Cedar Fort clients off guard: a couch that looks dry to the touch an hour after cleaning can still be damp deep in the cushion core, because the same arid air that dries out fabric over time also makes the surface feel dry faster than the interior actually is. We recommend keeping pets and kids off freshly cleaned upholstery for a full cushion cycle, not just until the top feels dry, especially with denser foam cushions common in sectional sofas.
 
-If your sofa, sectional, or leather furniture is holding onto more dust, pet dander, or wood-stove soot than a quick vacuum can handle, Home Pride Restoration and Cleaning has been working on upholstery and interiors throughout Utah County since 1997. Call (801) 995-2437 to get a Cedar Fort cleaning scheduled, and we'll talk through your fabric type, your access road, and what it'll take to get your furniture back to normal.
+If your sofa, sectional, or leather furniture is holding onto more dust, pet dander, or wood-stove soot than a quick vacuum can handle, Home Pride Restoration has been working on upholstery and interiors throughout Utah County since 1997. Call (801) 995-2437 to get a Cedar Fort cleaning scheduled, and we'll talk through your fabric type, your access road, and what it'll take to get your furniture back to normal.

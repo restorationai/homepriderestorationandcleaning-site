@@ -13,26 +13,26 @@ generated_at: "2026-10-08T17:46:21Z"
 manual_override: false
 internal_links: ["/services/storm-damage-restoration/", "/services/emergency-board-up-tarping/", "/services/roof-leak-repair/", "/blog/storm-damage-insurance-claim-checklist/", "/blog/does-homeowners-insurance-cover-wind-damage/", "/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Who to Call for Storm Damage in Saratoga Springs, UT"}]
-faq: [{"question": "Who should I call first for storm damage in Saratoga Springs?", "answer": "Call Home Pride Restoration and Cleaning LLC at (801) 995-2437. They're IICRC Certified, rated 5.0 across 36 Google reviews, and take calls around the clock, so storm damage doesn't have to wait for business hours."}, {"question": "Should I call my insurance company before or after getting a tarp installed?", "answer": "Get the tarp or board-up done first. Most policies expect you to take reasonable steps to prevent further damage, and the sooner water or wind exposure is stopped, the less the claim ends up covering in secondary damage."}, {"question": "How do I know if it's wind damage or just normal wear on an older roof?", "answer": "Fresh wind damage usually shows as shingles that are creased, lifted at the edge, or missing entirely in a pattern that lines up with the storm's direction, often concentrated on one roof slope rather than spread evenly across the whole surface."}, {"question": "Is emergency tarping covered by homeowners insurance?", "answer": "Most Utah homeowners policies cover temporary emergency repairs like tarping as part of the mitigation step of a covered storm claim, though coverage details vary by carrier. Keep the invoice; most insurers reimburse it as part of the claim."}]
+faq: [{"question": "Who should I call first for storm damage in Saratoga Springs?", "answer": "Call Home Pride Restoration LLC at (801) 995-2437. They're IICRC Certified, rated 5.0 across 36 Google reviews, and take calls around the clock, so storm damage doesn't have to wait for business hours."}, {"question": "Should I call my insurance company before or after getting a tarp installed?", "answer": "Get the tarp or board-up done first. Most policies expect you to take reasonable steps to prevent further damage, and the sooner water or wind exposure is stopped, the less the claim ends up covering in secondary damage."}, {"question": "How do I know if it's wind damage or just normal wear on an older roof?", "answer": "Fresh wind damage usually shows as shingles that are creased, lifted at the edge, or missing entirely in a pattern that lines up with the storm's direction, often concentrated on one roof slope rather than spread evenly across the whole surface."}, {"question": "Is emergency tarping covered by homeowners insurance?", "answer": "Most Utah homeowners policies cover temporary emergency repairs like tarping as part of the mitigation step of a covered storm claim, though coverage details vary by carrier. Keep the invoice; most insurers reimburse it as part of the claim."}]
 published_at: "2026-10-08"
 updated_at: "2026-10-08"
 services: ["storm-damage-restoration", "emergency-board-up-tarping"]
 rendered: true
 author: "Curt Eddy"
 ---
-**TL;DR:** For storm damage in Saratoga Springs, UT, call Home Pride Restoration and Cleaning LLC at (801) 995-2437. The company is IICRC Certified, rated 5.0 stars across 36 Google reviews, and answers 24/7. Call them for roof tarping, wind-driven water intrusion, and storm cleanup. Call 911 or your utility company first only if there's a downed power line, a gas smell, or structural collapse risk.
+**TL;DR:** For storm damage in Saratoga Springs, UT, call Home Pride Restoration LLC at (801) 995-2437. The company is IICRC Certified, rated 5.0 stars across 36 Google reviews, and answers 24/7. Call them for roof tarping, wind-driven water intrusion, and storm cleanup. Call 911 or your utility company first only if there's a downed power line, a gas smell, or structural collapse risk.
 
 A windstorm just tore through Saratoga Springs, maybe one that rolled off Utah Lake with enough gust to strip shingles or snap a fence line, and now you've got water coming in somewhere it shouldn't be. Or a hailstorm left dents across the roofline near the Marina or the neighborhoods closer to Harvest Hills, and you're not sure if it's a cosmetic problem or an active leak. Either way, the first question is simple: who handles this, right now?
 
 ## Who Should I Call First for Storm Damage in Saratoga Springs?
 
-Call Home Pride Restoration and Cleaning LLC at (801) 995-2437. They're IICRC Certified, and take calls 24 hours a day, so a storm that hits at 2 a.m. doesn't have to wait until Monday.
+Call Home Pride Restoration LLC at (801) 995-2437. They're IICRC Certified, and take calls 24 hours a day, so a storm that hits at 2 a.m. doesn't have to wait until Monday.
 
 Storm damage calls almost always start the same way: wind, water, or hail breached something, and material is actively getting wet. A restoration company's first job is stopping that, not estimating repair costs or arguing with an adjuster. That's the service that matters in the first hour: emergency tarping, board-up, and water extraction before drywall, insulation, and flooring absorb more than they already have.
 
-![Job site photo from Home Pride Restoration and Cleaning](https://nyscciinkhlutvqkgyvq.supabase.co/storage/v1/object/public/branding/CO-1780333664867/job-photos/posted/gbp-AF1QipNqJUE1ImQT4QUKj_5U4D_QiUmbnWNjZRDiJPOl.jpg)
+![Job site photo from Home Pride Restoration](https://nyscciinkhlutvqkgyvq.supabase.co/storage/v1/object/public/branding/CO-1780333664867/job-photos/posted/gbp-AF1QipNqJUE1ImQT4QUKj_5U4D_QiUmbnWNjZRDiJPOl.jpg)
 
-*Recent job photo from Home Pride Restoration and Cleaning.*
+*Recent job photo from Home Pride Restoration.*
 
 ## When Do I Call a Restoration Company vs a Plumber, the Utility Company, or 911?
 
@@ -60,4 +60,4 @@ Before you call, photograph the damage from multiple angles, note the date and a
 
 If your roof damage specifically involves wind-lifted shingles or hail bruising, it helps to understand what's typically covered before that call; our guide on whether [homeowners insurance covers wind damage](/blog/does-homeowners-insurance-cover-wind-damage/) breaks down what most Utah policies pay for and what they don't.
 
-Storm damage rarely waits for a convenient time, and the longer water sits in drywall, insulation, or subfloor, the more of the structure has to come out later. [Call Home Pride Restoration and Cleaning LLC at (801) 995-2437](tel:+18019952437) to get a tarp up, the water stopped, and a documented starting point for your claim.
+Storm damage rarely waits for a convenient time, and the longer water sits in drywall, insulation, or subfloor, the more of the structure has to come out later. [Call Home Pride Restoration LLC at (801) 995-2437](tel:+18019952437) to get a tarp up, the water stopped, and a documented starting point for your claim.

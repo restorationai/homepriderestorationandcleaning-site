@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Park City, UT | Home Pride Restoration and Cleaning"
+title: "Crawl Space Encapsulation in Park City, UT | Home Pride Restoration"
 h1: "Crawl Space Encapsulation in Park City"
 meta_description: "24/7 crawl space encapsulation in Park City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "crawl space encapsulation park city"
@@ -38,7 +38,7 @@ The core installation involves a heavy-duty polyethylene liner, typically 20-mil
 
 Because Park City sits in a high-altitude climate with cold winters, we also evaluate whether a conditioned crawl space, one connected to the home's HVAC system, makes more sense than a sealed-but-vented approach. In many cases here, conditioning the space is the better long-term answer because it prevents the extreme temperature swings that cause condensation on cold surfaces. We walk homeowners through both options with honest numbers before any work begins.
 
-Home Pride Restoration and Cleaning has been doing this work since 1997, and our IICRC-certified technicians carry the moisture-measurement tools to document conditions before, during, and after, useful both for your peace of mind and for any insurance or HOA documentation you may need.
+Home Pride Restoration has been doing this work since 1997, and our IICRC-certified technicians carry the moisture-measurement tools to document conditions before, during, and after, useful both for your peace of mind and for any insurance or HOA documentation you may need.
 
 ## Response Time from Saratoga Springs to Park City
 
@@ -52,4 +52,4 @@ One thing that catches Park City homeowners off guard: encapsulation work schedu
 
 If your crawl space shows any signs of mold alongside the moisture, we handle remediation in-house before encapsulation, no subcontracting, no scheduling gap between trades.
 
-Ready to stop letting Park City's climate dictate what happens under your home? Call Home Pride Restoration and Cleaning at (801) 995-2437 to schedule a crawl space inspection. We'll give you a straight assessment of what's down there and a clear plan to fix it.
+Ready to stop letting Park City's climate dictate what happens under your home? Call Home Pride Restoration at (801) 995-2437 to schedule a crawl space inspection. We'll give you a straight assessment of what's down there and a clear plan to fix it.

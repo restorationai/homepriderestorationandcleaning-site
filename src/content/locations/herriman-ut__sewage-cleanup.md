@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Herriman, UT | Home Pride Restoration and Cleaning"
+title: "Emergency Sewage Cleanup and Sanitization in Herriman, UT | Home Pride Restoration"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Herriman"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Herriman, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "sewage cleanup and sanitization herriman"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Sewage backup in Herriman? We answer 24/7.** Call now and our crew heads out to contain the contamination and start the cleanup.
 
-Herriman sits on the west bench of the Wasatch Front, where the clay-heavy soils that make up much of the 84096 ZIP code expand and shift with the freeze-thaw cycles that hit this elevation hard every winter. That ground movement stresses sewer laterals and septic lines in ways that flatland communities rarely see, and when a line cracks or a mainline backs up, raw sewage doesn't just pool in a basement. It soaks into subfloor assemblies, wicks into framing, and starts generating dangerous pathogens within hours. Home Pride Restoration and Cleaning has been responding to exactly these situations since 1997, and the crew that shows up knows what Herriman's soil and housing stock actually do to a plumbing system.
+Herriman sits on the west bench of the Wasatch Front, where the clay-heavy soils that make up much of the 84096 ZIP code expand and shift with the freeze-thaw cycles that hit this elevation hard every winter. That ground movement stresses sewer laterals and septic lines in ways that flatland communities rarely see, and when a line cracks or a mainline backs up, raw sewage doesn't just pool in a basement. It soaks into subfloor assemblies, wicks into framing, and starts generating dangerous pathogens within hours. Home Pride Restoration has been responding to exactly these situations since 1997, and the crew that shows up knows what Herriman's soil and housing stock actually do to a plumbing system.
 
 ## Why Herriman Properties Experience Sewer and Septic Backups
 

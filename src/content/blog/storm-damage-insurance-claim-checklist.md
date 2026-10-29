@@ -96,4 +96,4 @@ Once the adjuster has visited, you'll receive an estimate. Review it carefully b
 
 ---
 
-If your home took storm damage and you're still sorting out what happened, or you want a professional damage assessment before your adjuster arrives, Home Pride Restoration and Cleaning handles storm damage restoration across Saratoga Springs and the surrounding Utah County area. Call **(801) 995-2437** and a technician can typically be on-site the same day to document the damage and start protecting your property.
+If your home took storm damage and you're still sorting out what happened, or you want a professional damage assessment before your adjuster arrives, Home Pride Restoration handles storm damage restoration across Saratoga Springs and the surrounding Utah County area. Call **(801) 995-2437** and a technician can typically be on-site the same day to document the damage and start protecting your property.

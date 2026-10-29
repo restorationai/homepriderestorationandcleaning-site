@@ -82,10 +82,10 @@ Second, document everything with photos before touching a surface. If you have h
 
 Third, call for a professional assessment if you have any doubt about the source or extent of the soot. A written scope from an IICRC-certified restoration company gives you a clear picture of what needs to happen, and that documentation is useful whether you decide to DIY part of the work or hand the whole job to professionals.
 
-Home Pride Restoration and Cleaning serves Saratoga Springs, Lehi, Eagle Mountain, American Fork, and the broader Utah County area. If you've had a fire and want a professional assessment of the soot damage before deciding how to proceed, request a smoke damage evaluation at (801) 995-2437.
+Home Pride Restoration serves Saratoga Springs, Lehi, Eagle Mountain, American Fork, and the broader Utah County area. If you've had a fire and want a professional assessment of the soot damage before deciding how to proceed, request a smoke damage evaluation at (801) 995-2437.
 
 ---
 
-**About Home Pride Restoration and Cleaning**
+**About Home Pride Restoration**
 
-Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Saratoga Springs, Utah and surrounding Utah County communities since 1997. Their crews handle fire and smoke damage, water damage, mold remediation, and odor removal across the region, available around the clock. Home Pride brings professional-grade equipment and restoration chemistry to jobs that go well beyond what household cleaning products can address.
+Home Pride Restoration is an IICRC-certified restoration company serving Saratoga Springs, Utah and surrounding Utah County communities since 1997. Their crews handle fire and smoke damage, water damage, mold remediation, and odor removal across the region, available around the clock. Home Pride brings professional-grade equipment and restoration chemistry to jobs that go well beyond what household cleaning products can address.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Orem, UT | Home Pride Restoration and Cleaning"
+title: "Odor Removal and Deodorization in Orem, UT | Home Pride Restoration"
 h1: "Odor Removal and Deodorization in Orem"
 meta_description: "24/7 odor removal and deodorization in Orem, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "odor removal and deodorization orem"
@@ -43,7 +43,7 @@ All work is performed by IICRC Certified technicians.
 
 ## Response Time from Saratoga Springs to Orem
 
-Home Pride Restoration and Cleaning is headquartered in Saratoga Springs, roughly 15 miles southwest of Orem via UT-73 and I-15. Under normal traffic conditions, a technician can be on-site in Orem within 45 to 60 minutes of your call. Addresses near the UVU campus or along University Parkway are typically the fastest to reach; properties at the northern edge of Orem near the Lindon border may add 10 minutes depending on I-15 interchange traffic. For severe smoke odor emergencies, a fire that just happened, a death scene, or active sewage exposure, call (801) 995-2437 directly so we can dispatch immediately rather than routing through a general queue.
+Home Pride Restoration is headquartered in Saratoga Springs, roughly 15 miles southwest of Orem via UT-73 and I-15. Under normal traffic conditions, a technician can be on-site in Orem within 45 to 60 minutes of your call. Addresses near the UVU campus or along University Parkway are typically the fastest to reach; properties at the northern edge of Orem near the Lindon border may add 10 minutes depending on I-15 interchange traffic. For severe smoke odor emergencies, a fire that just happened, a death scene, or active sewage exposure, call (801) 995-2437 directly so we can dispatch immediately rather than routing through a general queue.
 
 ## Equipment and Methods We Use for Odor Removal
 

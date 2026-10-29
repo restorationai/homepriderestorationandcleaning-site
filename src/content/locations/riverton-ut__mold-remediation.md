@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Riverton, UT | Home Pride Restoration and Cleaning"
+title: "Mold Remediation in Riverton, UT | Home Pride Restoration"
 h1: "Mold Remediation in Riverton"
 meta_description: "24/7 mold remediation in Riverton, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold remediation riverton"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Mold Remediation"
 rendered: true
 ---
-Riverton sits at the foot of the Wasatch Front where snowmelt, clay-heavy soils, and a tight building season create conditions that push moisture into homes in ways that catch even careful homeowners off guard. When that moisture lingers, behind a finished basement wall, under a slab, or inside the framing of a newer subdivision home, mold can begin colonizing porous materials in as little as 24 to 48 hours. Home Pride Restoration and Cleaning has been handling mold remediation across the Salt Lake Valley since 1997, and the pattern we see in Riverton is specific enough that a generic approach simply doesn't cut it.
+Riverton sits at the foot of the Wasatch Front where snowmelt, clay-heavy soils, and a tight building season create conditions that push moisture into homes in ways that catch even careful homeowners off guard. When that moisture lingers, behind a finished basement wall, under a slab, or inside the framing of a newer subdivision home, mold can begin colonizing porous materials in as little as 24 to 48 hours. Home Pride Restoration has been handling mold remediation across the Salt Lake Valley since 1997, and the pattern we see in Riverton is specific enough that a generic approach simply doesn't cut it.
 
 ## Why Riverton Properties See Mold Problems
 
@@ -50,4 +50,4 @@ If your home is in an HOA-governed community, check your CC&Rs before work begin
 
 One pattern we've noticed in Riverton's newer subdivisions, particularly homes built between 2005 and 2015, is that spray foam insulation was sometimes applied directly to the interior of foundation walls without a drainage plane behind it. When those walls take on any moisture (from grading issues, window well overflow, or irrigation overspray), the foam traps it against the concrete with no path to dry. By the time a homeowner smells something musty, mold has often been growing behind the foam for months. If your home falls in this construction window and you're noticing a persistent earthy smell in the basement, that's worth investigating before it becomes a larger remediation project.
 
-If you're dealing with visible mold, a musty odor you can't source, or recent water damage in a Riverton home, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll assess the situation honestly, explain what we find, and give you a clear scope before any work begins.
+If you're dealing with visible mold, a musty odor you can't source, or recent water damage in a Riverton home, call Home Pride Restoration at (801) 995-2437. We'll assess the situation honestly, explain what we find, and give you a clear scope before any work begins.

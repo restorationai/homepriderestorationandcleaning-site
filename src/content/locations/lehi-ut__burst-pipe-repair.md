@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Burst Pipe Cleanup and Repair in Lehi, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Burst Pipe Cleanup and Repair in Lehi, UT | Home Pride Restoration"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Lehi"
 meta_description: "24/7 emergency burst pipe cleanup and repair in Lehi, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "burst pipe cleanup and repair lehi"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Burst pipe or leak in Lehi? We answer 24/7.** Call now and our crew heads out to stop the water and start the cleanup.
 
-January nights in Lehi can drop well below freezing, and when a cold snap hits fast, the kind that rolls off the Wasatch Front and settles into the valley floor overnight, pipes that seemed fine at dinner can be split open by morning. Whether it's a supply line behind a bathroom wall in a newer Traverse Mountain subdivision or a copper main in one of the older ranch-style homes closer to State Street, a burst pipe doesn't wait for business hours. Home Pride Restoration and Cleaning has been responding to exactly these calls since 1997, and our crew can be on-site in Lehi well before the water finds its way to your subfloor.
+January nights in Lehi can drop well below freezing, and when a cold snap hits fast, the kind that rolls off the Wasatch Front and settles into the valley floor overnight, pipes that seemed fine at dinner can be split open by morning. Whether it's a supply line behind a bathroom wall in a newer Traverse Mountain subdivision or a copper main in one of the older ranch-style homes closer to State Street, a burst pipe doesn't wait for business hours. Home Pride Restoration has been responding to exactly these calls since 1997, and our crew can be on-site in Lehi well before the water finds its way to your subfloor.
 
 ## Why Lehi Properties See Burst Pipe Issues
 

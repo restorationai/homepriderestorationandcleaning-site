@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "24/7 Emergency Board-Up and Tarping in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Board-Up and Tarping in Saratoga Springs | Home Pride Restoration"
 h1: "24/7 Emergency Board-Up and Tarping in Saratoga Springs"
 meta_description: "24/7 emergency board-up and tarping in Saratoga Springs and surrounding areas. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "emergency board-up and tarping saratoga springs"
@@ -12,7 +12,7 @@ generated_at: "2026-10-01T17:16:54.258987+00:00"
 manual_override: false
 internal_links: ["/services/", "/contact/", "/service-areas/alpine-ut/", "/service-areas/american-fork-ut/", "/service-areas/benjamin-ut/", "/service-areas/bluffdale-ut/", "/service-areas/cedar-fort-ut/", "/service-areas/cedar-hills-ut/", "/service-areas/draper-ut/", "/service-areas/eagle-mountain-ut/", "/service-areas/fairfield-ut/", "/service-areas/heber-city-ut/", "/service-areas/herriman-ut/", "/service-areas/highland-ut/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "Emergency Board-Up and Tarping"}]
-faq: [{"question": "Does homeowners insurance cover emergency board-up and tarping?", "answer": "Yes, most homeowners policies cover board-up and tarping as a mitigation cost tied to the underlying covered peril, like wind, hail, or fire damage. Home Pride Restoration and Cleaning works with all insurance carriers and provides the photo documentation and scope adjusters need to process the claim."}, {"question": "How long does a tarp or board-up typically last before it needs replacing?", "answer": "A properly anchored tarp, run past the damaged edge and secured to solid roof deck, generally holds for several weeks to a couple of months depending on wind exposure and snow load. It's meant as a temporary measure until permanent roofing or window repairs are scheduled, not a long-term fix."}, {"question": "What materials are used for emergency roof tarping versus board-up?", "answer": "Roof tarping uses heavy-gauge reinforced poly sheeting anchored with furring strips rather than just nails through the material, since nail-only installs tear loose in wind. Board-up uses exterior-grade plywood fastened directly into structural framing around broken windows or doors, not just the trim."}, {"question": "Can board-up and tarping happen before my insurance adjuster has inspected the damage?", "answer": "Yes, and it generally should. Insurers expect homeowners to mitigate further damage right away, and pre- and post-work photos document the original condition so the adjuster can still assess the loss accurately once they arrive."}, {"question": "Will boarding up broken windows after a fire make the smoke smell worse?", "answer": "Boarding up won't trap smoke odor any more than leaving an opening exposed, and it actually protects fire-damaged interiors from additional moisture that can bond soot deeper into porous materials. Odor and soot removal are handled as a separate step once the structure is secured and safe to work in."}]
+faq: [{"question": "Does homeowners insurance cover emergency board-up and tarping?", "answer": "Yes, most homeowners policies cover board-up and tarping as a mitigation cost tied to the underlying covered peril, like wind, hail, or fire damage. Home Pride Restoration works with all insurance carriers and provides the photo documentation and scope adjusters need to process the claim."}, {"question": "How long does a tarp or board-up typically last before it needs replacing?", "answer": "A properly anchored tarp, run past the damaged edge and secured to solid roof deck, generally holds for several weeks to a couple of months depending on wind exposure and snow load. It's meant as a temporary measure until permanent roofing or window repairs are scheduled, not a long-term fix."}, {"question": "What materials are used for emergency roof tarping versus board-up?", "answer": "Roof tarping uses heavy-gauge reinforced poly sheeting anchored with furring strips rather than just nails through the material, since nail-only installs tear loose in wind. Board-up uses exterior-grade plywood fastened directly into structural framing around broken windows or doors, not just the trim."}, {"question": "Can board-up and tarping happen before my insurance adjuster has inspected the damage?", "answer": "Yes, and it generally should. Insurers expect homeowners to mitigate further damage right away, and pre- and post-work photos document the original condition so the adjuster can still assess the loss accurately once they arrive."}, {"question": "Will boarding up broken windows after a fire make the smoke smell worse?", "answer": "Boarding up won't trap smoke odor any more than leaving an opening exposed, and it actually protects fire-damaged interiors from additional moisture that can bond soot deeper into porous materials. Odor and soot removal are handled as a separate step once the structure is secured and safe to work in."}]
 service_slug: "emergency-board-up-tarping"
 service_display: "Emergency Board-Up and Tarping"
 rendered: true
@@ -43,7 +43,7 @@ On the board-up side, the mistake is fastening into trim or stucco instead of fr
 
 ## What does Emergency Board-Up and Tarping cost?
 
-Costs depend on the size of the opening, roof pitch, and how much material and labor the job requires. These are typical industry ranges, not a quote, and every loss gets a written scope from Home Pride Restoration and Cleaning before any work begins.
+Costs depend on the size of the opening, roof pitch, and how much material and labor the job requires. These are typical industry ranges, not a quote, and every loss gets a written scope from Home Pride Restoration before any work begins.
 
 | Scenario | Typical range |
 |---|---|
@@ -61,6 +61,6 @@ Saratoga Springs sits in a wind corridor off Utah Lake, and spring and early sum
 
 ## Service area
 
-Home Pride Restoration and Cleaning responds to emergency board-up and tarping calls throughout Saratoga Springs and nearby communities including Lehi, Eagle Mountain, American Fork, and Pleasant Grove.
+Home Pride Restoration responds to emergency board-up and tarping calls throughout Saratoga Springs and nearby communities including Lehi, Eagle Mountain, American Fork, and Pleasant Grove.
 
 If wind, fire, or a break-in has left your roof or windows exposed, don't wait on the weather. Call (801) 995-2437 to get your property boarded and tarped before the next storm or the next cold front moves in.

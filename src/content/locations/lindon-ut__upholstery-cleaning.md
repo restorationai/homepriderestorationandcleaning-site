@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Lindon, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in Lindon, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in Lindon"
 meta_description: "24/7 upholstery cleaning in Lindon, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning lindon"
@@ -38,4 +38,4 @@ Most calls we get for couch cleaning and sofa cleaning in Lindon fall into two c
 
 One thing that catches people off guard: furniture stored in a finished basement in Lindon, which is common given how many homes here have daylight or walkout basements, can hold onto humidity swings differently than main-floor furniture. Basement upholstery often needs a slightly longer air-dry window after cleaning even though the rest of the house feels bone-dry, because basement-level airflow doesn't move moisture out as quickly. We factor that into scheduling so a cleaned sectional isn't sealed back up against a wall before it's actually finished drying.
 
-If your furniture in Lindon is holding onto smoke residue from a winter inversion, orchard dust from a dry summer, or just years of everyday use, Home Pride Restoration and Cleaning can assess the fabric or leather and walk you through what a proper clean will realistically restore. Call (801) 995-2437 to schedule upholstery cleaning built around how Utah Valley's climate actually treats furniture, not a generic checklist.
+If your furniture in Lindon is holding onto smoke residue from a winter inversion, orchard dust from a dry summer, or just years of everyday use, Home Pride Restoration can assess the fabric or leather and walk you through what a proper clean will realistically restore. Call (801) 995-2437 to schedule upholstery cleaning built around how Utah Valley's climate actually treats furniture, not a generic checklist.

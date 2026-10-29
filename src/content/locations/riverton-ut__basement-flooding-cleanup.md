@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Basement Flooding Cleanup in Riverton, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Basement Flooding Cleanup in Riverton, UT | Home Pride Restoration"
 h1: "24/7 Emergency Basement Flooding Cleanup in Riverton"
 meta_description: "24/7 emergency basement flooding cleanup in Riverton, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "basement flooding cleanup riverton"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Basement Flooding Cleanup"
 rendered: true
 ---
-Riverton sits in a bowl-shaped section of the Salt Lake Valley where the water table can rise faster than homeowners expect, especially during the spring snowmelt that drains off the Oquirrh Mountains to the west. When that groundwater pressure combines with a cracked foundation wall or an overwhelmed sump pump, a finished basement can go from damp to ankle-deep in hours. Home Pride Restoration and Cleaning has been responding to exactly these emergencies since 1997, and our crews know what Riverton's soil and seasonal patterns do to lower levels of a home.
+Riverton sits in a bowl-shaped section of the Salt Lake Valley where the water table can rise faster than homeowners expect, especially during the spring snowmelt that drains off the Oquirrh Mountains to the west. When that groundwater pressure combines with a cracked foundation wall or an overwhelmed sump pump, a finished basement can go from damp to ankle-deep in hours. Home Pride Restoration has been responding to exactly these emergencies since 1997, and our crews know what Riverton's soil and seasonal patterns do to lower levels of a home.
 
 ## Why Riverton Basements Flood
 

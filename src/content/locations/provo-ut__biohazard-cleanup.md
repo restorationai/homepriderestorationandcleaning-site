@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Biohazard Cleanup in Provo, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Biohazard Cleanup in Provo, UT | Home Pride Restoration"
 h1: "24/7 Emergency Biohazard Cleanup in Provo"
 meta_description: "24/7 emergency biohazard cleanup in Provo, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "biohazard cleanup provo"
@@ -21,7 +21,7 @@ service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
 rendered: true
 ---
-**Biohazard cleanup emergency in Provo?** Call now for emergency service. A death, violent injury, or unattended decomposition in a home near downtown Provo or in a BYU-area rental doesn't wait for business hours, and neither should the cleanup. Home Pride Restoration and Cleaning handles these calls with the same discretion and urgency whether the property is a century-old bungalow or a modern Utah County rental unit.
+**Biohazard cleanup emergency in Provo?** Call now for emergency service. A death, violent injury, or unattended decomposition in a home near downtown Provo or in a BYU-area rental doesn't wait for business hours, and neither should the cleanup. Home Pride Restoration handles these calls with the same discretion and urgency whether the property is a century-old bungalow or a modern Utah County rental unit.
 
 ## Why Provo Sees a Distinct Mix of Biohazard Calls
 
@@ -39,4 +39,4 @@ Most biohazard cleanup in Provo rental properties involves a three-way conversat
 
 A detail that's easy to miss from outside Provo: a notable share of local rental housing sits in finished basements, a common configuration in homes built or expanded during Provo's mid-century growth. Basement units have limited ventilation and lower airflow turnover than above-grade rooms, which means odor and airborne concerns linger longer after a biohazard incident. We factor that into our containment and air-handling setup rather than treating a basement job the same way we'd treat a ground-floor living room.
 
-If you're dealing with a biohazard situation in Provo right now, you don't need to manage it alone or figure out the right words for what happened. Home Pride Restoration and Cleaning, IICRC certified, has been doing this work since 1997. Call (801) 995-2437 and we'll walk you through what happens next.
+If you're dealing with a biohazard situation in Provo right now, you don't need to manage it alone or figure out the right words for what happened. Home Pride Restoration, IICRC certified, has been doing this work since 1997. Call (801) 995-2437 and we'll walk you through what happens next.

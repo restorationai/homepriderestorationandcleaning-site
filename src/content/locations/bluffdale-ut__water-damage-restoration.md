@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Bluffdale, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Damage Restoration in Bluffdale, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Damage Restoration in Bluffdale"
 meta_description: "24/7 emergency water damage restoration in Bluffdale, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "water damage restoration bluffdale"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Water Damage Restoration"
 rendered: true
 ---
-**Water damage spreading fast in your Bluffdale home?** Call Home Pride Restoration and Cleaning now for emergency service. Bluffdale's mix of newer subdivisions built over former pasture and horse property, combined with heavy clay soil near the Jordan River corridor, means water from a burst pipe or failed sump pump often has nowhere to go but into your foundation and subfloor. Our IICRC-certified crews handle extraction, drying, and structural repair from first call to final walkthrough.
+**Water damage spreading fast in your Bluffdale home?** Call Home Pride Restoration now for emergency service. Bluffdale's mix of newer subdivisions built over former pasture and horse property, combined with heavy clay soil near the Jordan River corridor, means water from a burst pipe or failed sump pump often has nowhere to go but into your foundation and subfloor. Our IICRC-certified crews handle extraction, drying, and structural repair from first call to final walkthrough.
 
 ## Why Bluffdale Properties See Water Damage Issues
 
@@ -42,4 +42,4 @@ We're based in Saratoga Springs, a short run up Redwood Road or via I-15 to Bluf
 
 Bluffdale homeowners on well water or secondary irrigation hookups should know that a pressurized irrigation leak doesn't always show up on a culinary water bill, so it can run for days before anyone connects the dots between a soggy yard and a wet basement wall. If your basement is finished and backs up to a slope or sits downhill from a neighbor's irrigation line, it's worth checking foundation walls after any stretch of heavy watering, not just after a storm.
 
-Water damage in Bluffdale rarely waits for a convenient time, and neither should the response. Call Home Pride Restoration and Cleaning for water extraction, structural drying, and full water damage restoration built around how this city's soil, irrigation systems, and basement construction actually behave.
+Water damage in Bluffdale rarely waits for a convenient time, and neither should the response. Call Home Pride Restoration for water extraction, structural drying, and full water damage restoration built around how this city's soil, irrigation systems, and basement construction actually behave.

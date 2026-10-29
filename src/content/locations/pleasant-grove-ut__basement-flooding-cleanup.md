@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Basement Flooding Cleanup in Pleasant Grove, UT | Home Pride Restoration and Cleaning"
+title: "Emergency Basement Flooding Cleanup in Pleasant Grove, UT | Home Pride Restoration"
 h1: "24/7 Emergency Basement Flooding Cleanup in Pleasant Grove"
 meta_description: "24/7 emergency basement flooding cleanup in Pleasant Grove, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "basement flooding cleanup pleasant grove"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Flooded basement in Pleasant Grove? We answer 24/7.** Call now and our crew heads out to pump out the water and start drying.
 
-Pleasant Grove sits at the base of the Wasatch Front where spring snowmelt off Mount Timpanogos combines with heavy clay soils to push hydrostatic pressure against basement walls every March and April. When that pressure wins, or when a water heater line lets go at 2 a.m., you can be standing in four inches of water before sunrise. Home Pride Restoration and Cleaning has been responding to exactly these situations across Utah County since 1997, and our IICRC-certified crews know what a flooded basement in this city actually looks like.
+Pleasant Grove sits at the base of the Wasatch Front where spring snowmelt off Mount Timpanogos combines with heavy clay soils to push hydrostatic pressure against basement walls every March and April. When that pressure wins, or when a water heater line lets go at 2 a.m., you can be standing in four inches of water before sunrise. Home Pride Restoration has been responding to exactly these situations across Utah County since 1997, and our IICRC-certified crews know what a flooded basement in this city actually looks like.
 
 ## Why Pleasant Grove Basements Flood More Than You'd Expect
 
@@ -57,4 +57,4 @@ Most standard homeowner policies cover sudden and accidental water damage, a bur
 
 Pleasant Grove's hard water, among the highest mineral content in Utah County, leaves calcium and iron deposits inside sump discharge lines and drain tile systems over time. We've seen lines that are effectively 30% blocked even in homes where the pump itself is only a few years old. When we're on-site for a flooded basement cleanup, we flag this to homeowners because a clean extraction job won't prevent the next flood if the discharge path is already compromised. It's not something we remediate, but connecting you with a plumber who can scope the line before winter is part of leaving the job done right.
 
-If your basement is wet right now, don't wait to see if it dries on its own, mold colonization on drywall and wood framing can begin within 24–48 hours in a closed basement environment. Call Home Pride Restoration and Cleaning at (801) 995-2437. We serve all of Pleasant Grove, including the ZIP code 84062, and we'll have a crew moving toward you within the hour.
+If your basement is wet right now, don't wait to see if it dries on its own, mold colonization on drywall and wood framing can begin within 24–48 hours in a closed basement environment. Call Home Pride Restoration at (801) 995-2437. We serve all of Pleasant Grove, including the ZIP code 84062, and we'll have a crew moving toward you within the hour.

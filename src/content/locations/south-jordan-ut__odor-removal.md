@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in South Jordan, UT | Home Pride Restoration and Cleaning"
+title: "Odor Removal and Deodorization in South Jordan, UT | Home Pride Restoration"
 h1: "Odor Removal and Deodorization in South Jordan"
 meta_description: "24/7 odor removal and deodorization in South Jordan, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "odor removal and deodorization south jordan"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-South Jordan's rapid growth along the Bangerter Highway corridor has brought thousands of newer homes, but even construction completed in the last decade can trap odors in ways that surprise homeowners. The valley's high-desert climate creates wide temperature swings that drive smoke, pet, and moisture-based odors deep into porous materials during cold months, then bake them in during summer. When a smell lingers after a fire, flood, or long-term pet occupancy, surface cleaning rarely reaches the source. Home Pride Restoration and Cleaning has handled odor cases across the Salt Lake Valley since 1997, and the conditions in South Jordan's 84095 and 84009 ZIP codes come with their own specific wrinkles.
+South Jordan's rapid growth along the Bangerter Highway corridor has brought thousands of newer homes, but even construction completed in the last decade can trap odors in ways that surprise homeowners. The valley's high-desert climate creates wide temperature swings that drive smoke, pet, and moisture-based odors deep into porous materials during cold months, then bake them in during summer. When a smell lingers after a fire, flood, or long-term pet occupancy, surface cleaning rarely reaches the source. Home Pride Restoration has handled odor cases across the Salt Lake Valley since 1997, and the conditions in South Jordan's 84095 and 84009 ZIP codes come with their own specific wrinkles.
 
 ## Why South Jordan Properties Hold Odors Longer
 
@@ -53,4 +53,4 @@ The equipment we deploy isn't available at rental counters. Industrial hydroxyl 
 
 Daybreak, South Jordan's large master-planned community, includes a mix of attached townhomes and single-family homes governed by the Daybreak Community Association. HOA rules in Daybreak can restrict exterior equipment placement and require that work vehicles be moved within a set window, something that affects how we stage ozone generators and exhaust equipment during treatment. We've worked in Daybreak enough to know to confirm staging logistics before arrival, which keeps jobs on schedule and avoids HOA friction for homeowners who are already dealing with enough.
 
-If a persistent smell in your South Jordan home isn't responding to cleaning, it almost certainly needs professional-grade deodorization equipment and a process matched to your specific building materials and odor source. Call Home Pride Restoration and Cleaning at (801) 995-2437, we'll assess the situation honestly and tell you exactly what it will take to clear it.
+If a persistent smell in your South Jordan home isn't responding to cleaning, it almost certainly needs professional-grade deodorization equipment and a process matched to your specific building materials and odor source. Call Home Pride Restoration at (801) 995-2437, we'll assess the situation honestly and tell you exactly what it will take to clear it.

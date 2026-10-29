@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Lehi, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Damage Restoration in Lehi, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Damage Restoration in Lehi"
 meta_description: "24/7 emergency water damage restoration in Lehi, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "water damage restoration lehi"
@@ -39,7 +39,7 @@ Structural drying follows a calculated protocol. We set industrial-grade desicca
 
 ## Response Time to Lehi
 
-Home Pride Restoration and Cleaning is headquartered in Saratoga Springs, which puts Lehi roughly 10 to 15 minutes away via Redwood Road or Triumph Boulevard depending on traffic. For addresses near the Traverse Mountain area or the north end of town along SR-92, drive time from dispatch is typically under 20 minutes. Calls in the 84043 ZIP code are treated as active emergencies, a technician is on-site within 60 minutes of your call in most cases, with equipment staged and extraction beginning the same visit. We've been doing this since 1997, and fast arrival isn't a slogan; it's the only way to keep a water loss from becoming a mold claim.
+Home Pride Restoration is headquartered in Saratoga Springs, which puts Lehi roughly 10 to 15 minutes away via Redwood Road or Triumph Boulevard depending on traffic. For addresses near the Traverse Mountain area or the north end of town along SR-92, drive time from dispatch is typically under 20 minutes. Calls in the 84043 ZIP code are treated as active emergencies, a technician is on-site within 60 minutes of your call in most cases, with equipment staged and extraction beginning the same visit. We've been doing this since 1997, and fast arrival isn't a slogan; it's the only way to keep a water loss from becoming a mold claim.
 
 ## Lehi Insurance Coordination
 

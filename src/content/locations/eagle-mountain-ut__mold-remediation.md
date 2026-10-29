@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Eagle Mountain, UT | Home Pride Restoration and Cleaning"
+title: "Mold Remediation in Eagle Mountain, UT | Home Pride Restoration"
 h1: "Mold Remediation in Eagle Mountain"
 meta_description: "24/7 mold remediation in Eagle Mountain, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold remediation eagle mountain"
@@ -36,7 +36,7 @@ Once the moisture source is identified and controlled, the affected area is isol
 
 ## Response Time to Eagle Mountain
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, which puts Eagle Mountain well within our primary service radius. From our HQ, technicians can typically reach the Ranches area and neighborhoods along Pony Express Parkway in under 30 minutes under normal traffic conditions. The SR-73 corridor is our primary route, and we keep it clear in our dispatch planning. For calls that come in during peak commute hours, when traffic backs up near the Redwood Road interchange, we account for that in our ETA so you're not waiting with an unrealistic expectation. Most Eagle Mountain calls see a technician on-site within 45 to 60 minutes of your first call to (801) 995-2437.
+Home Pride Restoration operates out of Saratoga Springs, which puts Eagle Mountain well within our primary service radius. From our HQ, technicians can typically reach the Ranches area and neighborhoods along Pony Express Parkway in under 30 minutes under normal traffic conditions. The SR-73 corridor is our primary route, and we keep it clear in our dispatch planning. For calls that come in during peak commute hours, when traffic backs up near the Redwood Road interchange, we account for that in our ETA so you're not waiting with an unrealistic expectation. Most Eagle Mountain calls see a technician on-site within 45 to 60 minutes of your first call to (801) 995-2437.
 
 ## Eagle Mountain Insurance Coordination
 

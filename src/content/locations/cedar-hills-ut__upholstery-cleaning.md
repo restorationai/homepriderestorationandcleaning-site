@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Cedar Hills, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in Cedar Hills, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in Cedar Hills"
 meta_description: "24/7 upholstery cleaning in Cedar Hills, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning cedar hills"
@@ -38,4 +38,4 @@ Our crews work out of Saratoga Springs, a short drive from Cedar Hills along the
 
 One thing we watch for specifically in Cedar Hills: homes near the golf course tend to have more airborne fertilizer and grass residue drifting onto patio furniture cushions and tracked-in fabric pieces near sliding doors, especially during spring and fall maintenance windows on the course. It's fine residue you often can't see until you run a wet extraction pass and the water comes back visibly green-tinted. We flag it during the pretest so homeowners know it's a normal seasonal issue, not a sign the fabric is failing.
 
-If your sofa, sectional, or leather furniture is showing the wear that comes with Cedar Hills' sun exposure and dry air, a professional cleaning can extend its life by years rather than months. Home Pride Restoration and Cleaning has been serving Utah County families since 1997, and our IICRC-certified technicians bring the same steam cleaning and fabric-specific care to a single sofa that we bring to full-scale restoration jobs. Call (801) 995-2437 to get on the schedule for upholstery cleaning in Cedar Hills.
+If your sofa, sectional, or leather furniture is showing the wear that comes with Cedar Hills' sun exposure and dry air, a professional cleaning can extend its life by years rather than months. Home Pride Restoration has been serving Utah County families since 1997, and our IICRC-certified technicians bring the same steam cleaning and fabric-specific care to a single sofa that we bring to full-scale restoration jobs. Call (801) 995-2437 to get on the schedule for upholstery cleaning in Cedar Hills.

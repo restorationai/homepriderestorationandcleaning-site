@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Appliance Leak Cleanup in Pleasant Grove, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Appliance Leak Cleanup in Pleasant Grove, UT | Home Pride Restoration"
 h1: "24/7 Emergency Appliance Leak Cleanup in Pleasant Grove"
 meta_description: "24/7 emergency appliance leak cleanup in Pleasant Grove, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "appliance leak cleanup pleasant grove"
@@ -57,4 +57,4 @@ If your HOA covers any portion of the structure, common in Pleasant Grove's newe
 
 One thing we see consistently in Pleasant Grove's homes built between roughly 1988 and 2002: the original builders used a lot of particle board underlayment beneath vinyl and laminate flooring, particularly in kitchens and laundry rooms. Unlike plywood, particle board swells dramatically when wet and essentially disintegrates, it cannot be dried in place and must be replaced. If your appliance leak happened in a home from that era, budget mentally for underlayment replacement even if the surface flooring looks salvageable. Catching this early, rather than after a failed drying attempt, saves both time and money.
 
-If you're dealing with standing water or a soaked floor in Pleasant Grove right now, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We've been handling water damage across the Wasatch Front since 1997, and we can have someone to your door today.
+If you're dealing with standing water or a soaked floor in Pleasant Grove right now, call Home Pride Restoration at **(801) 995-2437**. We've been handling water damage across the Wasatch Front since 1997, and we can have someone to your door today.

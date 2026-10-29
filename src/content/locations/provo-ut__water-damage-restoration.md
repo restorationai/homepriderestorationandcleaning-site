@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Provo, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Damage Restoration in Provo, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Damage Restoration in Provo"
 meta_description: "24/7 emergency water damage restoration in Provo, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "water damage restoration provo"
@@ -41,7 +41,7 @@ Anticrobial treatment of affected surfaces follows extraction, and any building 
 
 ## Response Time to Provo
 
-Home Pride Restoration and Cleaning is headquartered in Saratoga Springs, roughly 20 to 25 minutes from central Provo via US-89 south through American Fork, or via I-15 depending on time of day. For most addresses in Provo, including neighborhoods near the Provo City Center Temple and properties along University Avenue, you can expect a crew on-site within 45 to 60 minutes of your call. We answer 24 hours a day, every day of the year, because water damage doesn't schedule itself around business hours.
+Home Pride Restoration is headquartered in Saratoga Springs, roughly 20 to 25 minutes from central Provo via US-89 south through American Fork, or via I-15 depending on time of day. For most addresses in Provo, including neighborhoods near the Provo City Center Temple and properties along University Avenue, you can expect a crew on-site within 45 to 60 minutes of your call. We answer 24 hours a day, every day of the year, because water damage doesn't schedule itself around business hours.
 
 ## Provo Insurance Coordination
 
@@ -51,4 +51,4 @@ Most standard homeowners policies in Utah cover sudden and accidental water disc
 
 One thing we've learned working in Utah County over the years: homes near the Provo River corridor and lower-lying parts of the valley sometimes have crawl spaces that were never designed with drainage in mind. When those spaces flood, from a supply line failure or a high water table event, standard extraction equipment can't always reach the low points. We carry specialized crawl space extraction wands and vapor barrier materials specifically because this scenario comes up regularly in this part of the valley. If your crawl space has standing water, don't assume it will evaporate on its own; trapped moisture under a home is one of the fastest paths to structural wood decay and mold growth.
 
-If you're dealing with water damage in Provo right now, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll have a certified crew headed your direction quickly, with the equipment to stop the damage before it compounds into a much larger repair.
+If you're dealing with water damage in Provo right now, call Home Pride Restoration at (801) 995-2437. We'll have a certified crew headed your direction quickly, with the equipment to stop the damage before it compounds into a much larger repair.

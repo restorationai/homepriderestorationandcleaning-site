@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Provo, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Storm Damage Restoration in Provo, UT | Home Pride Restoration"
 h1: "24/7 Emergency Storm Damage Restoration in Provo"
 meta_description: "24/7 emergency storm damage restoration in Provo, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "storm damage restoration provo"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Storm damage emergency in Provo? We answer 24/7.** Call now and our crew heads out to secure the property and stop further damage.
 
-Provo sits in a bowl. The Wasatch Range funnels cold air down into Utah Valley with surprising force, and when late-spring thunderstorms collide with that terrain, the results can be violent, golf-ball hail, microbursts that snap mature cottonwoods, and flash flooding that overwhelms storm drains along Center Street faster than most homeowners expect. If a storm just tore through your property, Home Pride Restoration and Cleaning has crews ready to move from our Saratoga Springs headquarters within the hour.
+Provo sits in a bowl. The Wasatch Range funnels cold air down into Utah Valley with surprising force, and when late-spring thunderstorms collide with that terrain, the results can be violent, golf-ball hail, microbursts that snap mature cottonwoods, and flash flooding that overwhelms storm drains along Center Street faster than most homeowners expect. If a storm just tore through your property, Home Pride Restoration has crews ready to move from our Saratoga Springs headquarters within the hour.
 
 ## Why Provo Properties Take Storm Hits Differently
 
@@ -63,4 +63,4 @@ If your property falls under an HOA, common in newer developments on Provo's eas
 
 One pattern we see repeatedly in Provo: homes built in the 1960s and 1970s often have original aluminum-frame windows that were already at the end of their service life before the storm hit. After a hail event, those frames develop hairline deformations that aren't visible until the next freeze-thaw cycle causes them to leak. If your home is from that era and took any hail, ask us to check the window frames during the assessment, catching that now is significantly cheaper than dealing with water damage inside the wall next February.
 
-If your property took storm damage today, don't wait to see whether the damage "dries out on its own." Mold colonization in Utah's climate can begin within 24 to 48 hours of water intrusion, and structural wood that stays wet through a temperature swing is harder and more expensive to restore. Call Home Pride Restoration and Cleaning at (801) 995-2437, we're dispatching crews across Provo and Utah Valley now.
+If your property took storm damage today, don't wait to see whether the damage "dries out on its own." Mold colonization in Utah's climate can begin within 24 to 48 hours of water intrusion, and structural wood that stays wet through a temperature swing is harder and more expensive to restore. Call Home Pride Restoration at (801) 995-2437, we're dispatching crews across Provo and Utah Valley now.

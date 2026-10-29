@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Park City, UT | Home Pride Restoration and Cleaning"
+title: "Odor Removal and Deodorization in Park City, UT | Home Pride Restoration"
 h1: "Odor Removal and Deodorization in Park City"
 meta_description: "24/7 odor removal and deodorization in Park City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "odor removal and deodorization park city"
@@ -46,7 +46,7 @@ All work is performed by IICRC Certified technicians, and we document conditions
 
 ## Response Time from Saratoga Springs to Park City
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, roughly 45–55 minutes from Park City under normal conditions via I-80 East. During ski season, when traffic on SR-224 into the mountain resort corridor can stack up significantly, we route through Jeremy Ranch or use Parley's Canyon timing to minimize delays. For most Park City addresses, including Old Town and the Deer Valley corridor, expect an on-site arrival within 60–90 minutes of your call. If you're in a more remote area above the main resort base, let us know your address when you call (801) 995-2437 so we can give you an accurate ETA and dispatch accordingly.
+Home Pride Restoration operates out of Saratoga Springs, roughly 45–55 minutes from Park City under normal conditions via I-80 East. During ski season, when traffic on SR-224 into the mountain resort corridor can stack up significantly, we route through Jeremy Ranch or use Parley's Canyon timing to minimize delays. For most Park City addresses, including Old Town and the Deer Valley corridor, expect an on-site arrival within 60–90 minutes of your call. If you're in a more remote area above the main resort base, let us know your address when you call (801) 995-2437 so we can give you an accurate ETA and dispatch accordingly.
 
 ## Local Note: Wildfire Smoke and the Park City Airshed
 
@@ -54,4 +54,4 @@ Something that comes up repeatedly in Park City that's less common in the valley
 
 If you're managing a vacation rental property in the 84060 or 84098 ZIP codes, a post-wildfire-season duct cleaning and hydroxyl treatment between rental seasons can prevent a guest complaint that costs you far more than the service itself.
 
-Odors at altitude don't resolve themselves. Call Home Pride Restoration and Cleaning at (801) 995-2437, we've been handling restoration work in Utah since 1997, and we understand what it takes to clear a Park City home completely, not just temporarily.
+Odors at altitude don't resolve themselves. Call Home Pride Restoration at (801) 995-2437, we've been handling restoration work in Utah since 1997, and we understand what it takes to clear a Park City home completely, not just temporarily.

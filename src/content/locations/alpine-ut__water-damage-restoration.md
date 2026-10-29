@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Alpine, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Damage Restoration in Alpine, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Damage Restoration in Alpine"
 meta_description: "24/7 emergency water damage restoration in Alpine, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "water damage restoration alpine"
@@ -42,4 +42,4 @@ Many Alpine properties fall under architectural control committees or private HO
 
 One thing we watch closely in Alpine: well water staining and sediment show up in the drying process differently than municipal water losses, especially in homes still on private wells. If a supply line break involves well water, we flag it early, because the mineral content changes how fast certain flooring and subfloor materials actually read "dry" on our meters, and we don't want to pull equipment too soon based on a reading that looks fine but isn't telling the full story.
 
-If water is spreading through your Alpine home right now, stop the source if it's safe to do so and call Home Pride Restoration and Cleaning at (801) 995-2437. We'll walk you through what to do until our drying equipment is running and your water damage restoration is underway.
+If water is spreading through your Alpine home right now, stop the source if it's safe to do so and call Home Pride Restoration at (801) 995-2437. We'll walk you through what to do until our drying equipment is running and your water damage restoration is underway.

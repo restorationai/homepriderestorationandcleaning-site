@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Fairfield, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Damage Restoration in Fairfield, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Damage Restoration in Fairfield"
 meta_description: "24/7 emergency water damage restoration in Fairfield, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "water damage restoration fairfield"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Pleasant Grove, UT | Home Pride Restoration and Cleaning"
+title: "Crawl Space Encapsulation in Pleasant Grove, UT | Home Pride Restoration"
 h1: "Crawl Space Encapsulation in Pleasant Grove"
 meta_description: "24/7 crawl space encapsulation in Pleasant Grove, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "crawl space encapsulation pleasant grove"
@@ -38,7 +38,7 @@ Depending on the square footage and existing ventilation, we'll recommend either
 
 ## Response Time to Pleasant Grove
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, roughly 12–15 minutes from most Pleasant Grove addresses via SR-73 to I-15 north. For encapsulation projects, which are scheduled work rather than emergency calls, we typically confirm an on-site assessment within 24–48 hours of first contact. If you're calling because you've discovered active water in the crawl space alongside a broader water damage situation, emergency response runs faster: technicians can reach Pleasant Grove in under 30 minutes during normal traffic conditions. Call (801) 995-2437 to schedule.
+Home Pride Restoration operates out of Saratoga Springs, roughly 12–15 minutes from most Pleasant Grove addresses via SR-73 to I-15 north. For encapsulation projects, which are scheduled work rather than emergency calls, we typically confirm an on-site assessment within 24–48 hours of first contact. If you're calling because you've discovered active water in the crawl space alongside a broader water damage situation, emergency response runs faster: technicians can reach Pleasant Grove in under 30 minutes during normal traffic conditions. Call (801) 995-2437 to schedule.
 
 ## Local Note: What We See in Pleasant Grove's Established Neighborhoods
 
@@ -48,4 +48,4 @@ In the older sections of Pleasant Grove, particularly homes built on larger lots
 
 Up to 40% of the air in a single-story home originates from the crawl space below it, a figure that puts crawl space conditions directly in conversation with indoor air quality. Musty odors, allergy flare-ups, and higher-than-expected heating bills are often the first signs homeowners in Pleasant Grove notice before they ever look under the house. A properly encapsulated crawl space stabilizes humidity, reduces the thermal load on your HVAC system, and removes the conditions that wood-destroying insects and mold need to establish themselves.
 
-If you've noticed any of those warning signs, or if your home is in the 84062 area and has never had the crawl space professionally assessed, reach out to Home Pride Restoration and Cleaning at (801) 995-2437. We've been doing this work since 1997, and we'll give you a straight answer about what's actually happening under your home.
+If you've noticed any of those warning signs, or if your home is in the 84062 area and has never had the crawl space professionally assessed, reach out to Home Pride Restoration at (801) 995-2437. We've been doing this work since 1997, and we'll give you a straight answer about what's actually happening under your home.

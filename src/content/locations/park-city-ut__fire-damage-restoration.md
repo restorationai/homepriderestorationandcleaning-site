@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Park City, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Fire Damage Restoration in Park City, UT | Home Pride Restoration"
 h1: "24/7 Emergency Fire Damage Restoration in Park City"
 meta_description: "24/7 emergency fire damage restoration in Park City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fire damage restoration park city"
@@ -47,7 +47,7 @@ Our IICRC-certified technicians follow S700 fire and smoke restoration standards
 
 ## Response Time from Our HQ to Park City
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, and the drive to Park City runs roughly 45–55 minutes under normal conditions via I-80 East through Parley's Canyon. In winter, when canyon conditions slow traffic or Parley's sees chain control, we factor that into our dispatch and communicate arrival windows honestly, typically 60–90 minutes to most Park City addresses. For properties in the 84060 ZIP code, we can often coordinate faster if a crew is already working in the Summit County area. Call (801) 995-2437 and we'll give you a real ETA, not a marketing number.
+Home Pride Restoration operates out of Saratoga Springs, and the drive to Park City runs roughly 45–55 minutes under normal conditions via I-80 East through Parley's Canyon. In winter, when canyon conditions slow traffic or Parley's sees chain control, we factor that into our dispatch and communicate arrival windows honestly, typically 60–90 minutes to most Park City addresses. For properties in the 84060 ZIP code, we can often coordinate faster if a crew is already working in the Summit County area. Call (801) 995-2437 and we'll give you a real ETA, not a marketing number.
 
 ## Insurance Coordination for Park City Fire Claims
 

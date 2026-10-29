@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Roof Leak Cleanup and Repair in Park City, UT | Home Pride Restoration and Cleaning"
+title: "Roof Leak Cleanup and Repair in Park City, UT | Home Pride Restoration"
 h1: "Roof Leak Cleanup and Repair in Park City"
 meta_description: "24/7 roof leak cleanup and repair in Park City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "roof leak cleanup and repair park city"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Roof Leak Cleanup and Repair"
 rendered: true
 ---
-Park City's snowpack is legendary, 300-plus inches a season at the higher elevations, but that same accumulation that fills Deer Valley's runs also sits on your roof for weeks at a stretch, and when a warm spell hits in February or March, meltwater finds every imperfection in aging flashing, cracked ridge caps, and ice-dam-scoured shingles. By the time you notice the brown stain spreading across your bedroom ceiling or smell the musty dampness in your attic, water has often been moving through the structure for days. Home Pride Restoration and Cleaning has handled these situations since 1997, and we know exactly how quickly a Park City roof leak can escalate from a cosmetic nuisance to a structural and mold problem.
+Park City's snowpack is legendary, 300-plus inches a season at the higher elevations, but that same accumulation that fills Deer Valley's runs also sits on your roof for weeks at a stretch, and when a warm spell hits in February or March, meltwater finds every imperfection in aging flashing, cracked ridge caps, and ice-dam-scoured shingles. By the time you notice the brown stain spreading across your bedroom ceiling or smell the musty dampness in your attic, water has often been moving through the structure for days. Home Pride Restoration has handled these situations since 1997, and we know exactly how quickly a Park City roof leak can escalate from a cosmetic nuisance to a structural and mold problem.
 
 ## Why Park City Properties Are Especially Vulnerable to Roof Leaks
 

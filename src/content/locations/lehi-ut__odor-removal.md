@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Lehi, UT | Home Pride Restoration and Cleaning"
+title: "Odor Removal and Deodorization in Lehi, UT | Home Pride Restoration"
 h1: "Odor Removal and Deodorization in Lehi"
 meta_description: "24/7 odor removal and deodorization in Lehi, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "odor removal and deodorization lehi"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-Lehi's rapid growth has brought thousands of new homes to the Traverse Mountain and Silicon Slopes corridor, but it has also meant a wave of construction odors, wildfire smoke infiltration, and the occasional pet or cooking smell baked into tight, energy-efficient builds that simply don't breathe the way older Utah County homes do. When an odor takes hold in that kind of envelope, sealed windows, spray-foam insulation, recirculating HVAC, opening a window for a few days won't cut it. Home Pride Restoration and Cleaning has been eliminating odors in homes and commercial properties across northern Utah County since 1997, and we know exactly what it takes to clear a Lehi property for good.
+Lehi's rapid growth has brought thousands of new homes to the Traverse Mountain and Silicon Slopes corridor, but it has also meant a wave of construction odors, wildfire smoke infiltration, and the occasional pet or cooking smell baked into tight, energy-efficient builds that simply don't breathe the way older Utah County homes do. When an odor takes hold in that kind of envelope, sealed windows, spray-foam insulation, recirculating HVAC, opening a window for a few days won't cut it. Home Pride Restoration has been eliminating odors in homes and commercial properties across northern Utah County since 1997, and we know exactly what it takes to clear a Lehi property for good.
 
 ## Why Lehi Properties Hold Odors Longer
 
@@ -48,4 +48,4 @@ Our crews stage out of Saratoga Springs, which puts us roughly 10–15 minutes f
 
 If you're dealing with smoke odor in a Lehi home between November and February, tell us when you call. During inversion periods, outdoor air quality in Utah Valley can be worse than indoor air, which means we adjust our ventilation strategy, we won't simply exhaust contaminated indoor air and pull in outside air the way we would on a clear June morning. Instead, we run closed-loop hydroxyl or ozone cycles and time the final airing to a window when the valley clears. It's a small adjustment that makes a real difference in whether the odor comes back after the first good inversion rolls in.
 
-If you're smelling something in your Lehi home that won't go away, smoke, mildew, pet odor, or something you can't quite name, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We'll assess the source, explain the right method for your specific structure, and get your home smelling like nothing happened.
+If you're smelling something in your Lehi home that won't go away, smoke, mildew, pet odor, or something you can't quite name, call Home Pride Restoration at **(801) 995-2437**. We'll assess the source, explain the right method for your specific structure, and get your home smelling like nothing happened.

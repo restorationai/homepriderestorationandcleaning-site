@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Roof Leak Cleanup and Repair in Heber City, UT | Home Pride Restoration and Cleaning"
+title: "Roof Leak Cleanup and Repair in Heber City, UT | Home Pride Restoration"
 h1: "Roof Leak Cleanup and Repair in Heber City"
 meta_description: "24/7 roof leak cleanup and repair in Heber City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "roof leak cleanup and repair heber city"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Roof Leak Cleanup and Repair"
 rendered: true
 ---
-Heber City sits at 5,600 feet in a mountain valley where winter snowpack can pile three feet deep on a residential roof before a single warm afternoon turns it into a slow, relentless leak. When that meltwater finds a cracked flashing, a lifted shingle, or a compromised valley seam, it doesn't announce itself, it seeps silently into attic insulation, soaks ceiling joists, and pools behind drywall for days before a stain appears. Home Pride Restoration and Cleaning has been responding to exactly this kind of interior roof leak damage since 1997, and the Heber City pattern is distinct enough that we treat it as its own category of loss.
+Heber City sits at 5,600 feet in a mountain valley where winter snowpack can pile three feet deep on a residential roof before a single warm afternoon turns it into a slow, relentless leak. When that meltwater finds a cracked flashing, a lifted shingle, or a compromised valley seam, it doesn't announce itself, it seeps silently into attic insulation, soaks ceiling joists, and pools behind drywall for days before a stain appears. Home Pride Restoration has been responding to exactly this kind of interior roof leak damage since 1997, and the Heber City pattern is distinct enough that we treat it as its own category of loss.
 
 ## Why Heber City Roofs Produce Interior Water Damage Differently
 

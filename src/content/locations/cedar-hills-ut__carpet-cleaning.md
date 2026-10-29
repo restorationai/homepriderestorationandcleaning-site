@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Cedar Hills, UT | Home Pride Restoration and Cleaning"
+title: "Carpet Cleaning in Cedar Hills, UT | Home Pride Restoration"
 h1: "Carpet Cleaning in Cedar Hills"
 meta_description: "24/7 carpet cleaning in Cedar Hills, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "carpet cleaning cedar hills"
@@ -38,4 +38,4 @@ A good share of Cedar Hills housing sits in planned subdivisions and townhome co
 
 Because Cedar Hills sits at a higher elevation near the foothills, low humidity and strong afternoon wind patterns common to that part of the bench mean carpet often looks and feels dry at the surface within an hour of cleaning. The padding underneath can stay damp considerably longer, particularly in rooms with less airflow. We check moisture levels with a meter before calling a job finished rather than relying on a touch test, since padding that stays wet under a dry-feeling top layer is exactly the kind of thing that leads to odor or mold complaints weeks later.
 
-If your Cedar Hills carpet is holding onto foothill dust, winter grit, or stains that regular vacuuming hasn't touched, call Home Pride Restoration and Cleaning at (801) 995-2437. Our technicians are IICRC-certified, and we've been working on homes throughout this part of Utah County since 1997.
+If your Cedar Hills carpet is holding onto foothill dust, winter grit, or stains that regular vacuuming hasn't touched, call Home Pride Restoration at (801) 995-2437. Our technicians are IICRC-certified, and we've been working on homes throughout this part of Utah County since 1997.

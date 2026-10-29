@@ -116,10 +116,10 @@ The full timeline from fire to move-in varies widely: a contained kitchen fire m
 
 If you're trying to understand what this process will cost, our [fire damage restoration cost guide](/blog/fire-damage-restoration-cost/) breaks down typical price ranges for Utah homeowners.
 
-When you're ready to talk through next steps, Home Pride Restoration and Cleaning is available around the clock. Call [(801) 995-2437](tel:8019952437) to schedule an emergency assessment or get a written scope of damage for your insurance claim.
+When you're ready to talk through next steps, Home Pride Restoration is available around the clock. Call [(801) 995-2437](tel:8019952437) to schedule an emergency assessment or get a written scope of damage for your insurance claim.
 
 ---
 
-**About Home Pride Restoration and Cleaning**
+**About Home Pride Restoration**
 
-Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, Provo, and communities across Utah County since 1997. Their crews handle fire, smoke, water, and mold losses for residential and commercial properties, and work directly with homeowners and their insurance adjusters to document damage and manage the full restoration process.
+Home Pride Restoration is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, Provo, and communities across Utah County since 1997. Their crews handle fire, smoke, water, and mold losses for residential and commercial properties, and work directly with homeowners and their insurance adjusters to document damage and manage the full restoration process.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Pleasant Grove, UT | Home Pride Restoration and Cleaning"
+title: "Mold Remediation in Pleasant Grove, UT | Home Pride Restoration"
 h1: "Mold Remediation in Pleasant Grove"
 meta_description: "24/7 mold remediation in Pleasant Grove, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold remediation pleasant grove"
@@ -32,7 +32,7 @@ Every job starts with a thorough moisture mapping inspection using thermal imagi
 
 ## Response Time to Pleasant Grove
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, roughly 15 to 20 minutes from most Pleasant Grove addresses under normal traffic conditions via Redwood Road or US-89 north. For properties in the 84062 ZIP code, which covers much of the city's residential grid, a technician can typically be on-site within 45 to 60 minutes of your call. Mold remediation is rarely a same-hour emergency the way a burst pipe is, but the initial inspection and containment setup absolutely should happen the same day you call, because every additional 24 hours of active moisture extends the remediation scope and cost. Call (801) 995-2437 and we'll get eyes on the problem the same day.
+Home Pride Restoration operates out of Saratoga Springs, roughly 15 to 20 minutes from most Pleasant Grove addresses under normal traffic conditions via Redwood Road or US-89 north. For properties in the 84062 ZIP code, which covers much of the city's residential grid, a technician can typically be on-site within 45 to 60 minutes of your call. Mold remediation is rarely a same-hour emergency the way a burst pipe is, but the initial inspection and containment setup absolutely should happen the same day you call, because every additional 24 hours of active moisture extends the remediation scope and cost. Call (801) 995-2437 and we'll get eyes on the problem the same day.
 
 ## Pleasant Grove Insurance & HOA Coordination
 
@@ -42,4 +42,4 @@ Most mold claims in Pleasant Grove tie back to a covered water loss, a supply li
 
 One thing we've learned working in Pleasant Grove specifically: homes built in the 1970s and early 1980s in the older residential grid near downtown often have original fiberglass batt insulation tucked into exterior walls without a proper vapor retarder on the warm side. When those walls get wet, from a slow roof leak or a failed window seal, the insulation holds moisture against the sheathing for weeks without showing any visible sign on the interior drywall. By the time a homeowner notices a musty smell in a bedroom, the mold colony on the back side of the drywall is often well established. We probe these walls carefully during inspection rather than relying solely on surface readings, because the real damage is almost always further in than it looks.
 
-If you're dealing with visible mold growth, a persistent musty odor, or a recent water event in your Pleasant Grove home, don't wait to see if it dries out on its own. Call Home Pride Restoration and Cleaning at (801) 995-2437, we've been doing this work since 1997, and we'll give you a straight assessment of what you're dealing with and what it takes to fix it right.
+If you're dealing with visible mold growth, a persistent musty odor, or a recent water event in your Pleasant Grove home, don't wait to see if it dries out on its own. Call Home Pride Restoration at (801) 995-2437, we've been doing this work since 1997, and we'll give you a straight assessment of what you're dealing with and what it takes to fix it right.

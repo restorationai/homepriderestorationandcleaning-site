@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Herriman, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Storm Damage Restoration in Herriman, UT | Home Pride Restoration"
 h1: "24/7 Emergency Storm Damage Restoration in Herriman"
 meta_description: "24/7 emergency storm damage restoration in Herriman, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "storm damage restoration herriman"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Storm damage emergency in Herriman? We answer 24/7.** Call now and our crew heads out to secure the property and stop further damage.
 
-Herriman sits at roughly 5,000 feet along the western Wasatch Front, where late-spring thunderstorms roll in fast off the Oquirrh Mountains and can drop golf ball-sized hail, 60-mph wind gusts, and a half-inch of rain in under 20 minutes. That combination, hard soil that sheds water rather than absorbing it, newer tract construction with large roof planes, and mature trees planted in the last two decades, means a single severe cell can leave you with a punctured roof deck, a flooded garage, and a downed cottonwood on your fence before the thunder even stops echoing. Home Pride Restoration and Cleaning has been responding to exactly these situations since 1997, and our IICRC-certified crews know what Herriman storm damage looks like from the inside out.
+Herriman sits at roughly 5,000 feet along the western Wasatch Front, where late-spring thunderstorms roll in fast off the Oquirrh Mountains and can drop golf ball-sized hail, 60-mph wind gusts, and a half-inch of rain in under 20 minutes. That combination, hard soil that sheds water rather than absorbing it, newer tract construction with large roof planes, and mature trees planted in the last two decades, means a single severe cell can leave you with a punctured roof deck, a flooded garage, and a downed cottonwood on your fence before the thunder even stops echoing. Home Pride Restoration has been responding to exactly these situations since 1997, and our IICRC-certified crews know what Herriman storm damage looks like from the inside out.
 
 ## Why Herriman Properties See Concentrated Storm Damage
 
@@ -60,4 +60,4 @@ One thing that surprises homeowners in the newer developments built along Herrim
 
 If you're in Herriman and a storm has just passed, check your window wells before you check your roof.
 
-When severe weather hits and you're looking at a damaged roof, flooded basement, or a tree through your fence, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We're close, and we move fast, because in Herriman, the next storm cell is never far behind the first.
+When severe weather hits and you're looking at a damaged roof, flooded basement, or a tree through your fence, call Home Pride Restoration at **(801) 995-2437**. We're close, and we move fast, because in Herriman, the next storm cell is never far behind the first.

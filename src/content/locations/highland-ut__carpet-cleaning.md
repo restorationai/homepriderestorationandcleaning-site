@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Highland, UT | Home Pride Restoration and Cleaning"
+title: "Carpet Cleaning in Highland, UT | Home Pride Restoration"
 h1: "Carpet Cleaning in Highland"
 meta_description: "24/7 carpet cleaning in Highland, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "carpet cleaning highland"
@@ -38,4 +38,4 @@ Highland's commercial corridor along Highway 92 includes a mix of office space, 
 
 One detail that catches a lot of Highland homeowners off guard: carpet near large west- and south-facing windows, common in the area's newer construction with bigger window packages, fades and dries out faster from direct UV exposure, which makes those fibers more brittle and prone to crushing under furniture legs. We flag this during inspection because aggressive stain removal chemicals that are perfectly safe on shaded carpet can sometimes over-dry already sun-stressed fibers in those rooms, so we adjust the treatment strength room by room instead of using the same solution throughout the house.
 
-If your carpet in Highland is showing ground-in soil, hard water dulling, or pet and livestock traffic wear, Home Pride Restoration and Cleaning can walk through the space, explain what's causing the specific pattern you're seeing, and schedule a deep cleaning that fits your home or business. Call (801) 995-2437 to set up an appointment.
+If your carpet in Highland is showing ground-in soil, hard water dulling, or pet and livestock traffic wear, Home Pride Restoration can walk through the space, explain what's causing the specific pattern you're seeing, and schedule a deep cleaning that fits your home or business. Call (801) 995-2437 to set up an appointment.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Appliance Leak Cleanup in Lehi, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Appliance Leak Cleanup in Lehi, UT | Home Pride Restoration"
 h1: "24/7 Emergency Appliance Leak Cleanup in Lehi"
 meta_description: "24/7 emergency appliance leak cleanup in Lehi, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "appliance leak cleanup lehi"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Burst pipe or leak in Lehi? We answer 24/7.** Call now and our crew heads out to stop the water and start the cleanup.
 
-Lehi's rapid growth has brought tens of thousands of new homes online in the past decade, and with them, a surge of appliance installations that don't always get the follow-up attention they need. A refrigerator ice maker line tucked behind cabinetry, a washing machine hose that's been under tension since the house was built, a water heater sitting on a concrete slab in a finished basement, when any of these let go, water moves fast through the open floor plans and engineered-wood subfloors common in Lehi's newer subdivisions. Home Pride Restoration and Cleaning has handled appliance leak cleanup across Utah County since 1997, and we know exactly what that water is doing inside your walls before you can even see it.
+Lehi's rapid growth has brought tens of thousands of new homes online in the past decade, and with them, a surge of appliance installations that don't always get the follow-up attention they need. A refrigerator ice maker line tucked behind cabinetry, a washing machine hose that's been under tension since the house was built, a water heater sitting on a concrete slab in a finished basement, when any of these let go, water moves fast through the open floor plans and engineered-wood subfloors common in Lehi's newer subdivisions. Home Pride Restoration has handled appliance leak cleanup across Utah County since 1997, and we know exactly what that water is doing inside your walls before you can even see it.
 
 ## Why Lehi Homes See More Appliance Leak Damage Than You'd Expect
 
@@ -52,4 +52,4 @@ Our headquarters is in Saratoga Springs, which puts us roughly 10 to 15 minutes 
 
 One thing that catches homeowners off guard in Lehi specifically: a large share of the homes built here in the 2000s and 2010s have fully finished basements with water heaters and laundry appliances installed on concrete slabs. When a water heater or washing machine floods in that space, water doesn't drain away, it spreads across the slab and wicks into the bottom course of drywall around the entire perimeter. We've walked into Lehi basements where a 40-gallon water heater failure had saturated 200 linear feet of drywall base before the homeowner realized the extent. In those situations, the visible damage in the laundry room is only a fraction of what the moisture meter finds when we walk the full basement.
 
-If you're dealing with an appliance leak anywhere in Lehi, whether it's a slow drip that's been quietly damaging your subfloor or an acute washing machine flood, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We'll have a technician at your door fast, with the equipment and documentation to get your home dry and your claim moving.
+If you're dealing with an appliance leak anywhere in Lehi, whether it's a slow drip that's been quietly damaging your subfloor or an acute washing machine flood, call Home Pride Restoration at **(801) 995-2437**. We'll have a technician at your door fast, with the equipment and documentation to get your home dry and your claim moving.

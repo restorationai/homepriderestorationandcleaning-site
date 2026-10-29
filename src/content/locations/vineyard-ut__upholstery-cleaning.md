@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Vineyard, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in Vineyard, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in Vineyard"
 meta_description: "24/7 upholstery cleaning in Vineyard, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning vineyard"
@@ -42,4 +42,4 @@ Because so much of Vineyard was built on former industrial land near the lake, w
 
 Leather sectionals, increasingly common in Vineyard's newer builds, need a different approach than the fabric sofas still holding on from starter furniture sets. We test conditioning products on an inconspicuous panel first, since some protective leather coatings applied at the factory react differently to cleaning solutions. Fabric pieces, especially the tightly woven performance textiles sold as "kid and pet friendly," often look clean on the surface while trapping odor underneath; our extraction step is built to pull from the cushion core, not just the surface fibers, which is where most of the smell actually lives.
 
-If your sofa, sectional, or dining chairs in Vineyard are holding onto dust, pet odor, or stains that a home vacuum can't touch, Home Pride Restoration and Cleaning can get your upholstery back to a fresh, healthy state without soaking the fabric or leaving it damp for days. Call (801) 995-2437 to schedule upholstery cleaning for your Vineyard home.
+If your sofa, sectional, or dining chairs in Vineyard are holding onto dust, pet odor, or stains that a home vacuum can't touch, Home Pride Restoration can get your upholstery back to a fresh, healthy state without soaking the fabric or leaving it damp for days. Call (801) 995-2437 to schedule upholstery cleaning for your Vineyard home.

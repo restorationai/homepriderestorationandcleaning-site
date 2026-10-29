@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Lehi, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Storm Damage Restoration in Lehi, UT | Home Pride Restoration"
 h1: "24/7 Emergency Storm Damage Restoration in Lehi"
 meta_description: "24/7 emergency storm damage restoration in Lehi, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "storm damage restoration lehi"
@@ -41,7 +41,7 @@ For tree-strike damage specifically, we assess whether the impact has compromise
 
 ## Response Time to Lehi from Our Saratoga Springs HQ
 
-Home Pride Restoration and Cleaning has operated out of Saratoga Springs since 1997, which puts us roughly 10–15 minutes from most of Lehi under normal conditions via Redwood Road or Triumph Boulevard depending on traffic. During major storm events when calls are coming in across Utah County simultaneously, we prioritize active water intrusion and structural breaches first. Most Lehi addresses see a technician on-site within 60–90 minutes of the initial call, and neighborhoods closer to the Saratoga Springs border are often faster.
+Home Pride Restoration has operated out of Saratoga Springs since 1997, which puts us roughly 10–15 minutes from most of Lehi under normal conditions via Redwood Road or Triumph Boulevard depending on traffic. During major storm events when calls are coming in across Utah County simultaneously, we prioritize active water intrusion and structural breaches first. Most Lehi addresses see a technician on-site within 60–90 minutes of the initial call, and neighborhoods closer to the Saratoga Springs border are often faster.
 
 We answer the phone around the clock, (801) 995-2437, because storm damage doesn't wait for business hours, and the difference between a $4,000 repair and a $14,000 repair is often how quickly water is stopped from reaching the subfloor or wall insulation.
 

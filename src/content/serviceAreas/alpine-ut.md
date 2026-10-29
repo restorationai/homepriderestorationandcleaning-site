@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Alpine, UT | Home Pride Restoration and Cleaning"
+title: "Restoration Services in Alpine, UT | Home Pride Restoration"
 h1: "Restoration Services in Alpine"
 meta_description: "Serving Alpine, UT with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (801) 995-2437."
 primary_keyword: "restoration services alpine"
@@ -19,7 +19,7 @@ state: "UT"
 primary: false
 rendered: true
 ---
-Home Pride Restoration and Cleaning provides water damage, fire damage, mold remediation, storm damage, and biohazard cleanup for homes and properties throughout Alpine, Utah. Many Alpine properties sit on larger acreage with outbuildings, barns, and irrigation systems that complicate a standard restoration scope, and our crews plan around that from the first call rather than treating every job like a typical in-town lot.
+Home Pride Restoration provides water damage, fire damage, mold remediation, storm damage, and biohazard cleanup for homes and properties throughout Alpine, Utah. Many Alpine properties sit on larger acreage with outbuildings, barns, and irrigation systems that complicate a standard restoration scope, and our crews plan around that from the first call rather than treating every job like a typical in-town lot.
 
 ## Restoration emergencies common in Alpine
 

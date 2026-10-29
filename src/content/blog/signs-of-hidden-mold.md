@@ -88,4 +88,4 @@ If a professional determines remediation is needed, the general sequence is: con
 
 ---
 
-If you're in the Saratoga Springs area and something on this list sounds familiar, the next step is a professional moisture assessment, not a guess. Home Pride Restoration and Cleaning offers mold inspections and full remediation services for homes across Utah County. You can reach the team directly at **(801) 995-2437**.
+If you're in the Saratoga Springs area and something on this list sounds familiar, the next step is a professional moisture assessment, not a guess. Home Pride Restoration offers mold inspections and full remediation services for homes across Utah County. You can reach the team directly at **(801) 995-2437**.

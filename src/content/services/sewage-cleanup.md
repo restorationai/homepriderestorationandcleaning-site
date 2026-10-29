@@ -1,7 +1,7 @@
 ---
 hero: '/images/services/sewage-cleanup.webp'
 archetype: "service-landing"
-title: "Emergency Sewage Cleanup and Sanitization in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "Emergency Sewage Cleanup and Sanitization in Saratoga Springs | Home Pride Restoration"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Saratoga Springs"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Saratoga Springs and surrounding areas. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "sewage cleanup and sanitization saratoga springs"
@@ -64,6 +64,6 @@ Utah's low ambient humidity is a genuine advantage during structural drying, des
 
 ## Service area
 
-Home Pride Restoration and Cleaning responds to sewage backup and septic overflow calls throughout Saratoga Springs, Eagle Mountain, Lehi, American Fork, Cedar Hills, and surrounding Utah County communities. IICRC Certified technicians,
+Home Pride Restoration responds to sewage backup and septic overflow calls throughout Saratoga Springs, Eagle Mountain, Lehi, American Fork, Cedar Hills, and surrounding Utah County communities. IICRC Certified technicians,
 
 If sewage has surfaced in your home or building, the clock is already running. Call (801) 995-2437 to get a technician on-site and stop the contamination from spreading further.

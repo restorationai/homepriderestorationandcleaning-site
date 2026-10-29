@@ -1,7 +1,7 @@
 ---
 hero: '/images/services/appliance-leak-cleanup.webp'
 archetype: "service-landing"
-title: "24/7 Emergency Appliance Leak Cleanup in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Appliance Leak Cleanup in Saratoga Springs | Home Pride Restoration"
 h1: "24/7 Emergency Appliance Leak Cleanup in Saratoga Springs"
 meta_description: "24/7 emergency appliance leak cleanup in Saratoga Springs and surrounding areas. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "appliance leak cleanup saratoga springs"
@@ -61,6 +61,6 @@ Saratoga Springs sits at roughly 4,500 feet elevation, and the high-desert clima
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and responds to appliance leak calls throughout Utah County and the surrounding area, including Eagle Mountain, Lehi, American Fork, Highland, Cedar Hills, and Herriman. Appliance leak cleanup in Saratoga Springs and neighboring communities is typically on-site within 60–90 minutes of your call.
+Home Pride Restoration is based in Saratoga Springs and responds to appliance leak calls throughout Utah County and the surrounding area, including Eagle Mountain, Lehi, American Fork, Highland, Cedar Hills, and Herriman. Appliance leak cleanup in Saratoga Springs and neighboring communities is typically on-site within 60–90 minutes of your call.
 
 If you've found water under an appliance, or you're not sure where it came from, call **(801) 995-2437** to have a technician map the moisture and stop the damage before it goes further.

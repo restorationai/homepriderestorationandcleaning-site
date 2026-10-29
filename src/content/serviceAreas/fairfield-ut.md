@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Fairfield, UT | Home Pride Restoration and Cleaning"
+title: "Restoration Services in Fairfield, UT | Home Pride Restoration"
 h1: "Restoration Services in Fairfield"
 meta_description: "Serving Fairfield, UT with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (801) 995-2437."
 primary_keyword: "restoration services fairfield"
@@ -19,7 +19,7 @@ state: "UT"
 primary: false
 rendered: true
 ---
-Home Pride Restoration and Cleaning handles water damage, fire and smoke damage, mold remediation, and biohazard cleanup for homeowners and property managers across Fairfield, UT. Because Fairfield sits well outside the dense suburban grid of northern Utah County, property owners here often deal with longer waits for a contractor to even return a call. We answer 24/7, document everything for insurance, and bring the same IICRC-informed drying and cleaning process we use on tighter-packed properties closer to Saratoga Springs.
+Home Pride Restoration handles water damage, fire and smoke damage, mold remediation, and biohazard cleanup for homeowners and property managers across Fairfield, UT. Because Fairfield sits well outside the dense suburban grid of northern Utah County, property owners here often deal with longer waits for a contractor to even return a call. We answer 24/7, document everything for insurance, and bring the same IICRC-informed drying and cleaning process we use on tighter-packed properties closer to Saratoga Springs.
 
 ## Restoration emergencies common in Fairfield
 
@@ -43,4 +43,4 @@ From our Saratoga Springs headquarters, crews typically reach Fairfield by headi
 
 Fairfield's residential stock is a mix of older rural homes and newer construction spread across larger acreage parcels, with crawlspace and slab-on-grade foundations both common depending on when a given home was built. Older properties may still carry galvanized supply lines or early-generation PEX, both of which are worth a plumber's eye during any water loss scope, and any pre-1980s structure should be treated as a possible candidate for asbestos-containing materials before demolition work starts. Cedar Valley's clay-heavy soils hold water longer than sandier ground, which is part of why crawlspace moisture and foundation drainage issues surface here more than in better-draining parts of the county. Because Fairfield is a small incorporated town, permitting for structural repair or rebuild work generally runs through Utah County's building division rather than a large dedicated city department, so expect county-level review timelines on any permitted scope.
 
-If water, fire, smoke, or mold has hit your Fairfield property, call Home Pride Restoration and Cleaning at (801) 995-2437. We're set up to respond around the clock, document the loss for your insurance carrier, and get the drying, cleaning, or rebuild scope moving without you having to chase down three different contractors.
+If water, fire, smoke, or mold has hit your Fairfield property, call Home Pride Restoration at (801) 995-2437. We're set up to respond around the clock, document the loss for your insurance carrier, and get the drying, cleaning, or rebuild scope moving without you having to chase down three different contractors.

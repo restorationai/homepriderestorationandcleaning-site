@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in American Fork, UT | Home Pride Restoration and Cleaning"
+title: "Crawl Space Encapsulation in American Fork, UT | Home Pride Restoration"
 h1: "Crawl Space Encapsulation in American Fork"
 meta_description: "24/7 crawl space encapsulation in American Fork, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "crawl space encapsulation american fork"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Crawl Space Encapsulation"
 rendered: true
 ---
-American Fork sits in a narrow band between Utah Lake's moisture-laden air and the Wasatch foothills, and that geography shows up in crawl spaces in ways that catch homeowners off guard. Seasonal snowmelt from the mountains pushes groundwater levels higher than many residents expect, and summer humidity rolling off the lake keeps soil moisture elevated well into August. Left unaddressed, that combination drives wood rot, pest entry, and mold colonization in crawl spaces, sometimes within a single wet season. Home Pride Restoration and Cleaning has been sealing crawl spaces in Utah County since 1997, and the conditions here are genuinely different from what you'd find in a drier basin city.
+American Fork sits in a narrow band between Utah Lake's moisture-laden air and the Wasatch foothills, and that geography shows up in crawl spaces in ways that catch homeowners off guard. Seasonal snowmelt from the mountains pushes groundwater levels higher than many residents expect, and summer humidity rolling off the lake keeps soil moisture elevated well into August. Left unaddressed, that combination drives wood rot, pest entry, and mold colonization in crawl spaces, sometimes within a single wet season. Home Pride Restoration has been sealing crawl spaces in Utah County since 1997, and the conditions here are genuinely different from what you'd find in a drier basin city.
 
 ## Why American Fork Crawl Spaces Struggle More Than You'd Expect
 
@@ -51,4 +51,4 @@ Home Pride's headquarters is in Saratoga Springs, roughly 10 to 15 minutes from 
 
 One thing that comes up specifically in American Fork's ZIP code 84003 is the combination of newer subdivision construction on the city's east side and expansive soil conditions. Builders in those developments sometimes graded lots with the finished floor elevation closer to grade than code minimized, and when the clay soil expands after a wet winter, it can push against stem walls and create hairline cracks that weren't there at the time of the home inspection. We've seen crawl spaces in homes less than 15 years old with more moisture intrusion than 40-year-old homes on the west side of town, so age alone isn't a reliable predictor here. If your home is in one of the newer subdivisions east of I-15, it's worth having the foundation walls checked during the encapsulation inspection.
 
-If you're noticing musty odors coming through your floor vents, soft spots in hardwood or laminate flooring, or higher-than-normal heating bills in winter, those are the signs that a crawl space problem is already affecting your living space. The longer moisture sits under a home in American Fork's climate, the more it costs to fix, both the crawl space and whatever it has damaged above. Call Home Pride Restoration and Cleaning at (801) 995-2437 to schedule an assessment and get a clear picture of what's happening beneath your home.
+If you're noticing musty odors coming through your floor vents, soft spots in hardwood or laminate flooring, or higher-than-normal heating bills in winter, those are the signs that a crawl space problem is already affecting your living space. The longer moisture sits under a home in American Fork's climate, the more it costs to fix, both the crawl space and whatever it has damaged above. Call Home Pride Restoration at (801) 995-2437 to schedule an assessment and get a clear picture of what's happening beneath your home.

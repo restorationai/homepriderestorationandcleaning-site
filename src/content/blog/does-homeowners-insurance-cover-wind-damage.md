@@ -89,12 +89,12 @@ Once the structure is protected and the damage is documented, call your insurer 
 - Is my roof covered at replacement cost value or actual cash value?
 - What is my Coverage B limit for other structures?
 
-If you need a contractor to assess the damage, document it for your insurer, and handle the restoration work, Home Pride Restoration and Cleaning LLC serves the Wasatch Front and Utah Valley, including Saratoga Springs, Lehi, Eagle Mountain, and surrounding communities. They handle [storm damage restoration](/services/storm-damage-restoration/) and [roof leak repair](/services/roof-leak-repair/) and can provide the written scope your insurer will need. Reach them at (801) 995-2437, available 24/7.
+If you need a contractor to assess the damage, document it for your insurer, and handle the restoration work, Home Pride Restoration LLC serves the Wasatch Front and Utah Valley, including Saratoga Springs, Lehi, Eagle Mountain, and surrounding communities. They handle [storm damage restoration](/services/storm-damage-restoration/) and [roof leak repair](/services/roof-leak-repair/) and can provide the written scope your insurer will need. Reach them at (801) 995-2437, available 24/7.
 
 For more on what storm-related policies typically cover beyond wind, see our guide on [does homeowners insurance cover storm damage](/blog/does-homeowners-insurance-cover-storm-damage/).
 
 ---
 
-**About Home Pride Restoration and Cleaning**
+**About Home Pride Restoration**
 
-Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, American Fork, Orem, Provo, and surrounding Utah communities since 1997. Their crews handle storm damage restoration, roof leak repair, water damage restoration, mold remediation, fire and smoke damage restoration, and a full range of residential and commercial restoration services across the Wasatch Front and Utah Valley.
+Home Pride Restoration is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, American Fork, Orem, Provo, and surrounding Utah communities since 1997. Their crews handle storm damage restoration, roof leak repair, water damage restoration, mold remediation, fire and smoke damage restoration, and a full range of residential and commercial restoration services across the Wasatch Front and Utah Valley.

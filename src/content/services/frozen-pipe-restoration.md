@@ -1,7 +1,7 @@
 ---
 hero: '/images/services/frozen-pipe-restoration.webp'
 archetype: "service-landing"
-title: "24/7 Emergency Frozen Pipe Restoration in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Frozen Pipe Restoration in Saratoga Springs | Home Pride Restoration"
 h1: "24/7 Emergency Frozen Pipe Restoration in Saratoga Springs"
 meta_description: "24/7 emergency frozen pipe restoration in Saratoga Springs and surrounding areas. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "frozen pipe restoration saratoga springs"
@@ -67,6 +67,6 @@ Spring snowmelt months (March–April) also bring elevated risk as attic tempera
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and responds to frozen pipe damage throughout Utah County and the surrounding region, including Eagle Mountain, Lehi, American Fork, Pleasant Grove, Orem, and Provo. City-specific service pages are linked throughout this site for homeowners searching by location.
+Home Pride Restoration is based in Saratoga Springs and responds to frozen pipe damage throughout Utah County and the surrounding region, including Eagle Mountain, Lehi, American Fork, Pleasant Grove, Orem, and Provo. City-specific service pages are linked throughout this site for homeowners searching by location.
 
 If you've found water where it shouldn't be after a cold snap, call **(801) 995-2437** to start your frozen pipe damage assessment, before the moisture has time to move further into your structure.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Benjamin, UT | Home Pride Restoration and Cleaning"
+title: "Mold Inspection and Testing in Benjamin, UT | Home Pride Restoration"
 h1: "Mold Inspection and Testing in Benjamin"
 meta_description: "24/7 mold inspection and testing in Benjamin, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold inspection and testing benjamin"

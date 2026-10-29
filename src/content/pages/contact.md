@@ -1,7 +1,7 @@
 ---
 archetype: "contact"
-title: "Contact Home Pride Restoration and Cleaning | 24/7 Restoration in Saratoga Springs"
-h1: "Contact Home Pride Restoration and Cleaning"
+title: "Contact Home Pride Restoration | 24/7 Restoration in Saratoga Springs"
+h1: "Contact Home Pride Restoration"
 meta_description: "Call (801) 995-2437 for 24/7 emergency restoration in Saratoga Springs and surrounding areas. Free estimates. Direct insurance billing."
 primary_keyword: "home pride restoration and cleaning contact"
 secondary_keywords: ["restoration company contact", "24/7 restoration phone", "emergency restoration near me"]
@@ -27,4 +27,4 @@ If you're not in crisis mode, you noticed a slow moisture stain, you want a mold
 
 ## Where We're Located
 
-Home Pride Restoration and Cleaning is based in **Saratoga Springs, UT**, putting us close to communities across Utah County and the southern end of Salt Lake County. We regularly serve homeowners and property managers in Lehi, Eagle Mountain, American Fork, Cedar Hills, Pleasant Grove, Herriman, and surrounding areas. If you're unsure whether you fall within our service area, call or email, we'll tell you straight away. We carry the insurance and certifications required to work directly with your insurance carrier on covered losses.
+Home Pride Restoration is based in **Saratoga Springs, UT**, putting us close to communities across Utah County and the southern end of Salt Lake County. We regularly serve homeowners and property managers in Lehi, Eagle Mountain, American Fork, Cedar Hills, Pleasant Grove, Herriman, and surrounding areas. If you're unsure whether you fall within our service area, call or email, we'll tell you straight away. We carry the insurance and certifications required to work directly with your insurance carrier on covered losses.

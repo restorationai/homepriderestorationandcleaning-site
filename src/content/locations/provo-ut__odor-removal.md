@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Provo, UT | Home Pride Restoration and Cleaning"
+title: "Odor Removal and Deodorization in Provo, UT | Home Pride Restoration"
 h1: "Odor Removal and Deodorization in Provo"
 meta_description: "24/7 odor removal and deodorization in Provo, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "odor removal and deodorization provo"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-Provo sits at roughly 4,500 feet elevation in a high-desert valley where temperature swings between January nights and July afternoons can exceed 70°F in a single day. That thermal cycling forces odors deep into porous materials, drywall, insulation, subflooring, upholstery, and then volatilizes them again when temperatures rise, which is why a smoke or pet odor that seemed manageable in winter can become overwhelming by late spring. Home Pride Restoration and Cleaning has been eliminating odors in Utah County homes since 1997, and the altitude and arid climate here genuinely change how deodorization equipment performs and how long treatments need to run.
+Provo sits at roughly 4,500 feet elevation in a high-desert valley where temperature swings between January nights and July afternoons can exceed 70°F in a single day. That thermal cycling forces odors deep into porous materials, drywall, insulation, subflooring, upholstery, and then volatilizes them again when temperatures rise, which is why a smoke or pet odor that seemed manageable in winter can become overwhelming by late spring. Home Pride Restoration has been eliminating odors in Utah County homes since 1997, and the altitude and arid climate here genuinely change how deodorization equipment performs and how long treatments need to run.
 
 ## Why Provo Homes Hold Odors Longer Than You'd Expect
 

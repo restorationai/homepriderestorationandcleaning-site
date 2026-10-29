@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Junk & Debris Removal in Orem, UT | Home Pride Restoration and Cleaning"
+title: "Junk & Debris Removal in Orem, UT | Home Pride Restoration"
 h1: "Junk & Debris Removal in Orem"
 meta_description: "24/7 junk & debris removal in Orem, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "junk & debris removal orem"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Junk & Debris Removal"
 rendered: true
 ---
-Orem sits at the foot of the Wasatch Range, where decades of rapid growth have layered mid-century ranch homes, 1980s subdivisions, and newer infill construction almost on top of each other. That mix means garages stuffed with two generations of tools, basements converted and re-converted, and yards where landscaping projects got abandoned mid-season. When a cleanout finally becomes urgent, after a tenant moves out, an estate settles, or a renovation uncovers a storage room nobody remembered, Home Pride Restoration and Cleaning can have a crew on-site and hauling within hours, not days.
+Orem sits at the foot of the Wasatch Range, where decades of rapid growth have layered mid-century ranch homes, 1980s subdivisions, and newer infill construction almost on top of each other. That mix means garages stuffed with two generations of tools, basements converted and re-converted, and yards where landscaping projects got abandoned mid-season. When a cleanout finally becomes urgent, after a tenant moves out, an estate settles, or a renovation uncovers a storage room nobody remembered, Home Pride Restoration can have a crew on-site and hauling within hours, not days.
 
 ## Why Orem Properties Accumulate Junk Differently Than Most Utah Cities
 

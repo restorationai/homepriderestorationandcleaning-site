@@ -20,7 +20,7 @@ services: []
 rendered: true
 author: "Curt Eddy"
 ---
-A burst pipe doesn't wait for a convenient time. Water finds the lowest point in the house fast, soaks into carpet pad within minutes, and starts wicking up drywall before most homeowners finish shutting off the main valve. One recent review from a Home Pride Restoration and Cleaning LLC customer, Joe, describes exactly what a well-run response to that kind of emergency looks like, and it's worth unpacking because the steps he mentions are the steps that actually save a home.
+A burst pipe doesn't wait for a convenient time. Water finds the lowest point in the house fast, soaks into carpet pad within minutes, and starts wicking up drywall before most homeowners finish shutting off the main valve. One recent review from a Home Pride Restoration LLC customer, Joe, describes exactly what a well-run response to that kind of emergency looks like, and it's worth unpacking because the steps he mentions are the steps that actually save a home.
 
 > I called Home Pride Restoration and Cleaning after a burst pipe and was impressed by how quickly they responded. The team was professional, efficient, and very thorough, everything from emergency water extraction to carpet water extraction was handled smoothly. I appreciate the fast service and will definitely choose them again for any future water damage restoration needs.
 > 
@@ -32,9 +32,9 @@ Response speed on a burst pipe call is about getting water moving out of the str
 
 A fast response also means less demolition later. Drywall, baseboard, and subfloor that get pulled out early get dried in place more often than materials that sat wet for a day while someone shopped around for a contractor. That's the practical reason "how quickly they responded" shows up first in almost every positive review of a water emergency call: speed is the variable that controls everything downstream, including cost. For a step-by-step breakdown of what to do in the minutes before help arrives, see our [burst pipe emergency checklist](/blog/burst-pipe-emergency-checklist/).
 
-![Job site photo from Home Pride Restoration and Cleaning](https://nyscciinkhlutvqkgyvq.supabase.co/storage/v1/object/public/branding/CO-1780333664867/job-photos/posted/gbp-AF1QipMPAQoR0CW-laohE06GmKua3k6qVDJwOSUT0o4Y.jpg)
+![Job site photo from Home Pride Restoration](https://nyscciinkhlutvqkgyvq.supabase.co/storage/v1/object/public/branding/CO-1780333664867/job-photos/posted/gbp-AF1QipMPAQoR0CW-laohE06GmKua3k6qVDJwOSUT0o4Y.jpg)
 
-*Recent job photo from Home Pride Restoration and Cleaning.*
+*Recent job photo from Home Pride Restoration.*
 
 ## What Emergency Water Extraction Involves
 
@@ -56,4 +56,4 @@ Thorough, in a water damage context, means nothing gets missed because it's out 
 
 Efficient doesn't mean rushed. It means the crew moves through extraction, moisture mapping, and equipment placement in the right order instead of guessing. Documentation matters here too: photos and moisture readings at each stage give homeowners and their insurance adjuster a clear record of what was wet, what was dried, and when drying was confirmed complete.
 
-If a burst pipe or appliance leak has you standing in water right now, [call Home Pride Restoration and Cleaning at (801) 995-2437](tel:+18019952437) for emergency water extraction. The company, Home Pride Restoration and Cleaning LLC, is IICRC Certified and has served Saratoga Springs and the surrounding Utah County area since 1997.
+If a burst pipe or appliance leak has you standing in water right now, [call Home Pride Restoration at (801) 995-2437](tel:+18019952437) for emergency water extraction. The company, Home Pride Restoration LLC, is IICRC Certified and has served Saratoga Springs and the surrounding Utah County area since 1997.

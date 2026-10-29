@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Pleasant Grove, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in Pleasant Grove, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in Pleasant Grove"
 meta_description: "24/7 upholstery cleaning in Pleasant Grove, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning pleasant grove"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Upholstery Cleaning"
 rendered: true
 ---
-Pleasant Grove sits at roughly 4,500 feet elevation along the Wasatch Front, where dry canyon winds off Mount Timpanogos push fine red-clay dust and juniper pollen through window screens and into the fibers of your furniture season after season. That combination, arid air that sets stains fast, plus the gritty particulate that settles deep into woven fabric, makes upholstery cleaning here a different challenge than in wetter, lower-elevation communities along the Wasatch. Home Pride Restoration and Cleaning has been working in Utah County since 1997, and we've calibrated our methods specifically to what Pleasant Grove's climate does to sofas, sectionals, armchairs, and leather pieces.
+Pleasant Grove sits at roughly 4,500 feet elevation along the Wasatch Front, where dry canyon winds off Mount Timpanogos push fine red-clay dust and juniper pollen through window screens and into the fibers of your furniture season after season. That combination, arid air that sets stains fast, plus the gritty particulate that settles deep into woven fabric, makes upholstery cleaning here a different challenge than in wetter, lower-elevation communities along the Wasatch. Home Pride Restoration has been working in Utah County since 1997, and we've calibrated our methods specifically to what Pleasant Grove's climate does to sofas, sectionals, armchairs, and leather pieces.
 
 ## Why Pleasant Grove Upholstery Wears the Way It Does
 

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Smoke Damage Restoration in Pleasant Grove, UT | Home Pride Restoration and Cleaning"
+title: "Emergency Smoke Damage Restoration in Pleasant Grove, UT | Home Pride Restoration"
 h1: "24/7 Emergency Smoke Damage Restoration in Pleasant Grove"
 meta_description: "24/7 emergency smoke damage restoration in Pleasant Grove, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "smoke damage restoration pleasant grove"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Smoke damage emergency in Pleasant Grove? We answer 24/7.** Call now and our crew heads out to stop smoke and soot damage from spreading.
 
-When smoke from a house fire, or a wind-driven wildfire pushing down from the Wasatch Front, settles into a Pleasant Grove home, the damage goes far deeper than the visible char. Smoke particles and acidic residues work into porous surfaces within hours, and Utah County's dry, high-desert air actually accelerates the bonding of soot to drywall, insulation, and HVAC ductwork. Home Pride Restoration and Cleaning has been responding to smoke damage calls across Utah County since 1997, and we know what that combination of altitude, low humidity, and tight mountain-valley air circulation does to a fire-damaged home.
+When smoke from a house fire, or a wind-driven wildfire pushing down from the Wasatch Front, settles into a Pleasant Grove home, the damage goes far deeper than the visible char. Smoke particles and acidic residues work into porous surfaces within hours, and Utah County's dry, high-desert air actually accelerates the bonding of soot to drywall, insulation, and HVAC ductwork. Home Pride Restoration has been responding to smoke damage calls across Utah County since 1997, and we know what that combination of altitude, low humidity, and tight mountain-valley air circulation does to a fire-damaged home.
 
 ## Why Pleasant Grove Homes Are Particularly Vulnerable to Smoke Damage
 
@@ -49,4 +49,4 @@ Smoke damage claims in Utah County are generally covered under standard HO-3 hom
 
 One thing we've learned working in Pleasant Grove specifically: homes on the west-facing bench lots near Battle Creek Drive often have whole-house attic fans installed, a popular feature in Utah County homes built between 1975 and 1995 for summer cooling. After a smoke event, those fans can pull smoke residue deep into the attic cavity and deposit soot on the insulation batt surfaces. Homeowners and even some contractors overlook the attic entirely when scoping smoke damage, and then the odor returns six months later when summer heat activates the residue. We always inspect the attic on any Pleasant Grove job where a whole-house fan is present.
 
-If your Pleasant Grove home has been affected by fire or smoke, whether from an interior fire, a neighbor's structure, or wildfire smoke infiltration, call Home Pride Restoration and Cleaning at (801) 995-2437. We can begin the documentation process immediately, even before your adjuster schedules an inspection.
+If your Pleasant Grove home has been affected by fire or smoke, whether from an interior fire, a neighbor's structure, or wildfire smoke infiltration, call Home Pride Restoration at (801) 995-2437. We can begin the documentation process immediately, even before your adjuster schedules an inspection.

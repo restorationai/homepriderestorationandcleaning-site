@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in American Fork, UT | Home Pride Restoration and Cleaning"
+title: "Mold Remediation in American Fork, UT | Home Pride Restoration"
 h1: "Mold Remediation in American Fork"
 meta_description: "24/7 mold remediation in American Fork, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold remediation american fork"
@@ -34,7 +34,7 @@ Every job begins with a thorough moisture mapping inspection, not just a visual 
 
 Once we've identified the affected zones, we establish negative-air containment using 6-mil poly barriers and HEPA-filtered negative air machines. This keeps spores from migrating to clean areas of the home during the removal process. Affected porous materials, drywall, insulation, OSB sheathing, are removed, bagged, and disposed of per Utah solid waste guidelines. Structural framing is HEPA-vacuumed, treated with an EPA-registered antimicrobial, and allowed to dry to verified moisture content before any reconstruction begins.
 
-Home Pride Restoration and Cleaning has been doing this work since 1997, and our crews are IICRC certified in applied microbial remediation.
+Home Pride Restoration has been doing this work since 1997, and our crews are IICRC certified in applied microbial remediation.
 
 ## Response Time to American Fork
 
@@ -52,4 +52,4 @@ If you're working through your insurance carrier, we can communicate directly wi
 
 Something worth knowing if you live in one of American Fork's finished-basement homes near the older neighborhoods along Main Street or Center Street: many of those homes were built with concrete block foundations rather than poured concrete. Block foundations are more porous than poured walls, and the mortar joints between blocks can wick groundwater slowly and invisibly during spring runoff. We've found significant mold colonies behind finished basement walls in those homes where the homeowner had no idea there was any moisture issue at all, the finished drywall was hiding everything. If your home has a block foundation and you haven't had a moisture inspection in the last few years, it's worth a look.
 
-Call Home Pride Restoration and Cleaning at (801) 995-2437 if you're dealing with visible mold, a persistent musty odor, or a recent water event in your American Fork home. We'll assess the situation honestly, explain what we find, and give you a clear scope before any work begins.
+Call Home Pride Restoration at (801) 995-2437 if you're dealing with visible mold, a persistent musty odor, or a recent water event in your American Fork home. We'll assess the situation honestly, explain what we find, and give you a clear scope before any work begins.

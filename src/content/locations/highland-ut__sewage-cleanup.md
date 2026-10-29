@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Highland, UT | Home Pride Restoration and Cleaning"
+title: "Emergency Sewage Cleanup and Sanitization in Highland, UT | Home Pride Restoration"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Highland"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Highland, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "sewage cleanup and sanitization highland"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Sewage Cleanup and Sanitization"
 rendered: true
 ---
-**Sewage backup in your Highland home?** Call Home Pride Restoration and Cleaning now for emergency service before contaminated water spreads further into flooring, drywall, or your crawlspace. Highland's mix of newer municipal sewer lines and older septic systems on the city's outlying lots means backups here can come from either direction, a clogged lateral line or a septic tank reaching capacity after heavy snowmelt. Either way, raw sewage is a biohazard the moment it touches a floor, and the clock on contamination starts immediately.
+**Sewage backup in your Highland home?** Call Home Pride Restoration now for emergency service before contaminated water spreads further into flooring, drywall, or your crawlspace. Highland's mix of newer municipal sewer lines and older septic systems on the city's outlying lots means backups here can come from either direction, a clogged lateral line or a septic tank reaching capacity after heavy snowmelt. Either way, raw sewage is a biohazard the moment it touches a floor, and the clock on contamination starts immediately.
 
 ## Why Highland Properties See Sewage Backups
 
@@ -42,4 +42,4 @@ Sewage cleanup isn't a wet-vac job. We use truck-mounted extraction for the init
 
 Highland sits close enough to the Mount Timpanogos foothills that irrigation runoff and snowmelt both drain downhill through the city before reaching American Fork and the valley floor, which raises the water table on lower-lying lots during spring. Properties on septic systems in those areas sometimes see backups not from a failing tank, but from a leach field that's temporarily saturated and can't accept more water, something a septic company and a restoration crew both need to confirm before cleanup starts.
 
-If sewage has backed up into your Highland home, don't wait for the smell or the staining to tell you how far it's spread. Home Pride Restoration and Cleaning has worked across Utah County since 1997 and carries IICRC certification, so the cleanup and the paperwork both hold up. Call (801) 995-2437 for emergency sewage cleanup and sanitization service in Highland.
+If sewage has backed up into your Highland home, don't wait for the smell or the staining to tell you how far it's spread. Home Pride Restoration has worked across Utah County since 1997 and carries IICRC certification, so the cleanup and the paperwork both hold up. Call (801) 995-2437 for emergency sewage cleanup and sanitization service in Highland.

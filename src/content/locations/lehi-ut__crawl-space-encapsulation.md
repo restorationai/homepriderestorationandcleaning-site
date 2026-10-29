@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Lehi, UT | Home Pride Restoration and Cleaning"
+title: "Crawl Space Encapsulation in Lehi, UT | Home Pride Restoration"
 h1: "Crawl Space Encapsulation in Lehi"
 meta_description: "24/7 crawl space encapsulation in Lehi, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "crawl space encapsulation lehi"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Crawl Space Encapsulation"
 rendered: true
 ---
-Lehi's rapid growth along the Silicon Slopes corridor has pushed new subdivisions onto the bentonite-heavy clay soils that run through much of Utah County, soils that expand when wet and shrink when dry, creating seasonal ground movement that opens gaps in crawl space foundations and pulls vapor barriers loose over time. If you've noticed a musty smell rising through your floors, efflorescence creeping up the stem walls, or wood subfloor that feels soft underfoot, your crawl space is likely cycling through moisture with every weather shift. Home Pride Restoration and Cleaning has been sealing crawl spaces across the Wasatch Front since 1997, and we understand exactly what that clay-rich ground does to homes here.
+Lehi's rapid growth along the Silicon Slopes corridor has pushed new subdivisions onto the bentonite-heavy clay soils that run through much of Utah County, soils that expand when wet and shrink when dry, creating seasonal ground movement that opens gaps in crawl space foundations and pulls vapor barriers loose over time. If you've noticed a musty smell rising through your floors, efflorescence creeping up the stem walls, or wood subfloor that feels soft underfoot, your crawl space is likely cycling through moisture with every weather shift. Home Pride Restoration has been sealing crawl spaces across the Wasatch Front since 1997, and we understand exactly what that clay-rich ground does to homes here.
 
 ## Why Lehi Properties Face Elevated Crawl Space Moisture Problems
 
@@ -56,4 +56,4 @@ One thing we've learned working on homes near the older Lehi townsite and out to
 
 If you're in the 84043 ZIP code or anywhere in the newer subdivisions built after 2010, ask us specifically about soil composition when we do the assessment, it directly affects which liner weight and fastening system we recommend.
 
-Call Home Pride Restoration and Cleaning at (801) 995-2437 to schedule a crawl space assessment in Lehi. We'll tell you honestly what your space needs, and what it doesn't.
+Call Home Pride Restoration at (801) 995-2437 to schedule a crawl space assessment in Lehi. We'll tell you honestly what your space needs, and what it doesn't.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Heber City, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Storm Damage Restoration in Heber City, UT | Home Pride Restoration"
 h1: "24/7 Emergency Storm Damage Restoration in Heber City"
 meta_description: "24/7 emergency storm damage restoration in Heber City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "storm damage restoration heber city"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Storm damage emergency in Heber City? We answer 24/7.** Call now and our crew heads out to secure the property and stop further damage.
 
-Heber Valley sits at roughly 5,600 feet elevation in a mountain basin where weather systems funnel through Provo Canyon and off the Wasatch Back with surprising speed. A storm that looks manageable from Salt Lake can arrive in Heber City as 60-mph wind gusts, golf-ball hail, and several inches of rain in under an hour, leaving roofs stripped, trees down across driveways, and water pushing under doors before homeowners can move furniture. When that happens, call (801) 995-2437 and a crew from Home Pride Restoration and Cleaning can be on the road toward you immediately.
+Heber Valley sits at roughly 5,600 feet elevation in a mountain basin where weather systems funnel through Provo Canyon and off the Wasatch Back with surprising speed. A storm that looks manageable from Salt Lake can arrive in Heber City as 60-mph wind gusts, golf-ball hail, and several inches of rain in under an hour, leaving roofs stripped, trees down across driveways, and water pushing under doors before homeowners can move furniture. When that happens, call (801) 995-2437 and a crew from Home Pride Restoration can be on the road toward you immediately.
 
 ## Why Heber City Properties See Severe Storm Damage
 
@@ -47,7 +47,7 @@ Once the structure is stabilized, the process moves through three phases:
 
 ## Response Time to Heber City
 
-Home Pride Restoration and Cleaning is headquartered in Saratoga Springs, and the most direct route to Heber City runs US-189 through Provo Canyon, roughly 45 to 55 minutes under normal conditions. During or immediately after a major storm event, Provo Canyon can slow significantly with debris or high-water advisories, so our dispatch team monitors UDOT road conditions in real time and will route via US-40 through Parley's Canyon if the canyon is compromised. Either way, our target is a technician on your property within 90 minutes of your call for addresses in the 84032 area.
+Home Pride Restoration is headquartered in Saratoga Springs, and the most direct route to Heber City runs US-189 through Provo Canyon, roughly 45 to 55 minutes under normal conditions. During or immediately after a major storm event, Provo Canyon can slow significantly with debris or high-water advisories, so our dispatch team monitors UDOT road conditions in real time and will route via US-40 through Parley's Canyon if the canyon is compromised. Either way, our target is a technician on your property within 90 minutes of your call for addresses in the 84032 area.
 
 ## Heber City Insurance Coordination
 

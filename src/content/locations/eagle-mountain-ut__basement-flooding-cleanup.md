@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Basement Flooding Cleanup in Eagle Mountain, UT | Home Pride Restoration and Cleaning"
+title: "Emergency Basement Flooding Cleanup in Eagle Mountain, UT | Home Pride Restoration"
 h1: "24/7 Emergency Basement Flooding Cleanup in Eagle Mountain"
 meta_description: "24/7 emergency basement flooding cleanup in Eagle Mountain, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "basement flooding cleanup eagle mountain"
@@ -61,4 +61,4 @@ We work directly with all major insurers and can communicate with your adjuster 
 
 One pattern we've seen repeatedly in Eagle Mountain homes: sump pumps that were installed when the house was built and have never been tested or serviced. The Oquirrh Mountain snowpack can deliver a sustained melt event over two to three weeks in March and April, running a builder-grade sump pump far beyond its design cycle. By the time the pump fails, the pit is already overflowing. If you're in the Ranches area or any neighborhood built on the lower benches where drainage slopes toward the valley floor, consider having your sump pump inspected before spring, not after the first flood. It's a conversation we have with a lot of Eagle Mountain homeowners after the fact, and it's one we'd rather have before.
 
-If your basement is already wet, call (801) 995-2437 now. Every hour matters when it comes to stopping water damage in Eagle Mountain from becoming a mold problem, and Home Pride Restoration and Cleaning has been doing this work since 1997.
+If your basement is already wet, call (801) 995-2437 now. Every hour matters when it comes to stopping water damage in Eagle Mountain from becoming a mold problem, and Home Pride Restoration has been doing this work since 1997.

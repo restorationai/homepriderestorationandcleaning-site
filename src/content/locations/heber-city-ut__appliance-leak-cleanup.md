@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Appliance Leak Cleanup in Heber City, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Appliance Leak Cleanup in Heber City, UT | Home Pride Restoration"
 h1: "24/7 Emergency Appliance Leak Cleanup in Heber City"
 meta_description: "24/7 emergency appliance leak cleanup in Heber City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "appliance leak cleanup heber city"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Burst pipe or leak in Heber City? We answer 24/7.** Call now and our crew heads out to stop the water and start the cleanup.
 
-When a washing machine hose lets go or a refrigerator ice maker line fails in Heber City, the water doesn't wait for a convenient moment. At 5,600 feet elevation in the Heber Valley, homes here cycle through hard freezes and rapid spring thaws that stress supply lines and appliance connections year-round, and when one fails, the water moves fast across the subfloor before most homeowners realize what's happening. Home Pride Restoration and Cleaning has been responding to exactly these situations since 1997, and our IICRC-certified technicians understand the specific way moisture behaves in mountain-valley construction.
+When a washing machine hose lets go or a refrigerator ice maker line fails in Heber City, the water doesn't wait for a convenient moment. At 5,600 feet elevation in the Heber Valley, homes here cycle through hard freezes and rapid spring thaws that stress supply lines and appliance connections year-round, and when one fails, the water moves fast across the subfloor before most homeowners realize what's happening. Home Pride Restoration has been responding to exactly these situations since 1997, and our IICRC-certified technicians understand the specific way moisture behaves in mountain-valley construction.
 
 ## Why Heber City Homes See Appliance Leaks More Often Than You'd Expect
 
@@ -59,4 +59,4 @@ Sudden appliance leaks, a burst washing machine hose, a failed ice maker line, a
 
 We bill insurance directly and work with most major carriers. If your policy has a deductible that concerns you, ask us about the scope before work begins, we'll be straightforward about what the job actually requires.
 
-If you're dealing with a leaking appliance right now in Heber City, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We'll have a technician moving toward the Heber Valley within minutes of your call, with the equipment to stop the damage from compounding while you handle everything else.
+If you're dealing with a leaking appliance right now in Heber City, call Home Pride Restoration at **(801) 995-2437**. We'll have a technician moving toward the Heber Valley within minutes of your call, with the equipment to stop the damage from compounding while you handle everything else.

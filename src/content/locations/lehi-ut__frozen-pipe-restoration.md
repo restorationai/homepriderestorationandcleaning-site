@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Frozen Pipe Restoration in Lehi, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Frozen Pipe Restoration in Lehi, UT | Home Pride Restoration"
 h1: "24/7 Emergency Frozen Pipe Restoration in Lehi"
 meta_description: "24/7 emergency frozen pipe restoration in Lehi, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "frozen pipe restoration lehi"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Burst pipe or leak in Lehi? We answer 24/7.** Call now and our crew heads out to stop the water and start the cleanup.
 
-Lehi's position along the Wasatch Front means winter temperatures can swing from the mid-30s to single digits within a 48-hour stretch, and when that cold snap hits fast, the water lines running through uninsulated garage walls, crawl spaces under slab-on-grade homes, and exterior-facing pipe chases don't always have time to adjust. A frozen pipe that thaws unattended can release hundreds of gallons before a homeowner notices the ceiling is sagging or the hardwood floors are cupping. Home Pride Restoration and Cleaning has been responding to exactly these situations since 1997, and our crew is based in Saratoga Springs, close enough to reach most of Lehi in under 30 minutes when roads are clear.
+Lehi's position along the Wasatch Front means winter temperatures can swing from the mid-30s to single digits within a 48-hour stretch, and when that cold snap hits fast, the water lines running through uninsulated garage walls, crawl spaces under slab-on-grade homes, and exterior-facing pipe chases don't always have time to adjust. A frozen pipe that thaws unattended can release hundreds of gallons before a homeowner notices the ceiling is sagging or the hardwood floors are cupping. Home Pride Restoration has been responding to exactly these situations since 1997, and our crew is based in Saratoga Springs, close enough to reach most of Lehi in under 30 minutes when roads are clear.
 
 ## Why Lehi Properties Are Particularly Vulnerable to Frozen Pipe Damage
 

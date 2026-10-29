@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Eagle Mountain, UT | Home Pride Restoration and Cleaning"
+title: "Post-Construction and Specialty Cleaning in Eagle Mountain, UT | Home Pride Restoration"
 h1: "Post-Construction and Specialty Cleaning in Eagle Mountain"
 meta_description: "24/7 post-construction and specialty cleaning in Eagle Mountain, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "post-construction and specialty cleaning eagle mountain"
@@ -38,4 +38,4 @@ Our crews run out of Saratoga Springs, a short drive from Eagle Mountain along t
 
 One thing crews learn fast working in Eagle Mountain: gypsum dust here doesn't just sit on surfaces, it rides on the wind that comes down off the benches most afternoons. A final clean finished at 10 a.m. can have a visible film on south-facing windows by 3 p.m. if a neighboring lot is still in the framing or drywall phase. We schedule window and floor work as close to the final walkthrough as the builder's timeline allows, and when we can't control the timing, we tell the homeowner or project manager up front rather than letting them discover it at closing.
 
-If you're closing out a renovation or a new build anywhere in Eagle Mountain, Home Pride Restoration and Cleaning has handled post-construction and specialty cleaning out of our Saratoga Springs base since 1997, and we schedule around your builder's or contractor's deadline rather than making you work around ours. Call (801) 995-2437 to get a final clean on the calendar.
+If you're closing out a renovation or a new build anywhere in Eagle Mountain, Home Pride Restoration has handled post-construction and specialty cleaning out of our Saratoga Springs base since 1997, and we schedule around your builder's or contractor's deadline rather than making you work around ours. Call (801) 995-2437 to get a final clean on the calendar.

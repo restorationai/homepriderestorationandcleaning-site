@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Provo, UT | Home Pride Restoration and Cleaning"
+title: "Crawl Space Encapsulation in Provo, UT | Home Pride Restoration"
 h1: "Crawl Space Encapsulation in Provo"
 meta_description: "24/7 crawl space encapsulation in Provo, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "crawl space encapsulation provo"
@@ -44,7 +44,7 @@ Once the crawl space is cleared and prepped, the process moves through these sta
 
 ## Response Time from Saratoga Springs to Provo
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, roughly 18 miles northwest of downtown Provo via UT-73 and I-15. Under normal traffic conditions, a technician can reach most Provo addresses in 25–35 minutes. Neighborhoods closer to the I-15 corridor, including areas near Riverwoods Parkway and the south end of the city, are typically fastest. Addresses in east Provo near the Joaquin neighborhood or up toward Provo Canyon can add 10–15 minutes depending on time of day.
+Home Pride Restoration operates out of Saratoga Springs, roughly 18 miles northwest of downtown Provo via UT-73 and I-15. Under normal traffic conditions, a technician can reach most Provo addresses in 25–35 minutes. Neighborhoods closer to the I-15 corridor, including areas near Riverwoods Parkway and the south end of the city, are typically fastest. Addresses in east Provo near the Joaquin neighborhood or up toward Provo Canyon can add 10–15 minutes depending on time of day.
 
 Crawl space encapsulation is a scheduled service, not an emergency call, so we coordinate arrival windows that work around your schedule. We do offer same-week appointments for active moisture intrusion situations where delay would worsen existing damage.
 
@@ -52,4 +52,4 @@ Crawl space encapsulation is a scheduled service, not an emergency call, so we c
 
 If you're selling a home in Provo, particularly in the older residential blocks near the Joaquin neighborhood or along Center Street, home inspectors here are trained to flag unencapsulated crawl spaces with elevated wood moisture readings. Utah County has seen enough moisture-related structural claims that lenders and inspectors treat crawl space condition seriously. We've completed encapsulation projects specifically to satisfy inspection contingencies before closing, and we can provide documentation of pre- and post-project moisture readings that satisfies most inspection reports and lender requirements. Knowing that timeline pressure exists, we build our scheduling around closing deadlines when needed.
 
-Call Home Pride Restoration and Cleaning at (801) 995-2437 to schedule a crawl space assessment. We'll give you an honest read on what's happening beneath your Provo home and a clear scope of work before any project begins.
+Call Home Pride Restoration at (801) 995-2437 to schedule a crawl space assessment. We'll give you an honest read on what's happening beneath your Provo home and a clear scope of work before any project begins.

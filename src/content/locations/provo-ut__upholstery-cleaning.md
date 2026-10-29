@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Provo, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in Provo, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in Provo"
 meta_description: "24/7 upholstery cleaning in Provo, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning provo"
@@ -46,4 +46,4 @@ Home Pride's headquarters is in Saratoga Springs, roughly 15 miles northwest of 
 
 Anyone who has managed or owned rental property near BYU knows that upholstered furniture in those units takes a beating. A couch that would last a decade in a single-family home may see four or five tenants in that same span, each bringing different soiling patterns, food, pet hair, ink, and the occasional mystery stain. We've cleaned furniture in units along North Canyon Road and in the neighborhoods just west of campus where turnover is high and landlords need a fast, reliable turnaround between leases. The dry Provo air is actually an advantage here: low-moisture extraction dries most pieces within two to four hours, which means a unit can be re-staged the same day in most cases. If you're a property manager working a tight vacancy window, that timeline matters.
 
-For scheduling or a same-week appointment, call Home Pride Restoration and Cleaning at **(801) 995-2437**. Whether it's a single accent chair or a full living room set, Provo's climate and your furniture's specific fabric deserve a cleaning approach that accounts for both.
+For scheduling or a same-week appointment, call Home Pride Restoration at **(801) 995-2437**. Whether it's a single accent chair or a full living room set, Provo's climate and your furniture's specific fabric deserve a cleaning approach that accounts for both.

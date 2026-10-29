@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Damage Restoration in Pleasant Grove, UT | Home Pride Restoration and Cleaning"
+title: "Emergency Water Damage Restoration in Pleasant Grove, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Damage Restoration in Pleasant Grove"
 meta_description: "24/7 emergency water damage restoration in Pleasant Grove, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "water damage restoration pleasant grove"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Water Damage Restoration"
 rendered: true
 ---
-Pleasant Grove sits in a narrow band between Utah Lake's moisture-laden air and the Wasatch foothills, where spring snowmelt and summer cloudbursts can overwhelm drainage systems faster than most homeowners expect. When a supply line fails at 2 a.m. or a storm pushes water through a basement window well, the clock starts immediately, mold colonization can begin in as little as 24 to 48 hours, and the porous concrete foundations common in Pleasant Grove's older neighborhoods absorb standing water quickly. Home Pride Restoration and Cleaning has handled water emergencies across Utah County since 1997, and our IICRC-certified crews know exactly what this city's homes demand.
+Pleasant Grove sits in a narrow band between Utah Lake's moisture-laden air and the Wasatch foothills, where spring snowmelt and summer cloudbursts can overwhelm drainage systems faster than most homeowners expect. When a supply line fails at 2 a.m. or a storm pushes water through a basement window well, the clock starts immediately, mold colonization can begin in as little as 24 to 48 hours, and the porous concrete foundations common in Pleasant Grove's older neighborhoods absorb standing water quickly. Home Pride Restoration has handled water emergencies across Utah County since 1997, and our IICRC-certified crews know exactly what this city's homes demand.
 
 ## Why Pleasant Grove Properties See Water Damage Issues
 

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Sewage Cleanup and Sanitization in Provo, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Sewage Cleanup and Sanitization in Provo, UT | Home Pride Restoration"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Provo"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Provo, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "sewage cleanup and sanitization provo"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Sewage backup in Provo? We answer 24/7.** Call now and our crew heads out to contain the contamination and start the cleanup.
 
-Provo sits at roughly 4,500 feet elevation on the eastern bench of Utah Lake, and when the ground freezes hard in January or thaws fast in March, the clay-heavy soils along the Wasatch foothills shift enough to stress sewer laterals that were already aging. When one of those laterals cracks or a municipal main backs up into your basement, you're not dealing with clean water, you're dealing with Category 3 contamination: raw sewage, bacteria, and pathogens that begin colonizing porous surfaces within hours. Home Pride Restoration and Cleaning has handled these calls across Utah County since 1997, and our IICRC-certified technicians carry the equipment and training to stop the spread before it becomes a gut-renovation.
+Provo sits at roughly 4,500 feet elevation on the eastern bench of Utah Lake, and when the ground freezes hard in January or thaws fast in March, the clay-heavy soils along the Wasatch foothills shift enough to stress sewer laterals that were already aging. When one of those laterals cracks or a municipal main backs up into your basement, you're not dealing with clean water, you're dealing with Category 3 contamination: raw sewage, bacteria, and pathogens that begin colonizing porous surfaces within hours. Home Pride Restoration has handled these calls across Utah County since 1997, and our IICRC-certified technicians carry the equipment and training to stop the spread before it becomes a gut-renovation.
 
 ## Why Provo Properties See Sewage Backup More Than You'd Expect
 
@@ -43,7 +43,7 @@ When we arrive, the first priority is containment. Sewage spreads laterally unde
 
 ## Response Time from Our HQ to Provo
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs, roughly 15 miles northwest of downtown Provo via US-89 South or I-15. On a clear day with normal Utah County traffic, our crew can be on your doorstep in 25–40 minutes from the time you call. During peak commute hours on I-15 through Lehi and American Fork, we route through US-89 to avoid the interchange backup, it's a route our drivers know well from years of running jobs in Utah County.
+Home Pride Restoration is based in Saratoga Springs, roughly 15 miles northwest of downtown Provo via US-89 South or I-15. On a clear day with normal Utah County traffic, our crew can be on your doorstep in 25–40 minutes from the time you call. During peak commute hours on I-15 through Lehi and American Fork, we route through US-89 to avoid the interchange backup, it's a route our drivers know well from years of running jobs in Utah County.
 
 If your home is on Provo's east bench or near the BYU campus area, add roughly 5–10 minutes for the surface-street approach. We'll give you an honest ETA when you call (801) 995-2437, not a marketing number.
 

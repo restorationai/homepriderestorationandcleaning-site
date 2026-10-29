@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Trim and Baseboard Installation in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "Trim and Baseboard Installation in Saratoga Springs | Home Pride Restoration"
 h1: "Trim and Baseboard Installation in Saratoga Springs"
 meta_description: "Trim and baseboard installation in Saratoga Springs, including finish carpentry after flooring or water damage. Insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "trim and baseboard installation saratoga springs"
@@ -48,7 +48,7 @@ The third, specific to restoration and flooring jobs, is reinstalling trim over 
 
 ## What does trim and baseboard installation cost?
 
-Trim cost is driven by the linear footage, the profile and material, the number of corners and openings, and whether old trim has to be removed first. The figures below are typical market ranges; these are typical market figures, not Home Pride Restoration and Cleaning quotes.
+Trim cost is driven by the linear footage, the profile and material, the number of corners and openings, and whether old trim has to be removed first. The figures below are typical market ranges; these are typical market figures, not Home Pride Restoration quotes.
 
 | Scenario | Typical range |
 |---|---|
@@ -59,7 +59,7 @@ Trim cost is driven by the linear footage, the profile and material, the number 
 | Baseboard replacement after flooring, per room | $200 - $700 |
 | Paint-grade vs. stain-grade material upgrade | Add 20% - 40% |
 
-Removal and disposal of old trim, and paint or stain if it is in scope, affect the total. Home Pride Restoration and Cleaning provides a written scope before work begins, and when the trim is part of a water or fire damage reconstruction, we document the affected area for the insurance scope.
+Removal and disposal of old trim, and paint or stain if it is in scope, affect the total. Home Pride Restoration provides a written scope before work begins, and when the trim is part of a water or fire damage reconstruction, we document the affected area for the insurance scope.
 
 ## Seasonal and regional considerations
 
@@ -69,6 +69,6 @@ Because so much water damage in this area starts at floor level, from burst pipe
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and installs trim and baseboard throughout Saratoga Springs and the surrounding Utah Valley, including Lehi, American Fork, Eagle Mountain, Orem, Provo, and Pleasant Grove. We handle finish carpentry both as a standalone upgrade and as the reconstruction step after flooring replacement and water or fire damage.
+Home Pride Restoration is based in Saratoga Springs and installs trim and baseboard throughout Saratoga Springs and the surrounding Utah Valley, including Lehi, American Fork, Eagle Mountain, Orem, Provo, and Pleasant Grove. We handle finish carpentry both as a standalone upgrade and as the reconstruction step after flooring replacement and water or fire damage.
 
 If you are replacing flooring, upgrading your baseboard and casing, or rebuilding a room after a leak, call (801) 995-2437 to schedule an assessment and receive a written scope before any work begins.

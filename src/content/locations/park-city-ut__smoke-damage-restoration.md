@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Park City, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Smoke Damage Restoration in Park City, UT | Home Pride Restoration"
 h1: "24/7 Emergency Smoke Damage Restoration in Park City"
 meta_description: "24/7 emergency smoke damage restoration in Park City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "smoke damage restoration park city"
@@ -49,7 +49,7 @@ For Park City's high-altitude, low-humidity environment, drying times after any 
 
 ## Response Time to Park City from Our Saratoga Springs Base
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, roughly 35–40 miles from Park City via I-80. Under normal conditions, that's a 40-to-50-minute drive. During winter months, when Parley's Canyon can slow to a crawl after a storm, response time to the 84060 ZIP code area can extend to 60–75 minutes, we're transparent about that. For properties closer to the I-80 corridor, the drive is shorter; for homes up in the Deer Valley Resort area or on the upper canyon roads, add 10–15 minutes for the final approach.
+Home Pride Restoration operates out of Saratoga Springs, roughly 35–40 miles from Park City via I-80. Under normal conditions, that's a 40-to-50-minute drive. During winter months, when Parley's Canyon can slow to a crawl after a storm, response time to the 84060 ZIP code area can extend to 60–75 minutes, we're transparent about that. For properties closer to the I-80 corridor, the drive is shorter; for homes up in the Deer Valley Resort area or on the upper canyon roads, add 10–15 minutes for the final approach.
 
 When you call (801) 995-2437, the dispatcher will give you an honest ETA based on current road conditions, not a best-case estimate.
 

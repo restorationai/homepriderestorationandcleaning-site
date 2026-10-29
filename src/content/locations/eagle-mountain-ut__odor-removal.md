@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Eagle Mountain, UT | Home Pride Restoration and Cleaning"
+title: "Odor Removal and Deodorization in Eagle Mountain, UT | Home Pride Restoration"
 h1: "Odor Removal and Deodorization in Eagle Mountain"
 meta_description: "24/7 odor removal and deodorization in Eagle Mountain, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "odor removal and deodorization eagle mountain"

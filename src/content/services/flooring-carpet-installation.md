@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Flooring and Carpet Installation in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "Flooring and Carpet Installation in Saratoga Springs | Home Pride Restoration"
 h1: "Flooring and Carpet Installation in Saratoga Springs"
 meta_description: "Flooring and carpet installation in Saratoga Springs, including subfloor prep and reconstruction after water or fire damage. Call (801) 995-2437."
 primary_keyword: "flooring and carpet installation saratoga springs"
@@ -48,7 +48,7 @@ For restoration installs, the failure is reinstalling flooring before the struct
 
 ## What does flooring and carpet installation cost?
 
-Flooring cost is driven by the material, the square footage, how much subfloor repair or leveling the substrate needs, and whether trim and stairs are involved. The figures below are typical market ranges for installed flooring; these are typical market figures, not Home Pride Restoration and Cleaning quotes.
+Flooring cost is driven by the material, the square footage, how much subfloor repair or leveling the substrate needs, and whether trim and stairs are involved. The figures below are typical market ranges for installed flooring; these are typical market figures, not Home Pride Restoration quotes.
 
 | Scenario | Typical range |
 |---|---|
@@ -59,7 +59,7 @@ Flooring cost is driven by the material, the square footage, how much subfloor r
 | Tile flooring, installed | $10 - $20 per sq ft |
 | Subfloor repair / self-leveling prep | $2 - $6 per sq ft of affected area |
 
-Every room and every subfloor is different, and a slab that needs leveling or a subfloor that needs partial replacement changes the number. Home Pride Restoration and Cleaning provides a written scope before any work begins so you know what the material, the prep, and the labor include. When the flooring is part of a water or fire damage claim, we document the affected area for the insurance scope.
+Every room and every subfloor is different, and a slab that needs leveling or a subfloor that needs partial replacement changes the number. Home Pride Restoration provides a written scope before any work begins so you know what the material, the prep, and the labor include. When the flooring is part of a water or fire damage claim, we document the affected area for the insurance scope.
 
 ## Seasonal and regional considerations
 
@@ -69,6 +69,6 @@ Hard water and mineral-heavy supply lines also mean this region sees its share o
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and installs flooring and carpet throughout Saratoga Springs and the surrounding Utah Valley, including Lehi, American Fork, Eagle Mountain, Orem, Provo, and Pleasant Grove. We handle flooring both as a standalone replacement and as the final reconstruction step after water and fire damage.
+Home Pride Restoration is based in Saratoga Springs and installs flooring and carpet throughout Saratoga Springs and the surrounding Utah Valley, including Lehi, American Fork, Eagle Mountain, Orem, Provo, and Pleasant Grove. We handle flooring both as a standalone replacement and as the final reconstruction step after water and fire damage.
 
 If your flooring is worn out, or if a leak or fire has left you needing to rebuild a floor from the subfloor up, call (801) 995-2437 to schedule an in-person assessment and receive a written scope before any work begins.

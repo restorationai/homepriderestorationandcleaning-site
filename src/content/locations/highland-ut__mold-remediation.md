@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Highland, UT | Home Pride Restoration and Cleaning"
+title: "Mold Remediation in Highland, UT | Home Pride Restoration"
 h1: "Mold Remediation in Highland"
 meta_description: "24/7 mold remediation in Highland, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold remediation highland"

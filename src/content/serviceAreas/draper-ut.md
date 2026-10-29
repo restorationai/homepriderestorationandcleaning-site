@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Draper, UT | Home Pride Restoration and Cleaning"
+title: "Restoration Services in Draper, UT | Home Pride Restoration"
 h1: "Restoration Services in Draper"
 meta_description: "Serving Draper, UT with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (801) 995-2437."
 primary_keyword: "restoration services draper"
@@ -19,7 +19,7 @@ state: "UT"
 primary: false
 rendered: true
 ---
-Home Pride Restoration and Cleaning handles the water, fire, mold, and storm damage calls that come out of Draper's mix of established subdivisions and newer foothill construction. Our crews work directly with Draper homeowners, HOAs, and property managers to document the loss, start mitigation, and move the file through the insurance process without the property owner having to manage three contractors at once.
+Home Pride Restoration handles the water, fire, mold, and storm damage calls that come out of Draper's mix of established subdivisions and newer foothill construction. Our crews work directly with Draper homeowners, HOAs, and property managers to document the loss, start mitigation, and move the file through the insurance process without the property owner having to manage three contractors at once.
 
 ## Restoration emergencies common in Draper
 

@@ -77,10 +77,10 @@ For anything above the 10-square-foot threshold, involving HVAC, tied to sewage,
 
 Utah County homes, particularly those in newer developments in Lehi, Eagle Mountain, and Saratoga Springs, often see mold issues tied to rapid construction schedules, tight building envelopes that trap humidity, and irrigation-heavy landscaping that keeps soil moisture elevated near foundations. If your home is less than 15 years old and you're seeing mold, a crawl space vapor barrier or encapsulation issue is worth investigating alongside the obvious sources.
 
-Home Pride Restoration and Cleaning handles [mold remediation](/services/mold-remediation/) and [mold inspection and testing](/services/mold-inspection-testing/) across Utah County and the greater Salt Lake area. If you're not sure whether your situation crosses the threshold, call (801) 995-2437 and describe what you're seeing, a quick conversation can save you from either over-reacting or under-reacting to a situation that has a clear right answer.
+Home Pride Restoration handles [mold remediation](/services/mold-remediation/) and [mold inspection and testing](/services/mold-inspection-testing/) across Utah County and the greater Salt Lake area. If you're not sure whether your situation crosses the threshold, call (801) 995-2437 and describe what you're seeing, a quick conversation can save you from either over-reacting or under-reacting to a situation that has a clear right answer.
 
 ---
 
-**About Home Pride Restoration and Cleaning**
+**About Home Pride Restoration**
 
-Home Pride Restoration and Cleaning LLC is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, Provo, Orem, and surrounding Utah County communities since 1997. Their crews handle mold remediation, mold inspection and testing, water damage restoration, fire and smoke damage restoration, sewage cleanup, and a full range of cleaning services. They are available 24/7 at (801) 995-2437.
+Home Pride Restoration LLC is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, Provo, Orem, and surrounding Utah County communities since 1997. Their crews handle mold remediation, mold inspection and testing, water damage restoration, fire and smoke damage restoration, sewage cleanup, and a full range of cleaning services. They are available 24/7 at (801) 995-2437.

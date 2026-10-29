@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Provo, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Fire Damage Restoration in Provo, UT | Home Pride Restoration"
 h1: "24/7 Emergency Fire Damage Restoration in Provo"
 meta_description: "24/7 emergency fire damage restoration in Provo, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fire damage restoration provo"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Fire Damage Restoration"
 rendered: true
 ---
-Provo sits at roughly 4,500 feet elevation in a high-desert valley where the air is bone-dry for most of the year, and that arid climate is one of the reasons fire moves fast and smoke penetrates deep when a home ignites. Whether it started in a kitchen near BYU campus, a garage off University Avenue, or a basement in one of the older neighborhoods east of Center Street, the hours immediately after a fire determine how much of your home can be saved. Home Pride Restoration and Cleaning has been responding to fire emergencies across Utah County since 1997, and our IICRC-certified crews understand exactly what post-fire conditions look like in Provo's specific housing stock.
+Provo sits at roughly 4,500 feet elevation in a high-desert valley where the air is bone-dry for most of the year, and that arid climate is one of the reasons fire moves fast and smoke penetrates deep when a home ignites. Whether it started in a kitchen near BYU campus, a garage off University Avenue, or a basement in one of the older neighborhoods east of Center Street, the hours immediately after a fire determine how much of your home can be saved. Home Pride Restoration has been responding to fire emergencies across Utah County since 1997, and our IICRC-certified crews understand exactly what post-fire conditions look like in Provo's specific housing stock.
 
 ## Why Provo Homes Face Distinctive Fire Damage Challenges
 
@@ -56,4 +56,4 @@ Most standard homeowner policies in Utah cover sudden and accidental fire damage
 
 One thing we've learned working in Provo's older neighborhoods: homes built in the 1940s and 1950s near the Joaquin area frequently have original redwood or fir framing that chars differently than modern dimensional lumber. That older-growth wood is denser, so it holds structural integrity longer after a fire, which is good news for salvageability, but it also holds smoke odor in the grain at a depth that requires two or three rounds of thermal fogging rather than one. We factor that into our scope from the first walk-through rather than discovering it mid-project.
 
-If your home has been affected by fire, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll have a crew at your Provo address fast, with the equipment and the local knowledge to start protecting what's salvageable from the moment we walk through the door.
+If your home has been affected by fire, call Home Pride Restoration at (801) 995-2437. We'll have a crew at your Provo address fast, with the equipment and the local knowledge to start protecting what's salvageable from the moment we walk through the door.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Roof Leak Cleanup and Repair in Pleasant Grove, UT | Home Pride Restoration and Cleaning"
+title: "Roof Leak Cleanup and Repair in Pleasant Grove, UT | Home Pride Restoration"
 h1: "Roof Leak Cleanup and Repair in Pleasant Grove"
 meta_description: "24/7 roof leak cleanup and repair in Pleasant Grove, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "roof leak cleanup and repair pleasant grove"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Roof Leak Cleanup and Repair"
 rendered: true
 ---
-Pleasant Grove sits at the base of the Wasatch Front where late-spring snowmelt and sudden summer thunderstorms can dump inches of water in under an hour, and when that water finds a compromised shingle, a cracked flashing joint, or a clogged valley, it doesn't stop at the roof deck. It travels. By the time you notice the brown ring spreading across your ceiling or the musty smell drifting down from the attic, water has likely been wicking into insulation, framing, and drywall for longer than you'd expect. Home Pride Restoration and Cleaning has been responding to interior roof leak damage across Utah County since 1997, and we know how fast a small drip becomes a structural problem in this climate.
+Pleasant Grove sits at the base of the Wasatch Front where late-spring snowmelt and sudden summer thunderstorms can dump inches of water in under an hour, and when that water finds a compromised shingle, a cracked flashing joint, or a clogged valley, it doesn't stop at the roof deck. It travels. By the time you notice the brown ring spreading across your ceiling or the musty smell drifting down from the attic, water has likely been wicking into insulation, framing, and drywall for longer than you'd expect. Home Pride Restoration has been responding to interior roof leak damage across Utah County since 1997, and we know how fast a small drip becomes a structural problem in this climate.
 
 ## Why Pleasant Grove Properties See Roof Leak Damage
 

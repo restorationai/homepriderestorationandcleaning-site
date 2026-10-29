@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Lehi, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in Lehi, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in Lehi"
 meta_description: "24/7 upholstery cleaning in Lehi, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning lehi"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Upholstery Cleaning"
 rendered: true
 ---
-Lehi's explosive growth over the past decade has packed a lot of new furniture into a lot of new homes, and Utah Valley's high-desert climate does that furniture no favors. The combination of fine alkaline dust blowing off the Traverse Mountains, low indoor humidity that causes fabric fibers to become brittle, and the red-clay soil tracked in from construction sites throughout the city means sofas and chairs here accumulate a specific kind of ground-in grime that standard vacuuming never fully addresses. Home Pride Restoration and Cleaning has been working in this corridor since 1997, and upholstery cleaning in Lehi calls for a calibrated approach you won't get from a one-size-fits-all service.
+Lehi's explosive growth over the past decade has packed a lot of new furniture into a lot of new homes, and Utah Valley's high-desert climate does that furniture no favors. The combination of fine alkaline dust blowing off the Traverse Mountains, low indoor humidity that causes fabric fibers to become brittle, and the red-clay soil tracked in from construction sites throughout the city means sofas and chairs here accumulate a specific kind of ground-in grime that standard vacuuming never fully addresses. Home Pride Restoration has been working in this corridor since 1997, and upholstery cleaning in Lehi calls for a calibrated approach you won't get from a one-size-fits-all service.
 
 ## Why Lehi Upholstery Wears the Way It Does
 
@@ -50,4 +50,4 @@ Home Pride's headquarters sits in Saratoga Springs, roughly 10–12 minutes from
 
 Lehi has seen a significant wave of new-construction homes in the 84043 ZIP code corridor finished with builder-grade microfiber sofas included in design-center packages. These pieces often have a "W" or "WS" cleaning code on the tag, but the backing fabric used by several regional suppliers is heat-sensitive in ways the tag doesn't disclose. We've learned through experience to run a steam-temperature test on an inconspicuous area before committing to full hot-water extraction on these particular pieces, a step that takes two minutes but has saved more than a few sectionals from permanent backing separation. If your furniture came with the home or was purchased through a local builder's design studio, mention that when you call so we can flag it for the technician.
 
-When you're ready to schedule, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll confirm your fabric types over the phone, give you an honest estimate, and get your Lehi home's furniture looking and smelling the way it should.
+When you're ready to schedule, call Home Pride Restoration at (801) 995-2437. We'll confirm your fabric types over the phone, give you an honest estimate, and get your Lehi home's furniture looking and smelling the way it should.

@@ -1,7 +1,7 @@
 ---
 hero: '/images/services/storm-damage-restoration.webp'
 archetype: "service-landing"
-title: "24/7 Emergency Storm Damage Restoration in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Storm Damage Restoration in Saratoga Springs | Home Pride Restoration"
 h1: "24/7 Emergency Storm Damage Restoration in Saratoga Springs"
 meta_description: "24/7 emergency storm damage restoration in Saratoga Springs and surrounding areas. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "storm damage restoration saratoga springs"
@@ -57,6 +57,6 @@ Saratoga Springs and the broader Utah Valley see a specific storm calendar worth
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and responds to storm damage throughout Utah Valley and the surrounding region, including Eagle Mountain, Lehi, American Fork, Highland, Cedar Hills, and Pleasant Grove. The storm damage restoration × city pages for each of these communities link back here for full service detail.
+Home Pride Restoration is based in Saratoga Springs and responds to storm damage throughout Utah Valley and the surrounding region, including Eagle Mountain, Lehi, American Fork, Highland, Cedar Hills, and Pleasant Grove. The storm damage restoration × city pages for each of these communities link back here for full service detail.
 
 If your home or property took damage in the last storm, or if you're looking at a ceiling stain and wondering whether that old wind event is the reason, call (801) 995-2437 to schedule a storm damage assessment. The sooner the structure is documented and dried, the smaller the repair scope stays.

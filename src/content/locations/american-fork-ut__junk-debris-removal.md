@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Junk & Debris Removal in American Fork, UT | Home Pride Restoration and Cleaning"
+title: "Junk & Debris Removal in American Fork, UT | Home Pride Restoration"
 h1: "Junk & Debris Removal in American Fork"
 meta_description: "24/7 junk & debris removal in American Fork, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "junk & debris removal american fork"
@@ -38,7 +38,7 @@ For larger estate or whole-home cleanouts, we can stage multiple loads across a 
 
 ## Response Time to American Fork from Our Saratoga Springs HQ
 
-Home Pride Restoration and Cleaning has operated out of Saratoga Springs since 1997, which puts American Fork roughly 10–15 minutes away via Pioneer Crossing or Redwood Road depending on traffic. For scheduled cleanouts, we typically confirm a same-week or next-day appointment. For post-storm debris removal or situations where a yard or driveway needs to be cleared quickly, after a tree comes down, after a contractor leaves a mess, or before a real estate showing, we can often dispatch a crew within a few hours of your call at (801) 995-2437.
+Home Pride Restoration has operated out of Saratoga Springs since 1997, which puts American Fork roughly 10–15 minutes away via Pioneer Crossing or Redwood Road depending on traffic. For scheduled cleanouts, we typically confirm a same-week or next-day appointment. For post-storm debris removal or situations where a yard or driveway needs to be cleared quickly, after a tree comes down, after a contractor leaves a mess, or before a real estate showing, we can often dispatch a crew within a few hours of your call at (801) 995-2437.
 
 The proximity matters practically: a crew that's 12 minutes away can make a second run to the transfer station and return the same afternoon, which means larger jobs don't automatically become two-day projects.
 
@@ -50,4 +50,4 @@ A significant share of American Fork's newer neighborhoods, particularly in the 
 
 One thing that catches homeowners off guard in American Fork's older west-side neighborhoods: properties built in the 1950s and 60s often have detached garages with narrow single-car doors, sometimes as tight as 8 feet wide, that were standard for the era but make it impossible to maneuver large furniture or appliances straight out. Our crews carry furniture dollies and moving straps specifically for these situations, and we're practiced at angling pieces through tight openings without gouging door frames. It's a small thing, but it's the difference between a clean job and a repair bill.
 
-If your American Fork property is ready to be cleared out, garage, basement, yard, or the whole house, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll give you a firm price, show up on time, and leave the space clean.
+If your American Fork property is ready to be cleared out, garage, basement, yard, or the whole house, call Home Pride Restoration at (801) 995-2437. We'll give you a firm price, show up on time, and leave the space clean.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Herriman, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Damage Restoration in Herriman, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Damage Restoration in Herriman"
 meta_description: "24/7 emergency water damage restoration in Herriman, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "water damage restoration herriman"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Water damage emergency in Herriman? We answer 24/7.** Call now and our crew heads out to stop the water and start drying your property.
 
-Herriman sits at roughly 4,900 feet elevation on the western bench of the Wasatch Front, where freeze-thaw cycles hit hard between November and March. When a supply line bursts behind a wall or a sump pump fails during a spring snowmelt surge, water can travel fast through the newer-construction slab foundations that dominate Herriman's master-planned communities, soaking subfloor assemblies and wall cavities before a homeowner even notices the smell. Home Pride Restoration and Cleaning has been responding to exactly these calls since 1997, and our IICRC Certified technicians carry the equipment to stop the damage before it compounds.
+Herriman sits at roughly 4,900 feet elevation on the western bench of the Wasatch Front, where freeze-thaw cycles hit hard between November and March. When a supply line bursts behind a wall or a sump pump fails during a spring snowmelt surge, water can travel fast through the newer-construction slab foundations that dominate Herriman's master-planned communities, soaking subfloor assemblies and wall cavities before a homeowner even notices the smell. Home Pride Restoration has been responding to exactly these calls since 1997, and our IICRC Certified technicians carry the equipment to stop the damage before it compounds.
 
 ## Why Herriman Properties Are Vulnerable to Water Damage
 

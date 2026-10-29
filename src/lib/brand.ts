@@ -4,15 +4,15 @@
 
 export const brand = {
   slug: "homepriderestorationandcleaning",
-  displayName: "Home Pride Restoration and Cleaning",
-  shortName: "Home Pride Restoration and Cleaning",
+  displayName: "Home Pride Restoration",
+  shortName: "Home Pride Restoration",
   legalName: "Home Pride Restoration and Cleaning",
   // Registered DBA / trade name — filled by rename_site_sync.py the moment
   // the state approves the client's DBA filing (empty until then). When set,
   // the footer carries the "[legal] doing business as [DBA]" line and schema
   // declares it as the business name, so Google/BrightLocal find the new
   // name corroborated on the site before and during the GBP rename.
-  dbaName: "",
+  dbaName: "Home Pride Restoration - 24/7 Emergency Water & Fire Damage Restoration, Mold Remediation",
   domain: "homepriderestorationandcleaning.com",
   canonicalUrl: "https://homepriderestorationandcleaning.com",
   phone: "(801) 995-2437",
@@ -85,7 +85,7 @@ export const brand = {
   tradeNoun: "restoration",
   specialistPhrase: "Damage Restoration Specialists",
   announcementSuffix: "24/7 Emergency Response",
-  homeAboutBlurb: "Home Pride Restoration and Cleaning serves Saratoga Springs and the surrounding UT area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
+  homeAboutBlurb: "Home Pride Restoration serves Saratoga Springs and the surrounding UT area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
 } as const;
 
 export const entityId = `${brand.canonicalUrl}/#identity`;

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in South Jordan, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Damage Restoration in South Jordan, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Damage Restoration in South Jordan"
 meta_description: "24/7 emergency water damage restoration in South Jordan, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "water damage restoration south jordan"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Water damage emergency in South Jordan? We answer 24/7.** Call now and our crew heads out to stop the water and start drying your property.
 
-South Jordan sits at roughly 4,400 feet elevation on the western bench of the Wasatch Front, where snowmelt from the Oquirrh Mountains pushes groundwater tables higher every spring and winter freeze-thaw cycles stress supply lines in ways that flat-valley cities rarely see. When a pipe lets go or a water heater fails in a home here, whether that's a newer build near Daybreak's community lakes or an older ranch-style off Redwood Road, standing water can reach the subfloor in under an hour. Home Pride Restoration and Cleaning has been responding to exactly these situations since 1997, and our team carries IICRC certification to every job.
+South Jordan sits at roughly 4,400 feet elevation on the western bench of the Wasatch Front, where snowmelt from the Oquirrh Mountains pushes groundwater tables higher every spring and winter freeze-thaw cycles stress supply lines in ways that flat-valley cities rarely see. When a pipe lets go or a water heater fails in a home here, whether that's a newer build near Daybreak's community lakes or an older ranch-style off Redwood Road, standing water can reach the subfloor in under an hour. Home Pride Restoration has been responding to exactly these situations since 1997, and our team carries IICRC certification to every job.
 
 ## Why South Jordan Properties See Water Damage Differently
 
@@ -49,4 +49,4 @@ Most homeowner policies in Utah cover sudden and accidental water discharge, a b
 
 Something worth knowing if you live near the older sections of South Jordan along 106th South and Redwood Road: homes built in the 1980s and early 1990s in this area frequently used polybutylene supply lines, a material that was phased out nationally after widespread failure claims. Polybutylene fittings are prone to micro-fractures that worsen with the chlorine levels in Jordan Valley Water Conservancy District's treated supply. If we find evidence of polybutylene during a water loss, we flag it immediately, not because remediation changes, but because a second failure is statistically likely and your insurer may require disclosure before renewing coverage.
 
-If you're dealing with standing water, wet drywall, or a soaked subfloor anywhere in South Jordan right now, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll have a certified technician at your door with extraction equipment and a clear plan, not a sales pitch.
+If you're dealing with standing water, wet drywall, or a soaked subfloor anywhere in South Jordan right now, call Home Pride Restoration at (801) 995-2437. We'll have a certified technician at your door with extraction equipment and a clear plan, not a sales pitch.

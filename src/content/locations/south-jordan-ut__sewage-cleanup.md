@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in South Jordan | Home Pride Restoration and Cleaning"
+title: "Emergency Sewage Cleanup and Sanitization in South Jordan | Home Pride Restoration"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in South Jordan"
 meta_description: "24/7 emergency sewage cleanup and sanitization in South Jordan, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "sewage cleanup and sanitization south jordan"
@@ -39,7 +39,7 @@ Once the space is cleared, we apply EPA-registered hospital-grade disinfectants 
 
 ## Response Time to South Jordan
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, which puts our crew roughly 15 to 20 minutes from most South Jordan addresses via Redwood Road or Bangerter Highway depending on traffic. For properties in the 84095 ZIP code, which covers the bulk of South Jordan's residential grid, we typically have a technician on-site within 45 to 60 minutes of your call, any time of day or night. Reach us at (801) 995-2437 and you'll speak with someone who can dispatch immediately, not a call center routing your information to a queue.
+Home Pride Restoration operates out of Saratoga Springs, which puts our crew roughly 15 to 20 minutes from most South Jordan addresses via Redwood Road or Bangerter Highway depending on traffic. For properties in the 84095 ZIP code, which covers the bulk of South Jordan's residential grid, we typically have a technician on-site within 45 to 60 minutes of your call, any time of day or night. Reach us at (801) 995-2437 and you'll speak with someone who can dispatch immediately, not a call center routing your information to a queue.
 
 ## South Jordan Insurance Coordination
 

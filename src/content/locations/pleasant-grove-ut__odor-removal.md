@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Pleasant Grove, UT | Home Pride Restoration and Cleaning"
+title: "Odor Removal and Deodorization in Pleasant Grove, UT | Home Pride Restoration"
 h1: "Odor Removal and Deodorization in Pleasant Grove"
 meta_description: "24/7 odor removal and deodorization in Pleasant Grove, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "odor removal and deodorization pleasant grove"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-Pleasant Grove sits at roughly 4,500 feet against the Wasatch foothills, and that elevation does something most homeowners don't expect: the dry, cold winters slow the natural off-gassing of odor-causing compounds, while the sealed-tight homes people run all season let smoke, pet, and mold odors concentrate until they're embedded in drywall, subflooring, and HVAC ductwork. When a smell won't leave no matter how many candles you burn or how many times you repaint, it's usually because the source molecules are still there, and that's the problem Home Pride Restoration and Cleaning has been solving since 1997.
+Pleasant Grove sits at roughly 4,500 feet against the Wasatch foothills, and that elevation does something most homeowners don't expect: the dry, cold winters slow the natural off-gassing of odor-causing compounds, while the sealed-tight homes people run all season let smoke, pet, and mold odors concentrate until they're embedded in drywall, subflooring, and HVAC ductwork. When a smell won't leave no matter how many candles you burn or how many times you repaint, it's usually because the source molecules are still there, and that's the problem Home Pride Restoration has been solving since 1997.
 
 ## Why Pleasant Grove Homes Tend to Hold Odors Longer
 
@@ -54,4 +54,4 @@ The method we choose depends on the odor source, the home's construction, and wh
 
 Homes on the eastern bench of Pleasant Grove, particularly those built in the late 1970s and early 1980s on larger lots near the foothills, frequently have unfinished or partially finished basements with exposed concrete block walls. Concrete block is highly absorptive and holds mold and smoke odors in its pores long after the visible source is gone. In our experience working in this area, skipping a masonry encapsulant on those walls after deodorization is the single most common reason an odor comes back six months later. It's an extra step, but it's the difference between a job that holds and one that doesn't.
 
-If you're dealing with a smell in your Pleasant Grove home that keeps returning, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We'll identify the source, explain exactly which method fits your situation, and give you a straight answer on timeline and cost before any equipment comes off the truck.
+If you're dealing with a smell in your Pleasant Grove home that keeps returning, call Home Pride Restoration at **(801) 995-2437**. We'll identify the source, explain exactly which method fits your situation, and give you a straight answer on timeline and cost before any equipment comes off the truck.

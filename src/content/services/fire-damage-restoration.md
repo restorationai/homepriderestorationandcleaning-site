@@ -1,7 +1,7 @@
 ---
 hero: '/images/services/fire-damage-restoration.webp'
 archetype: "service-landing"
-title: "24/7 Emergency Fire Damage Restoration in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Fire Damage Restoration in Saratoga Springs | Home Pride Restoration"
 h1: "24/7 Emergency Fire Damage Restoration in Saratoga Springs"
 meta_description: "24/7 emergency fire damage restoration in Saratoga Springs and surrounding areas. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fire damage restoration saratoga springs"
@@ -60,7 +60,7 @@ The most common failure in fire damage repair is treating all soot the same. Cre
 
 Insurance adjusters look for a few specific things: a documented scope that distinguishes between salvageable and non-salvageable materials, photographic evidence of pre-cleaning conditions, a contents inventory with replacement values, and a clear line between cleaning costs and reconstruction costs. Adjusters are experienced at identifying scopes that lump everything together to obscure what was actually done. A detailed, itemized restoration report protects your claim.
 
-IICRC-certified technicians are trained in the S700 Standard for Professional Fire and Smoke Damage Restoration, the industry benchmark that defines proper soot characterization, cleaning sequences, and documentation requirements. Home Pride Restoration and Cleaning holds IICRC certification and operates.
+IICRC-certified technicians are trained in the S700 Standard for Professional Fire and Smoke Damage Restoration, the industry benchmark that defines proper soot characterization, cleaning sequences, and documentation requirements. Home Pride Restoration holds IICRC certification and operates.
 
 ## Seasonal and regional considerations
 
@@ -68,4 +68,4 @@ Utah's dry climate and high-altitude winters create specific fire risk patterns.
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and serves communities throughout Utah County and the greater Wasatch Front, including Eagle Mountain, Lehi, American Fork, Pleasant Grove, Orem, and surrounding areas. City-specific fire damage restoration pages link back here for full process detail.
+Home Pride Restoration is based in Saratoga Springs and serves communities throughout Utah County and the greater Wasatch Front, including Eagle Mountain, Lehi, American Fork, Pleasant Grove, Orem, and surrounding areas. City-specific fire damage restoration pages link back here for full process detail.

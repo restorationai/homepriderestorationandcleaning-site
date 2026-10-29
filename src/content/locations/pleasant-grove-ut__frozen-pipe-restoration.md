@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Frozen Pipe Restoration in Pleasant Grove, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Frozen Pipe Restoration in Pleasant Grove, UT | Home Pride Restoration"
 h1: "24/7 Emergency Frozen Pipe Restoration in Pleasant Grove"
 meta_description: "24/7 emergency frozen pipe restoration in Pleasant Grove, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "frozen pipe restoration pleasant grove"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Frozen Pipe Restoration"
 rendered: true
 ---
-Pleasant Grove sits at roughly 4,500 feet along the Wasatch Front, and when an Arctic front drops overnight lows into the single digits, which happens multiple times each January and February, the pipes in homes built before Utah County's modern insulation codes are especially exposed. A frozen pipe doesn't announce itself until it thaws, and by then water can be sheeting behind drywall, soaking subfloor, and wicking into framing before a homeowner even knows the line failed. Home Pride Restoration and Cleaning has been responding to exactly this kind of cold-weather emergency across Utah Valley since 1997.
+Pleasant Grove sits at roughly 4,500 feet along the Wasatch Front, and when an Arctic front drops overnight lows into the single digits, which happens multiple times each January and February, the pipes in homes built before Utah County's modern insulation codes are especially exposed. A frozen pipe doesn't announce itself until it thaws, and by then water can be sheeting behind drywall, soaking subfloor, and wicking into framing before a homeowner even knows the line failed. Home Pride Restoration has been responding to exactly this kind of cold-weather emergency across Utah Valley since 1997.
 
 ## Why Pleasant Grove Properties See Frozen Pipe Damage
 
@@ -54,4 +54,4 @@ If your home is part of a Pleasant Grove HOA, check your CC&Rs before any contra
 
 Something specific to Pleasant Grove's older east-side housing stock: homes built in the 1960s and early 1970s in this area frequently used galvanized steel supply lines rather than copper. Galvanized corrodes from the inside out, and a freeze event that would merely stress a copper line can split a galvanized pipe that's already compromised by decades of mineral buildup from Utah County's moderately hard water. If your home is in that vintage range and you've had a freeze, it's worth having a plumber assess the full line condition once the water damage is mitigated, a second failure in the same cold snap is more common than homeowners expect.
 
-If you're dealing with a burst or thawing pipe in Pleasant Grove right now, call (801) 995-2437. Home Pride Restoration and Cleaning responds to frozen pipe emergencies across Utah Valley, and we'll walk you through the immediate steps, shutoff location, power safety, and what not to do before we arrive, while a crew is already on the way.
+If you're dealing with a burst or thawing pipe in Pleasant Grove right now, call (801) 995-2437. Home Pride Restoration responds to frozen pipe emergencies across Utah Valley, and we'll walk you through the immediate steps, shutoff location, power safety, and what not to do before we arrive, while a crew is already on the way.

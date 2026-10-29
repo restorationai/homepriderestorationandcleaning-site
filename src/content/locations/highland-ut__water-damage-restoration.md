@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Highland, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Damage Restoration in Highland, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Damage Restoration in Highland"
 meta_description: "24/7 emergency water damage restoration in Highland, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "water damage restoration highland"
@@ -38,4 +38,4 @@ Our home base in Saratoga Springs puts us a short run from Highland via Pioneer 
 
 One thing that trips up a lot of Highland homeowners: because so many lots here are graded for walkout basements on sloped ground, water from a slab leak or a failed irrigation line tends to migrate toward the low side of the foundation rather than pooling evenly, so the visible wet spot on the carpet is often not directly above the source. We routinely find the actual entry point several feet uphill from where the damage first shows, which is why moisture mapping before demo matters more in Highland's walkout-style homes than in a flat-lot house.
 
-Water sitting under Highland flooring or inside a finished basement wall doesn't improve with time, and mold can begin colonizing damp drywall and framing within 24 to 48 hours. Home Pride Restoration and Cleaning has been handling water damage across Utah County since 1997, and our technicians are IICRC certified. If you're looking at standing water, a soaked carpet, or a ceiling stain spreading in a Highland home right now, call (801) 995-2437 and we'll walk you through what to do before we arrive.
+Water sitting under Highland flooring or inside a finished basement wall doesn't improve with time, and mold can begin colonizing damp drywall and framing within 24 to 48 hours. Home Pride Restoration has been handling water damage across Utah County since 1997, and our technicians are IICRC certified. If you're looking at standing water, a soaked carpet, or a ceiling stain spreading in a Highland home right now, call (801) 995-2437 and we'll walk you through what to do before we arrive.

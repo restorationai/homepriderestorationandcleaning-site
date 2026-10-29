@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Junk & Debris Removal in Pleasant Grove, UT | Home Pride Restoration and Cleaning"
+title: "Junk & Debris Removal in Pleasant Grove, UT | Home Pride Restoration"
 h1: "Junk & Debris Removal in Pleasant Grove"
 meta_description: "24/7 junk & debris removal in Pleasant Grove, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "junk & debris removal pleasant grove"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Junk & Debris Removal"
 rendered: true
 ---
-Pleasant Grove sits at the foot of the Wasatch Range, and that geography shapes more than just the view. Harsh freeze-thaw winters crack concrete, push debris into yards, and accelerate the deterioration of sheds, fences, and outbuildings, especially on the older lots along the city's established east-side streets near Grove Creek. When a garage finally gives way or a basement cleanout has been postponed one season too long, the pile that results isn't just an eyesore; it's a project that needs a truck, muscle, and a plan. Home Pride Restoration and Cleaning has been handling exactly that kind of haul since 1997.
+Pleasant Grove sits at the foot of the Wasatch Range, and that geography shapes more than just the view. Harsh freeze-thaw winters crack concrete, push debris into yards, and accelerate the deterioration of sheds, fences, and outbuildings, especially on the older lots along the city's established east-side streets near Grove Creek. When a garage finally gives way or a basement cleanout has been postponed one season too long, the pile that results isn't just an eyesore; it's a project that needs a truck, muscle, and a plan. Home Pride Restoration has been handling exactly that kind of haul since 1997.
 
 ## Why Pleasant Grove Properties Accumulate More Than You'd Expect
 

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Tile & Grout Cleaning in South Jordan, UT | Home Pride Restoration and Cleaning"
+title: "Tile & Grout Cleaning in South Jordan, UT | Home Pride Restoration"
 h1: "Tile & Grout Cleaning in South Jordan"
 meta_description: "24/7 tile & grout cleaning in South Jordan, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "tile & grout cleaning south jordan"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Tile & Grout Cleaning"
 rendered: true
 ---
-South Jordan's hard water is no secret, the Utah Valley aquifer delivers calcium and magnesium concentrations that leave a chalky film on shower tile within weeks of a professional cleaning if the grout isn't sealed properly afterward. Combine that mineral load with the sandy, iron-rich soil that tracks in off the Jordan River Parkway trails and you get grout lines that turn rust-orange faster than almost anywhere else in the Salt Lake Valley. Home Pride Restoration and Cleaning has been working in homes across the 84095 corridor since 1997, and tile and grout cleaning here requires a different calibration than it does in older, wetter markets.
+South Jordan's hard water is no secret, the Utah Valley aquifer delivers calcium and magnesium concentrations that leave a chalky film on shower tile within weeks of a professional cleaning if the grout isn't sealed properly afterward. Combine that mineral load with the sandy, iron-rich soil that tracks in off the Jordan River Parkway trails and you get grout lines that turn rust-orange faster than almost anywhere else in the Salt Lake Valley. Home Pride Restoration has been working in homes across the 84095 corridor since 1997, and tile and grout cleaning here requires a different calibration than it does in older, wetter markets.
 
 ## Why South Jordan Properties See Accelerated Grout Deterioration
 
@@ -50,4 +50,4 @@ For vertical tile, shower surrounds, backsplashes, we use a low-flow application
 
 One thing that surprises South Jordan homeowners: even a high-quality penetrating sealer will show mineral hazing within 6–12 months if the floor is mopped regularly with unfiltered tap water. This isn't a sealer failure, it's the same calcium carbonate chemistry that builds up in your showerhead. The practical fix is simple: add a splash of white vinegar to your mop bucket once a month, or use a spray-and-wipe cleaner formulated for hard-water tile. It won't dissolve the sealer, but it will prevent the mineral film from bonding into the grout surface between professional cleanings. We mention this to every customer in the 84095 ZIP code area because it's the single biggest factor in how long a professional cleaning actually lasts.
 
-If your tile floors or shower surrounds are looking dull, streaky, or discolored despite regular cleaning, the grout is almost certainly the culprit, and a professional extraction cleaning followed by proper sealing will make a visible difference the same day. Call Home Pride Restoration and Cleaning at (801) 995-2437 to schedule an assessment for your South Jordan home.
+If your tile floors or shower surrounds are looking dull, streaky, or discolored despite regular cleaning, the grout is almost certainly the culprit, and a professional extraction cleaning followed by proper sealing will make a visible difference the same day. Call Home Pride Restoration at (801) 995-2437 to schedule an assessment for your South Jordan home.

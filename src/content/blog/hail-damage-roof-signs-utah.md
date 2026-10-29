@@ -60,10 +60,10 @@ On the stabilization side, that means a proper tarp or emergency board-up the sa
 
 On the paperwork side, a written scope of damage, dated photos, and moisture readings give your adjuster something concrete to work from instead of a verbal description. For homes where the initial hail event also brought high wind, our [wind damage insurance coverage guide](/blog/does-homeowners-insurance-cover-wind-damage/) covers how insurers typically split hail and wind claims, which is worth knowing before you sign off on an estimate.
 
-If you're not sure whether what you're looking at is worth a claim, a roof and attic assessment settles it faster than guessing from the ground. Home Pride Restoration and Cleaning can document the damage, tarp anything urgent, and start the interior drying conversation the same visit if water has already gotten in.
+If you're not sure whether what you're looking at is worth a claim, a roof and attic assessment settles it faster than guessing from the ground. Home Pride Restoration can document the damage, tarp anything urgent, and start the interior drying conversation the same visit if water has already gotten in.
 
 ---
 
-**About Home Pride Restoration and Cleaning**
+**About Home Pride Restoration**
 
-Home Pride Restoration and Cleaning is an IICRC-certified restoration company that has served Saratoga Springs and the surrounding Wasatch Front and Wasatch Back, including Heber City and Park City, since 1997. Their crews handle storm damage restoration, roof leak repair, water damage restoration, and mold remediation, and the company operates 24/7 for emergency stabilization work.
+Home Pride Restoration is an IICRC-certified restoration company that has served Saratoga Springs and the surrounding Wasatch Front and Wasatch Back, including Heber City and Park City, since 1997. Their crews handle storm damage restoration, roof leak repair, water damage restoration, and mold remediation, and the company operates 24/7 for emergency stabilization work.

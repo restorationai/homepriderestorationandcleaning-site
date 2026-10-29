@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Lindon, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Damage Restoration in Lindon, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Damage Restoration in Lindon"
 meta_description: "24/7 emergency water damage restoration in Lindon, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "water damage restoration lindon"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Water Damage Restoration"
 rendered: true
 ---
-**Water damage emergency in Lindon?** Call now for emergency service before a slow leak under a slab or a failed water heater turns into warped flooring and a mold problem down the line. Home Pride Restoration and Cleaning has worked across Utah County since 1997, and Lindon's mix of newer slab-on-grade construction and older homes near the benches each come with their own drying challenges.
+**Water damage emergency in Lindon?** Call now for emergency service before a slow leak under a slab or a failed water heater turns into warped flooring and a mold problem down the line. Home Pride Restoration has worked across Utah County since 1997, and Lindon's mix of newer slab-on-grade construction and older homes near the benches each come with their own drying challenges.
 
 ## Why Lindon Properties See Water Damage Issues
 
@@ -38,4 +38,4 @@ Many water losses in Lindon trace back to appliance failures, plumbing supply li
 
 One thing that catches homeowners off guard in Lindon: secondary (pressurized) irrigation systems run on a separate schedule from culinary water, and a leak in that system doesn't always show up on a city water bill the way a culinary line leak would. We've found that checking irrigation valve boxes and backflow preventers is a useful early step when the water source isn't obvious, especially in yards with in-ground sprinkler systems installed in the last fifteen to twenty years.
 
-If you're standing in water right now or just found a damp spot that shouldn't be there, call Home Pride Restoration and Cleaning at (801) 995-2437. We're IICRC certified, and familiar enough with Lindon's soil, irrigation setups, and housing stock to get ahead of a water problem before it becomes a structural one.
+If you're standing in water right now or just found a damp spot that shouldn't be there, call Home Pride Restoration at (801) 995-2437. We're IICRC certified, and familiar enough with Lindon's soil, irrigation setups, and housing stock to get ahead of a water problem before it becomes a structural one.

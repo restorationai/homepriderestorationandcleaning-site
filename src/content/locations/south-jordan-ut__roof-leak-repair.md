@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Roof Leak Cleanup and Repair in South Jordan, UT | Home Pride Restoration and Cleaning"
+title: "Roof Leak Cleanup and Repair in South Jordan, UT | Home Pride Restoration"
 h1: "Roof Leak Cleanup and Repair in South Jordan"
 meta_description: "24/7 roof leak cleanup and repair in South Jordan, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "roof leak cleanup and repair south jordan"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Roof Leak Cleanup and Repair"
 rendered: true
 ---
-South Jordan's rapid growth along the Bangerter Highway corridor has brought thousands of new roofs online in the past decade, but even recently built homes here aren't immune to the freeze-thaw cycles that hammer the Wasatch Front every winter. When snowmelt backs up under shingles or a late-spring hailstorm punches through flashing, water finds its way into attic insulation, ceiling joists, and drywall before most homeowners realize anything is wrong. Home Pride Restoration and Cleaning has been responding to interior roof leak damage across the Salt Lake Valley since 1997, and we know exactly what that water is doing inside your walls right now.
+South Jordan's rapid growth along the Bangerter Highway corridor has brought thousands of new roofs online in the past decade, but even recently built homes here aren't immune to the freeze-thaw cycles that hammer the Wasatch Front every winter. When snowmelt backs up under shingles or a late-spring hailstorm punches through flashing, water finds its way into attic insulation, ceiling joists, and drywall before most homeowners realize anything is wrong. Home Pride Restoration has been responding to interior roof leak damage across the Salt Lake Valley since 1997, and we know exactly what that water is doing inside your walls right now.
 
 ## Why South Jordan Homes Are Vulnerable to Roof Leak Damage
 
@@ -52,4 +52,4 @@ Most sudden roof leak events, storm damage, hailstrike, wind-lifted flashing, ar
 
 Here's something that catches homeowners off guard in South Jordan's newer subdivisions: the expansive clay soils common throughout the Jordan Valley can absorb roof runoff that isn't properly channeled away from the foundation. When a roof leak goes unaddressed and downspouts or gutters are overwhelmed, water migrates along the foundation line and can cause lateral pressure on basement walls. We flag this on every job where we see evidence of prolonged roof drainage failure, not because it's always our scope, but because catching it early saves you a much larger repair bill later.
 
-If you're seeing a water stain on your ceiling, hearing dripping in your attic, or noticing soft spots in drywall after a recent storm or snowmelt event, don't wait to see if it dries on its own. Call Home Pride Restoration and Cleaning at (801) 995-2437. We'll assess the full extent of the damage in South Jordan, stop the water, and rebuild, so you're not managing three separate contractors while your home continues to absorb moisture.
+If you're seeing a water stain on your ceiling, hearing dripping in your attic, or noticing soft spots in drywall after a recent storm or snowmelt event, don't wait to see if it dries on its own. Call Home Pride Restoration at (801) 995-2437. We'll assess the full extent of the damage in South Jordan, stop the water, and rebuild, so you're not managing three separate contractors while your home continues to absorb moisture.

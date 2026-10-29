@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Junk & Debris Removal in Riverton, UT | Home Pride Restoration and Cleaning"
+title: "Junk & Debris Removal in Riverton, UT | Home Pride Restoration"
 h1: "Junk & Debris Removal in Riverton"
 meta_description: "24/7 junk & debris removal in Riverton, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "junk & debris removal riverton"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Junk & Debris Removal"
 rendered: true
 ---
-Riverton's rapid growth along the Bangerter Highway corridor has left a lot of homeowners sitting on decades of accumulated stuff, outgrown furniture from subdivision upgrades, leftover building materials from basement finishes, and the kind of garage overflow that quietly doubles in volume every winter. When a cleanout finally can't wait, the last thing you need is a hauling crew that shows up late, charges by the mystery, or leaves you managing a pile at the curb. Home Pride Restoration and Cleaning has been handling junk and debris removal across the Salt Lake Valley since 1997, and we know what a Riverton property actually looks like inside.
+Riverton's rapid growth along the Bangerter Highway corridor has left a lot of homeowners sitting on decades of accumulated stuff, outgrown furniture from subdivision upgrades, leftover building materials from basement finishes, and the kind of garage overflow that quietly doubles in volume every winter. When a cleanout finally can't wait, the last thing you need is a hauling crew that shows up late, charges by the mystery, or leaves you managing a pile at the curb. Home Pride Restoration has been handling junk and debris removal across the Salt Lake Valley since 1997, and we know what a Riverton property actually looks like inside.
 
 ## Why Riverton Properties Accumulate Debris Differently
 
@@ -44,4 +44,4 @@ If you're in the 84065 ZIP code and trying to coordinate around school pickup or
 
 One thing that catches Riverton homeowners off guard: several of the master-planned communities near the Mountain View Corridor require that any hauling vehicle over a certain weight class use the designated construction entrance rather than the residential driveway, a rule buried in the CC&Rs that most residents have never read. We ask about HOA restrictions before we arrive, not after we've already blocked a neighbor's driveway. If your community requires a debris removal permit or a move-out/renovation notice submitted to the HOA management company, we can help you identify what's needed so the job doesn't get interrupted partway through.
 
-If you've been putting off a garage cleanout, estate haul-out, or post-project debris removal anywhere in Riverton, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll give you a straight quote, show up when we say we will, and leave the space genuinely clean, not just emptied.
+If you've been putting off a garage cleanout, estate haul-out, or post-project debris removal anywhere in Riverton, call Home Pride Restoration at (801) 995-2437. We'll give you a straight quote, show up when we say we will, and leave the space genuinely clean, not just emptied.

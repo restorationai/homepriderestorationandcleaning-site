@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Herriman, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Smoke Damage Restoration in Herriman, UT | Home Pride Restoration"
 h1: "24/7 Emergency Smoke Damage Restoration in Herriman"
 meta_description: "24/7 emergency smoke damage restoration in Herriman, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "smoke damage restoration herriman"
@@ -39,7 +39,7 @@ From there, the process moves through dry soot removal using HEPA-filtered vacuu
 
 ## Response Time to Herriman
 
-Home Pride Restoration and Cleaning is headquartered in Saratoga Springs, which puts Herriman roughly 10–15 minutes away via Bangerter Highway or Herriman Parkway under normal traffic conditions. For most addresses in the 84096 ZIP code, including areas near the Herriman Towne Center and the communities along Herriman's eastern residential corridors, technicians can typically be on-site within 45–60 minutes of your call. Evening and weekend response follows the same timeline, the (801) 995-2437 line is answered around the clock.
+Home Pride Restoration is headquartered in Saratoga Springs, which puts Herriman roughly 10–15 minutes away via Bangerter Highway or Herriman Parkway under normal traffic conditions. For most addresses in the 84096 ZIP code, including areas near the Herriman Towne Center and the communities along Herriman's eastern residential corridors, technicians can typically be on-site within 45–60 minutes of your call. Evening and weekend response follows the same timeline, the (801) 995-2437 line is answered around the clock.
 
 ## Herriman Insurance & HOA Coordination
 
@@ -49,4 +49,4 @@ Most homeowner policies in Utah cover sudden and accidental fire and smoke damag
 
 One thing that catches homeowners off guard in Herriman's newer construction: the synthetic stucco (EIFS) and composite trim used on many homes built in the 2010s and early 2020s absorbs smoke odor compounds differently than traditional wood or brick. The foam substrate behind EIFS can trap volatile organic compounds that standard surface cleaning won't reach, and those compounds off-gas slowly for weeks after a fire, meaning a home that smells clean immediately after remediation can develop odor again as temperatures rise. We account for this during the initial scope assessment and use encapsulant sealers on affected EIFS surfaces as part of the standard protocol for Herriman jobs.
 
-If smoke damage has left your home feeling uninhabitable, call (801) 995-2437. Home Pride Restoration and Cleaning has been handling post-fire cleanup in the Salt Lake Valley since 1997, and the team knows what Herriman's climate and housing stock demand from a smoke damage restoration job done right.
+If smoke damage has left your home feeling uninhabitable, call (801) 995-2437. Home Pride Restoration has been handling post-fire cleanup in the Salt Lake Valley since 1997, and the team knows what Herriman's climate and housing stock demand from a smoke damage restoration job done right.

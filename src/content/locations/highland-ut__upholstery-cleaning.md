@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Highland, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in Highland, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in Highland"
 meta_description: "24/7 upholstery cleaning in Highland, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning highland"
@@ -38,4 +38,4 @@ Our crews run out of Saratoga Springs, which keeps us close to Highland without 
 
 Homeowners on the larger acreage lots common throughout Highland often assume a fabric sofa near a window is just fading normally. What's actually happening is a combination of UV exposure and the fine silica dust kicked up by nearby unpaved arenas or gravel drives working into the fibers over time. That dust is abrasive at a microscopic level, and it grinds into upholstery every time someone sits down, which speeds up wear well beyond what the fading alone would suggest. We treat that as a soil-load issue, not just a light-damage issue, and clean accordingly rather than just steaming the surface.
 
-If your sofa, sectional, or leather furniture in Highland is holding onto dust, pet hair, or water spotting that a home vacuum can't touch, a scheduled deep clean resets the fabric instead of masking the problem. Home Pride Restoration and Cleaning has handled Utah County homes since 1997, and our IICRC-certified technicians bring the same calibrated process to a single sofa that we'd bring to a full-property restoration job. Call (801) 995-2437 to get on the schedule.
+If your sofa, sectional, or leather furniture in Highland is holding onto dust, pet hair, or water spotting that a home vacuum can't touch, a scheduled deep clean resets the fabric instead of masking the problem. Home Pride Restoration has handled Utah County homes since 1997, and our IICRC-certified technicians bring the same calibrated process to a single sofa that we'd bring to a full-property restoration job. Call (801) 995-2437 to get on the schedule.

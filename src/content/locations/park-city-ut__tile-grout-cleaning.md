@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Tile & Grout Cleaning in Park City, UT | Home Pride Restoration and Cleaning"
+title: "Tile & Grout Cleaning in Park City, UT | Home Pride Restoration"
 h1: "Tile & Grout Cleaning in Park City"
 meta_description: "24/7 tile & grout cleaning in Park City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "tile & grout cleaning park city"
@@ -46,4 +46,4 @@ For natural stone floors, we switch to a soft-bristle rotary head and stone-safe
 
 One pattern that comes up repeatedly in Park City vacation rental properties: grout that looks clean in photos taken right after a turnover clean actually harbors a thin layer of mineral haze that photographs white under flash but shows as gray-yellow under natural light. Guests notice it; property managers often don't until a review mentions it. The fix isn't more frequent mopping, it's a full extraction clean to remove the embedded scale, followed by sealing, which then makes the weekly turnover mop actually effective. Properties on Lowell Avenue and in the Old Town core that were built as ski lodges in the 1970s and converted to short-term rentals tend to have this issue most acutely because the original grout was never sealed and has been absorbing mineral deposits for decades.
 
-If your floors or showers have reached that point, call Home Pride Restoration and Cleaning at (801) 995-2437. We've been doing this work since 1997, we're IICRC certified, and we carry the licensing and insurance your property manager or HOA will ask for. A Park City tile and grout cleaning job is typically completable in a single visit, with grout sealer cured and floors ready for foot traffic the same day.
+If your floors or showers have reached that point, call Home Pride Restoration at (801) 995-2437. We've been doing this work since 1997, we're IICRC certified, and we carry the licensing and insurance your property manager or HOA will ask for. A Park City tile and grout cleaning job is typically completable in a single visit, with grout sealer cured and floors ready for foot traffic the same day.

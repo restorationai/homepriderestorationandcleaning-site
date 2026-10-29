@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Fabric Protection in Herriman, UT | Home Pride Restoration and Cleaning"
+title: "Fabric Protection in Herriman, UT | Home Pride Restoration"
 h1: "Fabric Protection in Herriman"
 meta_description: "24/7 fabric protection in Herriman, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fabric protection herriman"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Fabric Protection"
 rendered: true
 ---
-Herriman sits at roughly 5,000 feet elevation on the western bench of the Wasatch Front, where the desert air is dry enough to crack leather and the soil is a fine, reddish-tan clay that grinds into carpet fibers like sandpaper. That combination, low humidity, heavy foot traffic from kids and pets coming in off dirt trails, and the kind of UV exposure that fades untreated upholstery within a few seasons, makes fabric protection less of a luxury and more of a practical maintenance decision for homeowners here. Home Pride Restoration and Cleaning has been applying professional-grade fabric and carpet protection since 1997, and we know exactly what Herriman's conditions demand.
+Herriman sits at roughly 5,000 feet elevation on the western bench of the Wasatch Front, where the desert air is dry enough to crack leather and the soil is a fine, reddish-tan clay that grinds into carpet fibers like sandpaper. That combination, low humidity, heavy foot traffic from kids and pets coming in off dirt trails, and the kind of UV exposure that fades untreated upholstery within a few seasons, makes fabric protection less of a luxury and more of a practical maintenance decision for homeowners here. Home Pride Restoration has been applying professional-grade fabric and carpet protection since 1997, and we know exactly what Herriman's conditions demand.
 
 ## Why Herriman's Climate and Soil Make Fabric Protection Worth It
 

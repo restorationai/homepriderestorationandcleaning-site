@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Eagle Mountain, UT | Home Pride Restoration and Cleaning"
+title: "Crawl Space Encapsulation in Eagle Mountain, UT | Home Pride Restoration"
 h1: "Crawl Space Encapsulation in Eagle Mountain"
 meta_description: "24/7 crawl space encapsulation in Eagle Mountain, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "crawl space encapsulation eagle mountain"
@@ -44,7 +44,7 @@ We're IICRC Certified, so the work meets state contractor standards and can be d
 
 ## Response Time from Our Saratoga Springs Location
 
-Home Pride Restoration and Cleaning has operated out of Saratoga Springs since 1997, which puts us about 15 to 20 minutes from most Eagle Mountain addresses under normal traffic conditions via Redwood Road or Pioneer Crossing. Encapsulation projects are scheduled work rather than emergencies, but when a homeowner calls after discovering standing water or active mold in the crawl space, we treat it with urgency, typically getting a technician out for an assessment the same day or first thing the following morning. Call us at (801) 995-2437 to schedule.
+Home Pride Restoration has operated out of Saratoga Springs since 1997, which puts us about 15 to 20 minutes from most Eagle Mountain addresses under normal traffic conditions via Redwood Road or Pioneer Crossing. Encapsulation projects are scheduled work rather than emergencies, but when a homeowner calls after discovering standing water or active mold in the crawl space, we treat it with urgency, typically getting a technician out for an assessment the same day or first thing the following morning. Call us at (801) 995-2437 to schedule.
 
 ## Local Note: What We See Specifically in Eagle Mountain's Newer Subdivisions
 
@@ -52,4 +52,4 @@ A pattern we've noticed repeatedly in Eagle Mountain's subdivisions developed be
 
 If your home was built during Eagle Mountain's growth boom and has never had the crawl space professionally inspected, there's a reasonable chance the original vapor barrier has shifted or degraded without any visible sign from inside the house.
 
-Don't wait for floor squeaks or mold odors to confirm what's happening under your home. A sealed, properly encapsulated crawl space protects your framing, your insulation, your indoor air quality, and your energy bills, and in Eagle Mountain's climate, it's one of the highest-return improvements you can make. Call Home Pride Restoration and Cleaning at (801) 995-2437 to schedule your crawl space assessment.
+Don't wait for floor squeaks or mold odors to confirm what's happening under your home. A sealed, properly encapsulated crawl space protects your framing, your insulation, your indoor air quality, and your energy bills, and in Eagle Mountain's climate, it's one of the highest-return improvements you can make. Call Home Pride Restoration at (801) 995-2437 to schedule your crawl space assessment.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Park City, UT | Home Pride Restoration and Cleaning"
+title: "Mold Inspection and Testing in Park City, UT | Home Pride Restoration"
 h1: "Mold Inspection and Testing in Park City"
 meta_description: "24/7 mold inspection and testing in Park City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold inspection and testing park city"
@@ -36,7 +36,7 @@ After the physical inspection, we collect air samples and, where surface growth 
 
 ## Response Time and Coordination from Our HQ
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, roughly 45 miles southwest of Park City via I-80 east through Parley's Canyon. Under normal traffic conditions, an inspector can reach the 84060 ZIP code in approximately 50–60 minutes. For properties closer to the Kimball Junction area, the drive along US-40 from the I-80 interchange is typically the fastest approach. We schedule mold inspections promptly, usually within 24 hours of your call, because mold doesn't pause while you wait for an appointment.
+Home Pride Restoration operates out of Saratoga Springs, roughly 45 miles southwest of Park City via I-80 east through Parley's Canyon. Under normal traffic conditions, an inspector can reach the 84060 ZIP code in approximately 50–60 minutes. For properties closer to the Kimball Junction area, the drive along US-40 from the I-80 interchange is typically the fastest approach. We schedule mold inspections promptly, usually within 24 hours of your call, because mold doesn't pause while you wait for an appointment.
 
 If you're managing a rental property or a second home and aren't on-site yourself, we're accustomed to coordinating access with property managers, HOA contacts, or real estate agents. That's a common scenario in Park City's vacation-rental market, and we handle it regularly.
 
@@ -50,4 +50,4 @@ HOA-governed communities, particularly in the Deer Valley and Canyons Village ar
 
 One thing that surprises homeowners new to Park City: the combination of radiant floor heating and a tight building envelope, common in high-end construction here, can actually suppress visible mold growth on surfaces while allowing it to thrive inside wall cavities where temperatures stay just warm enough to sustain colonies year-round. We've inspected properties in the Thaynes Canyon neighborhood where surface walls tested clean but cavity air samples revealed elevated Chaetomium and Stachybotrys counts. If your home has radiant heat and you're chasing a persistent musty odor that doesn't match anything visible, that's a pattern worth investigating with a full cavity assessment.
 
-If something feels off in your Park City home, a smell that lingers after airing out, a family member with unexplained respiratory irritation, or a moisture event that happened months ago and was never fully dried, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll give you a clear picture of what's actually in your air and your walls, so you can make informed decisions about what comes next.
+If something feels off in your Park City home, a smell that lingers after airing out, a family member with unexplained respiratory irritation, or a moisture event that happened months ago and was never fully dried, call Home Pride Restoration at (801) 995-2437. We'll give you a clear picture of what's actually in your air and your walls, so you can make informed decisions about what comes next.

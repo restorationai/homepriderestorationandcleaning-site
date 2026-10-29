@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in South Jordan, UT | Home Pride Restoration and Cleaning"
+title: "Restoration Services in South Jordan, UT | Home Pride Restoration"
 h1: "Restoration Services in South Jordan"
 meta_description: "Serving South Jordan, UT with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (801) 995-2437."
 primary_keyword: "restoration services south jordan"
@@ -19,7 +19,7 @@ state: "UT"
 primary: false
 rendered: true
 ---
-When a pipe bursts behind a finished wall in South Jordan or a washing machine overflow soaks through engineered hardwood into the subfloor, the clock starts immediately. Home Pride Restoration and Cleaning has been responding to exactly those calls, water damage, fire and smoke damage, mold remediation, and biohazard cleanup, since 1997. Operating out of Saratoga Springs, we reach South Jordan faster than most Salt Lake Valley contractors, and we handle the full scope: emergency mitigation, structural drying, contents pack-out, and reconstruction, all under one crew.
+When a pipe bursts behind a finished wall in South Jordan or a washing machine overflow soaks through engineered hardwood into the subfloor, the clock starts immediately. Home Pride Restoration has been responding to exactly those calls, water damage, fire and smoke damage, mold remediation, and biohazard cleanup, since 1997. Operating out of Saratoga Springs, we reach South Jordan faster than most Salt Lake Valley contractors, and we handle the full scope: emergency mitigation, structural drying, contents pack-out, and reconstruction, all under one crew.
 
 ## Restoration emergencies common in South Jordan
 

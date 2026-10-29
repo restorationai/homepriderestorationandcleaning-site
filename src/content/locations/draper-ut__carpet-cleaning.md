@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Draper, UT | Home Pride Restoration and Cleaning"
+title: "Carpet Cleaning in Draper, UT | Home Pride Restoration"
 h1: "Carpet Cleaning in Draper"
 meta_description: "24/7 carpet cleaning in Draper, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "carpet cleaning draper"
@@ -38,4 +38,4 @@ Draper's stretch along the I-15 tech corridor has brought in a steady mix of cor
 
 Basements are common in Draper's newer subdivisions, and the clay-heavy soil typical of the Wasatch benches doesn't drain quickly after a wet spring. When carpet in a finished basement picks up musty odor or staining along the baseboards, it's often wicking moisture from slab condensation rather than an obvious leak, which means a standard shampoo won't solve it. We check moisture levels at the pad before cleaning so we're not just masking a problem that will resurface in a few weeks.
 
-If your carpet in Draper is showing hard water haze, trail dust in the traffic lanes, or that flat, matted look builder-grade padding gets after a few years, it's worth a professional deep clean before it becomes a replacement decision. Call Home Pride Restoration and Cleaning at (801) 995-2437 to get carpet cleaning scheduled for your Draper home or office.
+If your carpet in Draper is showing hard water haze, trail dust in the traffic lanes, or that flat, matted look builder-grade padding gets after a few years, it's worth a professional deep clean before it becomes a replacement decision. Call Home Pride Restoration at (801) 995-2437 to get carpet cleaning scheduled for your Draper home or office.

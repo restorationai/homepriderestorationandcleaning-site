@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Burst Pipe Cleanup and Repair in Pleasant Grove | Home Pride Restoration and Cleaning"
+title: "Emergency Burst Pipe Cleanup and Repair in Pleasant Grove | Home Pride Restoration"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Pleasant Grove"
 meta_description: "24/7 emergency burst pipe cleanup and repair in Pleasant Grove, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "burst pipe cleanup and repair pleasant grove"
@@ -41,7 +41,7 @@ The first priority when we arrive is stopping the water. We locate the shutoff, 
 - **Pipe repair coordination:** Our technicians can handle emergency pipe repair to stop active leaking and restore service. For larger re-pipe scopes, we work alongside licensed plumbers and coordinate scheduling so drying equipment isn't pulled prematurely.
 - **Documentation:** Every moisture reading, photo, and equipment log goes into a claim-ready file, important for homeowners working with State Farm, Farmers, or any other carrier writing policies in Utah County.
 
-Home Pride Restoration and Cleaning has been doing this work since 1997 and holds IICRC certification, which means the drying protocol follows the ANSI/IICRC S500 standard, not a guess.
+Home Pride Restoration has been doing this work since 1997 and holds IICRC certification, which means the drying protocol follows the ANSI/IICRC S500 standard, not a guess.
 
 ## Response Time from Saratoga Springs to Pleasant Grove
 

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Burst Pipe Cleanup and Repair in Provo, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Burst Pipe Cleanup and Repair in Provo, UT | Home Pride Restoration"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Provo"
 meta_description: "24/7 emergency burst pipe cleanup and repair in Provo, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "burst pipe cleanup and repair provo"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Burst Pipe Cleanup and Repair"
 rendered: true
 ---
-Provo's winters are no joke, when temperatures drop into the single digits along the Wasatch Front, the water lines in older homes near the BYU campus and throughout the East Bay neighborhood can freeze and rupture with almost no warning. A burst pipe doesn't give you time to shop around. Within minutes, water is moving through subfloor cavities, soaking insulation, and wicking up drywall. Home Pride Restoration and Cleaning has been responding to exactly these emergencies across Utah County since 1997, and our crews know what a pipe break looks like in Provo's specific housing stock, and what it costs you if cleanup is delayed.
+Provo's winters are no joke, when temperatures drop into the single digits along the Wasatch Front, the water lines in older homes near the BYU campus and throughout the East Bay neighborhood can freeze and rupture with almost no warning. A burst pipe doesn't give you time to shop around. Within minutes, water is moving through subfloor cavities, soaking insulation, and wicking up drywall. Home Pride Restoration has been responding to exactly these emergencies across Utah County since 1997, and our crews know what a pipe break looks like in Provo's specific housing stock, and what it costs you if cleanup is delayed.
 
 ## Why Provo Properties See Burst Pipe Issues
 
@@ -52,4 +52,4 @@ If you're in a condo or townhome community, common in the developments along Pro
 
 One thing we've learned working in Provo's older neighborhoods near Center Street and University Avenue: homes built in the 1960s and early 1970s frequently have vermiculite or fiberglass batt insulation packed tightly around supply lines in exterior walls, and when those lines burst, the insulation acts like a sponge, holding water against the framing for days longer than you'd expect. Standard moisture readings at the drywall surface can look acceptable while the wall cavity behind it is still saturated. We always probe deeper on homes of that era rather than trusting surface numbers alone.
 
-If you're dealing with a burst pipe right now, or you found water damage this morning and aren't sure how far it spread, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll get a crew to your Provo address fast, map the full extent of the damage, and start drying before mold has a chance to take hold.
+If you're dealing with a burst pipe right now, or you found water damage this morning and aren't sure how far it spread, call Home Pride Restoration at (801) 995-2437. We'll get a crew to your Provo address fast, map the full extent of the damage, and start drying before mold has a chance to take hold.

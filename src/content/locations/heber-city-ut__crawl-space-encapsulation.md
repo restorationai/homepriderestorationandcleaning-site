@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Heber City, UT | Home Pride Restoration and Cleaning"
+title: "Crawl Space Encapsulation in Heber City, UT | Home Pride Restoration"
 h1: "Crawl Space Encapsulation in Heber City"
 meta_description: "24/7 crawl space encapsulation in Heber City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "crawl space encapsulation heber city"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Crawl Space Encapsulation"
 rendered: true
 ---
-Heber Valley sits at roughly 5,600 feet elevation, and the temperature swings that come with that altitude, freezing nights well into May, rapid afternoon snowmelt off the Wasatch Back, push moisture into crawl spaces in ways that flatter lowland Utah homes rarely experience. Older homes near the Provo River corridor see ground saturation that can persist for weeks after spring runoff, and that sustained dampness is exactly the condition that turns a vented crawl space into a liability. Home Pride Restoration and Cleaning has been sealing crawl spaces across the Wasatch Front since 1997, and the work we do in Heber City is calibrated to its specific elevation, soil, and seasonal rhythm.
+Heber Valley sits at roughly 5,600 feet elevation, and the temperature swings that come with that altitude, freezing nights well into May, rapid afternoon snowmelt off the Wasatch Back, push moisture into crawl spaces in ways that flatter lowland Utah homes rarely experience. Older homes near the Provo River corridor see ground saturation that can persist for weeks after spring runoff, and that sustained dampness is exactly the condition that turns a vented crawl space into a liability. Home Pride Restoration has been sealing crawl spaces across the Wasatch Front since 1997, and the work we do in Heber City is calibrated to its specific elevation, soil, and seasonal rhythm.
 
 ## Why Heber City Crawl Spaces Are Especially Vulnerable
 
@@ -48,4 +48,4 @@ For homeowners near the Jordanelle Reservoir area or farther north toward the Fr
 
 One pattern we've learned from years of working in the valley: the worst crawl space moisture readings in Heber City almost always come in late April through early June, not during peak winter. That's when the snowpack above 8,000 feet is releasing, the ground is saturated, and daytime temperatures are warm enough to drive evaporation upward through the soil. Homeowners who schedule encapsulation in the fall, before the freeze, get ahead of that cycle. Those who wait until they smell something in May are often dealing with a crawl space that's already been wet for six to eight weeks. If you're in the 84032 area and you haven't had your crawl space inspected, fall is the right time to call.
 
-If you're ready to stop the moisture cycle under your Heber City home, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll give you a straight assessment of what your crawl space actually needs, no upsell, no pressure, and a written scope before any work begins.
+If you're ready to stop the moisture cycle under your Heber City home, call Home Pride Restoration at (801) 995-2437. We'll give you a straight assessment of what your crawl space actually needs, no upsell, no pressure, and a written scope before any work begins.

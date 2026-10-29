@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Herriman, UT | Home Pride Restoration and Cleaning"
+title: "Odor Removal and Deodorization in Herriman, UT | Home Pride Restoration"
 h1: "Odor Removal and Deodorization in Herriman"
 meta_description: "24/7 odor removal and deodorization in Herriman, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "odor removal and deodorization herriman"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-Herriman's rapid growth has pushed thousands of new homes into the foothills west of the Oquirrh Mountains, where tight construction schedules, sealed building envelopes, and Utah's dry-then-wet seasonal swings create a specific kind of odor problem: smells that get locked in fast and linger long after the source is gone. Whether it's smoke from a kitchen fire, pet urine soaked into engineered hardwood, or the musty aftermath of a slow roof leak during spring snowmelt, odor molecules don't just float away in a well-insulated 84096 home, they bond to drywall, HVAC ductwork, and carpet padding and wait. Home Pride Restoration and Cleaning has been eliminating those embedded odors since 1997, and we know exactly what it takes to clear them in Herriman's housing stock.
+Herriman's rapid growth has pushed thousands of new homes into the foothills west of the Oquirrh Mountains, where tight construction schedules, sealed building envelopes, and Utah's dry-then-wet seasonal swings create a specific kind of odor problem: smells that get locked in fast and linger long after the source is gone. Whether it's smoke from a kitchen fire, pet urine soaked into engineered hardwood, or the musty aftermath of a slow roof leak during spring snowmelt, odor molecules don't just float away in a well-insulated 84096 home, they bond to drywall, HVAC ductwork, and carpet padding and wait. Home Pride Restoration has been eliminating those embedded odors since 1997, and we know exactly what it takes to clear them in Herriman's housing stock.
 
 ## Why Herriman Homes Hold Odors Longer Than You'd Expect
 
@@ -52,4 +52,4 @@ The four primary tools in our deodorization arsenal, thermal fogging, ozone trea
 
 A significant portion of Herriman falls within HOA-governed communities, and several of those associations have restrictions on equipment placement in driveways, on lawns, or in common areas, restrictions that matter when we're staging ozone generators, air movers, or fogging equipment outside a home during treatment. In communities near Rosecrest and the Herriman Hills area, we've learned to confirm HOA access and staging rules before arrival, and in some cases we coordinate directly with the community manager so there's no delay once the crew is on-site. It's a small step that prevents a frustrating hold-up on a job that's already stressful enough.
 
-If you're dealing with a persistent smell in your Herriman home, one that's survived candles, sprays, and open windows, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll identify what's actually causing it, apply the right professional odor elimination method for your specific situation, and clear the air for good.
+If you're dealing with a persistent smell in your Herriman home, one that's survived candles, sprays, and open windows, call Home Pride Restoration at (801) 995-2437. We'll identify what's actually causing it, apply the right professional odor elimination method for your specific situation, and clear the air for good.

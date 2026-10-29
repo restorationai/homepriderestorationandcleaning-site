@@ -1,7 +1,7 @@
 ---
 hero: '/images/services/mold-remediation.webp'
 archetype: "service-landing"
-title: "Mold Remediation in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "Mold Remediation in Saratoga Springs | Home Pride Restoration"
 h1: "Mold Remediation in Saratoga Springs"
 meta_description: "24/7 mold remediation in Saratoga Springs and surrounding areas. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold remediation saratoga springs"
@@ -46,7 +46,7 @@ The most common failure in mold abatement is skipping containment because the jo
 
 A second common mistake is treating the visible growth without confirming the moisture source is resolved. Insurance adjusters reviewing mold claims look specifically for documentation that the underlying cause was identified and corrected; a remediation invoice without a moisture source report raises flags and can complicate coverage.
 
-Finally, clearance testing is frequently skipped by contractors who want to close the job quickly. IICRC S520 standards, the industry benchmark for mold remediation, specify post-remediation verification as a required step, not optional. Without it, there is no objective confirmation the remediation was successful. Home Pride Restoration and Cleaning holds IICRC certification and follows S520 protocols on every project.
+Finally, clearance testing is frequently skipped by contractors who want to close the job quickly. IICRC S520 standards, the industry benchmark for mold remediation, specify post-remediation verification as a required step, not optional. Without it, there is no objective confirmation the remediation was successful. Home Pride Restoration holds IICRC certification and follows S520 protocols on every project.
 
 ## Black mold removal in Saratoga Springs
 
@@ -62,6 +62,6 @@ Saratoga Springs homes built in the 2000s and 2010s, the bulk of the housing sto
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and provides mold remediation throughout Utah County and the surrounding region, including Eagle Mountain, Lehi, American Fork, Herriman, and South Jordan. Each city-specific service page links back here for a full explanation of the remediation process; if you're looking for information specific to your area, those pages cover local housing stock and common moisture patterns in more detail.
+Home Pride Restoration is based in Saratoga Springs and provides mold remediation throughout Utah County and the surrounding region, including Eagle Mountain, Lehi, American Fork, Herriman, and South Jordan. Each city-specific service page links back here for a full explanation of the remediation process; if you're looking for information specific to your area, those pages cover local housing stock and common moisture patterns in more detail.
 
 If you're seeing discoloration, smelling something that shouldn't be there, or you've recently had a water intrusion and want to know what's growing behind the walls, call (801) 995-2437 to schedule an air quality test and moisture inspection. The sooner the source is identified, the smaller the remediation scope.

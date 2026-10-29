@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Heber City, UT | Home Pride Restoration and Cleaning"
+title: "Mold Inspection and Testing in Heber City, UT | Home Pride Restoration"
 h1: "Mold Inspection and Testing in Heber City"
 meta_description: "24/7 mold inspection and testing in Heber City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold inspection and testing heber city"
@@ -38,10 +38,10 @@ For Heber City properties with crawl spaces, which account for a significant sha
 
 ## Response Time to Heber City from Our Saratoga Springs HQ
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, and Heber City is a regular part of our service territory. The drive via US-189 through Provo Canyon runs approximately 45 to 55 minutes under normal conditions, closer to 35 minutes in light traffic. For properties in the Timberlakes area on the east side of Heber City, add roughly 10 minutes from downtown. We schedule mold inspections 7 days a week and can typically get a certified technician on-site within 24 hours of your call for non-emergency assessments, or same-day for situations involving active water damage or health concerns. Reach us directly at (801) 995-2437.
+Home Pride Restoration operates out of Saratoga Springs, and Heber City is a regular part of our service territory. The drive via US-189 through Provo Canyon runs approximately 45 to 55 minutes under normal conditions, closer to 35 minutes in light traffic. For properties in the Timberlakes area on the east side of Heber City, add roughly 10 minutes from downtown. We schedule mold inspections 7 days a week and can typically get a certified technician on-site within 24 hours of your call for non-emergency assessments, or same-day for situations involving active water damage or health concerns. Reach us directly at (801) 995-2437.
 
 ## Local Note: What Heber City's Altitude Does to Building Materials
 
 One thing that becomes apparent after inspecting properties across Wasatch County is how altitude and temperature swing affect wood framing differently than at lower elevations. At 5,600 feet, wood experiences more dramatic seasonal expansion and contraction, joints open slightly in dry winter months and compress in wet spring conditions. Over years, this cycling can create micro-gaps around window frames, door thresholds, and roof-to-wall connections that allow wind-driven snow and rain to wick into wall cavities. Homes in the Soldier Hollow area that back up to the hillside see this pattern regularly. By the time mold becomes visible on interior drywall, it has often been growing inside the wall cavity for one or more full seasons. Testing the air quality inside those wall cavities, not just the room air, is a step we include specifically for Heber City properties with this construction profile.
 
-If you've noticed a persistent musty odor, had any water intrusion this past season, or are buying or selling a property in the 84032 ZIP code, a professional mold inspection is a straightforward way to know exactly what you're dealing with. Call Home Pride Restoration and Cleaning at (801) 995-2437 to schedule your Heber City assessment.
+If you've noticed a persistent musty odor, had any water intrusion this past season, or are buying or selling a property in the 84032 ZIP code, a professional mold inspection is a straightforward way to know exactly what you're dealing with. Call Home Pride Restoration at (801) 995-2437 to schedule your Heber City assessment.

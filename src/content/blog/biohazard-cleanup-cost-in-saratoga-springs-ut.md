@@ -39,7 +39,7 @@ Most biohazard cleanups in Utah fall somewhere between a few hundred dollars for
 | Crime scene cleanup, non-fatal incident | $500 to $3,000 |
 | Biohazard cleanup combined with hoarding conditions | $2,000 to $10,000 |
 
-These are general industry ranges, not a quote. Home Pride Restoration and Cleaning provides a written scope of work and a specific price after assessing the actual scene, because square footage and material type change the number quickly.
+These are general industry ranges, not a quote. Home Pride Restoration provides a written scope of work and a specific price after assessing the actual scene, because square footage and material type change the number quickly.
 
 ## What Drives the Price Up or Down?
 
@@ -82,14 +82,14 @@ Biohazard cleanup isn't a DIY job because bloodborne pathogens like hepatitis B,
 
 Beyond the health risk, household trash haulers won't legally accept biological waste, and most retail cleaning products aren't formulated to neutralize bloodborne pathogens on porous building materials. A family member attempting to clean a scene themselves also faces the emotional weight of that task directly, which is part of why professional crews exist to take that burden off the household.
 
-If you're facing a biohazard situation in Saratoga Springs or anywhere along the Utah Lake corridor, getting a written scope of work before cleanup begins protects both your budget and your insurance claim. [Call Home Pride Restoration and Cleaning at (801) 995-2437](tel:+18019952437) to schedule a confidential assessment.
+If you're facing a biohazard situation in Saratoga Springs or anywhere along the Utah Lake corridor, getting a written scope of work before cleanup begins protects both your budget and your insurance claim. [Call Home Pride Restoration at (801) 995-2437](tel:+18019952437) to schedule a confidential assessment.
 
 ---
 
-**About Home Pride Restoration and Cleaning**
+**About Home Pride Restoration**
 
-Home Pride Restoration and Cleaning is an IICRC Certified company that has served Saratoga Springs, UT and the surrounding Utah County area since 1997. Their crews handle biohazard cleanup, trauma scene cleanup, sewage cleanup, and odor removal, along with water, fire, and mold restoration services, and are available 24/7 for emergency calls.
+Home Pride Restoration is an IICRC Certified company that has served Saratoga Springs, UT and the surrounding Utah County area since 1997. Their crews handle biohazard cleanup, trauma scene cleanup, sewage cleanup, and odor removal, along with water, fire, and mold restoration services, and are available 24/7 for emergency calls.
 
 ## Video Transcript
 
-Wondering what biohazard cleanup really costs in Saratoga Springs, Utah? The price depends on more than you'd think, let's break it down together. Costs range from five hundred dollars for a small, early incident to twenty five thousand or more for advanced decomposition. A single bedroom costs far less than a scene that's spread into hallways, subflooring, or even the room below. Time matters most. The longer a scene goes undiscovered, the deeper fluids soak into floors, walls, and framing. Carpet, padding, drywall, and subflooring that absorb biological material usually can't be saved, they have to be removed and replaced. Odor sinks into wall cavities and HVAC systems, so some jobs need fogging or hydroxyl treatment to fully clear it. Biological waste is regulated. It must be bagged, labeled, and hauled away immediately by licensed professionals, never a regular dumpster. Many homeowners policies cover sudden, accidental events like these, but coverage varies, so call your insurer early and document everything. Your contractor documents the scene, contains it safely, removes contaminated materials, disinfects thoroughly, and clears it for full peace of mind. Don't guess at the cost. Call Home Pride Restoration and Cleaning LLC at (801) 995-2437 for a free estimate.
+Wondering what biohazard cleanup really costs in Saratoga Springs, Utah? The price depends on more than you'd think, let's break it down together. Costs range from five hundred dollars for a small, early incident to twenty five thousand or more for advanced decomposition. A single bedroom costs far less than a scene that's spread into hallways, subflooring, or even the room below. Time matters most. The longer a scene goes undiscovered, the deeper fluids soak into floors, walls, and framing. Carpet, padding, drywall, and subflooring that absorb biological material usually can't be saved, they have to be removed and replaced. Odor sinks into wall cavities and HVAC systems, so some jobs need fogging or hydroxyl treatment to fully clear it. Biological waste is regulated. It must be bagged, labeled, and hauled away immediately by licensed professionals, never a regular dumpster. Many homeowners policies cover sudden, accidental events like these, but coverage varies, so call your insurer early and document everything. Your contractor documents the scene, contains it safely, removes contaminated materials, disinfects thoroughly, and clears it for full peace of mind. Don't guess at the cost. Call Home Pride Restoration LLC at (801) 995-2437 for a free estimate.

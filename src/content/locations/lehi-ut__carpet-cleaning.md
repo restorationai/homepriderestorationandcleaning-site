@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Lehi, UT | Home Pride Restoration and Cleaning"
+title: "Carpet Cleaning in Lehi, UT | Home Pride Restoration"
 h1: "Carpet Cleaning in Lehi"
 meta_description: "24/7 carpet cleaning in Lehi, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "carpet cleaning lehi"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Lehi's rapid growth has brought thousands of new homes to the Traverse Mountain and Thanksgiving Point corridors, but it's also packed those homes with the kind of foot traffic that grinds Utah Valley's fine red-clay and sandstone dust deep into carpet fibers faster than almost anywhere else along the Wasatch Front. That combination, heavy use, alkaline desert soil, and the dry winters that cause static to lock particulate into pile, means standard vacuuming leaves behind more than most homeowners realize. Home Pride Restoration and Cleaning has been working in communities like this since 1997, and the difference shows in the results.
+Lehi's rapid growth has brought thousands of new homes to the Traverse Mountain and Thanksgiving Point corridors, but it's also packed those homes with the kind of foot traffic that grinds Utah Valley's fine red-clay and sandstone dust deep into carpet fibers faster than almost anywhere else along the Wasatch Front. That combination, heavy use, alkaline desert soil, and the dry winters that cause static to lock particulate into pile, means standard vacuuming leaves behind more than most homeowners realize. Home Pride Restoration has been working in communities like this since 1997, and the difference shows in the results.
 
 ## Why Lehi Carpets Take a Harder Hit Than Most
 
@@ -54,4 +54,4 @@ One thing that surprises homeowners who've had carpet cleaned elsewhere: Lehi's 
 
 If your carpets have gone through multiple cleanings that seemed to wear off quickly, this is often the reason, not the carpet age, and not the cleaning method.
 
-Call Home Pride Restoration and Cleaning at (801) 995-2437 to schedule carpet cleaning in Lehi. We'll tell you upfront what we're dealing with, what to expect from the process, and how long your results should realistically last given your specific carpet type and household conditions.
+Call Home Pride Restoration at (801) 995-2437 to schedule carpet cleaning in Lehi. We'll tell you upfront what we're dealing with, what to expect from the process, and how long your results should realistically last given your specific carpet type and household conditions.

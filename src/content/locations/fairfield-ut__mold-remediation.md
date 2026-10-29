@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Fairfield, UT | Home Pride Restoration and Cleaning"
+title: "Mold Remediation in Fairfield, UT | Home Pride Restoration"
 h1: "Mold Remediation in Fairfield"
 meta_description: "24/7 mold remediation in Fairfield, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold remediation fairfield"
@@ -38,4 +38,4 @@ Our base is in Saratoga Springs, a short run down Redwood Road and SR-73 into Ce
 
 A lot of Fairfield and Cedar Valley homes still rely on evaporative coolers instead of central AC, and a surprising number of mold calls we get in late summer trace back to a cooler pad that was never cleaned or a duct connection that was left loose after spring startup. If your cooler has been running all season, it's worth having that checked at the same time as any mold inspection, since the two are often connected even when the visible growth is on the other side of the house.
 
-Mold doesn't wait for a convenient time to show up, and in a town built on well water, septic systems, and swamp coolers, the usual fixes don't always apply. If you've found staining, a musty smell, or soft drywall anywhere in a Fairfield property, call Home Pride Restoration and Cleaning at (801) 995-2437 for a straightforward look at what's actually happening behind the wall before it spreads any further.
+Mold doesn't wait for a convenient time to show up, and in a town built on well water, septic systems, and swamp coolers, the usual fixes don't always apply. If you've found staining, a musty smell, or soft drywall anywhere in a Fairfield property, call Home Pride Restoration at (801) 995-2437 for a straightforward look at what's actually happening behind the wall before it spreads any further.

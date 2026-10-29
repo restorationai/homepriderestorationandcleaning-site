@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Heber City, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Damage Restoration in Heber City, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Damage Restoration in Heber City"
 meta_description: "24/7 emergency water damage restoration in Heber City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "water damage restoration heber city"
@@ -47,10 +47,10 @@ From there, the process moves through four concrete stages:
 
 ## Response Time to Heber City from Our HQ
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, and the drive to Heber City runs approximately 45 to 60 minutes via US-189 through Provo Canyon, one of the more scenic routes in Utah, and one of the more weather-sensitive ones. In winter, ice or rockfall on the canyon road can add time, so we factor that into our dispatch planning and keep equipment staged accordingly. For calls in the 84032 area, expect a technician on-site within 60 to 90 minutes under normal conditions. We answer the phone around the clock, (801) 995-2437, because water damage at 2 a.m. in a mountain valley doesn't wait for business hours.
+Home Pride Restoration operates out of Saratoga Springs, and the drive to Heber City runs approximately 45 to 60 minutes via US-189 through Provo Canyon, one of the more scenic routes in Utah, and one of the more weather-sensitive ones. In winter, ice or rockfall on the canyon road can add time, so we factor that into our dispatch planning and keep equipment staged accordingly. For calls in the 84032 area, expect a technician on-site within 60 to 90 minutes under normal conditions. We answer the phone around the clock, (801) 995-2437, because water damage at 2 a.m. in a mountain valley doesn't wait for business hours.
 
 ## Local Note: What Vacant Properties in Heber City Need
 
 One pattern we see repeatedly in Heber City that's less common in the Wasatch Front suburbs: vacation and investment properties that sit unoccupied for weeks at a time. When a water heater supply line fails in a home that no one checks on until the following weekend, the damage footprint is enormous, soaked insulation in the walls, buckled subfloor, saturated framing. If you own or manage a property in the Heber Valley that sits vacant during shoulder seasons, the single most useful thing you can do is install a leak detection sensor near the water heater and main shutoff. It won't replace a fast restoration response, but it can cut a week-long flood down to an overnight one. We've walked into both scenarios, and the difference in scope, and cost, is significant.
 
-If you're dealing with water damage right now in Heber City, call (801) 995-2437. Home Pride Restoration and Cleaning has been handling water mitigation, structural drying, and water cleanup across Utah since 1997, and our IICRC-certified technicians are ready to move. The longer water sits in a mountain-climate home, the more it costs to fix, let's stop it today.
+If you're dealing with water damage right now in Heber City, call (801) 995-2437. Home Pride Restoration has been handling water mitigation, structural drying, and water cleanup across Utah since 1997, and our IICRC-certified technicians are ready to move. The longer water sits in a mountain-climate home, the more it costs to fix, let's stop it today.

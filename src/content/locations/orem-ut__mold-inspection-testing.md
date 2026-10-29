@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Orem, UT | Home Pride Restoration and Cleaning"
+title: "Mold Inspection and Testing in Orem, UT | Home Pride Restoration"
 h1: "Mold Inspection and Testing in Orem"
 meta_description: "24/7 mold inspection and testing in Orem, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold inspection and testing orem"
@@ -46,4 +46,4 @@ In the subdivisions that pushed east toward the foothills over the last 15 years
 
 If your home was built after 2005 and you've never had an attic inspection, it's worth adding to the assessment scope.
 
-When you're ready to stop guessing about what's growing behind your walls or circulating through your vents, call Home Pride Restoration and Cleaning at (801) 995-2437. We've been doing this work in Utah County since 1997, and we'll give you a clear, documented picture of your indoor air quality, so you can make decisions based on facts, not anxiety.
+When you're ready to stop guessing about what's growing behind your walls or circulating through your vents, call Home Pride Restoration at (801) 995-2437. We've been doing this work in Utah County since 1997, and we'll give you a clear, documented picture of your indoor air quality, so you can make decisions based on facts, not anxiety.

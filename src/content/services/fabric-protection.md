@@ -1,7 +1,7 @@
 ---
 hero: '/images/services/fabric-protection.webp'
 archetype: "service-landing"
-title: "Fabric Protection in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "Fabric Protection in Saratoga Springs | Home Pride Restoration"
 h1: "Fabric Protection in Saratoga Springs"
 meta_description: "24/7 fabric protection in Saratoga Springs and surrounding areas. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fabric protection saratoga springs"
@@ -54,6 +54,6 @@ Saratoga Springs sits at roughly 4,500 feet elevation, and Utah's high-desert cl
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and serves the surrounding communities throughout Utah County and beyond, including Eagle Mountain, Lehi, American Fork, Cedar Hills, Highland, and Pleasant Grove. City-specific pages for each area link back here for the full technical detail on how fabric protection works.
+Home Pride Restoration is based in Saratoga Springs and serves the surrounding communities throughout Utah County and beyond, including Eagle Mountain, Lehi, American Fork, Cedar Hills, Highland, and Pleasant Grove. City-specific pages for each area link back here for the full technical detail on how fabric protection works.
 
 Ready to protect your carpets and upholstery before the next spill happens? Call (801) 995-2437 to schedule your fabric protection application, and ask about bundling it with a professional cleaning for the best long-term results.

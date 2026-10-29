@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Riverton, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in Riverton, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in Riverton"
 meta_description: "24/7 upholstery cleaning in Riverton, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning riverton"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Upholstery Cleaning"
 rendered: true
 ---
-Riverton sits in one of the Salt Lake Valley's dustier corridors, the kind of place where a dry summer wind off the Oquirrh Mountains can push fine particulate through window seals and settle deep into sofa cushions before you realize it's happening. Add in the valley's notoriously hard water (mineral content that leaves a chalky residue on almost everything it touches), a short but intense wildfire smoke season that drifts in from the west, and the heavy foot traffic that comes with larger suburban family homes, and upholstered furniture here takes a beating that a vacuum and a spot-cleaner simply can't address. Home Pride Restoration and Cleaning has been working in communities like Riverton since 1997, and we've calibrated our process specifically to what the local environment throws at fabric and leather.
+Riverton sits in one of the Salt Lake Valley's dustier corridors, the kind of place where a dry summer wind off the Oquirrh Mountains can push fine particulate through window seals and settle deep into sofa cushions before you realize it's happening. Add in the valley's notoriously hard water (mineral content that leaves a chalky residue on almost everything it touches), a short but intense wildfire smoke season that drifts in from the west, and the heavy foot traffic that comes with larger suburban family homes, and upholstered furniture here takes a beating that a vacuum and a spot-cleaner simply can't address. Home Pride Restoration has been working in communities like Riverton since 1997, and we've calibrated our process specifically to what the local environment throws at fabric and leather.
 
 ## Why Riverton Upholstery Wears Out Faster Than You'd Expect
 

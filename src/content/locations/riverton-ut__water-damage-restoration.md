@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Riverton, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Damage Restoration in Riverton, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Damage Restoration in Riverton"
 meta_description: "24/7 emergency water damage restoration in Riverton, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "water damage restoration riverton"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Water damage emergency in Riverton? We answer 24/7.** Call now and our crew heads out to stop the water and start drying your property.
 
-Riverton sits in the southwestern corner of the Salt Lake Valley, where the Jordan River corridor and the area's high water table create conditions that can turn a slow leak or a burst pipe into a serious structural problem faster than most homeowners expect. When snowmelt from the Oquirrh Mountains runs heavy in late winter and early spring, the ground along the valley floor saturates quickly, and that pressure finds its way into crawl spaces, basement slabs, and foundation walls in neighborhoods throughout the 84065 ZIP code. Home Pride Restoration and Cleaning has been responding to exactly these situations since 1997, and our crews can reach most of Riverton from our Saratoga Springs headquarters in under 30 minutes.
+Riverton sits in the southwestern corner of the Salt Lake Valley, where the Jordan River corridor and the area's high water table create conditions that can turn a slow leak or a burst pipe into a serious structural problem faster than most homeowners expect. When snowmelt from the Oquirrh Mountains runs heavy in late winter and early spring, the ground along the valley floor saturates quickly, and that pressure finds its way into crawl spaces, basement slabs, and foundation walls in neighborhoods throughout the 84065 ZIP code. Home Pride Restoration has been responding to exactly these situations since 1997, and our crews can reach most of Riverton from our Saratoga Springs headquarters in under 30 minutes.
 
 ## Why Riverton Properties Are Vulnerable to Water Damage
 
@@ -55,4 +55,4 @@ Salt Lake County's building department may require a permit for certain reconstr
 
 One pattern our crews have noticed repeatedly in Riverton's mid-2000s tract homes: the OSB subfloor sheathing used widely during that construction era absorbs water quickly and swells at panel seams before the surface flooring shows any visible sign of damage. By the time a homeowner notices a soft spot or a buckled laminate plank, the OSB underneath may already be compromised. On any Riverton job involving a slab-on-grade or a wood-frame floor system, we always probe beneath surface materials, not just the visible wet area, because the actual damage boundary is almost always larger than it looks.
 
-If you're dealing with water damage in Riverton right now, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We'll have a crew on-site fast, assess the full scope of what water has reached, and start the mitigation process before the damage has time to compound.
+If you're dealing with water damage in Riverton right now, call Home Pride Restoration at **(801) 995-2437**. We'll have a crew on-site fast, assess the full scope of what water has reached, and start the mitigation process before the damage has time to compound.

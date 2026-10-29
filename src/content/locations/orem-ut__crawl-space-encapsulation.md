@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Orem, UT | Home Pride Restoration and Cleaning"
+title: "Crawl Space Encapsulation in Orem, UT | Home Pride Restoration"
 h1: "Crawl Space Encapsulation in Orem"
 meta_description: "24/7 crawl space encapsulation in Orem, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "crawl space encapsulation orem"
@@ -49,4 +49,4 @@ Home Pride's crews are based in Saratoga Springs, roughly 15 miles southwest of 
 
 One thing that surprises Orem homeowners is how much the pressurized irrigation season, roughly April through October, affects crawl space conditions. Yards in established neighborhoods along 400 North and 800 North are watered heavily through the summer, and that water doesn't all evaporate or run off. A significant portion percolates down to the foundation level, especially in lots with clay-heavy soil common to the valley floor. We've encapsulated crawl spaces in late September that were bone dry by inspection standards, only to find the liner holding back visible condensation by the following May when irrigation kicked back on. If you're scheduling encapsulation work, completing it before irrigation season starts, or immediately after it ends, gives you the clearest picture of what you're dealing with and the best long-term result.
 
-Ready to stop guessing what's happening under your home? Call Home Pride Restoration and Cleaning at **(801) 995-2437**. We've been doing this work since 1997, we're IICRC Certified, and we're. An honest crawl space assessment costs you nothing, and for Orem homeowners, it's usually the conversation that finally explains a problem that's been building for years.
+Ready to stop guessing what's happening under your home? Call Home Pride Restoration at **(801) 995-2437**. We've been doing this work since 1997, we're IICRC Certified, and we're. An honest crawl space assessment costs you nothing, and for Orem homeowners, it's usually the conversation that finally explains a problem that's been building for years.

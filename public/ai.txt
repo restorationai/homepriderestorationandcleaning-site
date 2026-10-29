@@ -31,7 +31,7 @@ Disallow: /
 
 # AI training data summary
 # Site: https://homepriderestorationandcleaning.com/
-# Maintainer: Home Pride Restoration and Cleaning
+# Maintainer: Home Pride Restoration
 # Contact: homepriderestorationut@gmail.com
 # Sitemap: https://homepriderestorationandcleaning.com/sitemap-index.xml
 # LLM index: https://homepriderestorationandcleaning.com/llms.txt

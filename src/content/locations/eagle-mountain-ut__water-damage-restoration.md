@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Damage Restoration in Eagle Mountain, UT | Home Pride Restoration and Cleaning"
+title: "Emergency Water Damage Restoration in Eagle Mountain, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Damage Restoration in Eagle Mountain"
 meta_description: "24/7 emergency water damage restoration in Eagle Mountain, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "water damage restoration eagle mountain"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Water Damage Restoration"
 rendered: true
 ---
-Eagle Mountain sits at roughly 4,900 feet on the west bench of Utah Lake Valley, where the freeze-thaw cycle hits hard every winter and spring snowmelt pushes soil moisture levels well above what most Utah Valley communities experience at lower elevations. When a supply line lets go at 2 a.m. or a washing machine hose fails during a cold snap, water moves fast through the open floor plans that dominate Eagle Mountain's newer construction, and the clock on secondary damage starts immediately. Home Pride Restoration and Cleaning has been responding to water emergencies across Utah County since 1997, and our IICRC-certified technicians know exactly what this city's homes demand.
+Eagle Mountain sits at roughly 4,900 feet on the west bench of Utah Lake Valley, where the freeze-thaw cycle hits hard every winter and spring snowmelt pushes soil moisture levels well above what most Utah Valley communities experience at lower elevations. When a supply line lets go at 2 a.m. or a washing machine hose fails during a cold snap, water moves fast through the open floor plans that dominate Eagle Mountain's newer construction, and the clock on secondary damage starts immediately. Home Pride Restoration has been responding to water emergencies across Utah County since 1997, and our IICRC-certified technicians know exactly what this city's homes demand.
 
 ## Why Eagle Mountain Properties See Water Damage Issues
 

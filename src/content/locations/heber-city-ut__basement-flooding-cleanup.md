@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Basement Flooding Cleanup in Heber City, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Basement Flooding Cleanup in Heber City, UT | Home Pride Restoration"
 h1: "24/7 Emergency Basement Flooding Cleanup in Heber City"
 meta_description: "24/7 emergency basement flooding cleanup in Heber City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "basement flooding cleanup heber city"
@@ -43,7 +43,7 @@ Drying typically runs three to five days in Heber City conditions, using commerc
 
 ## Response Time from Our HQ to Heber City
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs, and the most direct route to Heber City runs US-40 east through Parley's Canyon, roughly 45 to 55 minutes under normal conditions. That's a realistic number, not a marketing promise. For calls that come in during morning or evening canyon traffic, we'll tell you the honest ETA upfront rather than quote a number we can't hit.
+Home Pride Restoration is based in Saratoga Springs, and the most direct route to Heber City runs US-40 east through Parley's Canyon, roughly 45 to 55 minutes under normal conditions. That's a realistic number, not a marketing promise. For calls that come in during morning or evening canyon traffic, we'll tell you the honest ETA upfront rather than quote a number we can't hit.
 
 For properties closer to the US-189 corridor heading into the valley, we can sometimes shave time by coordinating with a technician already working in the Wasatch Back area. Call (801) 995-2437 and we'll give you a real arrival window based on where our nearest crew is at that moment.
 

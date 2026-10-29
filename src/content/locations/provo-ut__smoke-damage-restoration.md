@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Provo, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Smoke Damage Restoration in Provo, UT | Home Pride Restoration"
 h1: "24/7 Emergency Smoke Damage Restoration in Provo"
 meta_description: "24/7 emergency smoke damage restoration in Provo, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "smoke damage restoration provo"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Smoke damage emergency in Provo? We answer 24/7.** Call now and our crew heads out to stop smoke and soot damage from spreading.
 
-When a fire breaks out in a Provo home, whether it starts in a kitchen off University Avenue or spreads from a garage in a South Provo neighborhood, the visible char is rarely the worst of it. Smoke travels fast, seeping into drywall, HVAC ductwork, and the porous sandstone-block foundations common in older Provo construction. By the time the fire department clears the scene, odor compounds have already bonded to surfaces throughout the house. Home Pride Restoration and Cleaning has been responding to these situations since 1997, and our IICRC-certified technicians understand exactly what Provo's building stock and high-altitude climate do to a smoke damage job.
+When a fire breaks out in a Provo home, whether it starts in a kitchen off University Avenue or spreads from a garage in a South Provo neighborhood, the visible char is rarely the worst of it. Smoke travels fast, seeping into drywall, HVAC ductwork, and the porous sandstone-block foundations common in older Provo construction. By the time the fire department clears the scene, odor compounds have already bonded to surfaces throughout the house. Home Pride Restoration has been responding to these situations since 1997, and our IICRC-certified technicians understand exactly what Provo's building stock and high-altitude climate do to a smoke damage job.
 
 ## Why Provo Properties Face Distinct Smoke Damage Challenges
 

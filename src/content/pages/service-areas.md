@@ -1,8 +1,8 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | Home Pride Restoration and Cleaning Restoration"
+title: "Service Areas | Home Pride Restoration Restoration"
 h1: "Areas We Serve"
-meta_description: "Home Pride Restoration and Cleaning provides 24/7 restoration services across Saratoga Springs and the surrounding region. Find your city."
+meta_description: "Home Pride Restoration provides 24/7 restoration services across Saratoga Springs and the surrounding region. Find your city."
 primary_keyword: "home pride restoration and cleaning service areas"
 secondary_keywords: ["restoration service area", "cities we serve", "local restoration coverage"]
 search_intent: "navigational_local"
@@ -15,7 +15,7 @@ breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas"}]
 faq: [{"question": "How far will Home Pride Restoration travel for a job?", "answer": "Our primary coverage spans Utah County and the southwestern Salt Lake Valley, but we're willing to travel farther for larger or more complex losses. Call us at (801) 995-2437 and describe the scope \u2014 if we can reach you and do the job right, we'll make it work."}, {"question": "What's the response time if I'm at the far edge of your service area?", "answer": "For communities near the outer edges of our coverage \u2014 areas like Payson, Santaquin, or parts of Tooele County \u2014 you should plan for a 75\u201390 minute arrival window under normal road conditions. We dispatch immediately and call you with an updated ETA if anything changes, so you're never left guessing."}, {"question": "Do you charge extra for mileage or travel time?", "answer": "We don't tack on a separate mileage fee for destinations within our standard service area. For jobs that require us to travel significantly beyond our normal footprint, we'll be upfront about any travel cost before we dispatch \u2014 no surprises on your final invoice."}]
 rendered: true
 ---
-When a pipe bursts or smoke fills your hallway, the last thing you need is to wonder whether help is coming. Home Pride Restoration and Cleaning is based in Saratoga Springs and covers communities across Utah County, Salt Lake County, and the surrounding Wasatch Front, a service footprint built so that most customers see a technician at the door well within an hour of calling (801) 995-2437.
+When a pipe bursts or smoke fills your hallway, the last thing you need is to wonder whether help is coming. Home Pride Restoration is based in Saratoga Springs and covers communities across Utah County, Salt Lake County, and the surrounding Wasatch Front, a service footprint built so that most customers see a technician at the door well within an hour of calling (801) 995-2437.
 
 ## Where we work
 

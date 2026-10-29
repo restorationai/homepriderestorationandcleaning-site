@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Fabric Protection in Pleasant Grove, UT | Home Pride Restoration and Cleaning"
+title: "Fabric Protection in Pleasant Grove, UT | Home Pride Restoration"
 h1: "Fabric Protection in Pleasant Grove"
 meta_description: "24/7 fabric protection in Pleasant Grove, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fabric protection pleasant grove"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Fabric Protection"
 rendered: true
 ---
-Pleasant Grove sits at roughly 4,500 feet elevation along the Wasatch Front, where summer afternoons push UV indexes into the extreme range and winter brings road crews spreading magnesium chloride brine across State Street and Grove Drive. That combination, intense sun that degrades fiber coatings faster than in lower-elevation cities, plus the fine alkaline dust and deicer residue that hitchhikes in on shoes and pet paws, means fabric protection applied in Pleasant Grove needs to be calibrated for real local wear, not just a generic spray-and-go treatment. Home Pride Restoration and Cleaning has been protecting carpets, area rugs, and upholstered furniture along the Wasatch Front since 1997, and we've learned exactly what Pleasant Grove interiors are up against.
+Pleasant Grove sits at roughly 4,500 feet elevation along the Wasatch Front, where summer afternoons push UV indexes into the extreme range and winter brings road crews spreading magnesium chloride brine across State Street and Grove Drive. That combination, intense sun that degrades fiber coatings faster than in lower-elevation cities, plus the fine alkaline dust and deicer residue that hitchhikes in on shoes and pet paws, means fabric protection applied in Pleasant Grove needs to be calibrated for real local wear, not just a generic spray-and-go treatment. Home Pride Restoration has been protecting carpets, area rugs, and upholstered furniture along the Wasatch Front since 1997, and we've learned exactly what Pleasant Grove interiors are up against.
 
 ## Why Pleasant Grove Homes See Faster Fabric Degradation
 
@@ -52,4 +52,4 @@ Home Pride's headquarters is in Saratoga Springs, roughly 15–20 minutes from m
 
 If you've recently moved into a newly built home in one of the subdivisions off Canyon Road or near the east benches, hold off on fabric protection until the construction dust has fully settled, typically 60–90 days after move-in. New construction in Utah Valley generates an unusual volume of drywall compound dust and concrete particulate that infiltrates HVAC systems and redeposits on carpet for weeks after the build is complete. Applying protective coating over that residue traps the abrasive particles against the fiber rather than sealing clean fiber. We see this pattern regularly in Pleasant Grove's newer neighborhoods, and a brief wait plus one professional cleaning before protection is applied makes a measurable difference in how long the treatment holds.
 
-Call Home Pride Restoration and Cleaning at **(801) 995-2437** to schedule fabric protection for your Pleasant Grove home. Whether you're protecting brand-new carpet in a recently finished basement or refreshing the treatment on a sectional that's been through a few Utah winters, we'll identify the right product for your specific fibers and apply it correctly the first time.
+Call Home Pride Restoration at **(801) 995-2437** to schedule fabric protection for your Pleasant Grove home. Whether you're protecting brand-new carpet in a recently finished basement or refreshing the treatment on a sectional that's been through a few Utah winters, we'll identify the right product for your specific fibers and apply it correctly the first time.

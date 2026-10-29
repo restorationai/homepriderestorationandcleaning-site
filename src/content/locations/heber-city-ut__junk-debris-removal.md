@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Junk & Debris Removal in Heber City, UT | Home Pride Restoration and Cleaning"
+title: "Junk & Debris Removal in Heber City, UT | Home Pride Restoration"
 h1: "Junk & Debris Removal in Heber City"
 meta_description: "24/7 junk & debris removal in Heber City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "junk & debris removal heber city"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Junk & Debris Removal"
 rendered: true
 ---
-Heber City sits at roughly 5,600 feet in the Heber Valley, where mountain winters are long, spring snowmelt is aggressive, and seasonal cabins flip between mothballed and fully occupied faster than almost anywhere else in Wasatch County. That cycle, freeze, thaw, open, close, repeat, leaves behind a particular kind of clutter: waterlogged outdoor furniture stacked against sheds, broken snowblowers wedged into garages, old propane tanks from heating seasons past, and the accumulated remnants of renovation projects that got cut short by the first October storm. Home Pride Restoration and Cleaning has been clearing exactly this kind of load since 1997, and we know how different a Heber City cleanout looks compared to a suburban Salt Lake job.
+Heber City sits at roughly 5,600 feet in the Heber Valley, where mountain winters are long, spring snowmelt is aggressive, and seasonal cabins flip between mothballed and fully occupied faster than almost anywhere else in Wasatch County. That cycle, freeze, thaw, open, close, repeat, leaves behind a particular kind of clutter: waterlogged outdoor furniture stacked against sheds, broken snowblowers wedged into garages, old propane tanks from heating seasons past, and the accumulated remnants of renovation projects that got cut short by the first October storm. Home Pride Restoration has been clearing exactly this kind of load since 1997, and we know how different a Heber City cleanout looks compared to a suburban Salt Lake job.
 
 ## Why Heber City Properties Accumulate Junk Differently
 

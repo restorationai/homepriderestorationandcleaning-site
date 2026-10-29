@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Herriman, UT | Home Pride Restoration and Cleaning"
+title: "Mold Remediation in Herriman, UT | Home Pride Restoration"
 h1: "Mold Remediation in Herriman"
 meta_description: "24/7 mold remediation in Herriman, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold remediation herriman"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Mold Remediation"
 rendered: true
 ---
-Herriman's rapid growth over the past two decades has filled the 84096 ZIP code with thousands of new homes, many built quickly on clay-heavy soils that drain poorly and trap moisture against foundations. When that moisture finds its way inside, mold can begin colonizing damp drywall, insulation, and subflooring in as little as 24 to 48 hours. Home Pride Restoration and Cleaning has handled mold remediation across the Salt Lake Valley since 1997, and the conditions specific to Herriman's newer construction and high-desert climate create patterns we recognize immediately.
+Herriman's rapid growth over the past two decades has filled the 84096 ZIP code with thousands of new homes, many built quickly on clay-heavy soils that drain poorly and trap moisture against foundations. When that moisture finds its way inside, mold can begin colonizing damp drywall, insulation, and subflooring in as little as 24 to 48 hours. Home Pride Restoration has handled mold remediation across the Salt Lake Valley since 1997, and the conditions specific to Herriman's newer construction and high-desert climate create patterns we recognize immediately.
 
 ## Why Herriman Properties See Mold Problems
 
@@ -50,4 +50,4 @@ Many of Herriman's planned communities also have HOA covenants that require disc
 
 One pattern we see repeatedly in Herriman homes built between 2005 and 2015: the spray-foam insulation used in many of those builds can mask moisture intrusion for months. Unlike fiberglass batt, spray foam doesn't visibly sag or discolor when wet, so by the time a homeowner notices a musty smell, mold has often colonized the wood framing behind the foam rather than the foam itself. Thermal imaging is the only reliable way to find those hidden wet zones without tearing out walls blindly. It's a step we don't skip on Herriman jobs, even when the visible damage looks minor.
 
-If you're smelling something musty in your Herriman home and can't find the source, don't wait to see if it clears up on its own. Call Home Pride Restoration and Cleaning at (801) 995-2437, we'll map the moisture, identify the mold, and walk you through exactly what remediation will involve before any work begins.
+If you're smelling something musty in your Herriman home and can't find the source, don't wait to see if it clears up on its own. Call Home Pride Restoration at (801) 995-2437, we'll map the moisture, identify the mold, and walk you through exactly what remediation will involve before any work begins.

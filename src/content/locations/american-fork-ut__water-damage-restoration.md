@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in American Fork, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Damage Restoration in American Fork, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Damage Restoration in American Fork"
 meta_description: "24/7 emergency water damage restoration in American Fork, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "water damage restoration american fork"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Water damage emergency in American Fork? We answer 24/7.** Call now and our crew heads out to stop the water and start drying your property.
 
-American Fork sits in a narrow corridor between Utah Lake's fluctuating shoreline and the steep drainage channels that funnel snowmelt off Mount Timpanogos every spring. That geography means a burst pipe, a failed sump pump, or a backed-up floor drain can escalate faster here than in drier parts of Utah County, saturated soil has nowhere to push excess water, and it often finds its way into crawl spaces and lower-level living areas before a homeowner notices anything is wrong. Home Pride Restoration and Cleaning has been responding to exactly these situations since 1997, and our IICRC-certified crews understand what water does to this specific landscape.
+American Fork sits in a narrow corridor between Utah Lake's fluctuating shoreline and the steep drainage channels that funnel snowmelt off Mount Timpanogos every spring. That geography means a burst pipe, a failed sump pump, or a backed-up floor drain can escalate faster here than in drier parts of Utah County, saturated soil has nowhere to push excess water, and it often finds its way into crawl spaces and lower-level living areas before a homeowner notices anything is wrong. Home Pride Restoration has been responding to exactly these situations since 1997, and our IICRC-certified crews understand what water does to this specific landscape.
 
 ## Why American Fork Properties See Water Damage Issues
 
@@ -57,4 +57,4 @@ Most standard homeowner policies cover sudden and accidental water discharge, a 
 
 American Fork's pressurized irrigation system is charged each spring, typically in April, and that pressurization window is when we see a cluster of calls from homes where an irrigation backflow preventer has failed or a valve was left cracked open over winter. The water that enters through these failures is classified as Category 2 (gray water) under IICRC standards, not clean tap water, which changes the extraction and treatment protocol and affects how materials like carpet and drywall are handled. If your water event happened within a few weeks of irrigation startup, mention it when you call; it helps us bring the right materials and set the right expectations before we arrive.
 
-If you're dealing with standing water, wet walls, or flooring that sounds hollow when you walk on it, call Home Pride Restoration and Cleaning at **(801) 995-2437**. The longer water sits in an American Fork home, the deeper it migrates, and the more of the structure ends up in a dumpster rather than a drying chamber.
+If you're dealing with standing water, wet walls, or flooring that sounds hollow when you walk on it, call Home Pride Restoration at **(801) 995-2437**. The longer water sits in an American Fork home, the deeper it migrates, and the more of the structure ends up in a dumpster rather than a drying chamber.

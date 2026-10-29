@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Sewage Cleanup and Sanitization in Lehi, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Sewage Cleanup and Sanitization in Lehi, UT | Home Pride Restoration"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Lehi"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Lehi, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "sewage cleanup and sanitization lehi"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Sewage backup in Lehi? We answer 24/7.** Call now and our crew heads out to contain the contamination and start the cleanup.
 
-Lehi's rapid growth has pushed new subdivisions into areas where aging municipal sewer infrastructure wasn't built to handle the load, and when a line backs up, raw sewage doesn't wait for business hours. Whether you're dealing with a backed-up floor drain in a newer home near Traverse Mountain or a septic overflow on a property along the older sections of State Street, the clock starts the moment contaminated water touches your flooring, drywall, or HVAC returns. Home Pride Restoration and Cleaning has been responding to exactly these situations since 1997, and our IICRC-certified crews are dispatched from Saratoga Springs, typically reaching Lehi addresses within 45 to 60 minutes.
+Lehi's rapid growth has pushed new subdivisions into areas where aging municipal sewer infrastructure wasn't built to handle the load, and when a line backs up, raw sewage doesn't wait for business hours. Whether you're dealing with a backed-up floor drain in a newer home near Traverse Mountain or a septic overflow on a property along the older sections of State Street, the clock starts the moment contaminated water touches your flooring, drywall, or HVAC returns. Home Pride Restoration has been responding to exactly these situations since 1997, and our IICRC-certified crews are dispatched from Saratoga Springs, typically reaching Lehi addresses within 45 to 60 minutes.
 
 ## Why Lehi Properties See More Sewage Backup Problems
 
@@ -65,4 +65,4 @@ We provide itemized moisture logs, photo documentation, and scope-of-loss report
 
 One pattern we see consistently in Lehi that's less common in neighboring cities: sewage backups spike in March and April, when ground temperatures rise enough to accelerate root growth into older clay pipe joints, right as snowmelt is saturating the soil. Homes in the older neighborhoods near downtown Lehi, particularly those with mature trees planted close to the house, are most vulnerable during this window. If you've had even a slow-draining floor drain this winter, it's worth having your lateral line scoped before spring arrives. That said, when a backup does happen, call us first, we'll get the contamination contained while you coordinate with a plumber on the root cause.
 
-If you're dealing with sewage backup in your Lehi home right now, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We'll have an IICRC-certified technician at your door with full extraction and sanitization equipment, not a sales visit, not an estimate appointment, but a crew ready to work.
+If you're dealing with sewage backup in your Lehi home right now, call Home Pride Restoration at **(801) 995-2437**. We'll have an IICRC-certified technician at your door with full extraction and sanitization equipment, not a sales visit, not an estimate appointment, but a crew ready to work.

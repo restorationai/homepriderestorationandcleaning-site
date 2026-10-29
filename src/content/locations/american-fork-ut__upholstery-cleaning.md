@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in American Fork, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in American Fork, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in American Fork"
 meta_description: "24/7 upholstery cleaning in American Fork, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning american fork"
@@ -34,7 +34,7 @@ Every job starts with a fiber and finish identification, fabric, microfiber, per
 
 For fabric upholstery, we use low-moisture hot-water extraction calibrated to the fabric weight, enough heat to break down the alkaline dust and organic stains common in American Fork homes without over-wetting cushion foam that can take days to dry in a sealed room. For leather sofa cleaning and leather upholstery cleaning, we follow extraction with a conditioner formulated for arid climates, which helps offset the moisture loss caused by Utah Valley's dry winters. The full process for a standard three-cushion sofa typically runs 60–90 minutes on-site, with fabric pieces ready to use again within two to four hours under normal ventilation.
 
-Home Pride Restoration and Cleaning has been doing this work since 1997 and holds IICRC certification, the same credential required for water and fire restoration, which means our technicians understand fiber chemistry, not just surface cleaning.
+Home Pride Restoration has been doing this work since 1997 and holds IICRC certification, the same credential required for water and fire restoration, which means our technicians understand fiber chemistry, not just surface cleaning.
 
 ## Response Time and Coverage in American Fork
 
@@ -50,4 +50,4 @@ Technicians arrive with all equipment and solutions on the truck, no trips back 
 
 One thing that catches homeowners off guard in American Fork's newer subdivisions, particularly developments built after 2010 in the northern and eastern parts of the city, is that many builders used performance-fabric sofas as model-home staging pieces, and those fabrics were then sold to buyers who assumed they were standard upholstery. Performance weaves like Crypton or Revolution fabric require different cleaning chemistry than conventional polyester or linen blends; standard steam cleaning can temporarily mat the fibers and affect the stain-resistance treatment. We test a hidden section before committing to any method, which takes an extra five minutes but protects a piece that often cost $1,500 or more.
 
-If you're ready to schedule or just want a straight answer on whether your sofa or sectional is a good candidate for professional cleaning, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll give you an honest assessment, including whether a piece is too far gone to clean cost-effectively, before we book anything.
+If you're ready to schedule or just want a straight answer on whether your sofa or sectional is a good candidate for professional cleaning, call Home Pride Restoration at (801) 995-2437. We'll give you an honest assessment, including whether a piece is too far gone to clean cost-effectively, before we book anything.

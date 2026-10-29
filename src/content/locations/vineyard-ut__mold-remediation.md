@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Vineyard, UT | Home Pride Restoration and Cleaning"
+title: "Mold Remediation in Vineyard, UT | Home Pride Restoration"
 h1: "Mold Remediation in Vineyard"
 meta_description: "24/7 mold remediation in Vineyard, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold remediation vineyard"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Mold Remediation"
 rendered: true
 ---
-**Mold remediation in Vineyard?** Call Home Pride Restoration and Cleaning at (801) 995-2437 and we'll schedule a technician to assess the growth, source, and scope before it spreads further into your home's structure. Vineyard's position on the shore of Utah Lake, paired with a wave of new residential construction over the past decade, creates moisture patterns that differ from older, established Utah County communities, and mold remediation here has to account for that from the first walkthrough.
+**Mold remediation in Vineyard?** Call Home Pride Restoration at (801) 995-2437 and we'll schedule a technician to assess the growth, source, and scope before it spreads further into your home's structure. Vineyard's position on the shore of Utah Lake, paired with a wave of new residential construction over the past decade, creates moisture patterns that differ from older, established Utah County communities, and mold remediation here has to account for that from the first walkthrough.
 
 ## Why Vineyard Properties See Mold Issues
 
@@ -38,4 +38,4 @@ A large share of Vineyard's newer subdivisions are HOA-managed communities, and 
 
 Because a meaningful portion of Vineyard was built on reclaimed industrial land near the lakeshore, we routinely see engineered fill and vapor barrier systems under slab foundations in the newer builds. When those vapor barriers are installed correctly they do their job, but on homes where a barrier was punctured during landscaping or utility work, moisture can wick up through the slab edge and feed mold growth along baseboards long before it's visible on the wall surface. It's one of the first things we check in a ground-floor room with a musty smell and no obvious leak.
 
-If you're smelling something musty in a Vineyard home or noticing dark staining along a baseboard or window sill, don't wait for it to spread. Home Pride Restoration and Cleaning has been doing this work since 1997, our team is IICRC Certified, and we're to handle remediation from assessment through final clearance. Call (801) 995-2437 to get a technician looking at it.
+If you're smelling something musty in a Vineyard home or noticing dark staining along a baseboard or window sill, don't wait for it to spread. Home Pride Restoration has been doing this work since 1997, our team is IICRC Certified, and we're to handle remediation from assessment through final clearance. Call (801) 995-2437 to get a technician looking at it.

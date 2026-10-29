@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Tile & Grout Cleaning in Heber City, UT | Home Pride Restoration and Cleaning"
+title: "Tile & Grout Cleaning in Heber City, UT | Home Pride Restoration"
 h1: "Tile & Grout Cleaning in Heber City"
 meta_description: "24/7 tile & grout cleaning in Heber City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "tile & grout cleaning heber city"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Tile & Grout Cleaning"
 rendered: true
 ---
-Heber City's high-altitude climate, sitting at roughly 5,600 feet in Heber Valley, creates tile and grout conditions that most Utah cleaning crews aren't prepared for. The hard, mineral-rich water drawn from local wells and the Provo River watershed leaves calcium and magnesium deposits inside grout pores that standard residential steam cleaners can't fully dissolve. Combine that with the freeze-thaw cycles that push through the valley from October through April, and you get grout that cracks, lifts, and harbors grime faster than comparable tile in lower-elevation Utah communities. Home Pride Restoration and Cleaning has been handling exactly these conditions since 1997.
+Heber City's high-altitude climate, sitting at roughly 5,600 feet in Heber Valley, creates tile and grout conditions that most Utah cleaning crews aren't prepared for. The hard, mineral-rich water drawn from local wells and the Provo River watershed leaves calcium and magnesium deposits inside grout pores that standard residential steam cleaners can't fully dissolve. Combine that with the freeze-thaw cycles that push through the valley from October through April, and you get grout that cracks, lifts, and harbors grime faster than comparable tile in lower-elevation Utah communities. Home Pride Restoration has been handling exactly these conditions since 1997.
 
 ## Why Heber City Tile and Grout Wears Differently
 

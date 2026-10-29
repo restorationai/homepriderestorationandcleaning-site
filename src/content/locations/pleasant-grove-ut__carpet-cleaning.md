@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Pleasant Grove, UT | Home Pride Restoration and Cleaning"
+title: "Carpet Cleaning in Pleasant Grove, UT | Home Pride Restoration"
 h1: "Carpet Cleaning in Pleasant Grove"
 meta_description: "24/7 carpet cleaning in Pleasant Grove, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "carpet cleaning pleasant grove"
@@ -48,6 +48,6 @@ Homes in the older sections of Pleasant Grove, particularly the blocks near the 
 
 ## Scheduling and Response for Pleasant Grove
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, roughly 15–20 minutes from most Pleasant Grove addresses via Redwood Road or the US-89 corridor depending on traffic. For routine carpet cleaning appointments, we offer morning and afternoon windows with a 30-minute arrival confirmation call. For urgent situations, a spill before a home showing, a tenant turnover with a hard deadline, call (801) 995-2437 directly and we'll find the earliest available slot. We've been doing this since 1997, and we know that a missed move-out window or a stained carpet before a real estate showing isn't a minor inconvenience.
+Home Pride Restoration operates out of Saratoga Springs, roughly 15–20 minutes from most Pleasant Grove addresses via Redwood Road or the US-89 corridor depending on traffic. For routine carpet cleaning appointments, we offer morning and afternoon windows with a 30-minute arrival confirmation call. For urgent situations, a spill before a home showing, a tenant turnover with a hard deadline, call (801) 995-2437 directly and we'll find the earliest available slot. We've been doing this since 1997, and we know that a missed move-out window or a stained carpet before a real estate showing isn't a minor inconvenience.
 
 If your Pleasant Grove home or business is overdue for a deep clean, or if you're dealing with a stain that's resisted everything you've tried, the next step is a quick call. We'll give you an honest assessment of what's achievable before we schedule anything.

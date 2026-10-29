@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Cedar Hills, UT | Home Pride Restoration and Cleaning"
+title: "Restoration Services in Cedar Hills, UT | Home Pride Restoration"
 h1: "Restoration Services in Cedar Hills"
 meta_description: "Serving Cedar Hills, UT with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (801) 995-2437."
 primary_keyword: "restoration services cedar hills"
@@ -19,7 +19,7 @@ state: "UT"
 primary: false
 rendered: true
 ---
-Home Pride Restoration and Cleaning handles water damage, fire and smoke recovery, mold remediation, and biohazard cleanup for homeowners and property managers throughout Cedar Hills, Utah. Our crews work directly with insurance carriers and document every stage of the loss, from the first extraction reading to the final walkthrough, so property owners here are not left guessing about scope or cost while the work is underway.
+Home Pride Restoration handles water damage, fire and smoke recovery, mold remediation, and biohazard cleanup for homeowners and property managers throughout Cedar Hills, Utah. Our crews work directly with insurance carriers and document every stage of the loss, from the first extraction reading to the final walkthrough, so property owners here are not left guessing about scope or cost while the work is underway.
 
 ## Restoration emergencies common in Cedar Hills
 
@@ -43,4 +43,4 @@ We run crews out of Saratoga Springs, a short drive west across Utah County from
 
 Cedar Hills developed largely from the 1980s through the 2000s, which puts most homes in the era of PEX or copper supply lines rather than the galvanized or polybutylene piping found in older Utah County stock, though transitional polybutylene systems do still turn up in homes from the early part of that window and are a known failure point. Many lots are built into sloped terrain with daylight or full basements cut into the hillside, which changes how water moves through a structure compared to a flat slab home: a foundation leak here is as likely to come from hydrostatic pressure against an uphill wall as from a plumbing failure. Structural repairs and any rebuild work require a permit through Cedar Hills city building department or, for scope that falls under county jurisdiction, Utah County, and most neighborhoods here are governed by an HOA with its own exterior and material requirements that we plan around before work starts.
 
-If water, fire, smoke, or mold has already taken hold in a Cedar Hills home or building, call Home Pride Restoration and Cleaning at (801) 995-2437. We answer 24/7, document the loss for your insurance carrier, and get a crew working on containment and extraction as soon as we're on site.
+If water, fire, smoke, or mold has already taken hold in a Cedar Hills home or building, call Home Pride Restoration at (801) 995-2437. We answer 24/7, document the loss for your insurance carrier, and get a crew working on containment and extraction as soon as we're on site.

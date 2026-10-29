@@ -1,8 +1,8 @@
 ---
 archetype: "service-area"
-title: "Serving All of Saratoga Springs, UT | Home Pride Restoration and Cleaning"
+title: "Serving All of Saratoga Springs, UT | Home Pride Restoration"
 h1: "Serving All of Saratoga Springs"
-meta_description: "Home Pride Restoration and Cleaning is based in Saratoga Springs, UT. See the parts of Saratoga Springs we cover and every service we offer here. Call (801) 995-2437."
+meta_description: "Home Pride Restoration is based in Saratoga Springs, UT. See the parts of Saratoga Springs we cover and every service we offer here. Call (801) 995-2437."
 primary_keyword: "saratoga springs service area"
 secondary_keywords: ["saratoga springs neighborhoods we serve"]
 search_intent: "local_commercial"
@@ -19,7 +19,7 @@ state: "UT"
 primary: true
 rendered: true
 ---
-Home Pride Restoration and Cleaning handles water damage, fire and smoke recovery, mold remediation, and biohazard cleanup for homes and businesses throughout Saratoga Springs. Because the company is based right here in the city, crews already know which neighborhoods sit on reclaimed lakebed soil, which subdivisions still have builder-grade plumbing from the early 2000s boom, and how fast a basement can flood when snowmelt runs toward Utah Lake. That local knowledge shapes the scope of work from the first phone call, not after the crew shows up.
+Home Pride Restoration handles water damage, fire and smoke recovery, mold remediation, and biohazard cleanup for homes and businesses throughout Saratoga Springs. Because the company is based right here in the city, crews already know which neighborhoods sit on reclaimed lakebed soil, which subdivisions still have builder-grade plumbing from the early 2000s boom, and how fast a basement can flood when snowmelt runs toward Utah Lake. That local knowledge shapes the scope of work from the first phone call, not after the crew shows up.
 
 ## Restoration emergencies common in Saratoga Springs
 
@@ -45,4 +45,4 @@ Most of Saratoga Springs was built from the early 2000s onward, so the housing s
 
 Soil near Utah Lake tends to hold more moisture and drain more slowly than ground farther from the shoreline, which affects how aggressively a crew needs to dry a crawlspace or basement after intrusion. The city's building department issues permits for structural repair and reconstruction work, and most neighborhoods here are part of an HOA, which can add a layer of approval for exterior repairs, dumpster placement, or reconstruction timelines that a homeowner should flag early in the claims process.
 
-If water, fire, smoke, or mold has hit your Saratoga Springs property, call Home Pride Restoration and Cleaning at (801) 995-2437. We're available 24/7, and because we're already in the city, we can start assessing the damage and documenting it for your insurance carrier without the delay of a long-distance dispatch.
+If water, fire, smoke, or mold has hit your Saratoga Springs property, call Home Pride Restoration at (801) 995-2437. We're available 24/7, and because we're already in the city, we can start assessing the damage and documenting it for your insurance carrier without the delay of a long-distance dispatch.

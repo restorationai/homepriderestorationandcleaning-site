@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Frozen Pipe Restoration in South Jordan, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Frozen Pipe Restoration in South Jordan, UT | Home Pride Restoration"
 h1: "24/7 Emergency Frozen Pipe Restoration in South Jordan"
 meta_description: "24/7 emergency frozen pipe restoration in South Jordan, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "frozen pipe restoration south jordan"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Frozen Pipe Restoration"
 rendered: true
 ---
-South Jordan sits in the Salt Lake Valley at roughly 4,400 feet elevation, and the temperature swings here are sharper than most newcomers expect. A stretch of nights in the single digits, not uncommon from December through February, can freeze the water supply lines in a garage, crawl space, or exterior wall within hours, and when those pipes thaw, the damage often shows up fast: soaked insulation, buckled flooring, and water wicking into drywall before anyone realizes the pipe has let go. Home Pride Restoration and Cleaning has been handling exactly this kind of emergency since 1997, and our crews know what South Jordan homes look like from the inside out.
+South Jordan sits in the Salt Lake Valley at roughly 4,400 feet elevation, and the temperature swings here are sharper than most newcomers expect. A stretch of nights in the single digits, not uncommon from December through February, can freeze the water supply lines in a garage, crawl space, or exterior wall within hours, and when those pipes thaw, the damage often shows up fast: soaked insulation, buckled flooring, and water wicking into drywall before anyone realizes the pipe has let go. Home Pride Restoration has been handling exactly this kind of emergency since 1997, and our crews know what South Jordan homes look like from the inside out.
 
 ## Why South Jordan Properties Are Vulnerable to Frozen Pipe Damage
 
@@ -50,4 +50,4 @@ For most calls in the 84095 ZIP code, we target a technician on your doorstep wi
 
 The Daybreak community uses a recirculating water system tied to the community's water feature network, and some of the townhome rows near the lake have shared utility chases between units. When a pipe freezes and thaws in one of those shared chases, the water doesn't always stay in the unit where the break occurred, it can migrate through the common wall assembly into an adjacent unit before either homeowner notices anything. We've learned to knock on the neighbor's door during every Daybreak townhome call and run a moisture scan on the shared wall from both sides. It's an extra 20 minutes that has saved multiple homeowners from a dispute over who owns the damage.
 
-If your South Jordan property has sustained frozen pipe damage, whether it's a single burst line in a garage or water that's moved through multiple rooms, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We'll have a technician to your door fast, document everything your insurer needs, and dry the structure correctly the first time so you're not dealing with a mold problem six weeks from now.
+If your South Jordan property has sustained frozen pipe damage, whether it's a single burst line in a garage or water that's moved through multiple rooms, call Home Pride Restoration at **(801) 995-2437**. We'll have a technician to your door fast, document everything your insurer needs, and dry the structure correctly the first time so you're not dealing with a mold problem six weeks from now.

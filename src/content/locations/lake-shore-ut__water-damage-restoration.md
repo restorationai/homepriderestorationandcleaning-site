@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Lake Shore, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Damage Restoration in Lake Shore, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Damage Restoration in Lake Shore"
 meta_description: "24/7 emergency water damage restoration in Lake Shore, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "water damage restoration lake shore"
@@ -38,4 +38,4 @@ One wrinkle specific to lake-adjacent towns like Lake Shore: homeowner's policie
 
 If your Lake Shore home has a crawlspace rather than a full basement, check it after any heavy spring runoff even if you don't see water inside the house. The clay soil around Utah Lake holds moisture long enough that crawlspace framing can stay damp for weeks after the ground has visibly dried elsewhere, and that lag is exactly the window mold needs to get started on floor joists before anyone notices a problem upstairs.
 
-Water sitting in a Lake Shore home doesn't wait for a convenient time, and neither should the response. Home Pride Restoration and Cleaning is IICRC certified, and we bring extraction and drying equipment straight from our Saratoga Springs base into Utah County homes and crawlspaces built on this same lakeside clay. Call (801) 995-2437 for water damage restoration in Lake Shore and we'll walk you through what happens next.
+Water sitting in a Lake Shore home doesn't wait for a convenient time, and neither should the response. Home Pride Restoration is IICRC certified, and we bring extraction and drying equipment straight from our Saratoga Springs base into Utah County homes and crawlspaces built on this same lakeside clay. Call (801) 995-2437 for water damage restoration in Lake Shore and we'll walk you through what happens next.

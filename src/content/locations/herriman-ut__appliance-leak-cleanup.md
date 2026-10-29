@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Appliance Leak Cleanup in Herriman, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Appliance Leak Cleanup in Herriman, UT | Home Pride Restoration"
 h1: "24/7 Emergency Appliance Leak Cleanup in Herriman"
 meta_description: "24/7 emergency appliance leak cleanup in Herriman, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "appliance leak cleanup herriman"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Burst pipe or leak in Herriman? We answer 24/7.** Call now and our crew heads out to stop the water and start the cleanup.
 
-Herriman's rapid growth over the past decade has filled the 84096 ZIP code with subdivisions built fast, and fast construction sometimes means appliance supply lines, dishwasher drain connections, and ice maker fittings that weren't seated quite right from day one. When a refrigerator leak or washing machine flood finally lets go in one of these homes, water moves quickly across the LVP flooring that's standard in most builds here, finds the seams, and saturates the OSB subfloor before the homeowner realizes what's happening. Home Pride Restoration and Cleaning has been responding to these calls since 1997, and our IICRC-certified crews can be on-site from our Saratoga Springs headquarters in under an hour.
+Herriman's rapid growth over the past decade has filled the 84096 ZIP code with subdivisions built fast, and fast construction sometimes means appliance supply lines, dishwasher drain connections, and ice maker fittings that weren't seated quite right from day one. When a refrigerator leak or washing machine flood finally lets go in one of these homes, water moves quickly across the LVP flooring that's standard in most builds here, finds the seams, and saturates the OSB subfloor before the homeowner realizes what's happening. Home Pride Restoration has been responding to these calls since 1997, and our IICRC-certified crews can be on-site from our Saratoga Springs headquarters in under an hour.
 
 ## Why Herriman Homes See More Appliance Leaks Than You'd Expect
 
@@ -59,4 +59,4 @@ On the insurance side, we work directly with adjusters and provide the moisture 
 
 One thing we've learned working in Herriman's newer subdivisions: the open-concept floor plans that are standard in most builds here mean a dishwasher or refrigerator leak in the kitchen can reach the great room, a hallway, and a bedroom closet before it's visible anywhere. The water follows the path of least resistance under continuous LVP runs that span the entire main floor. We've arrived at jobs where the homeowner thought they had a small kitchen leak and found moisture readings spiking 30 feet away under a bedroom threshold. If you can hear water or see any discoloration at a seam, assume it's traveled further than you think.
 
-When you call Home Pride Restoration and Cleaning at (801) 995-2437, tell us which appliance is involved and whether the water is still running, that information lets us dispatch the right equipment load for your Herriman home on the first trip.
+When you call Home Pride Restoration at (801) 995-2437, tell us which appliance is involved and whether the water is still running, that information lets us dispatch the right equipment load for your Herriman home on the first trip.

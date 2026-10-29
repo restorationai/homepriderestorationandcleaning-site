@@ -1,7 +1,7 @@
 ---
 hero: '/images/services/basement-flooding-cleanup.webp'
 archetype: "service-landing"
-title: "24/7 Emergency Basement Flooding Cleanup in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Basement Flooding Cleanup in Saratoga Springs | Home Pride Restoration"
 h1: "24/7 Emergency Basement Flooding Cleanup in Saratoga Springs"
 meta_description: "24/7 emergency basement flooding cleanup in Saratoga Springs and surrounding areas. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "basement flooding cleanup saratoga springs"
@@ -61,6 +61,6 @@ Saratoga Springs sits at roughly 4,500 feet, and the Wasatch Front's freeze-thaw
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and provides basement flooding cleanup throughout the surrounding communities, including Eagle Mountain, Lehi, American Fork, Cedar Hills, Highland, and Herriman. Response times in our core service area are typically under 90 minutes.
+Home Pride Restoration is based in Saratoga Springs and provides basement flooding cleanup throughout the surrounding communities, including Eagle Mountain, Lehi, American Fork, Cedar Hills, Highland, and Herriman. Response times in our core service area are typically under 90 minutes.
 
 If you're standing in a wet basement right now, the clock is already running. Call **(801) 995-2437** to start your basement water extraction, we'll walk you through what to move, what not to touch, and what to tell your insurance company before we arrive.

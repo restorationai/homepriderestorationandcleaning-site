@@ -76,4 +76,4 @@ Once your claim is approved and a restoration crew is on-site, here's what happe
 
 If you're still in the research phase, trying to understand your policy before something happens, bookmark this page and pull out your declarations sheet to check whether you have sewer backup coverage and what your deductible is for water losses.
 
-If water damage has already happened, the clock is running. Mold doesn't wait for paperwork. The team at Home Pride Restoration and Cleaning handles water damage mitigation and reconstruction throughout Saratoga Springs and the surrounding Utah County area, and can work directly with your insurance adjuster to document the loss and scope the repair. Call **(801) 995-2437** any time, water damage doesn't keep business hours.
+If water damage has already happened, the clock is running. Mold doesn't wait for paperwork. The team at Home Pride Restoration handles water damage mitigation and reconstruction throughout Saratoga Springs and the surrounding Utah County area, and can work directly with your insurance adjuster to document the loss and scope the repair. Call **(801) 995-2437** any time, water damage doesn't keep business hours.

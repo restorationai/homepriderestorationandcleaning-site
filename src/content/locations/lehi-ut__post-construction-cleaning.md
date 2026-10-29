@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Lehi, UT | Home Pride Restoration and Cleaning"
+title: "Post-Construction and Specialty Cleaning in Lehi, UT | Home Pride Restoration"
 h1: "Post-Construction and Specialty Cleaning in Lehi"
 meta_description: "24/7 post-construction and specialty cleaning in Lehi, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "post-construction and specialty cleaning lehi"
@@ -42,4 +42,4 @@ Being based in Saratoga Springs puts us a short drive from Lehi job sites, which
 
 One thing that catches new-construction crews off guard in Lehi: the valley's wind pulls fine, dry dust in through garage door gaps and unsealed window tracks even days after the exterior is finished, so a final clean done too early often needs a touch-up pass right before closing. We build that into the schedule on larger Lehi projects rather than treating the final clean as a single visit.
 
-If you're closing out a build, a remodel, or a commercial buildout in Lehi and need the space genuinely move-in ready rather than just picked up, call Home Pride Restoration and Cleaning at (801) 995-2437. We've been doing cleaning and restoration work in Utah County since 1997, and we schedule post-construction cleans around your actual timeline, not a generic checklist.
+If you're closing out a build, a remodel, or a commercial buildout in Lehi and need the space genuinely move-in ready rather than just picked up, call Home Pride Restoration at (801) 995-2437. We've been doing cleaning and restoration work in Utah County since 1997, and we schedule post-construction cleans around your actual timeline, not a generic checklist.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Bluffdale, UT | Home Pride Restoration and Cleaning"
+title: "Carpet Cleaning in Bluffdale, UT | Home Pride Restoration"
 h1: "Carpet Cleaning in Bluffdale"
 meta_description: "24/7 carpet cleaning in Bluffdale, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "carpet cleaning bluffdale"
@@ -38,4 +38,4 @@ Our crews run out of Saratoga Springs, and Bluffdale is a straightforward run al
 
 Homes built in Bluffdale's newer subdivisions over the past several years often still have builder-grade carpet installed at construction, and that carpet is usually a tighter, lower-pile synthetic meant to look clean longer, not meant for aggressive cleaning chemicals. We adjust solution strength and dwell time on these installs so we don't strip the factory protectant prematurely, which matters if the homeowner wants that carpet to last through the builder's warranty period.
 
-If your carpet is holding onto dust, hard water haze, or stains that keep reappearing no matter how often you vacuum, call Home Pride Restoration and Cleaning at (801) 995-2437. We've been cleaning carpet and handling restoration work in the valley since 1997, and we're IICRC certified, so Bluffdale homeowners and property managers know exactly who's showing up and what standard the work is held to.
+If your carpet is holding onto dust, hard water haze, or stains that keep reappearing no matter how often you vacuum, call Home Pride Restoration at (801) 995-2437. We've been cleaning carpet and handling restoration work in the valley since 1997, and we're IICRC certified, so Bluffdale homeowners and property managers know exactly who's showing up and what standard the work is held to.

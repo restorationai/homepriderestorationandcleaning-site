@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Bluffdale, UT | Home Pride Restoration and Cleaning"
+title: "Restoration Services in Bluffdale, UT | Home Pride Restoration"
 h1: "Restoration Services in Bluffdale"
 meta_description: "Serving Bluffdale, UT with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (801) 995-2437."
 primary_keyword: "restoration services bluffdale"
@@ -19,7 +19,7 @@ state: "UT"
 primary: false
 rendered: true
 ---
-Home Pride Restoration and Cleaning handles water intrusion, fire and smoke damage, mold growth, and biohazard cleanup for homeowners and property managers across Bluffdale. Whether it's a burst supply line in a newer subdivision near the Point of the Mountain or a sewer backup in an older rural property near the Jordan River corridor, our crews document the loss for insurance, extract water or remove contaminated material, and rebuild what the damage took. We work directly with adjusters so Bluffdale property owners aren't managing two timelines at once.
+Home Pride Restoration handles water intrusion, fire and smoke damage, mold growth, and biohazard cleanup for homeowners and property managers across Bluffdale. Whether it's a burst supply line in a newer subdivision near the Point of the Mountain or a sewer backup in an older rural property near the Jordan River corridor, our crews document the loss for insurance, extract water or remove contaminated material, and rebuild what the damage took. We work directly with adjusters so Bluffdale property owners aren't managing two timelines at once.
 
 ## Restoration emergencies common in Bluffdale
 
@@ -45,4 +45,4 @@ Our base in Saratoga Springs puts us a short run up I-15 or along Redwood Road i
 
 Bluffdale's building stock spans older agricultural and rural homes, many on well or septic systems with galvanized or early copper plumbing, alongside a large wave of newer subdivisions built over the past two to three decades with PEX supply lines and finished basements. Basements and crawlspaces are common here, and both are vulnerable when the sandy, fast-draining soils left by ancient Lake Bonneville shift seasonally or when grading on newer lots hasn't fully settled. Older properties may carry lead paint or asbestos-containing materials that have to be accounted for before demolition or tear-out begins. Structural repair or rebuild work requires a permit through Bluffdale's building department, and Utah's statewide adopted building code governs the work, so any restoration scope involving framing, electrical, or plumbing needs to be planned with that approval process in mind from the start.
 
-If water, fire, smoke, or biohazard damage has hit your Bluffdale property, call Home Pride Restoration and Cleaning at (801) 995-2437. We answer 24/7 and work directly with most insurance carriers so you can focus on getting your property back in order.
+If water, fire, smoke, or biohazard damage has hit your Bluffdale property, call Home Pride Restoration at (801) 995-2437. We answer 24/7 and work directly with most insurance carriers so you can focus on getting your property back in order.

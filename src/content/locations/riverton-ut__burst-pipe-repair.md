@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Burst Pipe Cleanup and Repair in Riverton, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Burst Pipe Cleanup and Repair in Riverton, UT | Home Pride Restoration"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Riverton"
 meta_description: "24/7 emergency burst pipe cleanup and repair in Riverton, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "burst pipe cleanup and repair riverton"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Burst Pipe Cleanup and Repair"
 rendered: true
 ---
-Riverton's position along the western bench of the Wasatch Front means winters can swing from a mild January thaw to a hard freeze overnight, and that temperature whiplash is exactly when copper and CPVC supply lines fail without warning. A pipe that bursts at 2 a.m. in a finished basement can push hundreds of gallons across flooring before a homeowner even realizes what's happening. Home Pride Restoration and Cleaning has been responding to exactly these emergencies since 1997, and our crews reach Riverton from our Saratoga Springs base fast enough to matter.
+Riverton's position along the western bench of the Wasatch Front means winters can swing from a mild January thaw to a hard freeze overnight, and that temperature whiplash is exactly when copper and CPVC supply lines fail without warning. A pipe that bursts at 2 a.m. in a finished basement can push hundreds of gallons across flooring before a homeowner even realizes what's happening. Home Pride Restoration has been responding to exactly these emergencies since 1997, and our crews reach Riverton from our Saratoga Springs base fast enough to matter.
 
 ## Why Riverton Homes Are Particularly Vulnerable to Burst Pipes
 

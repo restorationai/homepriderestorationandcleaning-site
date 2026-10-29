@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Basement Flooding Cleanup in Herriman, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Basement Flooding Cleanup in Herriman, UT | Home Pride Restoration"
 h1: "24/7 Emergency Basement Flooding Cleanup in Herriman"
 meta_description: "24/7 emergency basement flooding cleanup in Herriman, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "basement flooding cleanup herriman"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Flooded basement in Herriman? We answer 24/7.** Call now and our crew heads out to pump out the water and start drying.
 
-Herriman sits at the base of the Oquirrh Mountains, and that geography does something most homeowners don't think about until water is pouring into their basement: the valley's clay-heavy soils drain poorly, and when spring snowmelt combines with a hard rain, hydrostatic pressure builds against foundation walls faster than almost anywhere else in the Salt Lake Valley. If your basement is taking on water right now, call Home Pride Restoration and Cleaning at (801) 995-2437, we run crews out of Saratoga Springs and can typically have a technician at your door within 60–90 minutes.
+Herriman sits at the base of the Oquirrh Mountains, and that geography does something most homeowners don't think about until water is pouring into their basement: the valley's clay-heavy soils drain poorly, and when spring snowmelt combines with a hard rain, hydrostatic pressure builds against foundation walls faster than almost anywhere else in the Salt Lake Valley. If your basement is taking on water right now, call Home Pride Restoration at (801) 995-2437, we run crews out of Saratoga Springs and can typically have a technician at your door within 60–90 minutes.
 
 ## Why Herriman Basements Flood More Than You'd Expect
 
@@ -51,4 +51,4 @@ HOA rules in Herriman's planned communities can also affect how and where we sta
 
 Homes built on the western slopes of the Oquirrh foothills in Herriman often have walkout or daylight basements with below-grade walls on two or three sides rather than four. That configuration changes the drying equation: the exposed wall typically dries faster than the buried ones, which can create a false sense that the structure is drying evenly when the buried walls are still holding significant moisture. We set dehumidifiers and air movers to account for that asymmetry, and we pay particular attention to the corners where buried walls meet the slab, that's where mold colonization tends to start if drying is uneven.
 
-If your basement is wet right now, don't wait to see if it dries on its own. Mold can begin to establish within 24–48 hours on wet drywall and framing, and Herriman's newer homes use paper-faced drywall that's especially vulnerable. Call Home Pride Restoration and Cleaning at (801) 995-2437, we'll be there fast, we'll document everything for your insurance claim, and we'll leave your basement dry, not just damp.
+If your basement is wet right now, don't wait to see if it dries on its own. Mold can begin to establish within 24–48 hours on wet drywall and framing, and Herriman's newer homes use paper-faced drywall that's especially vulnerable. Call Home Pride Restoration at (801) 995-2437, we'll be there fast, we'll document everything for your insurance claim, and we'll leave your basement dry, not just damp.

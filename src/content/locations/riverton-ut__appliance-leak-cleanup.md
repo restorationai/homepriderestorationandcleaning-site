@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Appliance Leak Cleanup in Riverton, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Appliance Leak Cleanup in Riverton, UT | Home Pride Restoration"
 h1: "24/7 Emergency Appliance Leak Cleanup in Riverton"
 meta_description: "24/7 emergency appliance leak cleanup in Riverton, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "appliance leak cleanup riverton"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Burst pipe or leak in Riverton? We answer 24/7.** Call now and our crew heads out to stop the water and start the cleanup.
 
-Riverton sits at roughly 4,400 feet elevation on the western bench of the Wasatch Front, where hard mineral-laden water from the Jordan Valley aquifer runs through every home's supply lines. That hardness accelerates scale buildup inside washing machine inlet valves, refrigerator ice maker lines, and water heater connections, and when one of those fittings finally lets go, you can be looking at an inch of standing water under your appliances before you even notice the smell of wet subfloor. Home Pride Restoration and Cleaning has handled appliance leak cleanups across Riverton since the late 1990s, and we know exactly what that water does to the materials under your feet.
+Riverton sits at roughly 4,400 feet elevation on the western bench of the Wasatch Front, where hard mineral-laden water from the Jordan Valley aquifer runs through every home's supply lines. That hardness accelerates scale buildup inside washing machine inlet valves, refrigerator ice maker lines, and water heater connections, and when one of those fittings finally lets go, you can be looking at an inch of standing water under your appliances before you even notice the smell of wet subfloor. Home Pride Restoration has handled appliance leak cleanups across Riverton since the late 1990s, and we know exactly what that water does to the materials under your feet.
 
 ## Why Riverton Homes Are Prone to Appliance Leak Damage
 
@@ -57,4 +57,4 @@ Appliance leak claims in Riverton generally fall under the sudden-and-accidental
 
 One thing we've noticed specifically in Riverton's newer subdivisions built along the Mountain View Corridor between roughly 2005 and 2015: many of these homes were finished with engineered hardwood or LVP flooring installed directly over a concrete slab on the main level. When a dishwasher or refrigerator leaks onto that slab, water doesn't drain, it pools under the flooring and gets trapped by the vapor barrier beneath it. Homeowners often pull up a corner of flooring, see the slab looks dry, and assume the problem is resolved. It isn't. The moisture is sitting in the flooring's core layer and in the adhesive beneath it, and without active drying it will delaminate the floor and feed mold growth against the slab surface. We've learned to check slab-level moisture with a pin-type meter through the flooring seams before we ever declare a job dry.
 
-If an appliance has leaked in your Riverton home, don't wait to see whether it dries on its own. Call Home Pride Restoration and Cleaning at (801) 995-2437, we'll be at your door fast, and we'll make sure the water that isn't visible gets found and removed before it becomes a much larger problem.
+If an appliance has leaked in your Riverton home, don't wait to see whether it dries on its own. Call Home Pride Restoration at (801) 995-2437, we'll be at your door fast, and we'll make sure the water that isn't visible gets found and removed before it becomes a much larger problem.

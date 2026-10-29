@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Roof Leak Cleanup and Repair in Provo, UT | Home Pride Restoration and Cleaning"
+title: "Roof Leak Cleanup and Repair in Provo, UT | Home Pride Restoration"
 h1: "Roof Leak Cleanup and Repair in Provo"
 meta_description: "24/7 roof leak cleanup and repair in Provo, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "roof leak cleanup and repair provo"
@@ -42,7 +42,7 @@ When a call comes in, the first priority is stopping ongoing intrusion. If the r
 
 ## Response Time to Provo from Our Saratoga Springs Location
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, roughly 15 miles northwest of central Provo via US-89 South. Under normal traffic conditions, that translates to a 20-to-30-minute drive to most Provo addresses. The University Avenue corridor and neighborhoods near Brigham Young University can see heavier midday congestion during the academic year, but we route around it, a technician reaching a home near the BYU campus typically arrives within 35 to 45 minutes of the call. For addresses in the foothills east of Canyon Road, add another 5 to 10 minutes depending on the specific street.
+Home Pride Restoration operates out of Saratoga Springs, roughly 15 miles northwest of central Provo via US-89 South. Under normal traffic conditions, that translates to a 20-to-30-minute drive to most Provo addresses. The University Avenue corridor and neighborhoods near Brigham Young University can see heavier midday congestion during the academic year, but we route around it, a technician reaching a home near the BYU campus typically arrives within 35 to 45 minutes of the call. For addresses in the foothills east of Canyon Road, add another 5 to 10 minutes depending on the specific street.
 
 We've been doing this since 1997, and the routing knowledge matters: knowing which streets ice over first in a winter storm, which neighborhoods have limited turnaround space for a service van, and where parking is restricted near campus all affect how fast we actually get equipment through your front door.
 
@@ -52,4 +52,4 @@ A detail that doesn't show up in generic restoration guides: many homes in Provo
 
 If you're in a home built before 1980 anywhere in the 84604 area, mention it when you call. It helps us bring the right equipment configuration on the first truck.
 
-A roof leak in Provo doesn't wait for a convenient time, and neither do we. Call Home Pride Restoration and Cleaning at (801) 995-2437 any time, we'll have a technician heading your direction within the hour, with the equipment to dry the structure, document the damage for your insurer, and repair what the water compromised.
+A roof leak in Provo doesn't wait for a convenient time, and neither do we. Call Home Pride Restoration at (801) 995-2437 any time, we'll have a technician heading your direction within the hour, with the equipment to dry the structure, document the damage for your insurer, and repair what the water compromised.

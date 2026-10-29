@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Eagle Mountain, UT | Home Pride Restoration and Cleaning"
+title: "Mold Inspection and Testing in Eagle Mountain, UT | Home Pride Restoration"
 h1: "Mold Inspection and Testing in Eagle Mountain"
 meta_description: "24/7 mold inspection and testing in Eagle Mountain, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold inspection and testing eagle mountain"
@@ -36,10 +36,10 @@ Where moisture readings or visual indicators suggest active growth, we collect a
 
 ## Response Time from Saratoga Springs to Eagle Mountain
 
-Home Pride Restoration and Cleaning is headquartered in Saratoga Springs, which puts Eagle Mountain well within our primary service corridor. Traveling west on Redwood Road or cutting through via Pioneer Crossing, our technicians can typically reach most Eagle Mountain addresses within 30 to 45 minutes of your call. For non-emergency inspections, a pre-purchase assessment or a post-remediation clearance test, we schedule same-day or next-day appointments in most cases. For situations where someone has found visible growth or is experiencing health symptoms they associate with air quality, we treat those as priority calls and dispatch accordingly.
+Home Pride Restoration is headquartered in Saratoga Springs, which puts Eagle Mountain well within our primary service corridor. Traveling west on Redwood Road or cutting through via Pioneer Crossing, our technicians can typically reach most Eagle Mountain addresses within 30 to 45 minutes of your call. For non-emergency inspections, a pre-purchase assessment or a post-remediation clearance test, we schedule same-day or next-day appointments in most cases. For situations where someone has found visible growth or is experiencing health symptoms they associate with air quality, we treat those as priority calls and dispatch accordingly.
 
 ## Local Note: What Eagle Mountain's Build Timeline Means for Your Inspection
 
 Here's something that comes up regularly in Eagle Mountain specifically: a large share of the housing stock was built between 2002 and 2015, which means many homes are now hitting the age window when original builder-grade caulking around tub surrounds, window rough openings, and roof penetrations starts to fail. These aren't dramatic failures, they're slow, seasonal seeps that wet the same stud bay a little more each winter. By the time a homeowner notices paint bubbling or a soft spot in drywall, mold has often been colonizing behind the surface for one or two full seasons. An indoor air quality test alone won't find that; it takes the combination of air sampling and a physical moisture investigation to connect the dots. We've seen this pattern enough in Eagle Mountain homes that we build extra time into inspections here for a thorough envelope check, not just the interior surfaces.
 
-If you're in Eagle Mountain and something in your home doesn't smell right, or you've had any water intrusion, even a minor one you thought dried on its own, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll tell you exactly what's in your air and your walls, so you can make decisions based on facts rather than guesswork.
+If you're in Eagle Mountain and something in your home doesn't smell right, or you've had any water intrusion, even a minor one you thought dried on its own, call Home Pride Restoration at (801) 995-2437. We'll tell you exactly what's in your air and your walls, so you can make decisions based on facts rather than guesswork.

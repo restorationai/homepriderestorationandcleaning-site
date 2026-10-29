@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Sewage Cleanup and Sanitization in Orem, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Sewage Cleanup and Sanitization in Orem, UT | Home Pride Restoration"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Orem"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Orem, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "sewage cleanup and sanitization orem"
@@ -43,7 +43,7 @@ Every sewage job follows a structured sequence because skipping steps creates li
 
 **Drying and documentation.** Industrial air movers and desiccant or refrigerant dehumidifiers run until moisture readings in structural assemblies return to baseline. In Orem's climate, where summer humidity can spike during monsoon season in July and August, drying timelines can extend by a day or two compared to drier months. We document every moisture reading so your insurance adjuster has a complete record.
 
-Home Pride Restoration and Cleaning has been IICRC Certified since our founding in 1997, and our technicians follow the IICRC S500 and S520 standards on every Category 3 loss.
+Home Pride Restoration has been IICRC Certified since our founding in 1997, and our technicians follow the IICRC S500 and S520 standards on every Category 3 loss.
 
 ## Response Time from Saratoga Springs to Orem
 
@@ -55,4 +55,4 @@ For addresses in the 84097 ZIP code, the eastern and newer residential sections 
 
 Something that doesn't show up in standard restoration guides: Orem's bentonite-rich clay soil is nearly impermeable when wet. That sounds like it would contain a spill, but it actually works against you. When effluent reaches the soil beneath a slab or crawl space, it pools and stays, it doesn't percolate away. We've opened crawl spaces in homes near the Orem/Lindon border where the soil surface looked dry but moisture readings 6 inches down were still at field capacity weeks after the original backup. In those situations, we bring in additional soil extraction and treat the sub-slab environment directly rather than assuming surface drying is sufficient. If your home has a crawl space and you've had any sewage event, that space needs to be physically inspected, not just checked from the hatch.
 
-If sewage has backed up into your Orem home or business, don't wait to see if the smell clears on its own. It won't. Call Home Pride Restoration and Cleaning at (801) 995-2437, we're insured and ready to respond to Orem addresses around the clock.
+If sewage has backed up into your Orem home or business, don't wait to see if the smell clears on its own. It won't. Call Home Pride Restoration at (801) 995-2437, we're insured and ready to respond to Orem addresses around the clock.

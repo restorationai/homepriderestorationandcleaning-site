@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Riverton, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Storm Damage Restoration in Riverton, UT | Home Pride Restoration"
 h1: "24/7 Emergency Storm Damage Restoration in Riverton"
 meta_description: "24/7 emergency storm damage restoration in Riverton, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "storm damage restoration riverton"
@@ -39,7 +39,7 @@ For tree-impact jobs, we coordinate the arborist removal and the structural asse
 
 ## Response Time to Riverton from Our Saratoga Springs HQ
 
-Home Pride Restoration and Cleaning has operated out of Saratoga Springs since 1997, which puts Riverton roughly 10 to 15 minutes south via Redwood Road or Bangerter Highway under normal conditions. During a widespread storm event, the kind that affects the entire valley simultaneously, we prioritize active structural breaches and standing water over cosmetic damage, and we're transparent about that triage on the phone.
+Home Pride Restoration has operated out of Saratoga Springs since 1997, which puts Riverton roughly 10 to 15 minutes south via Redwood Road or Bangerter Highway under normal conditions. During a widespread storm event, the kind that affects the entire valley simultaneously, we prioritize active structural breaches and standing water over cosmetic damage, and we're transparent about that triage on the phone.
 
 For addresses in the western Riverton neighborhoods near the Mountain View Corridor, response is typically faster because Bangerter runs almost directly between our staging location and those streets. Homes closer to the Jordan River Parkway corridor may add 5 to 8 minutes depending on traffic at the 11400 South interchange. Either way, an IICRC-certified technician is typically on-site within 60 to 90 minutes of your call to (801) 995-2437.
 

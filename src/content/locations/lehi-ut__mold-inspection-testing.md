@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Lehi, UT | Home Pride Restoration and Cleaning"
+title: "Mold Inspection and Testing in Lehi, UT | Home Pride Restoration"
 h1: "Mold Inspection and Testing in Lehi"
 meta_description: "24/7 mold inspection and testing in Lehi, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold inspection and testing lehi"
@@ -38,7 +38,7 @@ For Lehi properties with finished basements, a common feature in the Traverse Mo
 
 ## Response Time from Our Saratoga Springs Location
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs, roughly 10 to 15 minutes from most Lehi addresses under normal traffic conditions. From our shop, the fastest route to central Lehi runs north on Redwood Road or via Triumph Boulevard connecting to State Street, we're typically on-site within 30 to 45 minutes of your call. Neighborhoods in the 84043 ZIP code, including areas near Lehi Main Street and the newer developments off 2100 North, are well within that window. Traverse Mountain addresses, which sit higher in elevation and can see icy road conditions in winter, may add a few minutes in January or February, but we account for that and communicate arrival times honestly.
+Home Pride Restoration is based in Saratoga Springs, roughly 10 to 15 minutes from most Lehi addresses under normal traffic conditions. From our shop, the fastest route to central Lehi runs north on Redwood Road or via Triumph Boulevard connecting to State Street, we're typically on-site within 30 to 45 minutes of your call. Neighborhoods in the 84043 ZIP code, including areas near Lehi Main Street and the newer developments off 2100 North, are well within that window. Traverse Mountain addresses, which sit higher in elevation and can see icy road conditions in winter, may add a few minutes in January or February, but we account for that and communicate arrival times honestly.
 
 ## Lehi Insurance and HOA Coordination
 

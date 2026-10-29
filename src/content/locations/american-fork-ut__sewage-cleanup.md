@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in American Fork | Home Pride Restoration and Cleaning"
+title: "Emergency Sewage Cleanup and Sanitization in American Fork | Home Pride Restoration"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in American Fork"
 meta_description: "24/7 emergency sewage cleanup and sanitization in American Fork, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "sewage cleanup and sanitization american fork"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Sewage Cleanup and Sanitization"
 rendered: true
 ---
-When a sewer line backs up in American Fork, the mess arrives fast, and so does the clock. Utah County's freeze-thaw cycles put real stress on the clay and cast-iron lateral lines common in older neighborhoods near the original townsite, and a single overnight temperature swing can turn a slow drain into a full basement flood of raw sewage. Home Pride Restoration and Cleaning has been responding to exactly these emergencies since 1997, and our crews are IICRC Certified to handle the extraction, disinfection, and documentation that a sewage loss demands.
+When a sewer line backs up in American Fork, the mess arrives fast, and so does the clock. Utah County's freeze-thaw cycles put real stress on the clay and cast-iron lateral lines common in older neighborhoods near the original townsite, and a single overnight temperature swing can turn a slow drain into a full basement flood of raw sewage. Home Pride Restoration has been responding to exactly these emergencies since 1997, and our crews are IICRC Certified to handle the extraction, disinfection, and documentation that a sewage loss demands.
 
 ## Why American Fork Properties See Sewage Backup Issues
 
@@ -51,4 +51,4 @@ Sewage backup coverage is a separate endorsement on most Utah homeowners' polici
 
 One pattern we see repeatedly in American Fork: homes built in the 1970s along the streets east of State Street often have finished basement bathrooms that were added after original construction, with drain lines that tie into the main lateral at a lower grade than the builder intended. When the main line backs up, those basement bathrooms flood first, and because the finish work is original to the 1970s, it frequently includes asbestos-containing floor tile or texture. Our crews are trained to identify suspect materials and halt work for proper testing before disturbing anything, which protects both the homeowners and the technicians on-site.
 
-If your American Fork home is showing sewage in a basement drain, a toilet that won't flush, or the unmistakable sulfur-and-waste odor coming from a floor drain, do not wait to see if it resolves on its own. Call Home Pride Restoration and Cleaning at (801) 995-2437, the contamination spreads with every hour, and the remediation scope grows with it.
+If your American Fork home is showing sewage in a basement drain, a toilet that won't flush, or the unmistakable sulfur-and-waste odor coming from a floor drain, do not wait to see if it resolves on its own. Call Home Pride Restoration at (801) 995-2437, the contamination spreads with every hour, and the remediation scope grows with it.

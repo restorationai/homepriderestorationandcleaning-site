@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Fairfield, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in Fairfield, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in Fairfield"
 meta_description: "24/7 upholstery cleaning in Fairfield, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning fairfield"
@@ -38,4 +38,4 @@ We run out of Saratoga Springs, and reaching Fairfield means the drive out along
 
 A lot of Fairfield and Cedar Fort households are on private wells, and hard water spots on fabric upholstery are one of the most common complaints we see out here that town-based crews don't deal with as often. If a cushion has a faint ring from a spill that was "cleaned up" weeks ago, that's usually mineral residue left behind by well water evaporating, not a fresh stain, and it needs a different pretreatment than a stain from city water would.
 
-If your sofa, sectional, or leather furniture is carrying more dust, sun fade, or water spotting than a quick vacuum can handle, call Home Pride Restoration and Cleaning at (801) 995-2437. We've been cleaning upholstery in Utah County homes since 1997, and we'll tell you honestly whether a piece is worth cleaning or whether it's past the point where cleaning will help.
+If your sofa, sectional, or leather furniture is carrying more dust, sun fade, or water spotting than a quick vacuum can handle, call Home Pride Restoration at (801) 995-2437. We've been cleaning upholstery in Utah County homes since 1997, and we'll tell you honestly whether a piece is worth cleaning or whether it's past the point where cleaning will help.

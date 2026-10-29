@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Fabric Protection in South Jordan, UT | Home Pride Restoration and Cleaning"
+title: "Fabric Protection in South Jordan, UT | Home Pride Restoration"
 h1: "Fabric Protection in South Jordan"
 meta_description: "24/7 fabric protection in South Jordan, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fabric protection south jordan"
@@ -46,4 +46,4 @@ For upholstery, we use a hand-tool applicator that follows the grain of the fabr
 
 Something worth knowing if you live near the newer phases of Daybreak or along the South Jordan Parkway corridor: many of these homes were built with open-concept floor plans and large great-room carpeted areas that connect directly to tiled entryways. That transition zone, where outdoor debris gets tracked from hard surface to carpet, is the highest-wear spot in the house and the first place factory protection fails. We pay extra attention to those transition areas during application and recommend a maintenance re-treatment every 12–18 months for households with dogs or kids who use those back-door entries heavily.
 
-If you have questions about timing or want to schedule a treatment before the next winter season brings tracked-in road salt and slush, call Home Pride Restoration and Cleaning at (801) 995-2437. We cover all of South Jordan from our Saratoga Springs headquarters, and most appointments in the area are available within a few business days.
+If you have questions about timing or want to schedule a treatment before the next winter season brings tracked-in road salt and slush, call Home Pride Restoration at (801) 995-2437. We cover all of South Jordan from our Saratoga Springs headquarters, and most appointments in the area are available within a few business days.

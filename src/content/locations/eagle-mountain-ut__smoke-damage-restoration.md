@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Smoke Damage Restoration in Eagle Mountain, UT | Home Pride Restoration and Cleaning"
+title: "Emergency Smoke Damage Restoration in Eagle Mountain, UT | Home Pride Restoration"
 h1: "24/7 Emergency Smoke Damage Restoration in Eagle Mountain"
 meta_description: "24/7 emergency smoke damage restoration in Eagle Mountain, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "smoke damage restoration eagle mountain"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Smoke damage emergency in Eagle Mountain? We answer 24/7.** Call now and our crew heads out to stop smoke and soot damage from spreading.
 
-Eagle Mountain sits at the edge of Utah Lake's high desert basin, where dry summers, gusty canyon winds, and a fast-growing inventory of stucco-and-frame homes create conditions that make smoke damage uniquely stubborn. When a kitchen fire, garage blaze, or nearby wildfire pushes smoke through your home, the alkaline dust already in the air bonds with soot particles and drives them deeper into porous surfaces, drywall, insulation, HVAC ductwork, even the OSB sheathing common in Eagle Mountain's newer construction. Home Pride Restoration and Cleaning has been handling exactly this kind of damage since 1997, and we know what it takes to get a home in this part of Utah County back to livable.
+Eagle Mountain sits at the edge of Utah Lake's high desert basin, where dry summers, gusty canyon winds, and a fast-growing inventory of stucco-and-frame homes create conditions that make smoke damage uniquely stubborn. When a kitchen fire, garage blaze, or nearby wildfire pushes smoke through your home, the alkaline dust already in the air bonds with soot particles and drives them deeper into porous surfaces, drywall, insulation, HVAC ductwork, even the OSB sheathing common in Eagle Mountain's newer construction. Home Pride Restoration has been handling exactly this kind of damage since 1997, and we know what it takes to get a home in this part of Utah County back to livable.
 
 ## Why Eagle Mountain Homes Hold Smoke Differently
 
@@ -54,4 +54,4 @@ Smoke damage claims are among the most disputed in residential property insuranc
 
 One thing that catches Eagle Mountain homeowners off guard: the area's high elevation and low relative humidity cause smoke-saturated soft goods, upholstered furniture, mattresses, window treatments, to off-gas odor more slowly than they would in a humid climate, which can make a home feel "clean" for a few days before the smell returns as temperatures rise. We see this pattern regularly in homes throughout the 84005 ZIP code, especially in late summer when interior temperatures climb and dormant odor molecules reactivate. If your home passed a sniff test right after cleanup but the smell came back weeks later, that is why, and it is treatable with a targeted hydroxyl or ozone protocol rather than a full re-remediation.
 
-If smoke has moved through your Eagle Mountain home, the clock is already running. Call Home Pride Restoration and Cleaning at (801) 995-2437 any time, day or night, and we will have a crew heading your way from Saratoga Springs within the hour.
+If smoke has moved through your Eagle Mountain home, the clock is already running. Call Home Pride Restoration at (801) 995-2437 any time, day or night, and we will have a crew heading your way from Saratoga Springs within the hour.

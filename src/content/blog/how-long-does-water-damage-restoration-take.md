@@ -75,4 +75,4 @@ If your loss isn't covered, or if you're skipping insurance for a small job, the
 
 If the water is still coming in, turn off the main shutoff valve first, it's usually near the water meter, which in most Saratoga Springs homes is in the garage or utility room. Then call a restoration company. The longer wet materials sit, the more the scope (and cost) grows.
 
-Home Pride Restoration and Cleaning serves Saratoga Springs and the surrounding Utah County area. If you have questions about a specific situation, what you're seeing, what it might mean, or whether it warrants a professional assessment, call **(801) 995-2437**. An honest conversation about what you're dealing with costs nothing.
+Home Pride Restoration serves Saratoga Springs and the surrounding Utah County area. If you have questions about a specific situation, what you're seeing, what it might mean, or whether it warrants a professional assessment, call **(801) 995-2437**. An honest conversation about what you're dealing with costs nothing.

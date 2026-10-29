@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Lehi, UT | Home Pride Restoration and Cleaning"
+title: "Mold Remediation in Lehi, UT | Home Pride Restoration"
 h1: "Mold Remediation in Lehi"
 meta_description: "24/7 mold remediation in Lehi, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold remediation lehi"
@@ -34,7 +34,7 @@ Every job starts with a thorough inspection, moisture meters, thermal imaging, a
 
 Once the scope is confirmed, the affected area is isolated with negative-air containment barriers and HEPA-filtered air scrubbers running continuously. Contaminated porous materials, drywall, insulation, subfloor sections, are removed, bagged, and disposed of per Utah solid waste guidelines. Structural surfaces are treated with EPA-registered antimicrobial agents, and the area is dried to documented moisture levels before any reconstruction begins. In Lehi's newer construction, that drying phase often takes longer than homeowners expect because engineered lumber and OSB sheathing absorb and release moisture more slowly than dimensional lumber.
 
-Home Pride Restoration and Cleaning is IICRC Certified, which matters when your insurance adjuster asks for documentation of the remediation standard followed.
+Home Pride Restoration is IICRC Certified, which matters when your insurance adjuster asks for documentation of the remediation standard followed.
 
 ## Response Time to Lehi
 
@@ -52,4 +52,4 @@ Detailed moisture logs, pre- and post-remediation photos, and written scope-of-w
 
 One pattern that comes up repeatedly in Lehi's Thanksgiving Point-area subdivisions: spray-foam insulation applied directly to rim joists in newer construction creates a near-perfect moisture trap when a basement or crawl-space humidity issue develops. The foam seals so well that there's no airflow to carry moisture away, and mold can colonize the wood behind the foam without any visible sign on the foam's surface. If you're in one of those homes and you're smelling something musty but can't find a source, the rim joist cavity is worth checking before assuming the problem is elsewhere.
 
-If you're dealing with a mold problem, or just a smell you can't explain, in Lehi's 84043 corridor, call Home Pride Restoration and Cleaning at (801) 995-2437. The inspection starts the clock on getting your home back to a safe, documented baseline.
+If you're dealing with a mold problem, or just a smell you can't explain, in Lehi's 84043 corridor, call Home Pride Restoration at (801) 995-2437. The inspection starts the clock on getting your home back to a safe, documented baseline.

@@ -1,6 +1,6 @@
 ---
 archetype: "services-hub"
-title: "Restoration Services in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "Restoration Services in Saratoga Springs | Home Pride Restoration"
 h1: "Our Restoration Services"
 meta_description: "Full-service restoration in Saratoga Springs: water, fire, mold, storm, biohazard, and commercial restoration. 24/7 response. Call (801) 995-2437."
 primary_keyword: "restoration services saratoga springs"
@@ -15,7 +15,7 @@ breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services"}]
 faq: [{"question": "Do you work with both residential and commercial properties?", "answer": "Yes. Home Pride serves single-family homes, condos, apartment complexes, retail spaces, and commercial buildings. The equipment, crew size, and project management approach scale to the property \u2014 a flooded basement in a Saratoga Springs home and a multi-unit building with storm damage both get a dedicated point of contact and a documented scope of work."}, {"question": "What's the difference between mitigation and reconstruction?", "answer": "Mitigation is everything done to stop ongoing damage and stabilize the property \u2014 water extraction, structural drying, smoke cleaning, debris removal, and containment. Reconstruction is the rebuild phase that follows: replacing drywall, flooring, cabinetry, and finishes so the property is livable or operational again. Many contractors only do one or the other; Home Pride handles both, which eliminates the handoff gap that often delays timelines and complicates insurance claims."}, {"question": "Do you help with insurance claims for all of your services?", "answer": "Home Pride works directly with most major insurance carriers and can provide the moisture logs, photo documentation, and itemized scopes that adjusters require. We assist with the documentation process across water, fire, smoke, storm, mold, and biohazard losses. We're not a public adjuster and can't negotiate your policy on your behalf, but we can make sure the technical side of your claim is thorough and well-supported."}]
 rendered: true
 ---
-From a burst pipe at 2 a.m. to a kitchen fire that leaves soot on every surface, property damage rarely waits for business hours. Home Pride Restoration and Cleaning handles the full arc of recovery, emergency mitigation, structural drying, debris removal, and complete reconstruction, for homeowners, landlords, property managers, and commercial clients across Saratoga Springs and the surrounding Wasatch Front communities. One company, one point of contact, start to finish.
+From a burst pipe at 2 a.m. to a kitchen fire that leaves soot on every surface, property damage rarely waits for business hours. Home Pride Restoration handles the full arc of recovery, emergency mitigation, structural drying, debris removal, and complete reconstruction, for homeowners, landlords, property managers, and commercial clients across Saratoga Springs and the surrounding Wasatch Front communities. One company, one point of contact, start to finish.
 
 ## Emergency restoration services
 

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in South Jordan, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Fire Damage Restoration in South Jordan, UT | Home Pride Restoration"
 h1: "24/7 Emergency Fire Damage Restoration in South Jordan"
 meta_description: "24/7 emergency fire damage restoration in South Jordan, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fire damage restoration south jordan"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Fire damage emergency in South Jordan? We answer 24/7.** Call now and our crew heads out to secure the property and start the recovery.
 
-When a kitchen fire tears through a South Jordan home on a dry July afternoon, the kind of day when Utah's low humidity means smoke travels fast and soot embeds deep into porous stucco and engineered wood, the window for limiting permanent damage is measured in hours, not days. Home Pride Restoration and Cleaning has been responding to structural fire damage across the Salt Lake Valley since 1997, and the conditions specific to South Jordan's newer master-planned communities shape how we approach every job from the moment we arrive.
+When a kitchen fire tears through a South Jordan home on a dry July afternoon, the kind of day when Utah's low humidity means smoke travels fast and soot embeds deep into porous stucco and engineered wood, the window for limiting permanent damage is measured in hours, not days. Home Pride Restoration has been responding to structural fire damage across the Salt Lake Valley since 1997, and the conditions specific to South Jordan's newer master-planned communities shape how we approach every job from the moment we arrive.
 
 ## Why South Jordan Properties Face Unique Fire Damage Challenges
 
@@ -54,4 +54,4 @@ Most South Jordan homeowners are insured through carriers familiar with the vall
 
 South Jordan's Daybreak community uses a shared HVAC infrastructure in some of its mixed-use and townhome clusters near the SoDa Row district. When a fire occurs in one of these units, smoke can migrate through connected mechanical systems into adjacent units that weren't directly involved in the fire. We've handled several of these situations and know to assess neighboring units proactively, something that matters both for those residents' health and for limiting the scope of the insurance claim before it expands.
 
-If your South Jordan home or investment property has been through a fire, the next call you make matters more than almost any other decision in the recovery. Reach Home Pride Restoration and Cleaning at **(801) 995-2437**, we're close, we're equipped, and we understand what fire damage looks like in this specific corner of the Salt Lake Valley.
+If your South Jordan home or investment property has been through a fire, the next call you make matters more than almost any other decision in the recovery. Reach Home Pride Restoration at **(801) 995-2437**, we're close, we're equipped, and we understand what fire damage looks like in this specific corner of the Salt Lake Valley.

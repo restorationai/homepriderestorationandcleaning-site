@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Fabric Protection in Riverton, UT | Home Pride Restoration and Cleaning"
+title: "Fabric Protection in Riverton, UT | Home Pride Restoration"
 h1: "Fabric Protection in Riverton"
 meta_description: "24/7 fabric protection in Riverton, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fabric protection riverton"

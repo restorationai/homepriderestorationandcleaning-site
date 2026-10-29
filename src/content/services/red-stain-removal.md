@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Red Stain Removal in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "Red Stain Removal in Saratoga Springs | Home Pride Restoration"
 h1: "Red Stain Removal in Saratoga Springs"
 meta_description: "Red stain removal in Saratoga Springs for carpet, from Kool-Aid and wine to red dye and rust. IICRC-certified carpet specialists. Call (801) 995-2437."
 primary_keyword: "red stain removal saratoga springs"
@@ -48,7 +48,7 @@ The third is honesty about the odds. A red stain that has already been scrubbed 
 
 ## What does red stain removal cost?
 
-Red stain removal is priced by the spot, not the room, and the cost depends on the number and size of the stains, the type of red, and whether it is done alongside a full carpet cleaning. The figures below are typical market ranges; these are typical market figures, not Home Pride Restoration and Cleaning quotes.
+Red stain removal is priced by the spot, not the room, and the cost depends on the number and size of the stains, the type of red, and whether it is done alongside a full carpet cleaning. The figures below are typical market ranges; these are typical market figures, not Home Pride Restoration quotes.
 
 | Scenario | Typical range |
 |---|---|
@@ -58,7 +58,7 @@ Red stain removal is priced by the spot, not the room, and the cost depends on t
 | Red stain removal added to a full carpet cleaning | $40 - $125 add-on |
 | Set-in / oxidized stain, extended treatment | Assessed after test spot |
 
-A stain that has set permanently may not be fully removable at any price, which is why we test and give you a straight assessment before treatment. Home Pride Restoration and Cleaning provides clear pricing before any work begins.
+A stain that has set permanently may not be fully removable at any price, which is why we test and give you a straight assessment before treatment. Home Pride Restoration provides clear pricing before any work begins.
 
 ## Seasonal and regional considerations
 
@@ -66,6 +66,6 @@ Red stains do not follow the weather the way water damage does, but they cluster
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and provides red stain removal and carpet spot treatment throughout Saratoga Springs and the surrounding Utah Valley, including Lehi, American Fork, Eagle Mountain, Orem, Provo, and Pleasant Grove. We handle red stain removal on its own or alongside a full carpet cleaning.
+Home Pride Restoration is based in Saratoga Springs and provides red stain removal and carpet spot treatment throughout Saratoga Springs and the surrounding Utah Valley, including Lehi, American Fork, Eagle Mountain, Orem, Provo, and Pleasant Grove. We handle red stain removal on its own or alongside a full carpet cleaning.
 
 If you have a red stain that will not budge, and especially if it just happened, keep heat and scrubbing away from it and call (801) 995-2437 to schedule an assessment. We will identify the fiber, test the method, and tell you honestly what can come out before we start.

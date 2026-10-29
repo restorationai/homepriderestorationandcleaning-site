@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Burst Pipe Cleanup and Repair in Heber City, UT | Home Pride Restoration and Cleaning"
+title: "Emergency Burst Pipe Cleanup and Repair in Heber City, UT | Home Pride Restoration"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Heber City"
 meta_description: "24/7 emergency burst pipe cleanup and repair in Heber City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "burst pipe cleanup and repair heber city"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Burst Pipe Cleanup and Repair"
 rendered: true
 ---
-Heber City's winters are no joke, sitting at roughly 5,600 feet in Heber Valley, the town regularly sees overnight lows that drop well below zero from December through February. When that kind of cold settles in fast, the pipes in uninsulated crawl spaces, garage walls, and older farmhouse additions freeze and split before most homeowners realize there's a problem. By the time water is sheeting across a basement floor or soaking through a subfloor, the damage clock is already running. Home Pride Restoration and Cleaning responds to burst pipe emergencies throughout Heber City, and we understand exactly what the valley's climate does to residential plumbing.
+Heber City's winters are no joke, sitting at roughly 5,600 feet in Heber Valley, the town regularly sees overnight lows that drop well below zero from December through February. When that kind of cold settles in fast, the pipes in uninsulated crawl spaces, garage walls, and older farmhouse additions freeze and split before most homeowners realize there's a problem. By the time water is sheeting across a basement floor or soaking through a subfloor, the damage clock is already running. Home Pride Restoration responds to burst pipe emergencies throughout Heber City, and we understand exactly what the valley's climate does to residential plumbing.
 
 ## Why Heber City Properties Are Especially Vulnerable to Burst Pipes
 

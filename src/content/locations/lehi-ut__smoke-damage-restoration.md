@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Lehi, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Smoke Damage Restoration in Lehi, UT | Home Pride Restoration"
 h1: "24/7 Emergency Smoke Damage Restoration in Lehi"
 meta_description: "24/7 emergency smoke damage restoration in Lehi, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "smoke damage restoration lehi"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Smoke damage emergency in Lehi? We answer 24/7.** Call now and our crew heads out to stop smoke and soot damage from spreading.
 
-Lehi's rapid growth along the Silicon Slopes corridor has brought tens of thousands of new residents into neighborhoods where kitchen fires, garage fires, and, increasingly, smoke intrusion from Utah County wildfires are a real and recurring threat. When smoke moves through a home, it doesn't stop at the room where the fire started: it migrates into HVAC ductwork, settles into insulation, and bonds with drywall in ways that leave an acrid odor for months if the cleanup isn't done right. Home Pride Restoration and Cleaning has been handling smoke damage restoration in this part of Utah since 1997, and the team knows exactly what Lehi's housing stock and climate demand.
+Lehi's rapid growth along the Silicon Slopes corridor has brought tens of thousands of new residents into neighborhoods where kitchen fires, garage fires, and, increasingly, smoke intrusion from Utah County wildfires are a real and recurring threat. When smoke moves through a home, it doesn't stop at the room where the fire started: it migrates into HVAC ductwork, settles into insulation, and bonds with drywall in ways that leave an acrid odor for months if the cleanup isn't done right. Home Pride Restoration has been handling smoke damage restoration in this part of Utah since 1997, and the team knows exactly what Lehi's housing stock and climate demand.
 
 ## Why Lehi Properties Face Distinct Smoke Damage Challenges
 
@@ -61,4 +61,4 @@ A large share of Lehi's homes built between 2005 and 2018 use synthetic stucco (
 
 If you've had a fire in or near your Lehi home and you're still catching a faint smoke smell after another company said the job was done, that exterior wall cavity is often the culprit.
 
-Home Pride Restoration and Cleaning serves the full Lehi area, including ZIP code 84043, and is available around the clock for smoke damage emergencies. Call (801) 995-2437 to get a technician on the way.
+Home Pride Restoration serves the full Lehi area, including ZIP code 84043, and is available around the clock for smoke damage emergencies. Call (801) 995-2437 to get a technician on the way.

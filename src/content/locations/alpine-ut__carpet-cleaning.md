@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Alpine, UT | Home Pride Restoration and Cleaning"
+title: "Carpet Cleaning in Alpine, UT | Home Pride Restoration"
 h1: "Carpet Cleaning in Alpine"
 meta_description: "24/7 carpet cleaning in Alpine, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "carpet cleaning alpine"
@@ -38,4 +38,4 @@ Hot water extraction remains the standard for deep carpet cleaning because it fl
 
 Because so many Alpine properties run on well water rather than municipal supply, carpet that looks clean after a standard wash can still develop a faint rust or mineral tint along edges and seams over the following weeks, especially in homes with older iron-heavy wells. We flag this during the walkthrough and use a mineral-neutralizing rinse on properties where it's likely, rather than waiting for the discoloration to show up and treating it as a separate callback.
 
-If your carpet is holding onto winter salt, pasture dust, or just years of regular wear, call Home Pride Restoration and Cleaning at (801) 995-2437 to schedule professional carpet cleaning for your Alpine home or business. We've worked across Utah County since 1997, and we'll walk the space with you before we start so you know exactly what's being treated and why.
+If your carpet is holding onto winter salt, pasture dust, or just years of regular wear, call Home Pride Restoration at (801) 995-2437 to schedule professional carpet cleaning for your Alpine home or business. We've worked across Utah County since 1997, and we'll walk the space with you before we start so you know exactly what's being treated and why.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Draper, UT | Home Pride Restoration and Cleaning"
+title: "Mold Remediation in Draper, UT | Home Pride Restoration"
 h1: "Mold Remediation in Draper"
 meta_description: "24/7 mold remediation in Draper, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold remediation draper"
@@ -38,4 +38,4 @@ Many of Draper's newer subdivisions are governed by HOAs with their own rules ab
 
 A detail that trips up a lot of out-of-town crews: a good portion of Draper runs on secondary, pressurized irrigation water for landscaping rather than culinary water alone, and that system's pressure and timing schedule can push moisture against foundations on foothill lots in ways a standard sprinkler system wouldn't. When we're diagnosing a recurring basement mold problem in Draper, checking the secondary water schedule and nearby window well drainage is one of the first things we look at, often before we even open a wall.
 
-If you're seeing a musty smell in a Draper basement, dark staining near a window well, or a mold patch that keeps coming back no matter how many times it's wiped down, it's worth having it looked at before the next snowmelt or irrigation season does more damage. Home Pride Restoration and Cleaning is IICRC Certified and has been doing this work out of Saratoga Springs since 1997, call (801) 995-2437 to schedule a mold assessment for your Draper property.
+If you're seeing a musty smell in a Draper basement, dark staining near a window well, or a mold patch that keeps coming back no matter how many times it's wiped down, it's worth having it looked at before the next snowmelt or irrigation season does more damage. Home Pride Restoration is IICRC Certified and has been doing this work out of Saratoga Springs since 1997, call (801) 995-2437 to schedule a mold assessment for your Draper property.

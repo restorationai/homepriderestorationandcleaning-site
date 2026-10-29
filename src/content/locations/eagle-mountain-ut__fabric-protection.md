@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Fabric Protection in Eagle Mountain, UT | Home Pride Restoration and Cleaning"
+title: "Fabric Protection in Eagle Mountain, UT | Home Pride Restoration"
 h1: "Fabric Protection in Eagle Mountain"
 meta_description: "24/7 fabric protection in Eagle Mountain, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fabric protection eagle mountain"
@@ -26,7 +26,7 @@ Eagle Mountain sits at roughly 4,900 feet on the west bench of Utah County, wher
 
 The city's rapid growth over the past decade means a large share of homes were built between 2005 and 2020, open floor plans, light-colored Berber and cut-pile carpets, and microfiber sectionals that look sharp on move-in day but are magnets for the region's chalky caliche dust. That same soil chemistry leaves a whitish residue on untreated upholstery after a single dry season. Combine that with households that skew large, Eagle Mountain consistently ranks among Utah County's youngest, fastest-growing cities, and you get heavy foot traffic, pets, and the kind of everyday spills that overwhelm factory-applied treatments within 12 to 18 months of a home purchase.
 
-The elevation also matters. UV index at 4,900 feet is measurably higher than in the Salt Lake Valley, and prolonged sun exposure degrades the polymer chains in cheaper spray-on protectants faster than manufacturers' lab conditions predict. The fluoropolymer-based products used by Home Pride Restoration and Cleaning are selected specifically for high-altitude, high-UV environments, a detail that rarely comes up on a product spec sheet but makes a real difference in how long a treatment holds.
+The elevation also matters. UV index at 4,900 feet is measurably higher than in the Salt Lake Valley, and prolonged sun exposure degrades the polymer chains in cheaper spray-on protectants faster than manufacturers' lab conditions predict. The fluoropolymer-based products used by Home Pride Restoration are selected specifically for high-altitude, high-UV environments, a detail that rarely comes up on a product spec sheet but makes a real difference in how long a treatment holds.
 
 ## Our Fabric Protection Process in Eagle Mountain
 

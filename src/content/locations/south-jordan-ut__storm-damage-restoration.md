@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in South Jordan, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Storm Damage Restoration in South Jordan, UT | Home Pride Restoration"
 h1: "24/7 Emergency Storm Damage Restoration in South Jordan"
 meta_description: "24/7 emergency storm damage restoration in South Jordan, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "storm damage restoration south jordan"
@@ -39,7 +39,7 @@ Once the structure is stabilized, we move into the documentation phase. Every da
 
 ## Response Time to South Jordan
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs, which puts us roughly 15 to 20 minutes from most of South Jordan via Bangerter Highway under normal conditions. During an active storm event, when multiple calls come in simultaneously, we dispatch the closest available crew first and stage additional teams behind them. Neighborhoods on the eastern side of South Jordan, closer to Mountain View Corridor, are typically reachable within 20 minutes. Farther west toward the newer developments near 5600 West can add five to ten minutes depending on traffic.
+Home Pride Restoration is based in Saratoga Springs, which puts us roughly 15 to 20 minutes from most of South Jordan via Bangerter Highway under normal conditions. During an active storm event, when multiple calls come in simultaneously, we dispatch the closest available crew first and stage additional teams behind them. Neighborhoods on the eastern side of South Jordan, closer to Mountain View Corridor, are typically reachable within 20 minutes. Farther west toward the newer developments near 5600 West can add five to ten minutes depending on traffic.
 
 We answer the phone 24 hours a day, every day of the year. Storms don't schedule themselves around business hours, and neither do we. When you call (801) 995-2437, you reach a live dispatcher who can tell you exactly where the nearest crew is and give you a realistic arrival window, not a four-hour range.
 
@@ -53,4 +53,4 @@ On the insurance side, we work directly with adjusters and can meet them on-site
 
 One thing that catches homeowners off guard in South Jordan's 84095 ZIP code area: the newer homes built along the Daybreak-adjacent corridors often have flat or low-slope roof sections over garage extensions and covered patios. These sections drain through interior scuppers, and when those scuppers clog with hail debris or leaf matter during a storm, water backs up and finds its way into the structure through the parapet wall flashing, sometimes appearing as a ceiling stain in a bedroom twenty feet away from the actual entry point. If you're seeing water inside after a storm and there's no obvious roof damage above the wet spot, that scupper is the first place we check.
 
-If a storm has hit your home or property, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll have someone on-site in South Jordan fast, with the equipment and documentation process to protect both your structure and your claim.
+If a storm has hit your home or property, call Home Pride Restoration at (801) 995-2437. We'll have someone on-site in South Jordan fast, with the equipment and documentation process to protect both your structure and your claim.

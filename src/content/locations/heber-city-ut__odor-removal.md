@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Heber City, UT | Home Pride Restoration and Cleaning"
+title: "Odor Removal and Deodorization in Heber City, UT | Home Pride Restoration"
 h1: "Odor Removal and Deodorization in Heber City"
 meta_description: "24/7 odor removal and deodorization in Heber City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "odor removal and deodorization heber city"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-Heber Valley's high-desert elevation and dramatic temperature swings create conditions that make odors behave differently than they do in the Salt Lake Valley below. When smoke from a wood-burning stove seeps into the log-and-timber framing common in older Heber City homes, or when a frozen pipe bursts and leaves standing water long enough for musty microbial odors to take hold, the dry mountain air actually helps odor molecules bind deeper into porous surfaces, making surface-level sprays useless. Home Pride Restoration and Cleaning has been handling these situations since 1997, and our IICRC Certified technicians understand what it takes to fully eliminate odors at elevation, not just mask them.
+Heber Valley's high-desert elevation and dramatic temperature swings create conditions that make odors behave differently than they do in the Salt Lake Valley below. When smoke from a wood-burning stove seeps into the log-and-timber framing common in older Heber City homes, or when a frozen pipe bursts and leaves standing water long enough for musty microbial odors to take hold, the dry mountain air actually helps odor molecules bind deeper into porous surfaces, making surface-level sprays useless. Home Pride Restoration has been handling these situations since 1997, and our IICRC Certified technicians understand what it takes to fully eliminate odors at elevation, not just mask them.
 
 ## Why Heber City Properties See Persistent Odor Problems
 
@@ -56,4 +56,4 @@ For homes with well water and sulfur odors migrating through plumbing, we coordi
 
 At 5,600 feet, air pressure is measurably lower than in the Salt Lake Valley. That matters for deodorization because thermal fogging machines and ozone generators are calibrated at sea-level pressure, at elevation, output concentrations and dispersion patterns shift. Our technicians adjust dwell times and equipment settings when working in the Heber Valley to compensate, something a technician who only works in the valley below might not account for. It's a small detail that makes a real difference in whether a single treatment resolves the problem or whether you're calling again in three weeks.
 
-If you're dealing with a smoke, water, animal, or sewage odor in Heber City, whether it's a vacation property you just opened for the season or a primary residence, call Home Pride Restoration and Cleaning at (801) 995-2437. We'll assess the source, explain the method, and give you a realistic timeline before any equipment is turned on.
+If you're dealing with a smoke, water, animal, or sewage odor in Heber City, whether it's a vacation property you just opened for the season or a primary residence, call Home Pride Restoration at (801) 995-2437. We'll assess the source, explain the method, and give you a realistic timeline before any equipment is turned on.

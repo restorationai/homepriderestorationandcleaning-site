@@ -1,8 +1,8 @@
 ---
 archetype: "blog-index"
-title: "Restoration Blog | Home Pride Restoration and Cleaning"
+title: "Restoration Blog | Home Pride Restoration"
 h1: "Restoration Resources and Insights"
-meta_description: "Guides, checklists, and explainers from Home Pride Restoration and Cleaning on water, fire, mold, and storm damage restoration."
+meta_description: "Guides, checklists, and explainers from Home Pride Restoration on water, fire, mold, and storm damage restoration."
 primary_keyword: "restoration blog saratoga springs"
 secondary_keywords: ["restoration guides", "damage restoration tips", "restoration insights"]
 search_intent: "informational_browse"

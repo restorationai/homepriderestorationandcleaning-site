@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Tile & Grout Cleaning in Orem, UT | Home Pride Restoration and Cleaning"
+title: "Tile & Grout Cleaning in Orem, UT | Home Pride Restoration"
 h1: "Tile & Grout Cleaning in Orem"
 meta_description: "24/7 tile & grout cleaning in Orem, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "tile & grout cleaning orem"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Tile & Grout Cleaning"
 rendered: true
 ---
-Orem's high-desert climate does something predictable to tile floors: the region's hard water, pulled from Utah Lake watershed sources and treated through the Central Utah Water Conservancy District, leaves calcium and magnesium deposits in grout lines that ordinary mopping pushes deeper rather than removes. Over a few seasons, those porous grout channels turn from their original tan or gray into something closer to dark brown, and no amount of scrubbing with a box-store cleaner reverses the process. Home Pride Restoration and Cleaning has been working on tile floors across Utah Valley since 1997, and the pattern here is consistent enough that we've built our Orem approach around it.
+Orem's high-desert climate does something predictable to tile floors: the region's hard water, pulled from Utah Lake watershed sources and treated through the Central Utah Water Conservancy District, leaves calcium and magnesium deposits in grout lines that ordinary mopping pushes deeper rather than removes. Over a few seasons, those porous grout channels turn from their original tan or gray into something closer to dark brown, and no amount of scrubbing with a box-store cleaner reverses the process. Home Pride Restoration has been working on tile floors across Utah Valley since 1997, and the pattern here is consistent enough that we've built our Orem approach around it.
 
 ## Why Orem Tile and Grout Deteriorates Faster Than Homeowners Expect
 
@@ -48,4 +48,4 @@ One pattern that shows up repeatedly in Orem homes built between 1995 and 2010 i
 
 A deep clean without sealing in Orem's water conditions is like washing a car and skipping the wax before a dust storm. The grout is at its most porous immediately after extraction, all the old sealant and built-up residue has been removed, and if it's left open, mineral deposits and soil start re-bonding within weeks. A penetrating silicone or fluoropolymer sealer applied the same day as the cleaning creates a hydrophobic barrier that dramatically slows recontamination. For households with children or pets, or for kitchens and bathrooms that see daily water exposure, we typically recommend a two-year resealing schedule in this climate.
 
-When you're ready to stop scrubbing grout lines that never come clean, call Home Pride Restoration and Cleaning at **(801) 995-2437**. We're based in Saratoga Springs and can typically reach Orem addresses within 30 to 45 minutes, whether that's a kitchen floor near Utah Valley University or a bathroom remodel in one of the subdivisions off 800 North. IICRC certified, and familiar with what Utah Valley's water and climate actually do to tile floors over time.
+When you're ready to stop scrubbing grout lines that never come clean, call Home Pride Restoration at **(801) 995-2437**. We're based in Saratoga Springs and can typically reach Orem addresses within 30 to 45 minutes, whether that's a kitchen floor near Utah Valley University or a bathroom remodel in one of the subdivisions off 800 North. IICRC certified, and familiar with what Utah Valley's water and climate actually do to tile floors over time.

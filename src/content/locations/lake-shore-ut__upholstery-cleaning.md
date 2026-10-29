@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Lake Shore, UT | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in Lake Shore, UT | Home Pride Restoration"
 h1: "Upholstery Cleaning in Lake Shore"
 meta_description: "24/7 upholstery cleaning in Lake Shore, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning lake shore"
@@ -38,4 +38,4 @@ Our crews run out of Saratoga Springs, a short drive down the west side of Utah 
 
 One thing we watch for specifically in Lake Shore: homes with well water or older private irrigation lines sometimes have higher mineral content than what's on the municipal supply, which means furniture that's been spot-cleaned at home with tap water often has faint white rings the homeowner assumes are permanent stains. Most of the time that's mineral deposit sitting on top of the fiber, not a stain baked into it, and it responds well to the right extraction chemistry rather than replacement.
 
-If your sofa, sectional, or leather furniture in Lake Shore is holding onto dust, pet hair, or water spots that a home vacuum can't touch, call Home Pride Restoration and Cleaning at (801) 995-2437. We've been cleaning Utah County homes since 1997, and we'll tell you honestly whether a piece needs a full steam clean or just a targeted spot treatment before we ever start.
+If your sofa, sectional, or leather furniture in Lake Shore is holding onto dust, pet hair, or water spots that a home vacuum can't touch, call Home Pride Restoration at (801) 995-2437. We've been cleaning Utah County homes since 1997, and we'll tell you honestly whether a piece needs a full steam clean or just a targeted spot treatment before we ever start.

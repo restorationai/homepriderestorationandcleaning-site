@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Fairfield, UT | Home Pride Restoration and Cleaning"
+title: "Mold Inspection and Testing in Fairfield, UT | Home Pride Restoration"
 h1: "Mold Inspection and Testing in Fairfield"
 meta_description: "24/7 mold inspection and testing in Fairfield, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold inspection and testing fairfield"
@@ -42,4 +42,4 @@ Our team works out of Saratoga Springs, a straightforward drive south through Ce
 
 One thing that catches Fairfield homeowners off guard: irrigation water used for pastures and gardens can raise humidity right at the foundation line of a house, even when the interior air feels bone dry. We've found that crawlspace vents facing an irrigated field or livestock area often need a closer look than vents on the opposite side of the same house, because the moisture load simply isn't symmetrical.
 
-If you're noticing a musty smell in one room, seeing discoloration near a window sill, or just bought a Fairfield property with an older crawlspace and want a baseline before move-in, mold inspection and testing gives you documentation you can act on instead of guessing. Call Home Pride Restoration and Cleaning at (801) 995-2437 to schedule an inspection for your Fairfield property.
+If you're noticing a musty smell in one room, seeing discoloration near a window sill, or just bought a Fairfield property with an older crawlspace and want a baseline before move-in, mold inspection and testing gives you documentation you can act on instead of guessing. Call Home Pride Restoration at (801) 995-2437 to schedule an inspection for your Fairfield property.

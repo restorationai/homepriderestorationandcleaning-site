@@ -1,7 +1,7 @@
 ---
 hero: '/images/services/upholstery-cleaning.webp'
 archetype: "service-landing"
-title: "Upholstery Cleaning in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "Upholstery Cleaning in Saratoga Springs | Home Pride Restoration"
 h1: "Upholstery Cleaning in Saratoga Springs"
 meta_description: "24/7 upholstery cleaning in Saratoga Springs and surrounding areas. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "upholstery cleaning saratoga springs"
@@ -54,6 +54,6 @@ Saratoga Springs and the broader Utah Valley sit at elevation with low ambient h
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and serves surrounding communities including Eagle Mountain, Lehi, American Fork, Cedar Hills, and Highland. The city-specific pages for each area link back here for full service detail.
+Home Pride Restoration is based in Saratoga Springs and serves surrounding communities including Eagle Mountain, Lehi, American Fork, Cedar Hills, and Highland. The city-specific pages for each area link back here for full service detail.
 
 If your furniture smells off, looks flat after vacuuming, or hasn't had a professional cleaning in more than two years, call **(801) 995-2437** to schedule an upholstery assessment and get your sofas, sectionals, and chairs cleaned the right way, fiber by fiber, not just surface-deep.

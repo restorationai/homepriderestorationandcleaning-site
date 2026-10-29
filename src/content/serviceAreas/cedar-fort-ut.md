@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Cedar Fort, UT | Home Pride Restoration and Cleaning"
+title: "Restoration Services in Cedar Fort, UT | Home Pride Restoration"
 h1: "Restoration Services in Cedar Fort"
 meta_description: "Serving Cedar Fort, UT with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (801) 995-2437."
 primary_keyword: "restoration services cedar fort"
@@ -19,7 +19,7 @@ state: "UT"
 primary: false
 rendered: true
 ---
-Home Pride Restoration and Cleaning handles water damage, fire and smoke cleanup, mold remediation, and biohazard response for homes and small properties throughout Cedar Fort, from older rural homesteads to newer construction going up as Cedar Valley fills in. We work directly with insurance carriers on the paperwork side so property owners are not stuck managing adjusters and contractors on their own while dealing with a flooded crawlspace or a smoke-damaged kitchen.
+Home Pride Restoration handles water damage, fire and smoke cleanup, mold remediation, and biohazard response for homes and small properties throughout Cedar Fort, from older rural homesteads to newer construction going up as Cedar Valley fills in. We work directly with insurance carriers on the paperwork side so property owners are not stuck managing adjusters and contractors on their own while dealing with a flooded crawlspace or a smoke-damaged kitchen.
 
 ## Restoration emergencies common in Cedar Fort
 
@@ -45,4 +45,4 @@ Much of Cedar Fort's housing stock is rural and low-density, ranging from older 
 
 Soils in Cedar Valley tend toward clay and silt with variable drainage, and that combination can hold moisture against foundations longer than sandier ground would, which matters when a basement or crawlspace has taken on water. For permitting on structural repair or rebuild work, Cedar Fort properties generally fall under Utah County's building and permitting process rather than a large dedicated municipal department, which is worth knowing when a loss is severe enough to require more than cleanup and drying.
 
-If water, fire, smoke, or storm damage has hit your Cedar Fort property, call Home Pride Restoration and Cleaning at (801) 995-2437. We're available 24/7, and the sooner we get equipment on-site, the less likely a contained problem turns into a structural one.
+If water, fire, smoke, or storm damage has hit your Cedar Fort property, call Home Pride Restoration at (801) 995-2437. We're available 24/7, and the sooner we get equipment on-site, the less likely a contained problem turns into a structural one.

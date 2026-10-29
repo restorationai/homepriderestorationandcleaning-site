@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Riverton, UT | Home Pride Restoration and Cleaning"
+title: "Emergency Sewage Cleanup and Sanitization in Riverton, UT | Home Pride Restoration"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Riverton"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Riverton, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "sewage cleanup and sanitization riverton"
@@ -47,7 +47,7 @@ Every sewage job follows a structured sequence, and skipping steps is how second
 
 ## Response Time from Our Saratoga Springs HQ to Riverton
 
-Home Pride Restoration and Cleaning has operated out of Saratoga Springs since 1997, which puts us roughly 10 to 15 minutes from most Riverton addresses under normal traffic conditions via Redwood Road or Bangerter Highway. During peak commute hours on Bangerter, our dispatchers route crews through the Mountain View Corridor to keep response times consistent. For addresses in the western sections of Riverton near Bingham Junction, we're typically on-site within 20 minutes of the call. For properties further east toward the Traverse Ridge area, plan on 25 to 30 minutes. We don't quote response windows in days, sewage cleanup is an emergency, and we treat it that way.
+Home Pride Restoration has operated out of Saratoga Springs since 1997, which puts us roughly 10 to 15 minutes from most Riverton addresses under normal traffic conditions via Redwood Road or Bangerter Highway. During peak commute hours on Bangerter, our dispatchers route crews through the Mountain View Corridor to keep response times consistent. For addresses in the western sections of Riverton near Bingham Junction, we're typically on-site within 20 minutes of the call. For properties further east toward the Traverse Ridge area, plan on 25 to 30 minutes. We don't quote response windows in days, sewage cleanup is an emergency, and we treat it that way.
 
 ## Local Note: Clay Soil and Subfloor Surprises
 
@@ -55,4 +55,4 @@ One pattern we see repeatedly in Riverton that catches homeowners off guard: the
 
 If your home in Riverton has had a sewage backup, even one that seemed minor, and you're noticing a persistent musty odor, that subslab moisture is worth investigating before it becomes a remediation project.
 
-Raw sewage in your home is not a cleanup job you want to hand off to a general handyman or attempt yourself. The sanitization chemistry, the drying equipment, and the documentation for your insurance claim all require a certified team. Home Pride Restoration and Cleaning holds IICRC certification, and we've been handling exactly these situations across the south Salt Lake Valley for more than 25 years. Call (801) 995-2437 now, the faster the response, the smaller the damage footprint.
+Raw sewage in your home is not a cleanup job you want to hand off to a general handyman or attempt yourself. The sanitization chemistry, the drying equipment, and the documentation for your insurance claim all require a certified team. Home Pride Restoration holds IICRC certification, and we've been handling exactly these situations across the south Salt Lake Valley for more than 25 years. Call (801) 995-2437 now, the faster the response, the smaller the damage footprint.

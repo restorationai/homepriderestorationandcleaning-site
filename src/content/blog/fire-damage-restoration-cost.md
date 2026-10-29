@@ -110,10 +110,10 @@ Be cautious of any contractor who gives you a single lump-sum number on the firs
 
 For a detailed look at what happens after the estimate is approved, our post on [the fire damage restoration process](/blog/fire-damage-restoration-process/) walks through each phase from emergency stabilization through final reconstruction.
 
-If you're ready to get a written estimate for a fire loss in Utah County or the Wasatch Front, Home Pride Restoration and Cleaning's IICRC-certified team responds 24/7. Call [(801) 995-2437](tel:8019952437) to schedule an on-site assessment.
+If you're ready to get a written estimate for a fire loss in Utah County or the Wasatch Front, Home Pride Restoration's IICRC-certified team responds 24/7. Call [(801) 995-2437](tel:8019952437) to schedule an on-site assessment.
 
 ---
 
-**About Home Pride Restoration and Cleaning**
+**About Home Pride Restoration**
 
-Home Pride Restoration and Cleaning is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, Provo, and the broader Utah County and Wasatch Front area since 1997. Their crews handle fire, smoke, water, and mold losses for residential and commercial property owners, and work directly with insurance adjusters to document scope and support claims. Available 24/7 at (801) 995-2437.
+Home Pride Restoration is an IICRC-certified restoration company serving Saratoga Springs, Lehi, Eagle Mountain, Provo, and the broader Utah County and Wasatch Front area since 1997. Their crews handle fire, smoke, water, and mold losses for residential and commercial property owners, and work directly with insurance adjusters to document scope and support claims. Available 24/7 at (801) 995-2437.

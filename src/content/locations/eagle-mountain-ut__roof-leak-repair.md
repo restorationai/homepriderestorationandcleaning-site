@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Roof Leak Cleanup and Repair in Eagle Mountain, UT | Home Pride Restoration and Cleaning"
+title: "Roof Leak Cleanup and Repair in Eagle Mountain, UT | Home Pride Restoration"
 h1: "Roof Leak Cleanup and Repair in Eagle Mountain"
 meta_description: "24/7 roof leak cleanup and repair in Eagle Mountain, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "roof leak cleanup and repair eagle mountain"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Roof Leak Cleanup and Repair"
 rendered: true
 ---
-Eagle Mountain's rapid growth has pushed new subdivisions up against the Traverse Ridge and into the foothills east of Pony Express Parkway, where roof pitches, truss designs, and flashing details vary wildly from one phase of development to the next. When a late-winter storm rolls in off Utah Lake and dumps wet, heavy snow on those roofs, ice dams form fast, and the water that backs up under shingles doesn't stay in the attic. It migrates into insulation, saturates ceiling drywall, and can reach interior walls before a homeowner notices a single stain. Home Pride Restoration and Cleaning has been responding to exactly these situations since 1997, and our IICRC-certified crews understand what a Utah County roof leak does to a house from the ridge line down.
+Eagle Mountain's rapid growth has pushed new subdivisions up against the Traverse Ridge and into the foothills east of Pony Express Parkway, where roof pitches, truss designs, and flashing details vary wildly from one phase of development to the next. When a late-winter storm rolls in off Utah Lake and dumps wet, heavy snow on those roofs, ice dams form fast, and the water that backs up under shingles doesn't stay in the attic. It migrates into insulation, saturates ceiling drywall, and can reach interior walls before a homeowner notices a single stain. Home Pride Restoration has been responding to exactly these situations since 1997, and our IICRC-certified crews understand what a Utah County roof leak does to a house from the ridge line down.
 
 ## Why Eagle Mountain Homes Are Especially Vulnerable to Roof Leak Damage
 
@@ -51,4 +51,4 @@ Most homeowner policies in Utah County cover sudden and accidental water intrusi
 
 One pattern we see repeatedly in Eagle Mountain's Ranches-area homes: the open-concept great rooms with vaulted ceilings that are popular in this market create long, uninterrupted ceiling planes directly below the roof assembly. When a leak develops near a ridge vent or a skylight, water can travel 20 or 30 feet along the inside of the roof decking before it finds a low point and drops. Homeowners often assume the damage is limited to the area under the visible stain, but our thermal scans routinely reveal a moisture plume two to three times larger than the stain suggests. Knowing to look for that pattern before we start pulling drywall saves significant repair cost.
 
-If you're dealing with a wet ceiling, discolored drywall, or the faint smell of damp insulation in your attic, the window to act before mold colonizes is measured in days, not weeks. Call Home Pride Restoration and Cleaning at (801) 995-2437, we'll have a crew at your Eagle Mountain home fast, and we'll give you a straight assessment of what the damage actually looks like, not just what's visible from the floor.
+If you're dealing with a wet ceiling, discolored drywall, or the faint smell of damp insulation in your attic, the window to act before mold colonizes is measured in days, not weeks. Call Home Pride Restoration at (801) 995-2437, we'll have a crew at your Eagle Mountain home fast, and we'll give you a straight assessment of what the damage actually looks like, not just what's visible from the floor.

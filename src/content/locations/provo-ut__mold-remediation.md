@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Provo, UT | Home Pride Restoration and Cleaning"
+title: "Mold Remediation in Provo, UT | Home Pride Restoration"
 h1: "Mold Remediation in Provo"
 meta_description: "24/7 mold remediation in Provo, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "mold remediation provo"
@@ -36,7 +36,7 @@ Physical removal comes next. Porous materials, drywall, insulation, carpet, subf
 
 ## Response Time to Provo from Our Saratoga Springs HQ
 
-Home Pride Restoration and Cleaning operates out of Saratoga Springs, which puts us roughly 20 to 25 minutes from most of Provo under normal traffic conditions via US-89 South. For properties in the ZIP code 84601, which covers a dense stretch of central and west Provo including areas near the Provo City Center, we can typically have a technician on-site within 30 to 45 minutes of your call. Addresses further east toward the foothills or south toward the Joaquin neighborhood may add 10 to 15 minutes depending on time of day. We answer calls around the clock, and mold assessments can begin the same day you contact us at (801) 995-2437.
+Home Pride Restoration operates out of Saratoga Springs, which puts us roughly 20 to 25 minutes from most of Provo under normal traffic conditions via US-89 South. For properties in the ZIP code 84601, which covers a dense stretch of central and west Provo including areas near the Provo City Center, we can typically have a technician on-site within 30 to 45 minutes of your call. Addresses further east toward the foothills or south toward the Joaquin neighborhood may add 10 to 15 minutes depending on time of day. We answer calls around the clock, and mold assessments can begin the same day you contact us at (801) 995-2437.
 
 ## Provo Insurance Coordination
 

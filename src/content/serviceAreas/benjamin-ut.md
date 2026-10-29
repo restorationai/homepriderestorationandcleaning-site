@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Benjamin, UT | Home Pride Restoration and Cleaning"
+title: "Restoration Services in Benjamin, UT | Home Pride Restoration"
 h1: "Restoration Services in Benjamin"
 meta_description: "Serving Benjamin, UT with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (801) 995-2437."
 primary_keyword: "restoration services benjamin"
@@ -19,7 +19,7 @@ state: "UT"
 primary: false
 rendered: true
 ---
-Home Pride Restoration and Cleaning handles water intrusion, fire and smoke damage, mold growth, and biohazard cleanup for homes and small properties throughout Benjamin, from older farmstead houses along the valley floor to newer rural residential builds. Because Benjamin sits in unincorporated Utah County rather than inside a city with its own water and sewer infrastructure, a lot of what we see here traces back to well water systems, septic fields, and irrigation runoff rather than municipal pipe failures. We bring that distinction into how we scope and document every job for insurance and for the homeowner.
+Home Pride Restoration handles water intrusion, fire and smoke damage, mold growth, and biohazard cleanup for homes and small properties throughout Benjamin, from older farmstead houses along the valley floor to newer rural residential builds. Because Benjamin sits in unincorporated Utah County rather than inside a city with its own water and sewer infrastructure, a lot of what we see here traces back to well water systems, septic fields, and irrigation runoff rather than municipal pipe failures. We bring that distinction into how we scope and document every job for insurance and for the homeowner.
 
 ## Restoration emergencies common in Benjamin
 
@@ -45,4 +45,4 @@ Benjamin's housing stock is a mix of early-to-mid-1900s farmhouses built on rais
 
 Soil on the valley floor near the river and lake is often fine sand and silt with a seasonally high water table, which means foundations and crawlspaces here deal with hydrostatic pressure and seepage that drier, higher-elevation lots in the county don't see as often. Because Benjamin is unincorporated, permits for structural repair or rebuild typically run through the Utah County building department rather than a city office, and septic and well work usually involves Utah County Health Department sign-off as well, both worth confirming before reconstruction starts.
 
-If water, fire, mold, or a sewage backup has hit your Benjamin property, call Home Pride Restoration and Cleaning at (801) 995-2437. We answer 24/7, and the sooner we're on-site documenting and drying, the fewer surprises you'll face once reconstruction begins.
+If water, fire, mold, or a sewage backup has hit your Benjamin property, call Home Pride Restoration at (801) 995-2437. We answer 24/7, and the sooner we're on-site documenting and drying, the fewer surprises you'll face once reconstruction begins.

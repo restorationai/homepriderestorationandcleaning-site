@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Junk & Debris Removal in South Jordan, UT | Home Pride Restoration and Cleaning"
+title: "Junk & Debris Removal in South Jordan, UT | Home Pride Restoration"
 h1: "Junk & Debris Removal in South Jordan"
 meta_description: "24/7 junk & debris removal in South Jordan, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "junk & debris removal south jordan"
@@ -20,7 +20,7 @@ state: "UT"
 service_display: "Junk & Debris Removal"
 rendered: true
 ---
-South Jordan's rapid growth along the Bangerter Highway corridor has turned countless garages, basements, and back lots into unintentional storage units, decades of accumulated furniture, construction scraps, old appliances, and renovation debris that no amount of weekend effort seems to dent. Home Pride Restoration and Cleaning has been hauling that weight off Utah homeowners' shoulders since 1997, and we know South Jordan's specific mix of newer master-planned subdivisions and the occasional older infill property well enough to show up prepared, not guessing.
+South Jordan's rapid growth along the Bangerter Highway corridor has turned countless garages, basements, and back lots into unintentional storage units, decades of accumulated furniture, construction scraps, old appliances, and renovation debris that no amount of weekend effort seems to dent. Home Pride Restoration has been hauling that weight off Utah homeowners' shoulders since 1997, and we know South Jordan's specific mix of newer master-planned subdivisions and the occasional older infill property well enough to show up prepared, not guessing.
 
 ## Why South Jordan Properties Accumulate Debris Differently
 
@@ -52,4 +52,4 @@ We carry full liability insurance, so if your HOA requires proof of insurance be
 
 One thing that catches South Jordan homeowners off guard: the Daybreak neighborhood's original construction phase used a higher-than-average proportion of built-in cabinetry and custom closet systems as selling features. When those homes change hands and new owners want them removed, the cabinetry is often anchored into concrete-board or steel-stud walls rather than standard wood framing, standard pry-bar removal can damage walls badly. Our crew carries the right demo tools to pull those systems cleanly, which matters if you're prepping the home for sale and don't want to explain fresh wall damage during inspection.
 
-If you're dealing with a full property cleanout, a post-renovation haul, or a garage that's quietly taken over the last three years, call Home Pride Restoration and Cleaning at (801) 995-2437. We serve South Jordan with the same crew and equipment we'd send to our own neighborhoods, no subcontractors, no surprises on the final load.
+If you're dealing with a full property cleanout, a post-renovation haul, or a garage that's quietly taken over the last three years, call Home Pride Restoration at (801) 995-2437. We serve South Jordan with the same crew and equipment we'd send to our own neighborhoods, no subcontractors, no surprises on the final load.

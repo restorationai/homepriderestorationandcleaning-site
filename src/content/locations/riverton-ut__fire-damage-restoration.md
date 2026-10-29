@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Riverton, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Fire Damage Restoration in Riverton, UT | Home Pride Restoration"
 h1: "24/7 Emergency Fire Damage Restoration in Riverton"
 meta_description: "24/7 emergency fire damage restoration in Riverton, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "fire damage restoration riverton"
@@ -61,4 +61,4 @@ If your home is in an HOA community, common in newer Riverton developments, rest
 
 Riverton's newer subdivisions, particularly those built in the 2000s and 2010s along the western bench, frequently use zip-in spray foam insulation in attic spaces and around garage walls as an energy efficiency measure. After a fire, that foam can retain smoke odor far longer than fiberglass batt insulation, it absorbs volatile organic compounds and re-releases them slowly over weeks. Standard thermal fogging alone won't fully address it. Crews working in these homes need to identify foam-insulated cavities early and plan for targeted removal and replacement rather than treating the attic as a simple air-scrub job. It's a detail that separates a complete restoration from one that leaves a homeowner still smelling smoke six months later.
 
-If a fire has damaged your Riverton home, whether it's a contained kitchen incident in the 84065 ZIP code or a more extensive structural event, call Home Pride Restoration and Cleaning at (801) 995-2437. The sooner the work starts, the more of your home and belongings can be saved.
+If a fire has damaged your Riverton home, whether it's a contained kitchen incident in the 84065 ZIP code or a more extensive structural event, call Home Pride Restoration at (801) 995-2437. The sooner the work starts, the more of your home and belongings can be saved.

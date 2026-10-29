@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Heber City, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Smoke Damage Restoration in Heber City, UT | Home Pride Restoration"
 h1: "24/7 Emergency Smoke Damage Restoration in Heber City"
 meta_description: "24/7 emergency smoke damage restoration in Heber City, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "smoke damage restoration heber city"
@@ -58,4 +58,4 @@ If your policy includes an ALE (Additional Living Expenses) clause and the smoke
 
 Heber City sits in a bowl-shaped valley, and that geography matters for smoke behavior during a structure fire. Cold air drainage off the Wasatch and Uinta slopes frequently creates temperature inversions overnight, warm air trapping cold, smoke-laden air close to the ground. Homes that seemed unaffected when the fire was extinguished in the afternoon can wake up the next morning with noticeably heavier smoke odor as that trapped air settles back in. If you're in the 84032 ZIP code and you're on the fence about whether the smell is bad enough to call, it almost certainly is, and waiting 24 hours typically means smoke oils have had time to bond more firmly to surfaces, increasing remediation time and cost.
 
-If you're dealing with smoke damage in Heber City right now, don't wait to see if the smell fades on its own, it won't. Call Home Pride Restoration and Cleaning at **(801) 995-2437**. We'll assess the damage honestly, work with your insurance carrier, and get your home back to the way it smelled before the fire.
+If you're dealing with smoke damage in Heber City right now, don't wait to see if the smell fades on its own, it won't. Call Home Pride Restoration at **(801) 995-2437**. We'll assess the damage honestly, work with your insurance carrier, and get your home back to the way it smelled before the fire.

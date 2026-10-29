@@ -1,7 +1,7 @@
 ---
 hero: '/images/services/roof-leak-repair.webp'
 archetype: "service-landing"
-title: "Roof Leak Cleanup and Repair in Saratoga Springs | Home Pride Restoration and Cleaning"
+title: "Roof Leak Cleanup and Repair in Saratoga Springs | Home Pride Restoration"
 h1: "Roof Leak Cleanup and Repair in Saratoga Springs"
 meta_description: "24/7 roof leak cleanup and repair in Saratoga Springs and surrounding areas. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "roof leak cleanup and repair saratoga springs"
@@ -56,6 +56,6 @@ Saratoga Springs and the broader Utah Valley sit at roughly 4,500 feet elevation
 
 ## Service area
 
-Home Pride Restoration and Cleaning is based in Saratoga Springs and serves homeowners and property managers throughout Utah County and the surrounding region, including Eagle Mountain, Lehi, American Fork, Cedar Hills, Highland, and Pleasant Grove. The city-specific pages for each area link back here for full service details.
+Home Pride Restoration is based in Saratoga Springs and serves homeowners and property managers throughout Utah County and the surrounding region, including Eagle Mountain, Lehi, American Fork, Cedar Hills, Highland, and Pleasant Grove. The city-specific pages for each area link back here for full service details.
 
 If you've found water stains, soft drywall, or a musty smell in your attic after a storm or a hard winter, call (801) 995-2437 to schedule a moisture assessment and roof leak inspection. The sooner the source is mapped, the smaller the repair scope, and the lower the risk of a mold problem developing behind walls you can't see.

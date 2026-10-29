@@ -42,7 +42,7 @@ In most unattended-death cases without signs of a crime, release happens within 
 
 Once officers and the medical examiner have released the property, call a company trained specifically in biohazard and trauma scene cleanup, not a general house cleaner or a handyman. Decomposition fluids carry bloodborne pathogens and other biohazards that require containment, PPE, and disposal procedures set out in the [ANSI/IICRC S540 standard for trauma and crime scene cleanup](https://iicrc.org/s540/) and in [OSHA's bloodborne pathogens standard](https://www.osha.gov/bloodborne-pathogens).
 
-Home Pride Restoration and Cleaning is an IICRC-certified restoration company based in Saratoga Springs, holding a 5.0 rating across 37 Google reviews, and answers calls 24/7 at [(801) 995-2437](tel:+18019952437). A crew can assess affected flooring, subfloor, and framing, remove contaminated materials, and begin odor and decontamination work the same day the scene is released. You can also start a [biohazard cleanup request here](/services/biohazard-cleanup/) or read more on [trauma scene cleanup](/services/trauma-scene-cleanup/).
+Home Pride Restoration is an IICRC-certified restoration company based in Saratoga Springs, holding a 5.0 rating across 37 Google reviews, and answers calls 24/7 at [(801) 995-2437](tel:+18019952437). A crew can assess affected flooring, subfloor, and framing, remove contaminated materials, and begin odor and decontamination work the same day the scene is released. You can also start a [biohazard cleanup request here](/services/biohazard-cleanup/) or read more on [trauma scene cleanup](/services/trauma-scene-cleanup/).
 
 ## What should the family avoid touching or cleaning?
 
@@ -66,6 +66,6 @@ If you're in this situation right now, the most useful next step is a direct con
 
 ---
 
-**About Home Pride Restoration and Cleaning**
+**About Home Pride Restoration**
 
 Founded in 1997, this IICRC-certified restoration company has served Saratoga Springs and the surrounding Utah County communities for nearly three decades. Its technicians, including IICRC-registered water damage restoration specialists Curt Eddy and Kimberly Bowman, handle biohazard, trauma scene, and odor removal cleanup alongside the company's full range of water, fire, mold, and storm restoration services. The team answers calls 24/7 and works directly with families, landlords, and insurance adjusters to restore a property discreetly and safely.

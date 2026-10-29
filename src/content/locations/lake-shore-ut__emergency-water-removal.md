@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Lake Shore, UT | Home Pride Restoration and Cleaning"
+title: "24/7 Emergency Water Removal & Cleanup in Lake Shore, UT | Home Pride Restoration"
 h1: "24/7 Emergency Water Removal & Cleanup in Lake Shore"
 meta_description: "24/7 emergency water removal & cleanup in Lake Shore, UT. IICRC-certified, insurance billing accepted. Call (801) 995-2437."
 primary_keyword: "emergency water removal & cleanup lake shore"
@@ -42,4 +42,4 @@ Most water losses out here get filed through homeowners insurance, and we photog
 
 A lot of Lake Shore properties were built with crawlspace access that's tight, low, or added on after the original foundation, which is different from the full basements you see further north in the valley. That means our crews often carry in smaller extraction units and run ducting for air movers rather than rolling full-size equipment straight into the space, and it adds time to a job that would move faster in a standard basement. We plan for that before we arrive instead of discovering it on site.
 
-Water sitting in a crawlspace or pooling on a floor in Lake Shore doesn't wait for a convenient time, and neither should the call. Home Pride Restoration and Cleaning has handled water emergencies across Utah County since 1997, and our crew is IICRC Certified and equipped to get extraction, drying, and documentation moving fast. Call (801) 995-2437 now for emergency water removal and cleanup in Lake Shore.
+Water sitting in a crawlspace or pooling on a floor in Lake Shore doesn't wait for a convenient time, and neither should the call. Home Pride Restoration has handled water emergencies across Utah County since 1997, and our crew is IICRC Certified and equipped to get extraction, drying, and documentation moving fast. Call (801) 995-2437 now for emergency water removal and cleanup in Lake Shore.
