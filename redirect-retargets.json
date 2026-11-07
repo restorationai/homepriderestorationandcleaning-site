@@ -1,0 +1,188 @@
+{
+ "/service-areas/alpine-ut/water-cleanup": {
+  "planned": "/service-areas/alpine-ut/emergency-water-removal/",
+  "now": "/service-areas/alpine-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/alpine-ut/water-heater-flood-cleanup": {
+  "planned": "/service-areas/alpine-ut/appliance-leak-cleanup/",
+  "now": "/service-areas/alpine-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/benjamin-ut/water-heater-flood-cleanup": {
+  "planned": "/service-areas/benjamin-ut/appliance-leak-cleanup/",
+  "now": "/service-areas/benjamin-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/bluffdale-ut/water-cleanup": {
+  "planned": "/service-areas/bluffdale-ut/emergency-water-removal/",
+  "now": "/service-areas/bluffdale-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/bluffdale-ut/water-heater-flood-cleanup": {
+  "planned": "/service-areas/bluffdale-ut/appliance-leak-cleanup/",
+  "now": "/service-areas/bluffdale-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/cedar-fort-ut/water-cleanup": {
+  "planned": "/service-areas/cedar-fort-ut/emergency-water-removal/",
+  "now": "/service-areas/cedar-fort-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/cedar-fort-ut/water-heater-flood-cleanup": {
+  "planned": "/service-areas/cedar-fort-ut/appliance-leak-cleanup/",
+  "now": "/service-areas/cedar-fort-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/cedar-hills-ut/water-cleanup": {
+  "planned": "/service-areas/cedar-hills-ut/emergency-water-removal/",
+  "now": "/service-areas/cedar-hills-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/cedar-hills-ut/water-heater-flood-cleanup": {
+  "planned": "/service-areas/cedar-hills-ut/appliance-leak-cleanup/",
+  "now": "/service-areas/cedar-hills-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/draper-ut/water-cleanup": {
+  "planned": "/service-areas/draper-ut/emergency-water-removal/",
+  "now": "/service-areas/draper-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/draper-ut/water-heater-flood-cleanup": {
+  "planned": "/service-areas/draper-ut/appliance-leak-cleanup/",
+  "now": "/service-areas/draper-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/eagle-mountain-ut/water-cleanup": {
+  "planned": "/service-areas/eagle-mountain-ut/emergency-water-removal/",
+  "now": "/service-areas/eagle-mountain-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/fairfield-ut/water-cleanup": {
+  "planned": "/service-areas/fairfield-ut/emergency-water-removal/",
+  "now": "/service-areas/fairfield-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/fairfield-ut/water-heater-flood-cleanup": {
+  "planned": "/service-areas/fairfield-ut/appliance-leak-cleanup/",
+  "now": "/service-areas/fairfield-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/heber-city-ut/water-cleanup": {
+  "planned": "/service-areas/heber-city-ut/emergency-water-removal/",
+  "now": "/service-areas/heber-city-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/herriman-ut/water-cleanup": {
+  "planned": "/service-areas/herriman-ut/emergency-water-removal/",
+  "now": "/service-areas/herriman-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/highland-ut/water-cleanup": {
+  "planned": "/service-areas/highland-ut/emergency-water-removal/",
+  "now": "/service-areas/highland-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/highland-ut/water-heater-flood-cleanup": {
+  "planned": "/service-areas/highland-ut/appliance-leak-cleanup/",
+  "now": "/service-areas/highland-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lake-shore-ut/carpet-upholstery-cleaning": {
+  "planned": "/service-areas/lake-shore-ut/carpet-cleaning/",
+  "now": "/service-areas/lake-shore-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lake-shore-ut/water-heater-flood-cleanup": {
+  "planned": "/service-areas/lake-shore-ut/appliance-leak-cleanup/",
+  "now": "/service-areas/lake-shore-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lehi-ut/water-cleanup": {
+  "planned": "/service-areas/lehi-ut/emergency-water-removal/",
+  "now": "/service-areas/lehi-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lindon-ut/water-cleanup": {
+  "planned": "/service-areas/lindon-ut/emergency-water-removal/",
+  "now": "/service-areas/lindon-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lindon-ut/water-heater-flood-cleanup": {
+  "planned": "/service-areas/lindon-ut/appliance-leak-cleanup/",
+  "now": "/service-areas/lindon-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/orem-ut/water-cleanup": {
+  "planned": "/service-areas/orem-ut/emergency-water-removal/",
+  "now": "/service-areas/orem-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/park-city-ut/water-cleanup": {
+  "planned": "/service-areas/park-city-ut/emergency-water-removal/",
+  "now": "/service-areas/park-city-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/pleasant-grove-ut/water-cleanup": {
+  "planned": "/service-areas/pleasant-grove-ut/emergency-water-removal/",
+  "now": "/service-areas/pleasant-grove-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/provo-ut/water-cleanup": {
+  "planned": "/service-areas/provo-ut/emergency-water-removal/",
+  "now": "/service-areas/provo-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/riverton-ut/water-cleanup": {
+  "planned": "/service-areas/riverton-ut/emergency-water-removal/",
+  "now": "/service-areas/riverton-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/south-jordan-ut/water-cleanup": {
+  "planned": "/service-areas/south-jordan-ut/emergency-water-removal/",
+  "now": "/service-areas/south-jordan-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/vineyard-ut/carpet-upholstery-cleaning": {
+  "planned": "/service-areas/vineyard-ut/carpet-cleaning/",
+  "now": "/service-areas/vineyard-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/vineyard-ut/water-heater-flood-cleanup": {
+  "planned": "/service-areas/vineyard-ut/appliance-leak-cleanup/",
+  "now": "/service-areas/vineyard-ut/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ }
+}
