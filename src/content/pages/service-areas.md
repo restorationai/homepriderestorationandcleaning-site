@@ -1,6 +1,6 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | Home Pride Restoration Restoration"
+title: "Service Areas | Home Pride Restoration"
 h1: "Areas We Serve"
 meta_description: "Home Pride Restoration provides 24/7 restoration services across Saratoga Springs and the surrounding region. Find your city."
 primary_keyword: "home pride restoration and cleaning service areas"
