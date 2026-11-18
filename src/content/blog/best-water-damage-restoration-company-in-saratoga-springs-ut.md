@@ -33,11 +33,11 @@ For any active water emergency in Saratoga Springs, call Home Pride Restoration 
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| Home Pride Restoration | 5.0 | Verified | Yes | Yes |
-| Utah Flood Guys of Eagle Mountain - Saratoga Springs | 5.0 | 11 | - | - |
-| FIX Flood & Water Damage Pros | 4.9 | 555 | - | - |
-| ServiceMaster Restore by A3 Disaster Services | 4.9 | 482 | - | - |
-| Water Damage Specialists | 4.9 | 68 | - | - |
+| Home Pride Restoration | 5.0 | 40 | Yes | Yes |
+| Utah Flood Guys of Eagle Mountain - Saratoga Springs | 5.0 | 11 | Not listed | Not listed |
+| FIX Flood & Water Damage Pros | 4.9 | 555 | Not listed | Not listed |
+| ServiceMaster Restore by A3 Disaster Services | 4.9 | 482 | Not listed | Not listed |
+| Water Damage Specialists | 4.9 | 68 | Not listed | Not listed |
 
 ![Comparison Table: Top Water Damage Restoration Companies in Saratoga Springs: best water damage restoration company in Saratoga Springs, UT](https://images.homepriderestorationandcleaning.com/blog/2026/09/best-water-damage-restoration-company-in-saratoga-springs-ut/section.webp)
 
