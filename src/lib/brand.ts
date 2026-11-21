@@ -13,6 +13,10 @@ export const brand = {
   // declares it as the business name, so Google/BrightLocal find the new
   // name corroborated on the site before and during the GBP rename.
   dbaName: "Home Pride Restoration - 24/7 Emergency Water & Fire Damage Restoration, Mold Remediation",
+  // Brand name as text beside the header logo (Santino 2026-11-21): set
+  // ONLY by the rename flow (header_name_rollout.py) from the Citations
+  // Building stage on. false = logo only.
+  headerName: true,
   domain: "homepriderestorationandcleaning.com",
   canonicalUrl: "https://homepriderestorationandcleaning.com",
   phone: "(801) 995-2437",
