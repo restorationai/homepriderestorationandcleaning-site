@@ -34,13 +34,13 @@ The Utah County and Wasatch Front market runs close to national averages, though
 
 | Scenario | Typical Cost Range |
 |---|---|
-| Small area under 10 sq ft (bathroom grout, small wall section) | $500 – $1,500 |
-| Medium area 10–50 sq ft (single room, partial wall) | $1,500 – $3,500 |
-| Large area 50–150 sq ft (full basement wall, large bathroom) | $3,500 – $6,500 |
-| Whole-room or structural involvement (framing, subfloor) | $6,500 – $12,000+ |
-| Crawl space remediation | $3,000 – $8,000 |
-| Attic remediation | $2,500 – $7,500 |
-| HVAC / ductwork decontamination | $3,000 – $10,000 |
+| Small area under 10 sq ft (bathroom grout, small wall section) | $500 to $1,500 |
+| Medium area 10–50 sq ft (single room, partial wall) | $1,500 to $3,500 |
+| Large area 50–150 sq ft (full basement wall, large bathroom) | $3,500 to $6,500 |
+| Whole-room or structural involvement (framing, subfloor) | $6,500 to $12,000+ |
+| Crawl space remediation | $3,000 to $8,000 |
+| Attic remediation | $2,500 to $7,500 |
+| HVAC / ductwork decontamination | $3,000 to $10,000 |
 
 These are remediation costs only. If the mold caused structural damage that requires reconstruction, new drywall, replacement framing, new insulation, that work is priced separately.
 

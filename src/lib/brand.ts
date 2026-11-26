@@ -91,7 +91,7 @@ export const brand = {
     { author: "Jessica", rating: 5, text: "Very happy with their work! My sofa looks new again! Curt and Kim were both very kind and answered any questions I had. I was specifically looking for a company that uses a product that doesn’t attract more dirt, so I’m glad my friend recommended them to me. I will definitely be using them again!", when: "October 2026" },
     { author: "B", rating: 5, text: "He did an amazing job! My stairs were so bad and they looked brand new when he got done!", when: "August 2026" },
     { author: "Kristina", rating: 5, text: "Curt was soooo amazing! Fast and efficient! Very sweet and kind! Would use again if we weren’t moving out of state!!!!!", when: "August 2026" },
-    { author: "Joe", rating: 5, text: "I called Home Pride Restoration and Cleaning after a burst pipe and was impressed by how quickly they responded. The team was professional, efficient, and very thorough—everything from emergency water extraction to carpet water extraction was handled smoothly. I appreciate the fast service and will…", when: "July 2026" },
+    { author: "Joe", rating: 5, text: "I called Home Pride Restoration and Cleaning after a burst pipe and was impressed by how quickly they responded. The team was professional, efficient, and very thorough: everything from emergency water extraction to carpet water extraction was handled smoothly. I appreciate the fast service and will…", when: "July 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Saratoga Springs, UT.",
   ctaLabel: "24/7 Emergency Line",
@@ -104,7 +104,7 @@ export const brand = {
   tradeNoun: "restoration",
   specialistPhrase: "Damage Restoration Specialists",
   announcementSuffix: "24/7 Emergency Response",
-  homeAboutBlurb: "Home Pride Restoration serves Saratoga Springs and the surrounding UT area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
+  homeAboutBlurb: "Home Pride Restoration serves Saratoga Springs and the surrounding UT area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery, and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
 } as const;
 
 export const entityId = `${brand.canonicalUrl}/#identity`;

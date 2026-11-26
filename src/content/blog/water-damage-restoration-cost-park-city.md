@@ -47,11 +47,11 @@ Here's a rough breakdown by job size for the Park City area:
 
 | Scenario | Estimated Range |
 |---|---|
-| Small appliance leak, 1 room, Cat 1 | $1,800 – $3,200 |
-| Burst pipe, 2–3 rooms, Cat 1 | $3,500 – $6,000 |
-| Basement flooding, finished, Cat 2 | $5,000 – $9,000 |
-| Sewage backup, 1–2 rooms, Cat 3 | $6,000 – $12,000 |
-| Whole-floor water event, Cat 2–3 | $10,000 – $25,000+ |
+| Small appliance leak, 1 room, Cat 1 | $1,800 to $3,200 |
+| Burst pipe, 2–3 rooms, Cat 1 | $3,500 to $6,000 |
+| Basement flooding, finished, Cat 2 | $5,000 to $9,000 |
+| Sewage backup, 1–2 rooms, Cat 3 | $6,000 to $12,000 |
+| Whole-floor water event, Cat 2–3 | $10,000 to $25,000+ |
 
 These ranges reflect the Wasatch Back labor market, which runs 15–25% above national averages due to the area's cost of living and the specialized nature of mountain home restoration.
 
