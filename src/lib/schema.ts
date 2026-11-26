@@ -32,6 +32,31 @@ export type PageSchemaContext = {
 
 const safe = (v: unknown) => (v == null || v === "" ? undefined : v);
 
+// rankai:credential-schema (Santino 2026-11-26). Every verified credential
+// (brand.ts credentials, written by scripts/credentials_rollout.py from the one
+// store) as hasCredential: credentialCategory license | certification |
+// accreditation, recognizedBy the issuer, identifier = the number on file.
+// IICRC courses held by the technicians (holder "technicians") are not the
+// company's credential and stay out. The BBB profile itself stays in sameAs.
+type SchemaCredential = { name: string; kind?: string; number?: string; authority?: string; url?: string; state?: string; holder?: string };
+const SCHEMA_CREDENTIALS = ((brand as { credentials?: SchemaCredential[] }).credentials || [])
+  .filter((c) => c && c.name && c.holder !== "technicians");
+function credentialSchema() {
+  if (!SCHEMA_CREDENTIALS.length) return {};
+  return {
+    hasCredential: SCHEMA_CREDENTIALS.map((c) => ({
+      "@type": "EducationalOccupationalCredential",
+      name: c.kind === "license" && c.state && !c.name.includes(c.state) ? `${c.state} ${c.name}` : c.name,
+      credentialCategory: c.kind || "certification",
+      ...(c.number ? { identifier: c.number } : {}),
+      ...(c.authority ? { recognizedBy: { "@type": "Organization", name: c.authority } } : {}),
+      ...(c.kind === "license" && c.state ? { validIn: { "@type": "AdministrativeArea", name: c.state } } : {}),
+      ...(c.url ? { url: c.url } : {}),
+    })),
+  };
+}
+// rankai:credential-schema end
+
 // Technician IICRC registrations on file (Curt/Home Pride 2026-10-24: "our
 // certificate numbers ... need to be on our website when Google crawls").
 // Parsed from brand.certifications entries shaped
@@ -129,6 +154,7 @@ function localBusiness(ctx: PageSchemaContext) {
         }
       : {}),
     sameAs: brand.sameAsUrls,
+    ...credentialSchema(),
     foundingDate: brand.foundedYear,
     ...credentialHolders(),
     // AggregateRating — values come straight from the live Google Business Profile,
@@ -175,6 +201,7 @@ function organization() {
     email: brand.email,
     foundingDate: brand.foundedYear,
     sameAs: brand.sameAsUrls,
+    ...credentialSchema(),
     ...credentialHolders(),
   };
 }
