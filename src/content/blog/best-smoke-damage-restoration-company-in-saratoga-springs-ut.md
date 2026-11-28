@@ -72,4 +72,4 @@ Getting a written scope before any cleaning starts protects both your insurance 
 
 **About Curt Eddy**
 
-This article was reviewed by Curt Eddy, an IICRC-certified water damage restoration technician with Home Pride Restoration, a company serving Saratoga Springs, Lehi, Eagle Mountain, American Fork, and the surrounding Utah County area since 1997. The company's crews handle fire, smoke, water, mold, and biohazard restoration work across the region.
+This article was reviewed by Curt Eddy, an IICRC-certified water damage restoration technician (Register #70228752) with Home Pride Restoration, a company serving Saratoga Springs, Lehi, Eagle Mountain, American Fork, and the surrounding Utah County area since 1997. The company's crews handle fire, smoke, water, mold, and biohazard restoration work across the region.

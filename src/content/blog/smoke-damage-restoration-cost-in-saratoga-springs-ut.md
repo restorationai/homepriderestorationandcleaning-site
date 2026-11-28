@@ -85,6 +85,6 @@ If smoke settled into a Saratoga Springs home from a kitchen fire, a furnace puf
 
 **About Home Pride Restoration**
 
-Founded in 1997, the company has served Saratoga Springs, Lehi, Eagle Mountain, American Fork, Pleasant Grove, and the surrounding Utah County communities for nearly three decades. Its technicians, Curt Eddy and Kimberly Bowman, hold IICRC Water Damage Restoration certifications, and the team is available 24/7 for smoke, fire, odor, water, mold, and storm damage recovery across the area.
+Founded in 1997, the company has served Saratoga Springs, Lehi, Eagle Mountain, American Fork, Pleasant Grove, and the surrounding Utah County communities for nearly three decades. Its technicians, Curt Eddy and Kimberly Bowman, hold IICRC Water Damage Restoration registrations (#70228752 and #70228751), and the team is available 24/7 for smoke, fire, odor, water, mold, and storm damage recovery across the area.
 
 **Need help now?** [Call Home Pride Restoration at (801) 995-2437](tel:+18019952437).

@@ -29,10 +29,10 @@ The hours are irregular. The stakes are real. That's the texture of it.
 
 Home Pride Restoration holds IICRC certification, the Institute of Inspection, Cleaning and Restoration Certification, which is the industry's primary standard-setting body. IICRC training isn't a one-time credential; it reflects ongoing education in the science of drying, contamination categories, and proper remediation protocols. When a technician follows IICRC standards, it means the work is documented and defensible, important both for your home and for your insurance claim.
 
-Our IICRC-certified Water Damage Restoration technicians:
+Our IICRC certifications in Water Damage Restoration are on file under these register numbers:
 
-- Curt Eddy, IICRC Water Damage Restoration Technician
-- Kimberly Bowman, IICRC Water Damage Restoration Technician
+- Curt Eddy, IICRC Register #70228752
+- Kimberly Bowman, IICRC Register #70228751
 
 ## Where we work
 
